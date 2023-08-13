@@ -1,0 +1,85 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"┣地域貢献","","","",""
+"BGM/autumncome.ogg","","","",""
+"cg/bg_07_guild_f.jpg","","","",""
+"Picture/talk_ef02.png","","","",""
+"カナ","","","\font[3]\f[18]Kana",""
+"\E…ちいきこうけん？","","\E...local authority?","\E\font[3]\f[18]\-[2]...Local contribute?",""
+"cg/bg_07_guild_e.jpg","","","",""
+"Picture/talk_ef01.png","","","",""
+"ユカリ","","","\font[3]\f[18]Yukari",""
+"\Eそ、地域貢献。
+いつも基礎トレーニングばかりじゃ飽きるでしょ。","","","\E\font[3]\f[18]\-[2]Yeah, local contribution. 
+It must be boring for you guys to always do basic training.",""
+"\Eうん。","","","\E\font[3]\f[18]\-[2]You don't say.",""
+"\Eメクアみたいな農村では常に人手は不足しているの。
+あなた達はそんな人達の手助けをする。","","","\E\font[3]\f[18]\-[2]In rural areas like Mequa, there is always a lack of manpower.
+You all provide assistance to those in need.",""
+"\E買い出しに水くみ、薪割り、害獣の駆除…
+簡単な仕事だけどやれることは山ほどあるわ。","","","\E\font[3]\f[18]\-[2]Fetching water, chopping firewood, and pest control... 
+Although they may be simple tasks, there are plenty of things you can do.",""
+"\E地域の安全や社会貢献も冒険者にとって大事な役割よ。","","","\E\font[3]\f[18]\-[2]Ensuring the safety of the community and making social contributions are crucial 
+responsibilities for adventurers.",""
+"cg/bg_07_guild_d.jpg","","","",""
+"　…つまりボランティア？　","","","\font[3]\f[17]Like a volunteer?",""
+"\E全くの無償で働くわけじゃないけど…それに近いものはあるわね。","","","\E\font[3]\f[18]\-[2]You're not going to work completely unpaid, but it does have similarities to that.",""
+"\E例えば村も害獣が出るたび冒険者に依頼なんてしたら
+お金がいくらあっても足りないでしょうし。","","","\E\font[3]\f[18]\-[2]For example, in cases when a village needs to seek help from adventurers for pest control, 
+no matter how much money they had, it would never be enough.",""
+"\E地域に貢献できて腕も磨けるなんて一石二鳥でしょ？","","","\E\font[3]\f[18]\-[2]Being able to contribute to the local community and improve your skills at the same time 
+is definitely a win-win situation.",""
+"\Eんー私はずっと素振りしてるよりはいいかなー。","","","\E\font[3]\f[18]\-[2]I suppose it's better than just practicing swings all the time.",""
+"cg/bg_07_guild_g.jpg","","","",""
+"Picture/talk_ef03.png","","","",""
+"ユイ","","","\font[3]\f[18]Yui",""
+"\Eわ、わたしは皆の役に立てるなら…。","","","\E\font[3]\f[18]\-[2]I-If I can be of help to everyone...",""
+"\Eはい、それじゃ決まりー。","","","\E\font[3]\f[18]\-[2]Great, then it's settled!",""
+"BGM/We_are_Going.ogg","","","",""
+"cg/bg_17_main.jpg","","","",""
+"\Eじゃあ、みんなよろしくね。","","","\E\font[3]\f[18]\-[2]\EWell, good luck everyone.",""
+"\Eはーい。","","","\E\font[3]\f[18]\-[2]Let's do this.",""
+"\Eはいっ…！","","","\E\font[3]\f[18]\-[2]Alright...!",""
+"message","","","\font[3]\f[14]message",""
+"\f[14]\E<C>Tips　地域貢献とギルド評判","","","\E\font[3]\f[14]\-[2]Tips on Local Contribution and Guild Reputation",""
+"\f[14]\E\c[1]地域貢献\c[0]や\c[1]討伐\c[0]など冒険者として実績を重ねることで
+\c[1]ギルドの評判\c[0]が上がります。","","","\E\font[3]\f[14]\-[2]Through accomplishments as an adventurer, such as \c[1]local contributions\c[0] and \c[1]subjugation request\c[0],
+your \c[1]guild reputation\c[0] will increase.",""
+"\f[14]\E\c[1]評判\c[0]が上がると収入が増加し
+ショップなどでの\c[1]取扱い商品ラインナップ\c[0]などに影響します。","","","\E\font[3]\f[14]\-[2]As the \c[1]guild reputation\c[0] increases, it will result in increased income and affect the \c[1]range 
+of products offered\c[0] at shops and other establishments.",""
+"\f[14]\E地域貢献では戦闘が発生する事があり、
+場合によって怪我を負うこともあります。","","","\E\font[3]\f[14]\-[2]In local contributions, there can be situations where combat occurs, 
+and depending on the situation, you may get injured.",""
+"地域貢献","","","",""
+"cg/map_05.jpg","","","",""
+"\E今日も一日が始まる…！","","","\E\font[3]\f[18]\-[2]A new day starts...!",""
+"初めてのバトル","","","",""
+"買い出し","","","",""
+"cg/bg_25_road_a.jpg","","","",""
+"cg/event50_02.jpg","","","",""
+"cg/event50_01.jpg","","","",""
+"水くみ","","","",""
+"cg/event55_02.jpg","","","",""
+"cg/event55_01.jpg","","","",""
+"見回り","","","",""
+"cg/bg_04_farm_a.jpg","","","",""
+"cg/event54_02.jpg","","","",""
+"cg/event54_01.jpg","","","",""
+"\E農場を荒らす害獣と遭遇した！","","","\E\font[3]\f[18]\-[2]Encountered a troublesome pest that is wreaking havoc on the farm!",""
+"戦闘フラグ","","","",""
+"cg/training_f1.jpg","","","",""
+"cg/training_f2.jpg","","","",""
+"怪我","","","",""
+"\E怪我をしてしまった…。
+やる気が下がった。","","","\E\font[3]\f[18]\-[2]I got injured... 
+I feel demotivated.",""
+"SE/decision9.mp3","","","",""
+"SE/decision22.mp3","","","",""
+"\c[7]\E\f[20]<C>+\cself[10]","","","\c[7]\E\font[3]\f[17]\-[2]<C>+\cself[10]",""
+"取得ポイント1","","","",""
+"取得ポイント2","","","",""
+"取得ポイント3","","","",""
+"取得ポイント4","","","",""
+"初回","","","",""
+"乱数","","","",""
+"勝敗","","","",""

@@ -1,0 +1,398 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"■トイレ","","","",""
+"付き添い","","","",""
+"\E…………","","\E…………","",""
+"\Eまさかトイレを覗きに行こうっていうのか…？","","\EAre you saying you want to go peek into the toilet...?","",""
+"覗きに行く","","Go and take a peek.","",""
+"何もしない","","Do nothing.","",""
+"cg/bg_01_home_d.jpg","","","",""
+"cg/blackscreen.jpg","","","",""
+"cg/event_06_01.jpg","","","",""
+"1","","","",""
+"\E妹のトイレに付いてきたぞ…。","","\EShe followed me to the bathroom...","",""
+"\E……これからどうするんだ？","","\E...What are we going to do from here?","",""
+"覗いちゃう","","Peeked","",""
+"突入しちゃう","","Rushing in","",""
+"\E……妹のトイレを覗くんだな？","","\E...Are you peeking into my sister's bathroom?","",""
+"はい","","Yes","",""
+"いいえ","","No","",""
+"\E……よーし…この秘密の覗き穴から…。","","\E...Alright...from this secret peephole...","",""
+"cg/event_06_02.jpg","","","",""
+"実装時は2以下にします","","","",""
+"失敗　ドアに頭をぶつけます","","","",""
+"2","","","",""
+"成功処理へ","","","",""
+"3","","","",""
+"SE/[Effect]Panch1_panop.ogg","","","",""
+"\Eあいてっ！","","\EEnemy spotted!","",""
+"妹","","Younger sister","",""
+"\Eきゃっ…お、お兄ちゃん、大丈夫？","","\EKyaa... B-Brother, are you okay?","",""
+"\E………………","","\E………………","",""
+"\Eいい感じに誤魔化した。","","\EI managed to deceive them nicely.","",""
+"END","","","",""
+"覗き成功","","","",""
+"オナニー判定","","","",""
+"オナニー","","","",""
+"4","","","",""
+"5","","","",""
+"■■オナニー■■","","","",""
+"\E……こ、これはっ！","","\E...Th-This is it!","",""
+"トイレオナニー　開始","","","",""
+"cg/event_07_01.jpg","","","",""
+"\E……。","","\E......","",""
+"\E……まさかオナニー…してるのか…？","","\E...Could it be that you're...masturbating...?","",""
+"オナニー進行","","","",""
+"\E……ごくり。","","\E...gulp.","",""
+"このまま覗く","","Peeking like this","",""
+"\E……いざ、突入だ！","","\E...Now, it's time to storm in!","",""
+"トイレオナニー","","","",""
+"突入失敗","","","",""
+"SE/donotopen1.mp3","","","",""
+"\E……そりゃ鍵はかけてるよな。","","\E...Of course I have the door locked.","",""
+"\Eうひゃあっ！
+え、お…お兄ちゃん！？","","\EUhyaa! 
+Eh, o... Onii-chan!?","",""
+"\Eト、トイレなの？
+いいい、いま出るから待って…。","","\EIs it, is it the bathroom?
+W-wait, I'm coming out now...","",""
+"\Eお、おまたせ。","","\EOh, sorry for the wait.","",""
+"\Eんと、もうトイレいいから。
+どど、どうぞどうぞ…。","","\EUm, I'm done with the bathroom.
+Go ahead, please...","",""
+"cg/event_06_00.jpg","","","",""
+"\E……うーん、驚かせてしまったようだ。","","\E...Hmm, it seems like I've surprised you.","",""
+"\E少ししてから出るか…。","","\EI'll leave in a little while...","",""
+"公開オナニー","","","",""
+"SE/door-close2.mp3","","","",""
+"\E……カチャ。","","\E...Kacha.","",""
+"\Eもー…また妹のオナニー見に来たの？","","\EUgh... Did you come to watch your sister masturbate again?","",""
+"\Eあたしだってたまにオナニーくらいするもん。","","\EI even masturbate occasionally, you know.","",""
+"\E…それにオナニーは一人でするものなんだよ？","","\E...Besides, isn't masturbation something you do alone?","",""
+"\E二人でしたら…普通のえっちでしょ…。","","\EIf it's just the two of us... it'll be a normal intimate moment, right...?","",""
+"\E…そんなに妹のオナニーがみたいの…？","","\E...Do you really want to see your sister masturbating that much...?","",""
+"\Eふふ、困ったお兄ちゃん。
+…じゃあ特別、だよ♥","","\EHehe, you're in trouble, big brother.
+...Well then, just for you, ♥","",""
+"\E…はい、見える？","","\E...Yes, can you see it?","",""
+"\Eお兄ちゃんの大好きな妹のおまんこだよ♥","","\EIt's your beloved little sister's pussy, big brother ♥","",""
+"\Eじゃあオナニー、するからね。","","\EWell then, I'm going to masturbate.","",""
+"cg/event_08_ef01.png","","","",""
+"cg/event_10_hand01.png","","","",""
+"\E…………。","","\E………….","",""
+"\E……はぁはぁ…ふぅ…イっちゃった♥","","\E...Haa haa...phew...I came♥","",""
+"\Eほら、イったばかりの妹おまんこだよ。","","\ELook, it's my sister's freshly cum-filled pussy.","",""
+"\Eお兄ちゃんも大きくなってるよ。
+ふふ、興奮した？","","\EYou've grown up too, big brother.
+Hehe, are you excited?","",""
+"\Eどうする？お口でする？
+それともお部屋でおまんこする？","","\EWhat will you do? Do it with your mouth?
+Or will you do it with your pussy in the room?","",""
+"口でする","","Using the mouth","",""
+"お部屋でする","","Playing in the room.","",""
+"トイレ手コキ","","","",""
+"\Eん、じゃあお口でしてあげるね。","","\EHmm, then I'll do it with my mouth.","",""
+"\Eはい、おちんちん出しましょうねー。","","\EYes, let's take out the penis, shall we?","",""
+"\E妹でこんなになっちゃうんなんて…
+ほんと…どうしようもないお兄ちゃん。","","\EI can't believe I've become like this because of my little sister... 
+Seriously... my brother is hopeless.","",""
+"\f[16]\E手コキ中…","","\f[16]\EIn the middle of a handjob...","\E\font[3]\f[16]\-[2]Ongoing Handjob...",""
+"cutin/cutin_131.png","","","",""
+"\Eこうやって…妹の手でゴシゴシされちゃうと
+すぐ気持ちよくなっちゃうんだよね？","","\ELike this... When my little sister rubs me like this, 
+I immediately start feeling good, you know?","",""
+"hscene/h_bg_002b.png","","","",""
+"\E\f[32]\v[230]%","","\E\f[32]\v[230]%","",""
+"\Eおちんちん気持ちいいねー？お兄ちゃん。","","\EYour peepee feels good, right? Big brother.","",""
+"cutin/cutin_135.png","","","",""
+"cutin/cutin_136.png","","","",""
+"絶頂","","","",""
+"\E…ん……んくっ…ん……こく…♥","","\E...Nn...Nk...N...Ko...♥","",""
+"\Eん……ん…♥","","\EHmm... Hmm... ♥","",""
+"\Eちゅ……んく…こくん…。","","\EChu...nk...kokun...","",""
+"\Eはい、おしまい。
+…お兄ちゃん、気持ちよかった？","","\EYes, it's over.
+...Brother, did it feel good?","",""
+"\E……","","\E……","",""
+"\Eふいー…お兄ちゃんそろそろ出よー。","","\EPhew... Big brother, it's about time we go out.","",""
+"\Eなんだかずっとおトイレの中にいた気がする…。","","\EI feel like I've been in the bathroom all this time...","",""
+"\E…………ふう。","","\E...Phew.","",""
+"\E…ん…じゃあお部屋いこっか♥","","\E...Um... Well, shall we go to your room? ♥","",""
+"オナニー突入初回","","","",""
+"恥じらいオナニー","","","",""
+"\Eひゃあっ！？","","\EHyaa!?","",""
+"\Eうぅぅ……","","\EUuuu...","",""
+"\Eうーっ…お兄ちゃんのばかぁ……。","","\EUgh... You're such a dummy, big brother...","",""
+"\E…え、あたしが…オナ…してるとこが見たい？","","\E...Eh, you want to see me...masturbating?","",""
+"\E……ど、どうしても…見たい、の？","","\E...I-I really want to...see it, you know?","",""
+"\Eうぅ……どうしてもっていうなら…。
+お兄ちゃんだけにだからね…。","","\EUgh... If you really insist... 
+But only because you're my big brother...","",""
+"\Eお、お兄ちゃんの前で…は、恥ずかしい……。","","\EOh, it's embarrassing to do it in front of my big brother...","",""
+"\Eじゃ、じゃあ…するね…。","","\EWell, then... I'll do it...","",""
+"\Eああ…
+お兄ちゃんに見られちゃってる…あたしの…。","","\EAh... 
+My brother saw it... my...","",""
+"\E…………うー…あたしだけ恥ずかしい…。","","\E...Ugh...I'm the only one embarrassed...","",""
+"\E…お返しだよ！えいっ！","","\E...It's payback time! Take this!","",""
+"\Eほらー！
+またお兄ちゃんこんなにガチガチにしてー！","","\ELook! 
+Big brother, you're all stiff like this again!","",""
+"\E妹でこんなになっちゃうんなんて…
+ほんと…どうしようもないお兄ちゃんだよね。","","\EI can't believe I turned into such a little sister... 
+Seriously... you're such a hopeless big brother.","",""
+"\Eんく…こくん…。","","\EHmm... *deep breath*","",""
+"\E……お兄ちゃんもイっちゃったね。
+これでおあいこだよ、ふふ。","","\E... Big brother came too. 
+Now it's a tie, hehe.","",""
+"\E……も、もう十分見たでしょ…！
+は…はずかしい…うぅぅ…。","","\E...You've seen enough...!
+I...I'm embarrassed...uhhh...","",""
+"\Eオナニーもうおしまい！
+うーーーー…お兄ちゃんのえっちえっち！えっち！！","","\ENo more masturbation! 
+Ughhh... Big brother's naughty naughty! Naughty!!","",""
+"SE/[Action]DoorClose_Komori.ogg","","","",""
+"\E追い出されてしまった…。","","\EI was driven out...","",""
+"ハプニングオナニー","","","",""
+"突入成功","","","",""
+"\Eふぇ…お、おにい……","","\EFe... big brother...","",""
+"\Eえ、や…やだっ！あ…だめっ！
+やっ…あっ！イ……ク……イっちゃうッ！","","\EEh, no... no way! Ah... stop it! 
+Y... ah! I... I'm gonna... I'm gonna come!","",""
+"\Eおにいちゃんだめっ…見ないで！
+…みないっっ…あっイク……イッッッ…！！","","\ENo, big brother... Don't look!
+...Don't look... Ah, I'm... I'm...!!","",""
+"\E…………お…","","\E...Oh...","",""
+"\E…お？","","\E...Huh?","",""
+"\Eお兄ちゃんのバカ！！バカバカ！
+もう…………バカーーーーッ！！！","","\EYou're such an idiot, big brother!! Idiot, idiot!!
+Ugh... you're such a moron!!!","",""
+"オナニー絶頂","","","",""
+"cg/event_07_14.jpg","","","",""
+"オナニー事後","","","",""
+"cg/event_07_15.jpg","","","",""
+"\E……ふぅ…すごいものを見てしまったな…。","","\E...Phew... I've seen something incredible...","",""
+"\E……出てくる前に退散しようぜ。","","\E... Let's retreat before they come out.","",""
+"通常覗き","","","",""
+"■■通常覗き■■","","","",""
+"通常ルート","","","",""
+"\E……むむっ！？","","\E...Hm?","",""
+"cg/event_06_04.jpg","","","",""
+"cg/event_06_03.jpg","","","",""
+"\E……ふぅ…。","","\E...Phew...","",""
+"\E……おっと、出てくる前に退散しないとな。","","\E...Oops, I better retreat before they come out.","",""
+"\Eトイレの中に突入するのか…？","","\EAre you going to break into the toilet...?","",""
+"突入ルート　信頼度の値で成功判定","","","",""
+"\E……この扉の向こうで…突入だ！","","\E...Beyond this door...we're going in!","",""
+"6","","","",""
+"おしっこ観察","","","",""
+"\Eもう…また妹のおしっこ見に来たの？","","\EAgain... Did you come to watch your sister pee?","",""
+"\E…まったく…仕方ないね、お兄ちゃんは。","","\E...I guess there's no helping it, big brother.","",""
+"\Eほらここ…見える？
+…ここからおしっこが出るんだよ、見ててね♥","","\ELook, can you see it?
+...This is where pee comes out, so watch closely ♥","",""
+"\E…ん…いくよ。","","\E...N...Here we go.","",""
+"おしっこ見学","","","",""
+"\Eん……ちゃんと見えた？","","\EHmm... Did you see it clearly?","",""
+"クンニ掃除","","","",""
+"\E……ほら、お兄ちゃん。
+おしっこの次は何するんだっけ？","","\E...Hey, big brother.
+What do we do after going to the bathroom?","",""
+"\Eおしっこの後はおまんこ舐めてきれいにしないとだよね？","","\EAfter peeing, do you have to lick your pussy and clean it up?","",""
+"\Eはい、召し上がれ♥","","\EYes, please enjoy♥","",""
+"クンニ2回目","","","",""
+"\Eふふ、妹のまんこおいしかった？","","\EHehe, did you enjoy my sister's pussy?","",""
+"\E…お兄ちゃん、切なそうな顔してる。","","\E...Big brother, you have such a pained expression.","",""
+"オナフェラ","","","",""
+"\E…ふふ…わかってるよ。
+お兄ちゃんも白いおしっこ出したいんだよね？","","\E...Hehe... I know.
+Big brother also wants to pee white, right?","",""
+"\E…妹のお口で気持ちよくなってどぷりたいんだよね？","","\E...I want to feel good in my little sister's mouth, you know?","",""
+"\Eいいよ、ぜんぶ出しちゃお♥
+妹のお口の中に白いのどぷどぷって、ね？","","\EIt's okay, let's let it all out ♥
+Into my little sister's mouth, white and gooey, right?","",""
+"\Eおちんちんの切ないの全部吐き出そうね♥
+お兄ちゃんのどろどろ、飲んであげるからね？","","\ELet's let out all the painful feelings of your penis, okay? ♥
+I'll drink up all of big brother's thick, sticky stuff, okay?","",""
+"\Eほら、我慢しないで…。
+この袋の中に入ってるの、ぜんぶだしちゃお？ね？","","\ELook, don't hold back...
+Should I take out everything that's inside this bag? Right?","",""
+"フェラ1","","","",""
+"\E…っぷはぁ……♥
+おちんちん膨らんできたね…白いの出ちゃうね。","","\E... Huh... ♥
+Your penis is getting bigger... It's going to come out white.","",""
+"\E…いいよ…飲んであげるからね。
+そのままびゅーって出しちゃおうね…♥","","\E...It's okay...I'll give you a drink.
+Let's just shoot it out like ""byuu"" ♥","",""
+"フェラ2","","","",""
+"cutin/cutin_163.png","","","",""
+"フェラ3","","","",""
+"\Eん…んくっ……んくっ…ん…こくん…♥","","\EHmm... Hngh... Hngh... Hm... Thump... ♥","",""
+"\Eんあー…","","\EUgh...","",""
+"\Eん…ん……ちゅるっ…
+こくっ…ごくんっ…♥","","\EHmm... Hmm... *gulp*
+Sip... *gulp*... *gulp*... ♥","",""
+"\Eはい、あーーー…ん。","","\EYes, uhhhh...","",""
+"\Eふふ……ごちそうさまでした♥","","\EHehe... Thank you for the meal ♥","",""
+"クンニ終了","","","",""
+"おしっこ観察初回","","","",""
+"\Eきゃっ…お、お兄ちゃん！？
+え、え、お兄ちゃんあたし…入ってるから。","","\EKyaa... O, Onii-chan!?
+E, e, Onii-chan, I... I'm in here.","",""
+"\Eぇ…おしっこをする所が見たい…？
+…え…？えーーーーーーっ！？","","\EEh... You want to see where I pee...? 
+...Eh...? Whaaat!?","",""
+"\Eそ、そんなの…ヘンだよ…ダメだよ…。","","\ES-something like that... It's weird... It's not good...","",""
+"\E……お兄ちゃん…","","\E...Big brother...","",""
+"\Eそんなに…おしっこするとこ、みたいの…？","","\EIs it really necessary to see me... pee like that?","",""
+"とても見たい！","","I really want to see it!","",""
+"何なら飲みたい！","","What would you like to drink?","",""
+"冗談です","","It's a joke.","",""
+"通常おしっこ","","","",""
+"失敗です","","","",""
+"\E…お兄ちゃんの変態……。","","\E...Brother, you pervert...","",""
+"\E…でも我慢させてお兄ちゃんが覗きで捕まったりしたら…。","","\E...But if I let you off the hook, big brother, and you get caught peeping...","",""
+"7","","","",""
+"\E…飲……お兄ちゃん……。","","\E...Drink...Onii-chan...","",""
+"\E…妹のおしっこが飲みたいなんて…
+お兄ちゃん変態だよ…。","","\E...I want to drink my little sister's pee...
+You're such a pervert, big brother...","",""
+"\Eの、飲むのはダメだけど…見るだけなら…。","","\ENo, it's not allowed to drink... but just watching is fine...","",""
+"\Eう～～～～っ…。","","\EUuuuuuuh...","",""
+"\Eこんな事するの…あたしだけにしてね…。
+絶対だよ…？","","\EIs it okay for me to be the only one doing something like this...?
+Absolutely...?","",""
+"\Eお外で覗きとか…ヘンな事したらダメだからね！","","\EPeeking outside... It's not good to do strange things, you know!","",""
+"\E…じゃ、じゃあ……するね。","","\E...Well, then... I'll do it.","",""
+"\E……ん…。","","\E...Hmm...","",""
+"放尿後","","","",""
+"\E…うぅ…おしっこ…見れた…？","","\E...Ugh...I...saw...pee...?","",""
+"\E……こんなこと…誰にも言っちゃダメだからね…。","","\E...I can't tell anyone about this...","",""
+"\E…うぅー…おしっこ見せたんだからもういいでしょ！","","\E...Ugh...I showed you my pee, so that's enough, right!","",""
+"\Eうむ、追い出されたな…。","","\EHmm, I've been kicked out...","",""
+"\E……ふう。","","\E...Phew.","",""
+"\E…本当に変態だよ…お兄ちゃん…、でも…。","","\E...You're really a pervert...big brother..., but...","",""
+"\E…でも…","","\E...but...","",""
+"\E\f[32]…やっぱりダメ―――っ！！！","","\E\f[32]...It's still no good---!!!","",""
+"\E…そ、そうだよね…。
+はぁ…びっくりした……。","","\E...Y-yeah, that's right...
+Haa... I was surprised...","",""
+"\Eえっと…","","\EUm...","",""
+"\Eいつまでいるのよ、もー！
+おしっこしたいからはやく出てって！！","","\EHow long are you going to stay here, geez!
+I need to pee, so hurry up and get out!!","",""
+"\Eお、お兄ちゃん…
+もしかしてまた…おしっこ見たくなっちゃったの…？","","\EOh, big brother...
+Could it be that you... want to see me pee again...?","",""
+"\Eうぅ…。","","\EUgh...","",""
+"\E…もう…仕方ないなあ…お兄ちゃんは…。
+お、お外で覗きとかしちゃだめだからね…。","","\E...I guess...there's no other choice...big brother...
+Y-You shouldn't peek outside, okay...?","",""
+"\E…じゃあするからね…。","","\E...I'll do it, okay...","",""
+"クンニ派生","","","",""
+"\E……ん…ちゃんとするとこ見れた…？","","\E...Huh... Did you see where to do it properly?","",""
+"\Eもうほんと…お兄ちゃんってば変態…。
+わかる？変態さんなんだよ？お兄ちゃんは。","","\ESeriously... my brother is such a pervert...
+You know? He's a perverted guy, my brother.","",""
+"\E……お兄ちゃん、まだ出ちゃだめだからね？","","\E...Big brother, you still can't go out, okay?","",""
+"\E女の子はね。
+おしっこのあとちゃんと綺麗にしないとダメなの。","","\EGirls, you know, 
+have to clean up properly after peeing.","",""
+"\E……ほら、ここ。
+わかる？","","\E... Look, here. 
+Do you understand?","",""
+"\Eお兄ちゃん…
+あたしのここ舐めてきれいにしてくれる？","","\EBig brother...
+Will you lick me here and clean me up nicely?","",""
+"\Eん……お兄ちゃん、すごく上手だよ…。","","\EHmm... Big brother, you're really good...","",""
+"もっと舐める","","Line 1: Underestimate me more","",""
+"おしまいにする","","To end it.","",""
+"\E……いっぱい舐めてくれたね。
+きれいにできてえらいよ…お兄ちゃん。","","\E...You licked me a lot.
+You did a great job making it so clean, big brother.","",""
+"トイレフェラ","","","",""
+"\E…ふふ…ねえ、お兄ちゃん。
+ここ、すごい膨らんでるよ。","","\E...Hehe...Hey, big brother.
+This place is really swollen.","",""
+"\E…ごめんね、お兄ちゃんも出したいよね？
+いっぱいいっぱい…白いおしっこ出したいよね？","","\E...I'm sorry, don't you want to go too, big brother? 
+I want to pee a lot... don't you want to pee white?","",""
+"\Eわ…すごい…おっきいし固い…。
+ふふ…ぴくぴくしてる♥","","\EWow... it's amazing... big and hard...
+Hehe... it's twitching ♥","",""
+"\E我慢しなくていいからね…。
+苦しかった？それとも切なかった？","","\EYou don't have to endure it...
+Was it painful? Or was it heartbreaking?","",""
+"\Eお兄ちゃんの…いま楽にしてあげるからね。
+妹のお口の中でびゅーって溢れるくらいいっぱい出して。","","\EI'll make it easy for you, big brother. 
+I'll fill my little sister's mouth with so much that it overflows with a ""byu"" sound.","",""
+"\E…っぷぁ。
+お兄ちゃん気持ちいい？","","\E...ppa.
+Big brother, does it feel good?","",""
+"\E出したくなったらそのまま出していいからね…。","","\EIf you feel like releasing it, you can just release it as it is...","",""
+"\E…ん…じゃあ出よっか、お兄ちゃん。
+おトイレだと狭いから…ね♥","","\E...Um... Well then, let's go, big brother.
+The bathroom is small, so...♥","",""
+"凸失敗","","","",""
+"8","","","",""
+"怒られます","","","",""
+"\Eえ…？な、なに…！？
+いやっ！出ていって！！","","\EHuh...? W-What...!?
+N-No! Get out!!","",""
+"\E\f[24]お兄ちゃんの…ばかばかっ！バカァッッ！！","","\E\f[24]Big brother... you're so stupid! Stuuuupid!!","",""
+"\Eめちゃくちゃ怒られてしまった…。","","\EI got scolded like crazy...","",""
+"cg/event_08_01.jpg","","","",""
+"ゲームオーバー","","","",""
+"\E………………ぇ…。","","\E...eh...","",""
+"\E……………。","","\E..........","",""
+"\E………ええと。","","\E...Um.","",""
+"\E…なんで……おにいちゃん…
+そういうこと……ばっかり……。","","\E...Why...big brother...
+Always...saying things like that...","",""
+"\E\f[32]もう…きらいっ！
+お兄ちゃんなんて大っ嫌い！！！！","","\E\f[32]I... hate it! 
+I absolutely hate big brothers!!","",""
+"cg/explosion01.jpg","","","",""
+"SE/small_explosion1.mp3","","","",""
+"cg/explosion02.jpg","","","",""
+"cg/explosion03.jpg","","","",""
+"cg/explosion04.jpg","","","",""
+"cg/explosion05.jpg","","","",""
+"cg/explosion06.jpg","","","",""
+"cg/explosion07.jpg","","","",""
+"cg/explosion08.jpg","","","",""
+"cg/explosion09.jpg","","","",""
+"cg/explosion10.jpg","","","",""
+"cg/explosion11.jpg","","","",""
+"cg/explosion12.jpg","","","",""
+"cg/explosion13.jpg","","","",""
+"\E─閃光と轟音。","","","",""
+"\E刹那に叩きつけられた衝撃波。
+何かの砕ける音、割れる窓、吹き飛ぶ壁。","","","",""
+"\E横なぎに倒れる木々、吹き飛んだ家…だったもの。
+見えるはずのない星空、感じるはずのない夜の風─","","","",""
+"\E何が起こったのか？
+それらの知覚をついに理解することは叶わなかった。","","","",""
+"\Eここはただ音もなく、光もなく、何も感じない世界。
+即ち無であり永遠であり終着点。","","","",""
+"\E─ざんねん！
+あなたの冒険はここで終わってしまった！","","","",""
+"\E<C>BADEND
+～妹爆発～","","","",""
+"hint","","","",""
+"\E例え家族でも見られたくないものはあります。
+裸の付き合い以上にそのハードルは高いのです。","","","",""
+"失敗","","","",""
+"\E……ふむ、当たり前に鍵がかかっているぞ。","","\E...Hmm, it's locked as expected.","",""
+"\Eうひゃあっ！お、お兄ちゃん！？
+いま出るからちょっとまって…","","\EUhyaa! B-Brother!?
+Wait a moment, I'm coming out now...","",""
+"\Eおまたせ。
+もー…びっくりしたよ、お兄ちゃん。","","\ESorry for the wait.
+Geez... you really surprised me, big brother.","",""
+"\Eはい、いってらっしゃい。","","\EYes, have a safe trip.","",""
+"\Eうーん、さすがに大人しくしとこうか…。","","\EHmm, maybe I should behave myself as expected of an adult...","",""
+"\Eただいま。","","\EI'm home.","",""
+"ついてきて","","","",""
+"なし","","","",""
+"乱数1","","","",""
+"カウント","","","",""

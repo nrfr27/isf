@@ -1,0 +1,57 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"妊娠END","","","",""
+"\Eそうして、時は流れ─。","","\EAnd so, time flies─.","\E\font[3]\f[18]\-[2]And so, time flies─.",""
+"cg/bg_01_home_a.jpg","","","",""
+"妹","","","",""
+"\Eえっと、お兄ちゃん…話が…あるの…。","","\EUm, big brother... I have something... to tell you...","\E\font[3]\f[18]\-[2]\EUm, Onii-chan... I have something... to tell you...",""
+"\E…………。","","\E………….","\E\font[3]\f[18]\-[2]..........",""
+"\Eあの……実は…。","","\EUm... Actually...","\E\font[3]\f[18]\-[2]Um... The thing is...",""
+"\E…こないの……その、アレが…。","","\E...They're not coming... That, that thing...","\E\font[3]\f[18]\-[2]..It hasn't come yet... That, that thing...",""
+"\Eどうしよう、おにいちゃん…あたし…。","","\EWhat should I do, big brother... I...","\E\font[3]\f[18]\-[2]What am I supposed to do now, Onii-chan... I...",""
+"妊娠グット","","","",""
+"cg/bg_01_home_b.jpg","","","",""
+"\Eあ、お兄ちゃんおかえりー。","","\EOh, welcome back, big brother.","\E\font[3]\f[18]\-[2]Ah, Onii-chan, welcome back.",""
+"\Eただいま。","","\EI'm home.","\E\font[3]\f[18]\-[2]I'm home.",""
+"\E─妹は妊娠していた。
+…もちろんいうまでもなく、俺の子だ。","","\E─My sister was pregnant.
+...Of course, it goes without saying, it's my child.","\E\font[3]\f[18]\-[2]─My sister was pregnant.
+...Of course, it goes without saying, it's my child.",""
+"\E幸いにして相手が兄であるという事は
+周囲にはなぜか当然のように受け止められた。","","\EFortunately, it was accepted by those around me as a matter of course that the person she was with was her older brother.
+","\E\font[3]\f[18]\-[2]Fortunately, the fact that the person responsible for all of this is me—
+her older brother—was accepted by those around us as if it were natural.",""
+"\Eただ、不安定で危険と隣り合わせの
+冒険者生活を続けていくわけにはいかなかった。","","\EHowever, I couldn't continue a life as an adventurer, which was unstable and filled with danger. 
+","\E\font[3]\f[18]\-[2]However, I couldn't continue with the life of an adventurer, 
+where instability and danger are always present.",""
+"\Eそれでも…","","\EStill...","\E\font[3]\f[18]\-[2]Still...",""
+"cg/whitescreen.jpg","","","",""
+"BGM/nagare.mp3","","","",""
+"cg/event60_01.jpg","","","",""
+"\E幼き日の憧れはここで終わってしまったが…
+妹と歩む日常に少しも後悔などあってたまるものか。","","\EMy childhood dream ended here... 
+I have no regrets whatsoever in walking with my little sister every day.","\E\font[3]\f[18]\-[2]Although my childhood dream ended here... 
+I have absolutely no regrets in walking the everyday life with my sister.",""
+"\Eだって俺には─","","\EBecause I have─","\E\font[3]\f[18]\-[2]",""
+"\Eこれから先だってずっと続く、
+かけがいのない妹との生活が待っているのだから。","","\EThe life with my irreplaceable sister, which will continue forever from now on, awaits. 
+","\E\font[3]\f[18]\-[2]",""
+"<C>\E妊娠END　～幸せな家庭～","","<C>\EPregnancy END ~Happy Family~","\E\font[3]\f[18]\-[2]",""
+"hint","","hint","\E\font[3]\f[18]\-[2]",""
+"\Eグットエンド到達おめでとうございます。","","\ECongratulations on reaching the good ending.","\E\font[3]\f[18]\-[2]",""
+"\E高い信頼を得たあなたはなかなかのお兄ちゃんです。
+妊娠を避ける為にはコンドームやアフターピルを利用しましょう。","","\EYou have gained a high level of trust and are quite the big brother.
+To avoid pregnancy, let's use condoms or emergency contraception.","\E\font[3]\f[18]\-[2]",""
+"妊娠バット","","","",""
+"\E妹は妊娠していた。
+…無論、俺の子だろう。","","\EMy sister was pregnant.
+...Of course, it must be my child.","\E\font[3]\f[18]\-[2]",""
+"\Eしかし…妹はまだ学生で、相手は実兄で。
+前途を思えば決して祝福されるはずのない妊娠だった。","","\EHowever... my sister is still a student, and the father is her own older brother.
+Considering the future, this pregnancy was never meant to be celebrated.","\E\font[3]\f[18]\-[2]",""
+"\E一時の快楽のために払った代償はあまりにも大きい…。","","\EThe price paid for temporary pleasure is too great...","\E\font[3]\f[18]\-[2]",""
+"<C>\EBADEND　～望まぬ妊娠～","","<C>\EBAD END - Unwanted Pregnancy -","\E\font[3]\f[18]\-[2]",""
+"\E相手が妹だろうとやればできます。
+きちんと避妊してよいお兄ちゃんになりましょう。","","\EYou can do it even if the opponent is your sister.
+Let's be a responsible big brother and practice safe sex.","\E\font[3]\f[18]\-[2]",""
+"\E▼","","","",""

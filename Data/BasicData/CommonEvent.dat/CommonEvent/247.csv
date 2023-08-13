@@ -1,0 +1,187 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"┣コミュニケーション","","","",""
+"\E今日はもう疲れたな…。","","","\E\font[3]\f[18]\-[2]I'm already tired today...",""
+"\Eもう遅いからやめておこうぜ。","","","\E\font[3]\f[18]\-[2]It's getting late, so let's leave it for another time.",""
+"\E…眠くてそれどころじゃないな。","","","\E\font[3]\f[18]\-[2]I'm too tired to think about that right now.",""
+"読書","","","",""
+"コミュトップ","","","",""
+"会話する","","","\font[3]\f[17]Talk with her",""
+"\cself[5]","","","\cself[5]",""
+"おちんちんびろーん！","","","\font[3]\f[17]Get dick out",""
+"機嫌を取る","","","\font[3]\f[17]Humor her",""
+"会話","","","",""
+"他愛もない話題","","","\font[3]\f[17]Trivial Topic",""
+"えっちな話題","","","\font[3]\f[17]Lewd Topic",""
+"怖い話","","","\font[3]\f[17]Scary Story",""
+"\Eなあ……","","","\E\font[3]\f[18]\-[2]Hey......",""
+"\E…………","","","\E\font[3]\f[18]\-[2]...........",""
+"\E気まずい時間を過ごした…。","","","\E\font[3]\f[18]\-[2]The atmosphere felt awkward for a while...",""
+"\Eちょっと気まずい時間を過ごした…。","","","\E\font[3]\f[18]\-[2]The atmosphere felt slightly awkward for a while...",""
+"\E他愛もない話をした。","","","\E\font[3]\f[18]\-[2]We talked about trivial things.",""
+"\E意外と盛り上がった。","","","\E\font[3]\f[18]\-[2]It turned out to be more engaging than I expected.",""
+"\Eお前、知ってるか？","","","\E\font[3]\f[18]\-[2]Have you heard about this?",""
+"妹","","","\font[3]\f[18]Imouto",""
+"\E………………はぁ…。","","","\E\font[3]\f[18]\-[2]..........Hah....",""
+"\E………………そうなんだ。","","","\E\font[3]\f[18]\-[2]..........Oh, I see.",""
+"\Eちょっとえっちな話をした。","","","\E\font[3]\f[18]\-[2]We talked about lewd things.",""
+"\E普通に嫌がられた。","","","\E\font[3]\f[18]\-[2]She hated that.",""
+"\Eいや、実はな……","","","\E\font[3]\f[18]\-[2]Well, actually...",""
+"\E……ごめん、お話しする気分じゃないの。","","","\E\font[3]\f[18]\-[2].....Sorry, I'm not in the mood for talking.",""
+"\E……や、やめてよ…。","","","\E\font[3]\f[18]\-[2].....Sto, stop...",""
+"\E怪談話をした。","","","\E\font[3]\f[18]\-[2]We talked about ghost stories.",""
+"※トイレについてきてフラグ","","","",""
+"\E…刺激が強すぎた。","","","\E\font[3]\f[18]\-[2]...It was too much of a thrill.",""
+"\Eうーん、何か本でも読もうかな…。","","","\E\font[3]\f[18]\-[2]Hmm, maybe I should read a book...",""
+"\E……。","","","\E\font[3]\f[18]\-[2].......",""
+"\Eうーん、気まずい時間を過ごしてしまった…。","","","\E\font[3]\f[18]\-[2]Hmm, the atmosphere felt awkward for a while...",""
+"\Eうーん、ちょっと気まずい時間を過ごしてしまった…。","","","\E\font[3]\f[18]\-[2]Hmm, the atmosphere felt slightly awkward for a while...",""
+"\E何か本でも読もうか。","","","\E\font[3]\f[18]\-[2]How about reading a book?",""
+"\Eうん。","","","\E\font[3]\f[18]\-[2]Okay.",""
+"童話","","","\font[3]\f[17]Fairy Tale",""
+"まじめな本","","","\font[3]\f[17]Non-fiction Book",""
+"冒険の書　　 \f[12]所持(\v[275])\f[20]","","","\font[3]\f[17]Adventure Notebook \f[12]have(\v[275])\f[16]",""
+"えっちな本　 \f[12]所持(\v[276])\f[20]","","","\font[3]\f[17]Naughty Book \f[12]have(\v[276])\f[16]",""
+"薄いブック　 \f[12]所持(\v[277])\f[20]","","","\font[3]\f[17]Thin Book \f[12]have(\v[277])\f[16]",""
+"\Eレッドキャップと呼ばれたゴブリンの物語らしい。","","","\E\font[3]\f[18]\-[2]It's a story about a goblin named Redcap.",""
+"\E………………………………。","","","\E\font[3]\f[18]\-[2].....................",""
+"\E…なんだこの童話。","","","\E\font[3]\f[18]\-[2]...What kind of fairy tale is this?",""
+"\E赤い頭巾を被った女の子がクマ退治をする話だな。","","","\E\font[3]\f[18]\-[2]It's a story about a girl who wears a red hood and goes on a bear hunt.",""
+"\E意思を持った根菜が菜食主義者と戦う叛逆の物語らしい。","","","\E\font[3]\f[18]\-[2]It's a story about sentient root vegetables rising up against vegetarians in an act of rebellion.",""
+"\E……なんだこれ？","","","\E\font[3]\f[18]\-[2]......What is this supposed to be?",""
+"SE/stupid7.mp3","","","",""
+"\E……眠くなってしまった。","","","\E\font[3]\f[18]\-[2].......I'm getting sleepy.",""
+"\E差別を許さない人々が
+差別主義者を誅殺していく正義の物語らしい。","","\EIt seems to be a story of justice in which people who do not tolerate racism 
+ kill off racists.","\E\font[3]\f[18]\-[2]It's a story about justice where individuals who oppose discrimination take action 
+to execute those who practice discrimination.",""
+"\E……せ、正義とは一体…。","","","\E\font[3]\f[18]\-[2]......W, Well, what exactly is justice...?",""
+"\E続きを読みたくても持っていないな…。","","","\E\font[3]\f[18]\-[2]Sadly, I don't have the next part even though I want to keep reading...",""
+"\Eお話の続き、気になるね…。","","","\E\font[3]\f[18]\-[2]I'm so curious about what happens next in the story...",""
+"\E巷ですごく売れているらしい冒険活劇小説だ。
+…稀に内容が消えて白紙になってしまう魔法の本だったりもする。","","","\E\font[3]\f[18]\-[2]It's a popular adventure notebook that's selling like hotcakes in town.
+...Sometimes, it's imbued with magic, causing the contents to disappear and turn into blank pages.",""
+"\E……くそ！消えてやがる！！！
+やる気が下がった。","","","\E\font[3]\f[18]\-[2].....Shit! It's gone!!! 
+My motivation has dropped.",""
+"\E……ふう、今日はここまででセーブしておくか…。","","","\E\font[3]\f[18]\-[2].....Phew, I'll save my progress here for today...",""
+"\Eうーん、残念ながらもっていないぞ。","","","\E\font[3]\f[18]\-[2]Hmm, unfortunately, I don't have any.",""
+"\Eアザラシクラブ、大人の階段を登ることができるぞ。
+何故か道すがらの草むらなんかでよく発見される。","","\E Seal club, you can climb the stairs to adulthood. 
+ For some reason, they are often found in the grass along the way.","\E\font[3]\f[18]\-[2]Seal Club can climb stairs of adulthood, and for some reason, 
+they are often found in grassy areas along the way",""
+"\E………………………………ふう。","","\E........................... ......... search.","\E\font[3]\f[18]\-[2]...................................Phew.",""
+"\E……お兄ちゃん…ふぅん…そうなんだ……。","","\E...... brother...hmmm...yeah.........","\E\font[3]\f[18]\-[2]......Onii-chan... hmmm... I see.........",""
+"\E…………。","","","\E\font[3]\f[18]\-[2]...........",""
+"\Eなるほど…そういうのもあるのか…。
+…今度試してみようかな…？","","","\E\font[3]\f[18]\-[2]Oh... so, there are things like that too... 
+Maybe I should give it a try sometime?",""
+"SE/Onmtp-Inspiration06-1.mp3","","","",""
+"\Eスキル 後背位のひらめきを得た！","","","\E\font[3]\f[18]\-[2]Obtained skill inspiration: Doggystyle.",""
+"\Eたった数10ページしかない薄い本。
+そのたった数10ページに夢が詰まっているという…。","","\EA thin book with only a few 10 pages. 
+Those only 10 pages are filled with dreams....","\E\font[3]\f[18]\-[2]A thin book with only a few tens of pages. 
+Yet, it is said to be filled with dreams within those few pages...",""
+"\E……（ドン引き）","","\E...... (don't know)","\E\font[3]\f[18]\-[2].....(speechless)",""
+"\E…………はぁ…尊い……♥","","\E............Ha...so precious......♥","\E\font[3]\f[18]\-[2]............Haa... so precious......\font[0]♥\font[3]",""
+"\Eスキル パイズリのひらめきを得た！","","","\E\font[3]\f[18]\-[2]Obtained skill inspiration: Boobjob.",""
+"\E…俺のカンだとやらない方がいいと思うぜ。","","","\E\font[3]\f[18]\-[2]...I have a feeling that going ahead with it might not be a good idea.",""
+"\E…もう……ばか。","","","\E\font[3]\f[18]\-[2]...You... idiot.",""
+"\Eびろろろろーん！","","\Eびろろろろーん！","\E\font[3]\f[18]\-[2]Look at this, look at this!",""
+"\Eお兄ちゃん…昔はカッコよかったのにね…。","","","\E\font[3]\f[18]\-[2]Onii-chan... You used to be so cool back then...",""
+"\Eお兄ちゃん、それあまりやんない方がいいよ…。","","","\E\font[3]\f[18]\-[2]Onii-chan, it's better not to do that too much...",""
+"\Eもう…いい加減にして…っ！","","","\E\font[3]\f[18]\-[2]Stop... cut it out already!",""
+"深夜パート失敗ルートへ","","","",""
+"cg/blackscreen.jpg","","","",""
+"妹爆発","","","",""
+"\E…もうっ！！
+…お兄ちゃんの……おにいちゃんの…","","","\E\font[3]\f[18]\-[2]...Onii-chan...",""
+"\E\f[32]馬鹿ーーーっ！！！！","","","\E\font[3]\f[32]\-[2]YOU'RE THE WORST!!!!!!!!",""
+"cg/explosion01.jpg","","","",""
+"SE/small_explosion1.mp3","","","",""
+"cg/explosion02.jpg","","","",""
+"cg/explosion03.jpg","","","",""
+"cg/explosion04.jpg","","","",""
+"cg/explosion05.jpg","","","",""
+"cg/explosion06.jpg","","","",""
+"cg/explosion07.jpg","","","",""
+"cg/explosion08.jpg","","","",""
+"cg/explosion09.jpg","","","",""
+"cg/explosion10.jpg","","","",""
+"cg/explosion11.jpg","","","",""
+"cg/explosion12.jpg","","","",""
+"cg/explosion13.jpg","","","",""
+"\E─閃光と轟音。","","","\E\font[3]\f[18]\-[2]—Blinding flash and thunderous roar.",""
+"\E刹那に叩きつけられた衝撃波。
+何かの砕ける音、割れる窓、吹き飛ぶ壁。","","","\E\font[3]\f[18]\-[2]In an instant, a shockwave struck me—a resounding crack of breaking objects, 
+the shattering of windows, and the crumbling of walls.",""
+"\E横なぎに倒れる木々、吹き飛んだ家…だったもの。
+見えるはずのない星空、感じるはずのない夜の風─","","","\E\font[3]\f[18]\-[2]Trees tumbling sideways, houses blown away—things that were once there. 
+An unexpectedly visible starry sky, a night breeze that defies expectation...",""
+"\E何が起こったのか？
+それらの知覚をついに理解することは叶わなかった。","","","\E\font[3]\f[18]\-[2]What happened? 
+You could never fully grasp the meaning behind those perceptions.",""
+"\Eここはただ音もなく、光もなく、何も感じない世界。
+即ち無であり永遠であり終着点。","","","\E\font[3]\f[18]\-[2]This is a world devoid of sound, light, and sensation—a realm of nothingness, 
+eternity, and ultimate destination.",""
+"\E─ざんねん！
+あなたの冒険はここで終わってしまった！","","","\E\font[3]\f[18]\-[2]What a pity! 
+Your adventure has come to an end here!",""
+"\E<C>BADEND
+～妹爆発～","","","\E\font[3]\f[18]\-[2]<C>BAD END 
+~Sister Explosion~",""
+"hint","","","\font[3]\f[18]hint",""
+"\E機嫌の悪い時におちんちんびろーんしてはいけません。
+容量用法を守ってただしくびろーんしましょう。","","","\E\font[3]\f[18]\-[2]You shouldn't cause mischief when she's in a bad mood. 
+Please treat your sister better; you have failed as an Onii-chan.",""
+"\E少しやる気が出た。","","","\E\font[3]\f[18]\-[2]I feel a bit more motivated.",""
+"\Eよし、ここは…","","","\E\font[3]\f[18]\-[2]Okay, now...",""
+"機嫌トップ","","","",""
+"\f[20]謝る","","","\font[3]\f[17]Apologies to her",""
+"\f[20]おやつ！　　　\f[12]所持(\v[273])\f[20]","","","\font[3]\f[17]Sweets \f[12]have(\v[273])\f[16]",""
+"\f[20]プレゼント　　\f[12]所持(\v[274])\f[20]","","","\font[3]\f[17]Presents \f[12]have(\v[274])\f[16]",""
+"\E…ごめんな。","","","\E\font[3]\f[18]\-[2]...Sorry about earlier.",""
+"\E……うん。","","","\E\font[3]\f[18]\-[2]......It's okay.",""
+"\E少し気まずい時間を過ごした…。","","","\E\font[3]\f[18]\-[2]The atmosphere felt a bit awkward for a while...",""
+"※おやつ消費　効果大きい","","","",""
+"\E残念ながら持っていないな…。","","","\E\font[3]\f[18]\-[2]I'm afraid I don't have any...",""
+"\Eあ、そうだ。
+お菓子があるぞー","","","\E\font[3]\f[18]\-[2]Oh, that's right!
+I have some snacks!",""
+"\E……あとで食べるから。","","","\E\font[3]\f[18]\-[2]......I'll eat them later.",""
+"\E……うん、ありがとう。","","","\E\font[3]\f[18]\-[2]......Yeah, thanks.",""
+"\E妹と一緒におやつを食べたぞ。","","","\E\font[3]\f[18]\-[2]I enjoyed some snacks with my sister.",""
+"※プレゼント消費　最大値まで回復","","","",""
+"\E妹にはいつも世話になってるからな…","","","\E\font[3]\f[18]\-[2]I'm always indebted to my sister for all her care...",""
+"\Eなあ…これ。","","","\E\font[3]\f[18]\-[2]So... this is for you.",""
+"\E……ありがと。","","","\E\font[3]\f[18]\-[2].....Thanks.",""
+"\f[20]褒めまくる","","","\font[3]\f[17]Shower her with praise",""
+"\Eむ！？
+今日はまた一段とかわいいな！","","","\E\font[3]\f[18]\-[2]Huh!?
+You're looking extra cute today!",""
+"\Eなにそれ…。","","","\E\font[3]\f[18]\-[2]What are you...",""
+"\E妹の機嫌を取った。","","","\E\font[3]\f[18]\-[2]I tried to praise her.",""
+"\Eわーいやったー！
+一緒に食べようお兄ちゃん！","","","\E\font[3]\f[18]\-[2]Yay, awesome!
+Let's have it together, Onii-chan!",""
+"SE/se_positive01.mp3","","","",""
+"\Eえ？なんで？
+今日なんかの日だったっけ…？","","","\E\font[3]\f[18]\-[2]Huh? Why? 
+Did I miss something important about today?",""
+"\Eありがとう、お兄ちゃん。
+大事にするね。","","","\E\font[3]\f[18]\-[2]Thanks, Onii-chan.
+I'll cherish it.",""
+"約5割の確率でトイレに","","","",""
+"\E…えと、お兄ちゃん…","","","\E\font[3]\f[18]\-[2]...Err, Onii-chan...",""
+"\Eん？","","","\E\font[3]\f[18]\-[2]Hmm?",""
+"\Eその…ト、トイレ…","","","\E\font[3]\f[18]\-[2]Um... th, the toilet...",""
+"\E…まさかついてきて欲しいのか。","","","\E\font[3]\f[18]\-[2]...You want me to come with you?",""
+"\Eだって怖い話するから…。","","","\E\font[3]\f[18]\-[2]It's because you were talking about scary stories...",""
+"ついていく","","","\font[3]\f[17]Come with her",""
+"ついてかない","","","\font[3]\f[17]Do nothing",""
+"\Eうー…お兄ちゃんの意地悪…。","","","\E\font[3]\f[18]\-[2]Ugh... You can be mean sometimes...",""
+"乱数","","","",""
+"トイレについて来て","","","",""
+"右クリック","","","",""
+"選択オン","","","",""
+"マウス押下取得","","","",""
+"カーソル位置取得","","","",""

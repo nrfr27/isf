@@ -1,0 +1,2624 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"ニューゲーム処理","","","",""
+"\E<C>この物語はフィクションです、
+実在の人物及び団体とは 一切関係ありません。
+
+当作品の二次配布、販売行為、
+デコンパイルし得られたデータの公表や改変、流用しての販売行為、
+その他商用利用など禁止といたします。
+　","","","\E\font[3]\f[18]\-[2]<C>This story is a work of fiction and has no relation to any actual 
+person or organization",""
+"message","","","\font[3]\f[18]message",""
+"行動力関連","","","",""
+"初期アイテム所持数を決めます","","","",""
+"初期ステータスを決めます","","","",""
+"仲間の強さです","","","",""
+"BGM/Acoustic_High_Collar.ogg","","","",""
+"cg/blackscreen.jpg","","","",""
+"設問1","","","",""
+"\E目を閉じると脳裏に浮かぶ光景がある。
+夕日に朱く染まる小高い丘の上、風のざわめき。
+見下ろした先には…？","","\EWhen I close my eyes, a scene comes to mind.
+On top of a small, crimson-stained hill bathed in the evening sun, there is a rustling of the wind.
+And what lies beyond when I look down...?","\E\font[3]\f[18]\-[2]When I close my eyes, a scene comes to mind.
+On top of a small, crimson-stained hill bathed in the evening sun, there is a rustling of the wind.
+And what lies beyond when I look down...?",""
+"戦場が広がっている","","The battlefield is expanding.","\font[3]\f[18]A battlefield spreads out",""
+"広大な森が広がっている","","A vast forest spreads out.","\font[3]\f[18]A vast forest stretches out",""
+"風に揺れる麦畑だ","","A swaying wheat field in the wind.","\font[3]\f[18]A swaying wheat field in the wind.",""
+"家族の待つ我が家だ","","It's my home where my family awaits.","\font[3]\f[18]My home where my family awaits ",""
+"設問2","","","",""
+"\Eあなたは戦いの最中ついに追い詰められてしまった。
+多勢に無勢、足元は崖、逃げ道はない、どうする？","","\EYou have finally been cornered in the midst of battle.
+Outnumbered and with a cliff at your feet, there is no escape route. What will you do?","\E\font[3]\f[18]\-[2]You have finally been cornered in the heat of battle. 
+Vastly outnumbered and with a cliff at your back, there is no escape route. What will you do?",""
+"突破する","","Breakthrough","\font[3]\f[18]Breakthrough and charge forward",""
+"飛び降りる","","Jump off.","\font[3]\f[18]Jump off the cliff",""
+"好機を待つ","","Waiting for a good opportunity","\font[3]\f[18]Wait for a good opportunity",""
+"降参する","","Surrender.","\font[3]\f[18]Surrender",""
+"設問3","","","",""
+"\E行商の途中、お腹を空かせた少女に出会う。
+街までは遠く、手持ちの食料は少ないが売り物の野菜ならある。","","\EOn the way of peddling, I encounter a hungry girl.
+The town is far away and I have little food, but I have vegetables to sell.","\E\font[3]\f[18]\-[2]While traveling as a street vendor, I encounter a hungry girl.
+The town is far away and I have little food, but I have vegetables to sell.",""
+"足早に立ち去る","","Hastily leaving","\font[3]\f[18]Hastily leave the scene",""
+"食料を分け与える","","Provide food rations.","\font[3]\f[18]Share my food with her",""
+"野菜をぶち込む","","Throw in the vegetables.","\font[3]\f[18]Throw the vegetables at her",""
+"取引する","","Eng:","\font[3]\f[18]Make a deal with her",""
+"設問4","","","",""
+"\E立ち寄った小さな村で少女はこう言った。
+「母の病を治すためにあの森の奥にある泉の水が必要なのです…。」","","\EThe girl said in the small village she visited, 
+""We need the water from the spring deep in that forest to cure my mother's illness.""","\E\font[3]\f[18]\-[2]In a small village where I visited, one girl said this to me: 
+""We need the water from the spring deep in that forest to cure my mother's illness.""",""
+"フヒッ任せろ","","Leave it to me","\font[3]\f[18]Heh, leave it to me",""
+"その辺の水を汲んでくる","","Fetching water from around here.","\font[3]\f[18]Fetch the water from around here",""
+"街まで医者を呼びに行く","","Go to the town to call a doctor.","\font[3]\f[18]Go to the city to call a doctor",""
+"でもクマとか怖いし…","","But bears are scary...","\font[3]\f[18]But bears are scary...",""
+"設問5","","","",""
+"\E広い大きな川を小舟で渡っている。
+中程まで来たところで突然船底に穴が空いた！","","\EI am crossing a wide, big river in a small boat.
+When I reached the middle, suddenly a hole opened up in the bottom of the boat!","\E\font[3]\f[18]\-[2]I am crossing a wide, big river in a small boat.
+When I reached halfway across the river, a hole suddenly opened up in the bottom of the boat!",""
+"泳ぐ","","Swim","\font[3]\f[18]Swim to safety",""
+"水を掻き出す","","Scooping out water","\font[3]\f[18]Scoop out the water",""
+"穴を塞ぐ物を探す","","Searching for something to fill the hole.","\font[3]\f[18]Search for something to plug the hole",""
+"ああああああああ！！！！！（ﾌﾞﾘﾌﾞﾘﾌﾞﾘｭ","","Aaaaaaa!!!!!! (Bri-bri-bri-nyu)","\font[3]\f[18]Aaaahhhhhhhh!!!!!!!! (frantically screaming)",""
+"\E自分の未来は。","","\EMy future is.","\E\font[3]\f[18]\-[2]My future?
+",""
+"自分の手で切り開く","","Carve your own path.","\font[3]\f[18]I want to carve it out with my own hands",""
+"自由でありたい","","I want to be free.","\font[3]\f[18]I want to be free",""
+"安定が欲しい","","I want stability.","\font[3]\f[18]I want stability and security",""
+"神のみぞ知る","","Only God knows.","\font[3]\f[18]Only God knows",""
+"\Eあなたは……\cdb[0:12:0]\cdb[0:12:1]お兄ちゃんです。","","","\E\font[3]\f[18]\-[2]You are... \cdb[0:12:0] \cdb[0:12:1] Onii-chan.",""
+"肩書に応じたステータスを取得","","","",""
+"勇猛な","","","",""
+"覚悟完了","","","",""
+"無謀な","","","",""
+"強運の","","","",""
+"優柔不断","","","",""
+"冷静な","","","",""
+"誉を捨てた","","","",""
+"現実的","","","",""
+"慎重な","","","",""
+"慈悲深い","","","",""
+"変態","","","",""
+"根菜","","","",""
+"守銭奴","","","",""
+"クマヘッド","","","",""
+"臆病な","","","",""
+"生まれ変わった","","","",""
+"下心","","","",""
+"スケベ","","","",""
+"脳筋","","","",""
+"策略家","","","",""
+"イケメン","","","",""
+"お人好し","","","",""
+"優しい","","","",""
+"ワンチャン","","","",""
+"水も滴る","","","",""
+"波乱万丈","","","",""
+"不幸","","","",""
+"知的","","","",""
+"絶叫","","","",""
+"脱糞","","","",""
+"気合い","","","",""
+"天才","","","",""
+"\E引き継げる力があります。","","","\E\font[3]\f[18]\-[2]You have the ability to carry over.",""
+"やりなおし","","","",""
+"強さ","","","\font[3]\f[18]Strength",""
+"賢さ","","","\font[3]\f[18]Wisdom",""
+"信頼できる家族","","","\font[3]\f[18]Trust",""
+"えっちな妹","","","\font[3]\f[18]Interest",""
+"所持金","","","\font[3]\f[18]Money",""
+"仲間のLV","","","\font[3]\f[18]Companion's Level",""
+"不屈の肉体　","","Indomitable physique","\font[3]\f[18]Indomitable Body",""
+"引き継ぎ","","","",""
+"引き継ぎボーナス","","","",""
+"\Eあなたが欲しい初期ボーナスを振り分けて下さい。
+引き継ぎポイント \v[551]","","","\E\font[3]\f[18]\-[2]Please distribute the initial bonus you want.
+\v[551] carry over point(s) left.",""
+"\s[16]","","","\s[16]",""
+"\s[17]","","","\s[17]",""
+"\s[18]","","","\s[18]",""
+"\s[19]","","","\s[19]",""
+"\s[20]","","","\s[20]",""
+"\s[21]","","","\s[21]",""
+"\s[22]","","","\s[22]",""
+"やりなおす　","","","\font[3]\f[18]Redistribute",""
+"引き継がない","","","\font[3]\f[18]Skip",""
+"強さ★","","","\font[3]\f[18]Strength\font[0]★",""
+"強さ★★","","","\font[3]\f[18]Strength\font[0]★★",""
+"強さ★★★","","","\font[3]\f[18]Strength\font[0]★★★",""
+"強さ★★★★","","","\font[3]\f[18]Strength\font[0]★★★★",""
+"賢さ★","","","\font[3]\f[18]Wisdom\font[0]★",""
+"賢さ★★","","","\font[3]\f[18]Wisdom\font[0]★★",""
+"賢さ★★★","","","\font[3]\f[18]Wisdom\font[0]★★★",""
+"賢さ★★★★","","","\font[3]\f[18]Wisdom\font[0]★★★★",""
+"信頼できる家族★","","","\font[3]\f[18]Trust\font[0]★",""
+"信頼できる家族★★","","","\font[3]\f[18]Trust\font[0]★★",""
+"信頼できる家族★★★","","","\font[3]\f[18]Trust\font[0]★★★",""
+"信頼できる家族★★★★","","","\font[3]\f[18]Trust\font[0]★★★★",""
+"えっちな妹★","","","\font[3]\f[18]Interest\font[0]★",""
+"えっちな妹★★","","","\font[3]\f[18]Interest\font[0]★★",""
+"えっちな妹★★★","","","\font[3]\f[18]Interest\font[0]★★★",""
+"えっちな妹★★★★","","","\font[3]\f[18]Interest\font[0]★★★★",""
+"所持金★","","","\font[3]\f[18]Money\font[0]★",""
+"所持金★★","","","\font[3]\f[18]Money\font[0]★★",""
+"所持金★★★","","","\font[3]\f[18]Money\font[0]★★★",""
+"所持金★★★★","","","\font[3]\f[18]Money\font[0]★★★★",""
+"仲間のLV★","","","\font[3]\f[18]Companion's Level\font[0]★",""
+"仲間のLV★★","","","\font[3]\f[18]Companion's Level\font[0]★★",""
+"仲間のLV★★★","","","\font[3]\f[18]Companion's Level\font[0]★★★",""
+"仲間のLV★★★★","","","\font[3]\f[18]Companion's Level\font[0]★★★★",""
+"引き継ぎ処理終了","","","",""
+"\E<C>数日前─。<L>","","","\E\font[3]\f[18]\-[2]<C>A few days ago\font[0]─<L>
+
+",""
+"父","","","\font[3]\f[18]Father",""
+"\E…そんな訳でしばらく家を空けることになった。","","\E...So, I ended up leaving my house for a while.","\E\font[3]\f[18]\-[2]...So, I will be away from home for a while.",""
+"\Eいつまで？
+そりゃもちろん、お宝を見つけるまでさ。","","\EUntil when?
+Of course, until we find the treasure.","\E\font[3]\f[18]\-[2]Until when?
+Well, of course, until I find the treasure.",""
+"\Eま、いつもどおりってやつだ。","","\EWell, it's just the usual.","\E\font[3]\f[18]\-[2]Really, it's just business as usual.",""
+"\Eただ…お前はともかく、
+妹はまだ学生だ、身体も丈夫な方じゃないからな。","","\EHowever... as for you, 
+my sister is still a student and not in the best physical condition.","\E\font[3]\f[18]\-[2]However... leaving you aside, 
+your sister is still a student and not particularly strong physically.",""
+"\Eそこはしっかり支えて面倒をみてやってくれ。
+じゃ頼んだぜ、お兄ちゃん。","","\EPlease support and take care of it properly.
+I'm counting on you, big brother.","\E\font[3]\f[18]\-[2]Please be sure to support and take care of her properly.
+I'm counting on you, Onii-chan.",""
+"妹に起こされて出社？する描写","","","",""
+"BGM/sparrows.mp3","","","",""
+"妹","","","\font[3]\f[18]Imouto",""
+"\E…おにいちゃん、おにーちゃん！
+ほらあ、そろそろ起きないと遅れちゃうよー。","","\E...Onii-chan, onii-chan! 
+Hey, come on, you need to wake up soon or you'll be late.","\E\font[3]\f[18]\-[2]...Onii-chan, Onii-chan! 
+Come on, you need to wake up soon or you'll be late!",""
+"\E……。","","","\E\font[3]\f[18]......",""
+"cg/whitescreen.jpg","","","",""
+"SE/se_basa.mp3","","","",""
+"1.4.0/v144_cg1_2.jpg","","","",""
+"\Eお""・に""・い""・ぢ・ゃ・ん""っ！","","","\E\font[3]\f[26]\-[2]O...nii...-chan....!",""
+"cg/bg_01_home_a.jpg","","","",""
+"\Eおはよう、お兄ちゃん。
+ご飯できてるよ、いっしょにたべよ。","","\EGood morning, big brother.
+The meal is ready, let's eat together.","\E\font[3]\f[18]\-[2]Good morning, Onii-chan. 
+The breakfast is ready, let's eat together.",""
+"ギルド","","","",""
+"cg/map_01.jpg","","","",""
+"\E都市部から少し離れた山間の村「メクア」。","","\EA village called ""Mekua"" nestled in the mountains, a little away from the urban areas.","\E\font[3]\f[18]\-[2]The village of ""Mekua,"" situated in the mountains, a little away from the city.",""
+"cg/bg_17_main.jpg","","","",""
+"\E森と湖畔に囲まれた豊かな自然とのどかな景色。
+そんな牧歌的な村のさらに外れにある小さなログハウス。","","","\E\font[3]\f[18]\-[2]Surrounded by forests and lakeshores, it offers a rich natural beauty and serene scenery.
+At the outskirts of such idyllic village sits a small log house.",""
+"\E<C>「冒険者ギルドメクア支部」<L>","","","\E\font[3]\f[18]\-[2]<C>""Adventurer's Guild Mekua Branch"".",""
+"\Eいかにも手製感あふれる看板にはそう書かれている。","","","\E\font[3]\f[18]\-[2]The sign, exuding a truly handmade feel, is written with those very words.",""
+"BGM/autumncome.ogg","","","",""
+"cg/bg_07_guild_e.jpg","","","",""
+"ユカリ","","","\font[3]\f[18]Yukari",""
+"Picture/talk_ef01.png","","","",""
+"\Eおかえりなさいお兄ちゃん、ご苦労さま。
+道中危ないことはなかった？","","\EWelcome back, big brother. Good job.
+Did anything dangerous happen on the way?","\E\font[3]\f[18]\-[2]Welcome back, Onii-chan. Good work. 
+Did anything dangerous happen on the way?",""
+"cg/bg_07_guild_f.jpg","","","",""
+"カナ","","","\font[3]\f[18]Kana",""
+"Picture/talk_ef02.png","","","",""
+"\Eマスター…
+ただのお使いするだけで危険も何もないよー。","","\EMaster...
+There's no danger in just running errands.","\E\font[3]\f[18]\-[2]Master...
+There's no danger in just running simple errands.",""
+"\Eあら、何事もなかったならなによりじゃない。","","\EWell, if nothing happened, that's the best thing, isn't it?","\E\font[3]\f[18]\-[2]Oh, if nothing happened, that's good.",""
+"\Eうちはうち、よそはよそ。
+適材適所よ。","","","\E\font[3]\f[18]\-[2]Every place is different. 
+It's crucial to find the right person for the right task.",""
+"\Eでもねー…腕が鈍っちゃうよね。","","","\E\font[3]\f[18]\-[2]But you know... our skills can get rusty.",""
+"cg/bg_07_guild_g.jpg","","","",""
+"ユイ","","","\font[3]\f[18]Yui",""
+"Picture/talk_ef03.png","","","",""
+"\Eわ、私は今みたいなのんびりでも嫌じゃないよ。
+無理して怪我とかしたら…嫌だな…。","","\EWell, I don't mind being relaxed like this now.
+I wouldn't want to force myself and get injured... that would be awful...","\E\font[3]\f[18]\-[2]Well, personally, I don't mind taking it easy like this right now. 
+I wouldn't want to risk getting hurt by pushing myself too hard.",""
+"cg/bg_07_guild_d.jpg","","","",""
+"難易度選択","","","",""
+"「そうだな。」　\f[12]NORMAL","","","\font[3]\f[18]""You have got a point."" \c[1]\f[14]NORMAL\c[0]",""
+"\f[20]「もう少し張り合いがあっても…。」　\f[12]HARD","","","\font[3]\f[18]""If only there was a bit more..."" \c[2]\f[14]HARD",""
+"\Eそうよ、安全第一。
+とにかく今日もおつかれさまでした。","","","\E\font[3]\f[18]\-[2]That's right, safety first. 
+Anyway, thank you for your hard work today.",""
+"\E雑に難易度が上がるおまけモードです\c[2]初回はおすすめしません。
+\c[0]クリア出来る保証はしませんがよろしいですか？","","\EIt's an extra mode where the difficulty level increases haphazardly.\c[2]I don't recommend it for the first time.
+\c[0]There is no guarantee that you will be able to clear it, but is that okay with you?","\E\font[3]\f[18]\-[2]This is a bonus mode where the difficulty increases significantly. 
+\c[2]We don't recommend it for your first playthrough.\c[0] 
+There is no guarantee that you will be able to clear it, but is that okay with you?",""
+"はい","","","\font[3]\f[18]Yes",""
+"いいえ","","","\font[3]\f[18]No",""
+"\Eそういうのはもうちょっと強くなってからいうの。
+それまでは安全第一、ね。","","","\E\font[3]\f[18]\-[2]I suggest bringing that up once you've become a bit stronger. 
+Until then, safety comes first, okay?",""
+"\Eはい、これは今日のお仕事料。","","","\E\font[3]\f[18]\-[2]Here is the payment for the work done today.
+",""
+"\Eそういえばお兄ちゃんは家で妹さんと二人なんでしょ？
+妹さんはまだ学生なんだし…なおさらよ。","","","\E\font[3]\f[18]\-[2]Speaking of which, Onii-chan, you're at home with your sister, aren't you?
+And considering she's still a student... your safety is even more important.",""
+"（確かに、妹の事を考えると無茶はできないな…）","","","\font[3]\f[18](Right, I can't afford to be reckless when it comes to her...)",""
+"\Eね？
+じゃあみんな今日は遅くなる前にお家に帰ること。","","","\E\font[3]\f[18]\-[2]Well?
+Also, you guys should head back home before it gets too late today.",""
+"\Eまたそんな子供相手みたいな言い方してー","","","\E\font[3]\f[18]\-[2]Oh, come on, don't treat us like we're still children again\font[0]ー",""
+"\Eあら？あたしから見たらみんな子供みたいなものよ。","","","\E\font[3]\f[18]\-[2]Oh? From my point of view, you are all just children.",""
+"\E出た！
+マスターのエルフアピール。","","","\E\font[3]\f[18]\-[2]Ah, there it is! Master's elf nature.",""
+"\Eなによ出たってー
+とにかくみんな今日はお疲れさま、また明日ね。","","","\E\font[3]\f[18]\-[2]What's that supposed to mean? 
+Anyway, everyone, well done today. See you again tomorrow.",""
+"\Eギルドメンバーのカナ、ユイ。
+ギルドマスターのユカリに出会った。","","","\E\font[3]\f[18]\-[2]I ran into Kana and Yui, fellow guild members. 
+I also met Yukari, the guild master.",""
+"system","","","\font[3]\f[18]system",""
+"BGM/yuuyake.mp3","","","",""
+"\Eあ、お兄ちゃんおかえり。","","","\E\font[3]\f[18]\-[2]Ah, Onii-chan. Welcome back.",""
+"\Eごはんの用意できてるよ、一緒に食べよう。","","","\E\font[3]\f[18]\-[2]The dinner is ready, let's eat together.",""
+"\E……………………。","","","\E\font[3]\f[18]\-[2]............",""
+"\E妹の手料理を食べて少し元気になった。","","","\E\font[3]\f[18]\-[2]I ate my sister's cooking and felt a little better.",""
+"妹クリック判定（夜","","","",""
+"1.4.0/SD_menu_001.png","","","",""
+"\E様々な分野の\c[2]理解\c[0]を深めます。","","","\font[3]\f[16]\-[2]\EYou can deepen your \c[2]understanding\c[0] in various fields.",""
+"1.4.0/SD_menu_005.png","","","",""
+"\E自主トレーニングを行い\c[2]各能力\c[0]を鍛えます。","","","\font[3]\f[16]\-[2]\EYou can strengthen \c[2]various abilities\c[0] by engaging in self-training.",""
+"アイテムアイコン109","","","",""
+"Picture/sub_button03.png","","","",""
+"ステータスアイコン110","","","",""
+"Picture/sub_button04.png","","","",""
+"妹クリック判定","","","",""
+"<SQUARE>","","","",""
+"ロード後の処理","","","",""
+"休日の挙動確認後10000番は消してもいいかも？","","","",""
+"save/system.sav","","","",""
+"メニュー処理","","","",""
+"Message","","","\font[3]\f[18]message",""
+"\E\f[12]Ver1.1.0 アップデート
+週末に「討伐」「大冒険」が追加されました。
+　","","","\E\font[3]\f[18]\-[2]Version 1.1.0 Update
+""Subjugation Request"" and ""Grand Adventure"" have been added as new weekend options.",""
+"\E\f[12]引き続き「妹！せいかつ～ファンタジー～」をお楽しみください！","","","\E\font[3]\f[18]\-[2]Please continue to enjoy ""Imouto! Seikatsu ~Fantasy~""",""
+"選択肢を表示させる場合並列処理だと挙動がおかしくなる","","","",""
+"\E現在のバージョンで遊べるのはここまでです！
+ご感想などありましたらコメント頂けますと嬉しく思います！","","","\E\font[3]\f[18]\-[2]That's all you can play for now with the current version! 
+If you have any feedback or comments, please let us know in the comments section. 
+We would be happy to hear from you!",""
+"\Eお兄ちゃん、お風呂用意できてるから。","","","\E\font[3]\f[18]\-[2]Onii-chan, the bath is ready for you.",""
+"\Eお兄ちゃん、お風呂用意できてるよ。","","","\E\font[3]\f[18]\-[2]Onii-chan, the bath is ready for you.",""
+"\Eお兄ちゃん、そろそろお風呂入りなよー。","","","\E\font[3]\f[18]\-[2]Onii-chan, it's about time for you to take a bath.",""
+"健康的","","","",""
+"週末モード","","","",""
+"週末","","","",""
+"cg/bg_01_home_d.jpg","","","",""
+"\Eうーん…眠いぞ……。","","","\E\font[3]\f[18]\-[2]Hmm... I'm sleepy...",""
+"\Eさすがにそろそろ寝ないとな…。","","","\E\font[3]\f[18]\-[2]It's getting late, I should go to bed soon...",""
+"\Eふわ……眠くなってきたな…。","","","\E\font[3]\f[18]\-[2]*yawn*... I'm starting to feel sleepy",""
+"\E…………なに…？","","","\E\font[3]\f[18]\-[2]......What...?",""
+"\E（ううむ、なんだか気まずいな…。","","","\E\font[3]\f[18]\-[2](Yikes, this kind of awkward...)",""
+"\E…………あ、お兄ちゃん…。","","","\E\font[3]\f[18]\-[2]......Ah, Onii-chan...",""
+"\Eはーい！お兄ちゃん！","","","\E\font[3]\f[18]\-[2]Yes! Onii-chan!",""
+"\Eなになに？","","","\E\font[3]\f[18]\-[2]What's up?",""
+"\E…なにか用？","","","\E\font[3]\f[18]\-[2]...Do you need something?",""
+"\E…………。","","","\E\font[3]\f[18]\-[2]......",""
+"\E…けほっけほっ。","","","\E\font[3]\f[18]\-[2]...*cough* *cough*...",""
+"\E…はぁはぁ……。","","","\E\font[3]\f[18]\-[2]...*pant* *pant...",""
+"吐血エンド","","","",""
+"\E…………………。","","","\E\font[3]\f[18]\-[2].........",""
+"\E……………………………………………。","","","\E\font[3]\f[18]\-[2]............",""
+"\Eん？どうし………………","","","\E\font[3]\f[18]\-[2]Huh? Wh......",""
+"cg/ending_001_01.png","","","",""
+"\f[48]\Eうわああああああああ","","","\E\font[3]\f[48]\-[2]NOOOOOOOOO!!!",""
+"\f[48]\E妹ーーーーーーーーーっ！！！","","","\E\font[3]\f[48]\-[2]MY SISTER--!!!!!!!",""
+"SE/130502_01.mp3","","","",""
+"cg/ending_001_02.png","","","",""
+"\E残念ながらあなたの冒険はここで終わってしまった…！","","","\E\font[3]\f[18]\-[2]What a pity! 
+Your adventure has come to an end here...!",""
+"\Eもっと妹を大切にいたわりましょう。
+当然ながらお兄ちゃん失格です。","","","\E\font[3]\f[18]\-[2]Let's treat our sister with utmost care and consideration. 
+Needless to say, you have failed as an Onii-chan.",""
+"<C>\EBADEND　～昇天～","","","\E\font[3]\f[18]\-[2]<C>BAD END 
+~Ascension~",""
+"メニュー表示","","","",""
+"サブメニュー表示","","","",""
+"Picture/sub_button01.png","","","",""
+"お知らせアイコン108","","","",""
+"Picture/sub_button02.png","","","",""
+"帰宅処理","","","",""
+"cg/map_05.jpg","","","",""
+"\Eうーん、ぐっすり寝ているようだ…。","","","\E\font[3]\f[18]\-[2]Hmm, looks like she is sleeping soundly...",""
+"寝顔を眺める","","","Watch her sleeping face",""
+"そっとシーツを掛け直す","","","Gently adjust the sheets",""
+"悪戯しちゃう","","","\font[3]\f[18]Cause some mischief",""
+"\s[0]","","","\font[3]\f[18]\s[0]",""
+"今日はもう寝る","","","\font[3]\f[18]Go to bed",""
+"\E明日はいよいよ八会の決勝だ…
+今夜はさっさと寝とこうぜ。","","","\E\font[3]\f[18]\-[2]Tomorrow is the big finale of the Hachioji tournament,
+so let's go to bed early tonight.",""
+"\E明日は出かけるからな…
+今夜はさっさと寝とこうぜ。","","","\E\font[3]\f[18]\-[2]We're going out tomorrow,  
+so let's go to bed early tonight.",""
+"サブメニュー表示OFF","","","",""
+"\E妹は具合が悪そうだ…
+今日は静かに寝せておこうぜ？","","","\E\font[3]\f[18]\-[2]She is not feeling well... 
+Let's let her sleep quietly today, okay?",""
+"\E妹を起こさないようにそっとシーツを掛け直した…。","","","\E\font[3]\f[18]\-[2]I gently adjusted the sheets so as not to wake her up...",""
+"\Eすやすやと静かに寝息を立てている…。","","","\E\font[3]\f[18]\-[2]She is sleeping soundly, 
+with calm and quiet rhythm in her breathing...",""
+"\E朝まで寝るのか？","","","\E\font[3]\f[18]\-[2]Should I sleep until morning?",""
+"\Eそうだな、寝よう…。","","","\E\font[3]\f[18]\-[2]Okay, let's go to sleep...",""
+"この日の寝相画像を表示","","","",""
+"BGM/oyasumi no kiss wo1.mp3","","","",""
+"騎乗位判定？","","","",""
+"デバック用","","","",""
+"A","","","",""
+"妹ステータス","","","",""
+"兄ステータス","","","",""
+"アイテム補充","","","",""
+"深夜用デバック","","","",""
+"行動回復","","","",""
+"調子","","","",""
+"B","","","",""
+"信頼　　\f[12]（\v[21]）\f[20]","","","",""
+"性興味　\f[12]（\v[22]）\f[20]","","","",""
+"性欲　　\f[12]（\v[102]）\f[20]","","","",""
+"機嫌　　\f[12]（\v[23]）\f[20]","","","",""
+"気まずい\f[12]（\v[151]）\f[20]","","","",""
+"体調　　\f[12]（\v[20]）\f[20]","","","",""
+"爆破","","","",""
+"高い","","","",""
+"普通","","","",""
+"低い","","","",""
+"ほどほど","","","",""
+"50","","","",""
+"-50","","","",""
+"機嫌を良くする","","","",""
+"機嫌を悪くする","","","",""
+"気まずくする","","","",""
+"解消","","","",""
+"平常時","","","",""
+"体調不良軽","","","",""
+"体調不良中","","","",""
+"体調不良重","","","",""
+"深夜パート失敗ルートへ","","","",""
+"妹爆発","","","",""
+"\E…お兄ちゃん…","","","\E\font[3]\f[18]\-[2]...Onii-chan...",""
+"\E\f[32]最っ低！！！！！！！！","","","\E\font[3]\f[32]\-[2]YOU'RE THE WORST!!!!!!!!",""
+"cg/explosion01.jpg","","","",""
+"SE/small_explosion1.mp3","","","",""
+"cg/explosion02.jpg","","","",""
+"cg/explosion03.jpg","","","",""
+"cg/explosion04.jpg","","","",""
+"cg/explosion05.jpg","","","",""
+"cg/explosion06.jpg","","","",""
+"cg/explosion07.jpg","","","",""
+"cg/explosion08.jpg","","","",""
+"cg/explosion09.jpg","","","",""
+"cg/explosion10.jpg","","","",""
+"cg/explosion11.jpg","","","",""
+"cg/explosion12.jpg","","","",""
+"cg/explosion13.jpg","","","",""
+"\E─閃光と轟音。","","","\E\font[3]\f[18]\-[2]—Blinding flash and thunderous roar.",""
+"\E刹那に叩きつけられた衝撃波。
+何かの砕ける音、割れる窓、吹き飛ぶ壁。","","","\E\font[3]\f[18]\-[2]In an instant, a shockwave struck me—a resounding crack of breaking objects, 
+the shattering of windows, and the crumbling of walls.",""
+"\E横薙ぎに倒れる木々、吹き飛んだ家…だったもの。
+見えるはずのない星空、感じるはずのない夜の風─","","","\E\font[3]\f[18]\-[2]Trees tumbling sideways, houses blown away—things that were once there. 
+An unexpectedly visible starry sky, a night breeze that defies expectation...",""
+"\E何が起こったのか？
+それらの知覚をついに理解することは叶わなかった。","","","\E\font[3]\f[18]\-[2]What happened? 
+You could never fully grasp the meaning behind those perceptions.",""
+"\Eここはただ音もなく、光もなく、何も感じない世界。
+即ち無であり永遠であり終着点。","","","\E\font[3]\f[18]\-[2]This is a world devoid of sound, light, and sensation—a realm of nothingness, 
+eternity, and ultimate destination.",""
+"\E─ざんねん！
+あなたの冒険はここで終わってしまった！","","","\E\font[3]\f[18]\-[2]What a pity! 
+Your adventure has come to an end here!",""
+"\E<C>BADEND
+～妹爆発～","","","\E\font[3]\f[18]\-[2]<C>BAD END 
+~Sister Explosion~",""
+"hint","","","\font[3]\f[18]hint",""
+"\E機嫌を損ねているときに悪戯してはいけません。
+もっと妹を大事にしてください、お兄ちゃん失格です。","","","\E\font[3]\f[18]\-[2]You shouldn't cause mischief when she's in a bad mood. 
+Please treat your sister better; you have failed as an Onii-chan.",""
+"C","","","",""
+"攻撃","","","",""
+"技術","","","",""
+"防御","","","",""
+"根性","","","",""
+"スキルP","","","",""
+"性欲","","","",""
+"お茶","","","",""
+"書物","","","",""
+"Hアイテム","","","",""
+"\E全てのお茶を補充しました。","","","",""
+"\E全ての書物を補充しました。","","","",""
+"\E全てのHアイテムを補充しました。","","","",""
+"D","","","",""
+"時間変更","","","",""
+"睡眠状態","","","",""
+"Hゲージ関連","","","",""
+"熱帯夜","","","",""
+"射精感","","","",""
+"お尻経験加算","","","",""
+"0：00","","","",""
+"18：00","","","",""
+"睡眠を深くする","","","",""
+"睡眠を浅くする","","","",""
+"快楽高い","","","",""
+"快楽ほどほど","","","",""
+"不快高い","","","",""
+"不快リセット","","","",""
+"100","","","",""
+"0","","","",""
+"上げる","","","",""
+"下げる","","","",""
+"スキル取得関係","","","",""
+"\f[12]習得 ""長押し""","","","\font[3]\f[12]HOLD to ACQUIRE",""
+"<SQUARE><FRAME>","","","",""
+"以心伝心","","","",""
+"\f[16]カナの攻撃に確率で追撃が発生する。
+","","","\font[3]\f[12]Kana's attack has a probability of triggering a follow-up attack.",""
+"習得スキル番号","","","",""
+"必要スキルPt","","","",""
+"習得処理","","","",""
+"献身","","","",""
+"\f[16]攻撃を受け戦力が0になった際、
+ユイの行動力を全て消費し回復を発動。","","\f[16]When the attack hits and the combat power becomes 0, 
+consume all of Yui's action points and activate recovery.","\font[3]\f[12]When attacked and the fighting strength becomes 0, 
+consume all of Yui's action points and activate recovery.",""
+"機転","","","",""
+"\f[16]戦闘ターン開始時の行動ポイントの回復量が
+一定率で2→3になる。","","\f[16]The recovery amount of action points at the start of the battle turn becomes 2→3 at a fixed rate.
+","\font[3]\f[12]The amount of action points generated each turn 
+increases from 2 points to 3 points.",""
+"闇営業","","","",""
+"\f[16]闇のお仕事でお金を2000G得る。
+必要スキルPt:40　繰り返し取得可能","","","\font[3]\f[12]Gains 2000G instantly through shady business.
+Required Skill Pts: 40. 
+Can be acquired repeatedly.",""
+"Hスキル","","","",""
+"\f[16]おさわり時に少し目覚めにくくなる。
+必要スキルPt:20","","\f[16]It becomes a little harder to wake up when touched.
+Required Skill Pt: 20","\font[3]\f[12]Makes it slightly harder to awaken your sister when touched.
+Required Skill Pts: 20.",""
+"\f[16]おさわり時に少し目覚めにくくなる。
+習得済み","","","\font[3]\f[12]Makes it slightly harder to awaken your sister when touched.
+Acquired.",""
+"\f[16]おさわり時に少し快楽値が上がりやすくなる。
+必要スキルPt:40","","","\font[3]\f[12]Makes it slightly easier to pleasure your sister when touched.
+Required Skill Pts: 40.",""
+"\f[16]おさわり時に少し快楽値が上がりやすくなる。
+習得済み","","","\font[3]\f[12]Makes it slightly easier to pleasure your sister when touched.
+Acquired.",""
+"必要心","","","",""
+"\f[16]パジャマを脱がす際にかなり目覚めにくくする。
+必要スキルPt:30","","\f[16]It is quite difficult to wake up when taking off pajamas.
+Required Skill Pt: 30","\font[3]\f[12]Makes it significantly harder to awaken your sister when taking 
+off pajamas.
+Required Skill Pts: 30.",""
+"\f[16]パジャマを脱がす際にかなり目覚めにくくする。
+習得済み
+
+
+","","","\font[3]\f[12]Makes it significantly harder to awaken your sister when taking 
+off pajamas.
+Acquired.",""
+"\f[16]その日初回の挿入時に快楽値を大きく上昇させる。
+必要スキルPt:24","","","\font[3]\f[12]Significantly increases the pleasure experienced by your sister
+during her first-time insertion on that day.
+Required Skill Pts: 24.",""
+"\f[16]その日初回の挿入時に快楽値を大きく上昇させる。
+習得済み","","","\font[3]\f[12]Significantly increases the pleasure experienced by your sister
+during her first-time insertion on that day.
+Acquired.",""
+"\f[16]射精可能回数が増える。 ※最大9 
+必要スキルPt:16　繰り返し取得可能","","","\font[3]\f[12]Increases the number of possible ejaculations.
+Required Skill Pt: 16. 
+Can be acquired 9 times.",""
+"\f[16]射精可能回数が増える。
+習得済み","","","\font[3]\f[12]Increases the number of possible ejaculations.
+Fully Acquired.",""
+"\f[16]中だし時に快楽値を大きく上昇させる。
+必要スキルPt:32","","","\font[3]\f[12]Significantly increases the pleasure experienced by your sister
+during vaginal cumshot.
+Required Skill Pts: 32.",""
+"\f[16]中だし時に快楽値を大きく上昇させる。
+習得済み","","","\font[3]\f[12]Significantly increases the pleasure experienced by your sister
+during vaginal cumshot.
+Acquired.",""
+"\f[16]覗きなどが見つかりにくくなる。
+必要スキルPt:24","","","\font[3]\f[12]Reduces the likelihood of your sister noticing you when peeping 
+or engaging in similar activities.
+Required Skill Pts: 24.",""
+"\f[16]覗きなどが見つかりにくくなる。
+習得済み","","","\font[3]\f[12]Reduces the likelihood of your sister noticing you when peeping 
+or engaging in similar activities.
+Acquired.",""
+"\f[16]1日の精力回復値がアップする。
+必要スキルPt:20","","","\font[3]\f[12]Increases the amount of stamina recovered per day. 
+Required Skill Pts: 20.",""
+"\f[16]1日の精力回復値がアップする。
+習得済み","","","\font[3]\f[12]Increases the amount of stamina recovered per day. 
+Acquired.",""
+"\f[16]性欲が溜まりやすい。
+必要スキルPt:20","","","\font[3]\f[12]Makes it easier for lust to accumulate.
+Required Skill Pts: 20.",""
+"\f[16]性欲が溜まりやすい。
+習得済み","","","\font[3]\f[12]Makes it easier for lust to accumulate.
+Acquired.",""
+"\f[16]パンツを漁った時の取得数が増加。
+必要スキルPt:20","","","\font[3]\f[12]Increases the number of panties obtained during the hunt.
+Required Skill Pts: 20.",""
+"\f[16]パンツを漁った時の取得数が増加。
+習得済み","","","\font[3]\f[12]Increases the number of panties obtained during the hunt.
+Acquired.",""
+"\f[16]射精を130％まで耐えることができる。
+必要スキルPt:20","","","\font[3]\f[12]Enhances your ability to withstand ejaculation to 130%.
+Required Skill Pts: 20.",""
+"\f[16]射精を130％まで耐えることができる。
+習得済み","","","\font[3]\f[12]Enhances your ability to withstand ejaculation to 130%.
+Acquired.",""
+"\f[16]射精を110％までしか耐えることができない。
+必要経験　--","","","\font[3]\f[12]Limits your ability to withstand ejaculation to 110%. 
+Required Exp: --.",""
+"\f[16]射精を110％までしか耐えることができない。
+必要スキルPt:20　（解除）","","","\font[3]\f[12]Limits your ability to withstand ejaculation to 110%. 
+Required Skill Pts: 20. [Removable]",""
+"\f[16]中出し時に着床率が100％
+必要経験　--","","","\font[3]\f[12]Ensures a 100% chance of successful implantation during vaginal 
+cumshot.
+Required Exp: --.",""
+"\f[16]中出し時に着床率が100％
+必要スキルPt:20　（解除）","","","\font[3]\f[12]Ensures a 100% chance of successful implantation during vaginal 
+cumshot.
+Required Skill Pts: 20. [Removable]",""
+"\f[16]スキンシップを行った際の妹性欲上昇が増加。
+必要スキルPt:32　","","","\font[3]\f[12]Increases the amount of lust your sister receives during interaction.
+Required Skill Pts: 32.",""
+"\f[16]スキンシップを行った際の妹性欲上昇が増加。
+習得済み","","","\font[3]\f[12]Increases the amount of lust your sister receives during interaction.
+Acquired.",""
+"\f[16]深夜妹がフェラチオをしてくれるようになる。
+必要スキルPt:40","","","\font[3]\f[12]Increases the likelihood of your sister giving you a blowjob during 
+midnight (touching) activity.
+Required Skill Pts: 40.",""
+"\f[16]深夜妹がフェラチオをしてくれるようになる。
+習得済み","","","\font[3]\f[12]Increases the likelihood of your sister giving you a blowjob during 
+midnight (touching) activity.
+Acquired.",""
+"\f[16]妹の性欲が極めて高い時に何もせず就寝した際
+素股、騎乗位が発生する。
+必要スキルPt:40","","","\font[3]\f[12]Enables the intercrural sex and cowgirl pose to occur during 
+midnight if you go to bed without doing anything when 
+your sister is highly aroused.
+Required Skill Pts: 40.",""
+"\f[16]妹の性欲が極めて高い時に何もせず就寝した際
+素股、騎乗位が発生する。
+習得済み","","","\font[3]\f[12]Enables the intercrural sex and cowgirl pose to occur during 
+midnight if you go to bed without doing anything when 
+your sister is highly aroused.
+Acquired.",""
+"\f[16]お風呂でのHしたいコマンドにパイズリを追加する。
+必要スキルPt:40","","","\font[3]\f[12]Enables the boobjob option in the ""Let's have sex"" command during 
+bath time.
+Required Skill Pts: 40.",""
+"\f[16]お風呂でのHしたいコマンドにパイズリを追加する。
+習得済み","","","\font[3]\f[12]Enables the boobjob option in the ""Let's have sex"" command during 
+bath time.
+Acquired.",""
+"\f[16]体位、まんぐり返しを選択できるようになる。
+必要スキルPt:40","","","\font[3]\f[12]Enables the piledriver pose option during midnight (touching) 
+activity.
+Required Skill Pts: 40.",""
+"\f[16]体位、まんぐり返しを選択できるようになる。
+習得済み","","","\font[3]\f[12]Enables the piledriver pose option during midnight (touching) 
+activity.
+Acquired.",""
+"\f[16]体位、後背位を選択できるようになる。
+必要スキルPt:40","","","\font[3]\f[12]Enables the doggy style pose option during midnight (touching) 
+activity.
+Required Skill Pts: 40.",""
+"\f[16]体位、後背位を選択できるようになる。
+習得済み","","","\font[3]\f[12]Enables the doggy style pose option during midnight (touching) 
+activity.
+Acquired.",""
+"\f[16]作れる料理が増加し失敗率も低下。
+必要スキルPt:20","","","\font[3]\f[12]Increases the number of dishes you can cook and reduces the 
+likelihood of failure.
+Required Skill Pts: 20.",""
+"\f[16]作れる料理が増加し失敗率も低下。
+習得済み","","","\font[3]\f[12]Increases the number of dishes you can cook and reduces the 
+likelihood of failure.
+Acquired.",""
+"\f[16]怪我の治りが早くなる。
+必要スキルPt:20","","","\font[3]\f[12]Injuries heal faster.
+Required Skill Pts: 20.",""
+"\f[16]怪我の治りが早くなる。
+習得済み","","","\font[3]\f[12]Injuries heal faster.
+Acquired.",""
+"\f[16]バイトで得られるお金が増える。
+必要スキルPt:30","","","\font[3]\f[12]Increases the amount of money earned from part-time jobs.
+Required Skill Pts: 30.",""
+"\f[16]バイトで得られるお金が増える。
+習得済み","","","\font[3]\f[12]Increases the amount of money earned from part-time jobs.
+Acquired.",""
+"\f[16]地域貢献、討伐などの報酬が増える。
+必要スキルPt:30","","","\font[3]\f[12]Increases the rewards obtained from local contributions and 
+subjugation requests.
+Required Skill Pts: 30.",""
+"\f[16]\f[16]地域貢献、討伐などの報酬が増える。
+習得済み","","","\font[3]\f[12]Increases the rewards obtained from local contributions and 
+subjugation requests.
+Acquired.",""
+"\f[16]戦闘時に必殺のお兄ちゃんアタックを使用できる。
+必要スキルPt:30","","","\font[3]\f[12]Allow the use of deadly Onii-chan Attack in battle. 
+Required skill points: 30.",""
+"\f[16]戦闘時に必殺のお兄ちゃんアタックを使用できる。
+習得済み","","","\font[3]\f[12]Allow the use of deadly Onii-chan Attack in battle. 
+Acquired.",""
+"\f[16]攻撃系の基礎能力が上がりやすくなる。
+必要スキルPt:50","","","\font[3]\f[12]Makes it easier to improve basic offensive capabilities.
+Required skill points: 50.",""
+"\f[16]攻撃系の基礎能力が上がりやすくなる。
+習得済み","","","\font[3]\f[12]Makes it easier to improve basic offensive capabilities.
+Acquired.",""
+"\f[16]防御系の基礎能力が上がりやすくなる。
+必要スキルPt:50","","","\font[3]\f[12]Makes it easier to improve basic defensive capabilities.
+Required skill points: 50.",""
+"\f[16]防御系の基礎能力が上がりやすくなる。
+習得済み","","","\font[3]\f[12]Makes it easier to improve basic defensive capabilities.
+Acquired.",""
+"\f[16]スキル発動率20％UP
+必要スキルPt:140","","","\font[3]\f[12]Boosts skill activation rate by 20%.
+Required Skill Pts: 140.",""
+"\f[16]スキル発動率20％UP
+習得済み","","","\font[3]\f[12]Boosts skill activation rate by 20%.
+Acquired.",""
+"\f[16]スキル発動時に反撃率25％UP
+必要スキルPt:40","","","\font[3]\f[12]Boosts counterattack rate by 25% when activated.
+Required Skill Pts: 40.",""
+"\f[16]スキル発動時に反撃率25％UP
+習得済み","","","\font[3]\f[12]Boosts counterattack rate by 25% when activated.
+Acquired.",""
+"\f[16]スキル発動時に会心率25％UP
+必要スキルPt:40","","","\font[3]\f[12]Boosts critical rate by 25% when activated.
+Required Skill Pts: 40.",""
+"\f[16]スキル発動時に会心率25％UP
+習得済み","","","\font[3]\f[12]Boosts critical rate by 25% when activated.
+Acquired.",""
+"\f[16]会心ダメージ25％UP
+必要スキルPt:40","","","\font[3]\f[12]Boosts critical damage by 25%.
+Required Skill Pts: 40.",""
+"\f[16]\f[16]会心ダメージ25％UP
+習得済み","","","\font[3]\f[12]Boosts critical damage by 25%.
+Acquired.",""
+"\f[16]仲間のつよさを50％UP
+必要スキルPt:60","","","\font[3]\f[12]Increases companion's strength by 50%.
+Required Skill Pts: 60.",""
+"\f[16]\f[16]仲間のつよさを50％UP
+習得済み","","","\font[3]\f[12]Increases companion's strength by 50%.
+Acquired.",""
+"\f[16]スキル発動時に最大戦力の5％を回復
+必要スキルPt:60","","","\font[3]\f[12]Restores 5% of the maximum party's fighting strength when activated.
+Required Skill Pts: 60.",""
+"\f[16]スキル発動時に最大戦力の5％を回復
+習得済み","","","\font[3]\f[12]Restores 5% of the maximum party's fighting strength when activated.
+Acquired.",""
+"\f[16]後衛のダウン率を下げる。
+必要スキルPt:40","","","\font[3]\f[12]Reduces the likelihood of the rear guard getting knocked down.
+Required Skill Pts: 40.",""
+"\f[16]後衛のダウン率を下げる。
+習得済み","","","\font[3]\f[12]Reduces the likelihood of the rear guard getting knocked down.
+Acquired.",""
+"\f[16]戦闘時4ターン目以降のスキル発動率+10％
+必要スキルPt:100","","","\font[3]\f[12]Boosts skill activation rate by 10% after the 4th turn in battle.
+Required Skill Pts: 100.",""
+"\f[16]戦闘時4ターン目以降のスキル発動率+10％
+習得済み","","","\font[3]\f[12]Boosts skill activation rate by 10% after the 4th turn in battle.
+Acquired.",""
+"\f[16]お兄ちゃんの攻撃に追撃発生率25％UP
+必要スキルPt:40","","","\font[3]\f[12]Attacks from you now have a 25% higher probability of triggering 
+follow-up attacks.
+Required Skill Pts: 40.",""
+"\f[16]お兄ちゃんの攻撃に追撃発生率25％UP
+習得済み","","","\font[3]\f[12]Attacks from you now have a 25% higher probability of triggering 
+follow-up attacks.
+Acquired.",""
+"\f[16]スキル発動時1ターン目の行動ポイント+5
+必要スキルPt:60","","","\font[3]\f[12]Grants a +5 increase in action points on the first turn when 
+activated.
+Required Skill Pts: 60.",""
+"\f[16]スキル発動時1ターン目の行動ポイント+5
+習得済み","","","\font[3]\f[12]Grants a +5 increase in action points on the first turn when 
+activated.
+Acquired.",""
+"\f[16]スキル発動時1ターン目の攻撃力50％UP
+必要スキルPt:60","","","\font[3]\f[12]Boosts attack by 50% on the first turn when activated.
+Required Skill Pts: 60.",""
+"\f[16]スキル発動時1ターン目の攻撃力50％UP
+習得済み","","","\font[3]\f[12]Boosts attack by 50% on the first turn when activated.
+Acquired.",""
+"\f[16]会心率10％UP 戦闘可能ターン数-5
+必要スキルPt:50","","","\font[3]\f[12]Boosts critical hit rate by 10% and decreases the number of 
+combat turns by 5.
+Required Skill Pts: 50.",""
+"\f[16]会心率10％UP 戦闘可能ターン数-5
+習得済み","","","\font[3]\f[12]Boosts critical hit rate by 10% and decreases the number of 
+combat turns by 5.
+Acquired.",""
+"\f[16]戦闘可能ターン数+5
+必要スキルPt:50","","","\font[3]\f[12]Increases the number of combat turns by 5.
+Required Skill Pts: 50.",""
+"\f[16]戦闘可能ターン数+5
+習得済み","","","\font[3]\f[12]Increases the number of combat turns by 5.
+Acquired.",""
+"強靭","","","",""
+"\f[16]攻撃を受けた際に体勢が崩されにくくなる。
+必要スキルPt:30","","","\font[3]\f[12]Reduces the likelihood of your stance being disrupted when 
+attacked.
+Required Skill Pts: 30.",""
+"\f[16]攻撃を受けた際に体勢が崩されにくくなる。
+習得済み","","","\font[3]\f[12]Reduces the likelihood of your stance being disrupted when 
+attacked.
+Acquired.",""
+"堅固","","","",""
+"\f[16]スキル発動時にガード率25％UP
+必要スキルPt:40","","","\font[3]\f[12]Boosts guard rate by 25% when activated.
+Required Skill Pts: 40.",""
+"\f[16]スキル発動時にガード率25％UP
+習得済み","","","\font[3]\f[12]Boosts guard rate by 25% when activated.
+Acquired.",""
+"\f[16]妹のおうえんを受ける時にHPが大きく回復する。
+必要スキルPt:30","","","\font[3]\f[12]When receiving support from your sister, your HP will be 
+greatly restored.
+Required Skill Pts: 30.",""
+"\f[16]妹のおうえんを受ける時にHPが大きく回復する。
+習得済み","","","\font[3]\f[12]When receiving support from your sister, your HP will be 
+greatly restored.
+Acquired.",""
+"取得メータ下げ","","","",""
+"ここから習得処理","","","",""
+"SE/Select.wav","","","",""
+"SE/skill_attack01.wav","","","",""
+"経験を支払う","","","",""
+"取得処理","","","",""
+"\f[16]おさわり時に少し目覚めにくくなる。
+","","","",""
+"\f[16]おさわり時に少し快楽値が上がりやすくなる。
+","","","",""
+"\f[16]パジャマを脱がす際にかなり目覚めにくくする。
+
+
+
+","","","",""
+"\f[16]その日初回の挿入時に快楽値を大きく上昇させる。
+","","","",""
+"\f[16]射精可能回数が増える。 ※最大9 繰り返し取得可
+必要スキルPt:16","","","",""
+"\f[16]中だし時に快楽値を大きく上昇させる。
+","","","",""
+"\f[16]覗きなどが見つかりにくくなる。
+","","","",""
+"\f[16]1日の精力回復値がアップする。
+","","","",""
+"\f[16]性欲が溜まりやすい。
+","","","",""
+"\f[16]パンツを漁った時の取得数が増加。
+","","","",""
+"\f[16]射精を130％まで耐えることができる。
+","","","",""
+"\f[16]スキンシップを行った際の妹性欲上昇が増加。
+","","","",""
+"\f[16]\f[16]地域貢献、討伐などの報酬が増える。
+必要スキルPt:30","","","\font[3]\f[12]Increases the rewards obtained from local contributions and 
+subjugation requests.
+Required Skill Pts: 30.",""
+"\f[16]スキル発動時1ターン目の行動ポイント+5","","","",""
+"\f[16]スキル発動時1ターン目の攻撃力50％UP","","","",""
+"\f[16]妹のおうえんを受ける時にHPが回復する。
+必要スキルPt:30","","","\font[3]\f[12]When receiving support from your sister, your HP will be 
+greatly restored.
+Required Skill Pts: 30.",""
+"\f[16]妹のおうえんを受ける時にHPが回復する。
+習得済み","","","\font[3]\f[12]When receiving support from your sister, your HP will be 
+greatly restored.
+Acquired.",""
+"Picture/sd_icon03.png","","","",""
+"\f[14]\Eおめでとうございます！
+これでスキルの取得は完了です。","","","\E\font[3]\f[18]\-[2]Congratulations! You have finished acquiring skills.",""
+"\f[14]\E様々なスキルを習得して、
+より豊かなお兄ちゃんライフを満喫しましょう！","","","\E\font[3]\f[18]\-[2]Acquire various skills and enjoy a fulfilling life as Onii-chan!",""
+"戦判定表示","","","",""
+"お兄ちゃんの処理","","","",""
+"Picture/battle_icon_09.png","","","",""
+"Picture/battle_icon_10.png","","","",""
+"Picture/battle_icon_01.png","","","",""
+"Picture/battle_icon_02.png","","","",""
+"カナの処理","","","",""
+"Picture/battle_icon_03.png","","","",""
+"Picture/battle_icon_04.png","","","",""
+"ユイの処理","","","",""
+"Picture/battle_icon_07.png","","","",""
+"Picture/battle_icon_06.png","","","",""
+"カスミの処理","","","",""
+"Picture/battle_icon_05.png","","","",""
+"戦クリック処理","","","",""
+"SE/button33.mp3","","","",""
+"通常攻撃","","","",""
+"スキル（兄","","","",""
+"攻撃（カナ","","","",""
+"スキル（カナ","","","",""
+"スキル（ユイ","","","",""
+"スキル（カスミ","","","",""
+"スキル（ユイ2","","","",""
+"この処理をケツに","","","",""
+"\c[9]\f[16]★","","","",""
+"■深夜UI表示1","","","",""
+"コマンド【基本】を表示します","","","",""
+"お兄ちゃんステータス","","","",""
+"\E\f[32]\v[111]%","","","\E\font[3]\f[24]\-[2]\v[111]%",""
+"\E\f[28]賢者","","","\E\font[3]\f[18]\-[2]Post-nut",""
+"\E\f[28]冷静","","","\E\font[3]\f[18]\-[2]Calm",""
+"\E\f[28]普通","","","\E\font[3]\f[18]\-[2]Normal",""
+"\E\f[28]興奮","","","\E\font[3]\f[18]\-[2]Excited",""
+"\E\f[28]限界","","","\E\font[3]\f[18]\-[2]Limit",""
+"\E\f[28]暴走","","","\E\font[3]\f[18]\-[2]Run-amok",""
+"終了ボタン","","","",""
+"Picture/endbutton.png","","","",""
+"ボタン類　カテゴリ1　右　400～","","","",""
+"Picture/h_button_s01.png","","","",""
+"Picture/h_button_s02.png","","","",""
+"Picture/h_button_s04.png","","","",""
+"仰向け","","","",""
+"Picture/hbutton_m17.png","","","",""
+"横向き","","","",""
+"うつぶせ","","","",""
+"バック","","","",""
+"騎乗位","","","",""
+"まんぐり","","","",""
+"パイズリ","","","",""
+"Picture/h_button_s03.png","","","",""
+"Picture/hbutton_m32.png","","","",""
+"ボタン類　カテゴリ1　左　500～","","","",""
+"Picture/h_button_s07.png","","","",""
+"Picture/h_button_s06.png","","","",""
+"Picture/hbutton_m37.png","","","",""
+"Picture/h_button_s08.png","","","",""
+"Picture/h_button_s09.png","","","",""
+"拭き取る","","","",""
+"Picture/hbutton_m35.png","","","",""
+"射精499","","","",""
+"Picture/h_button_s05.png","","","",""
+"コマンド【触る 右】を表示します","","","",""
+"4","","","",""
+"Picture/hbutton_m02.png","","","",""
+"Picture/hbutton_m01.png","","","",""
+"Picture/hbutton_m27.png","","","",""
+"Picture/hbutton_m03.png","","","",""
+"うつ伏せ","","","",""
+"シックスナイン","","","",""
+"ぱいずり","","","",""
+"コマンド【服】を表示します","","","",""
+"Picture/hbutton_m10.png","","","",""
+"Picture/hbutton_m11.png","","","",""
+"Picture/hbutton_m28.png","","","",""
+"Picture/hbutton_m12.png","","","",""
+"着衣チェックA","","","",""
+"これ以上着せる服がない場合は着せるを消す","","","",""
+"これ以上脱がす服がない場合は脱がすを消す","","","",""
+"コマンド【触る　左】を表示します","","","",""
+"Picture/hbutton_m08.png","","","",""
+"Picture/hbutton_m09.png","","","",""
+"コマンド【道具】を表示します","","","",""
+"道具関係","","","",""
+"Picture/hbutton_m23.png","","","",""
+"Picture/hbutton_m24.png","","","",""
+"Picture/hbutton_m25.png","","","",""
+"Picture/hbutton_m26.png","","","",""
+"コマンド【触るおっぱい右】を表示します","","","",""
+"Picture/hbutton_m04.png","","","",""
+"Picture/hbutton_m05.png","","","",""
+"コマンド【触るおしり】を表示します","","","",""
+"Picture/hbutton_m06.png","","","",""
+"Picture/hbutton_m07.png","","","",""
+"コマンド【触るまんまん】を表示します","","","",""
+"コマンド【着せる】を表示します","","","",""
+"Picture/hbutton_m13.png","","","",""
+"Picture/hbutton_m14.png","","","",""
+"Picture/hbutton_m15.png","","","",""
+"Picture/hbutton_m16.png","","","",""
+"コマンド【脱がす】を表示します","","","",""
+"■深夜UI表示2","","","",""
+"コマンド【挿入】を表示します","","","",""
+"Picture/hbutton_m20.png","","","",""
+"Picture/hbutton_m19.png","","","",""
+"Picture/hbutton_m18.png","","","",""
+"Picture/hbutton_m36.png","","","",""
+"Picture/hbutton_m22.png","","","",""
+"Picture/hbutton_m31.png","","","",""
+"Picture/hbutton_m30.png","","","",""
+"コマンド【挿入　あそこ】を表示します","","","",""
+"コマンド【触る　左おっぱい】を表示します","","","",""
+"コマンド【触る　左おしり】を表示します","","","",""
+"コマンド【挿入　うごく】を表示します","","","",""
+"Picture/hbutton_m33.png","","","",""
+"Picture/hbutton_m34.png","","","",""
+"コマンド【尻コキ】を表示します","","","",""
+"Picture/hbutton_m38.png","","","",""
+"■深夜UI判定","","","",""
+"1.44ティッシュ","","","",""
+"使用済みティッシュ","","","",""
+"ティッシュ1","","","",""
+"\E…拭き取ったあとのティッシュだな。
+ほんのり栗の花の香りがするぞ。","","","\E\font[3]\f[18]\-[2]...It's the tissue I used to wipe. 
+It has a faint scent of chestnut flowers.",""
+"ティッシュ2","","","",""
+"ティッシュ3","","","",""
+"1.44ゴム","","","",""
+"使用済みゴム","","","",""
+"ゴム1","","","",""
+"\E…精液でたぷたぷになったコンドームだ。","","","\E\font[3]\f[18]\-[2]...It's a condom full of sperm.",""
+"ゴム2","","","",""
+"ゴム3","","","",""
+"各画像（ボタン）を選択時に呼び出す変数を設定します","","","",""
+"行為終了","","","",""
+"お尻選択","","","",""
+"尻コキ","","","",""
+"触る　右","","","",""
+"触る　左","","","",""
+"服","","","",""
+"道具","","","",""
+"触る　おっぱい","","","",""
+"触る　お尻","","","",""
+"触る　まんまん","","","",""
+"着せる","","","",""
+"脱がす","","","",""
+"挿入","","","",""
+"浅く/深く","","","",""
+"触る　左おっぱい","","","",""
+"触る　左おしり","","","",""
+"■■■ここまでメニュー■■■","","","",""
+"■■■ここから実処理■■■","","","",""
+"なでる　右おっぱい","","","",""
+"揉む　右おっぱい","","","",""
+"右　乳首","","","",""
+"なでる　右おしり","","","",""
+"もむ　右おしり","","","",""
+"なか　おしり","","","",""
+"あそこ　そと","","","",""
+"あそこ　なか","","","",""
+"着せる　パジャマ","","","",""
+"着せる　きゃみ","","","",""
+"着せる　短パン","","","",""
+"着せる　ショーツ","","","",""
+"脱がす　パジャマ","","","",""
+"脱がす　キャミ","","","",""
+"脱がす　短パン","","","",""
+"脱がす　ショーツ","","","",""
+"めくる　パジャマ","","","",""
+"オナニー","","","",""
+"挿入　浅く","","","",""
+"挿入　深く","","","",""
+"挿入　お尻","","","",""
+"挿入　抜く","","","",""
+"挿入　うごく","","","",""
+"SE/decision22.mp3","","","",""
+"挿入　止まる","","","",""
+"hscene/h_s01_pose01_syasei05.png","","","",""
+"速度調整は一旦実装見送り","","","",""
+"挿入　遅く","","","",""
+"挿入　早く","","","",""
+"ゴム装着","","","",""
+"なでる　左おっぱい","","","",""
+"揉む　左おっぱい","","","",""
+"左　ちくび","","","",""
+"なでる　左おしり","","","",""
+"揉む　左おしり","","","",""
+"道具　ローター","","","",""
+"道具　バイブ","","","",""
+"道具　アナルバイブ","","","",""
+"道具　触手","","","",""
+"射精","","","",""
+"SE/cancel1.mp3","","","",""
+"おしり　そと","","","",""
+"開脚","","","",""
+"閉脚","","","",""
+"コンドーム装着","","","",""
+"\Eしっかり装着しているぞ。","","","\E\font[3]\f[18]\-[2]I have it on properly.",""
+"\E妹の事を思うならちゃんとつけないとな…。","","","\E\font[3]\f[18]\-[2]If you care about your sister, you should make sure to wear it properly...",""
+"妹を起こす","","","",""
+"起こす","","","",""
+"\E妹を起こすのか…？","","","\E\font[3]\f[18]\-[2]Wake her up...?",""
+"ポーズ変更","","","",""
+"仰向けへ","","","",""
+"\E先に精子を拭いたほうがよさそうだ…。","","","\E\font[3]\f[18]\-[2]It might be a good idea to clean off the sperm first...",""
+"ポーズ変更リアクション","","","",""
+"\E仰向けにするのか…？","","","\E\font[3]\f[18]\-[2]Make her lie on her back...?",""
+"\E…よし。","","","\E\font[3]\f[18]\-[2]...There.",""
+"\Eん…。","","","\E\font[3]\f[18]\-[2]Nhn...",""
+"SE/[System]Buzzer02_panop.ogg","","","",""
+"横向きへ","","","",""
+"\E横向きにするのか…？","","","\E\font[3]\f[18]\-[2]Make her lie on her side?",""
+"\E横になればいいの…？","","","\E\font[3]\f[18]\-[2]Will this be okay...?",""
+"うつ伏せへ","","","",""
+"\Eうつ伏せにするのか…？","","","\E\font[3]\f[18]\-[2]Make her lie face down...?
+",""
+"\E…よっこいしょ、と。","","","\E\font[3]\f[18]\-[2]...Okay.",""
+"\Eえ、うつ伏せになるの…？","","","\E\font[3]\f[18]\-[2]Huh, you want me to lie face down...?",""
+"バックへ","","","",""
+"\E後ろからするの…？
+うん…いいよ…。","","","\E\font[3]\f[18]\-[2]You want to do it from behind...? 
+Yeah... okay...",""
+"\Eは、はずかしいからあまり見ないで…。","","","\E\font[3]\f[18]\-[2]Ple, please... try not to stare at it too much...
+It's embarrassing...",""
+"\Eそんな格好…恥ずかしいよ…。","","","\E\font[3]\f[18]\-[2]Being in such a position... it's embarrassing...",""
+"騎乗位へ","","","",""
+"\E上に乗るの…？
+うん…わかった…。","","","\E\font[3]\f[18]\-[2]You want me to be on top...? 
+Okay... I got it...",""
+"\E上になればいいの…？
+う、うん…。","","","\E\font[3]\f[18]\-[2]Will this be okay...?
+Th, there...",""
+"\Eそんなの…恥ずかしいよ…。","","","\E\font[3]\f[18]\-[2]That's... kind of embarrassing...",""
+"\Eお口がいいの…？
+うん、いいよ…。","","","\E\font[3]\f[18]\-[2]You want to stick it in my mouth...?
+Yeah, okay...",""
+"\E…お口で？
+ん、いいよ…。","","","\E\font[3]\f[18]\-[2]...With my mouth?
+Su, sure...",""
+"\Eああ…見られちゃう…あたしの…。","","","\E\font[3]\f[18]\-[2]Ah... I'm being seen... my private parts...",""
+"まんぐり返し","","","",""
+"\Eうん…いっぱいして…。","","","\E\font[3]\f[18]\-[2]Yes... please do lots...",""
+"\E…やっ…きゃっ！","","","\E\font[3]\f[18]\-[2]...No... Kyah!",""
+"\Eうぅ…こんな格好…恥ずかしい…。","","","\E\font[3]\f[18]\-[2]Uugh... this position... is embarrassing...",""
+"\Eやっ…やだ…こんな格好…！","","","\E\font[3]\f[18]\-[2]No, no... I can't... in such an embarrassing position...!",""
+"\E…うん。
+妹の胸で気持ちよくなってね…。","","","\E\font[3]\f[18]\-[2]...Okay.
+Please feel good with your sister's boobs...",""
+"\E…おっぱいで挟むの…？
+うん…わかった…。","","","\E\font[3]\f[18]\-[2]...You want me to squeeze it between my boobs...? 
+Okay... I got it...",""
+"\E…む、胸で…？
+う、うん…いい、けど…。","","","\E\font[3]\f[18]\-[2]...Wi, with my boobs...? 
+O, okay... sure...",""
+"ゲームオーバー","","","",""
+"デバック用だよ","","","",""
+"■深夜UI処理","","","",""
+"各メニューの表示呼び出しを行っています","","","",""
+"SE/Enter.wav","","","",""
+"\E精液を拭き取ってからにしようぜ…。","","","\E\font[3]\f[18]\-[2]Let's wipe off the sperm first before doing that...",""
+"Picture/hbutton_m21.png","","","",""
+"サブメニュー処理","","","",""
+"戻り","","","",""
+"Tips","","","\font[3]\f[18]Guide",""
+"更新履歴","","","\font[3]\f[18]Changelog",""
+"戻り子","","","",""
+"画面の見方（メイン）","","","\font[3]\f[18]Understanding the screen layout (Main)",""
+"画面の見方（深夜）","","","\font[3]\f[18]Understanding the screen layout (Midnight)",""
+"画面の見方（戦闘）","","","\font[3]\f[18]Understanding the screen layout (Battle)",""
+"画面の見方（冒険など）","","","\font[3]\f[18]Understanding the screen layout (Adventure, etc)",""
+"アイテムリスト","","","\font[3]\f[18]List of items",""
+"育成のヒント","","","\font[3]\f[18]Tips on growth/development",""
+"cg/tips_00.png","","","",""
+"cg/tips_04.png","","","",""
+"＞＞","","","",""
+"\E▼","","","",""
+"cg/tips_01.png","","","",""
+"Picture/sd_icon06.png","","","",""
+"cg/tips_02.png","","","",""
+"cg/tips_03.png","","","",""
+"cg/tips_10.png","","","",""
+"cg/tips_11.png","","","",""
+"Picture/sd_icon05.png","","","",""
+"\f[14]\E<C>Tips　深夜について","","","\E\font[3]\f[18]\-[2]<C>Tips on Midnight Activities",""
+"\f[14]\Eお兄ちゃんの\c[2]性欲\c[0]が一定値を超えている状態で就寝すると
+深夜（お触り）パートへ移行できます。","","","\E\font[3]\f[18]\-[2]You can move on to the midnight (touching) activity if you go to bed when your 
+\c[2]lust\c[0] is above a certain level.",""
+"\f[14]\E上部メーターは\c[1]BADが不快感\c[0]、\c[1]GOODが気持ちよさ\c[0]を表し
+BADがゲージいっぱいまで達成すると行為は強制終了となります。","","","\E\font[3]\f[18]\-[2]The upper meter represents \c[1]discomfort with ""BAD""\c[0] and \c[1]pleasure with ""GOOD.""\c[0] 
+When the ""BAD"" gauge reaches full, midnight (touching) activity will be forced to an end.",""
+"\f[14]\Eメーター中央アイコンで現在の妹の\c[1]睡眠状態\c[0]と
+\c[1]その気（興奮）度合い\c[0]を\c[2]アイコンの鼓動速度\c[0]で表します。","","","\E\font[3]\f[18]\-[2]The central icon on the meter displays your sister's \c[1]current sleep status\c[0] and 
+her \c[1]level of arousal\c[0], indicated by the \c[2]speed at which the icon pulsates.\c[0]",""
+"\f[14]\E睡眠状態が浅いほどGOOD、BAD両ゲージの上昇が早くなりますが
+逆に眠りが深い時は行動に制限を受けません。","","","\E\font[3]\f[18]\-[2]When in a shallow sleep state, the ""GOOD"" and ""BAD"" gauges rise faster. 
+Conversely, there are no limitations on actions when in a deep sleep state.",""
+"\f[14]\EBADの許容量は\c[1]信頼度\c[0]や\c[1]性興味\c[0]を上げることで上昇します。","","","\E\font[3]\f[18]\-[2]The tolerance level for BAD increases by gaining more \c[1]trust and interest\c[0] from your sister.",""
+"\f[14]\E着衣の乱れや精液など\c[1]痕跡\c[0]を残さないように気をつけ
+最初のうちはとにかく\c[2]バレないように\c[0]してみましょう。","","","\E\font[3]\f[18]\-[2]Be careful not to leave any evidence behind, \c[1]such as messy clothes or bodily fluids.\c[0]
+Especially in the beginning, let's make every effort to \c[2]avoid getting caught.\c[0]",""
+"cg/tips_05.png","","","",""
+"cg/tips_06.png","","","",""
+"Picture/sd_icon04.png","","","",""
+"\f[14]\E<C>Tips　バトルについて","","","\E\font[3]\f[18]\-[2]<C>Tips on Battles",""
+"\f[14]\Eバトルは\c[1]1ターン\c[0]に\c[1]1回\c[0]キャラクターを選択し行動を選ぶことで進行します。","","\f[14]\EThe battle progresses by selecting a character and choosing an action once per turn.\c[1]\c[0]\c[1]\c[0]","\E\font[3]\f[18]\-[2]The battle progresses by selecting a character and choosing an action \c[1]once per turn.\c[0]",""
+"\f[14]\E互いに行動を繰り返し、先に\c[2]戦力\c[0]を全て奪った陣営の勝利となります。","","\f[14]\EBoth sides repeat their actions, and the victory goes to the faction that first \c[2]depletes all their \c[0]forces.","\E\font[3]\f[18]\-[2]You and your enemy take turns performing actions, 
+and the side that depletes the other's \c[2]fighting strength\c[0] first wins.",""
+"\f[14]\E各行動は使用スキルに応じた\c[2]行動ポイント（★）\c[0]を消費します。
+行動ポイントは毎ターンの初めに\c[2]2ポイント\c[0]回復します。
+　","","\f[14]\EEach action consumes Action Points (★) based on the skill used.\c[2] Action Points are restored by 2 points at the beginning of each turn.\c[0]
+\c[2]\c[0]
+","\E\font[3]\f[18]\-[2]Each action costs a certain number of \c[2]Action Points (\font[0]★\font[3])\c[0] depending on the skill used. 
+By default, \c[2]2 Action Points\c[0] are generated at the start of each turn.",""
+"\f[14]\Eまた、各キャラクターそれぞれ\c[2]動ける回数\c[0]が決まっています。
+顔アイコン横の■が残りの動ける回数です。","","\f[14]\EIn addition, each character has a predetermined number of times they can move.\c[2]The ■ next to the face icon indicates the remaining number of moves. \c[0]
+","\E\font[3]\f[18]\-[2]Furthermore, each character has a \c[2]predetermined number of times they can move.\c[0]
+The \font[0]■\font[3] next to the face icon indicates the remaining available moves.",""
+"\f[14]\E10ターン以内に勝負がつかなかった場合は
+その時点で\c[1]戦力比\c[0]の多い陣営の勝利となります。","","\f[14]\EIf the game is not decided within 10 turns, 
+the side with a higher power ratio at that time \c[1]will be declared the winner. \c[0]","\E\font[3]\f[18]\-[2]If the battle exceeds 10 turns without a clear winner, victory will be awarded 
+to the team with the higher \c[1]fighting strength ratio.\c[0]",""
+"cg/tips_07.png","","","",""
+"cg/tips_08.png","","","",""
+"\f[14]\E<C>Tips　討伐/冒険について","","","\E\font[3]\f[18]\-[2]<C>Tips on Subjugation Req./Adventure",""
+"cg/tips_09.png","","","",""
+"\f[14]\E大冒険、討伐は各コマンドを実行しクエストクリアを目指します。","","","\E\font[3]\f[18]\-[2]Throughout the subjugation request and grand adventure, your goal is to complete 
+quests by executing various commands.",""
+"\f[14]\E\c[1]進む\c[0]、\c[1]背負う\c[0]コマンドは進行度が進みますが行動力が減ります。","","","\E\font[3]\f[18]\-[2]The \c[1]advance\c[0] and \c[1]carry sister\c[0] commands increase the progression level 
+but they consume your stamina.",""
+"\f[14]\E行動力、妹の体調が0になると冒険は終了となりますので
+上手く休憩しながらクエスト達成を目指してください。","","","\E\font[3]\f[18]\-[2]It's important to take sufficient breaks while working towards completing the quest, 
+as the journey will end once your stamina or your sister's condition reach 0.",""
+"\f[14]\E冒険中は進む毎にイベントカードがめくられ、
+各種イベントが発生します。","","","\E\font[3]\f[18]\-[2]During the journey, an event card is revealed with each step, 
+which triggers various events.",""
+"\f[14]\E進行度が最大になると討伐対象との戦闘、
+あるいはクエストクリアとなります。","","","\E\font[3]\f[18]\-[2]When the progression level reaches its maximum, you will either engage in a battle 
+with the target or mark the quest as completed.",""
+"cg/tips_12.png","","","",""
+"\f[14]\Eお兄ちゃんの調子が低いと鍛錬で貰える経験が少なくなります。
+調子は「おちんちんびろーん」で上げることが出来ます。","","","\E\font[3]\f[18]\-[2]If you're feeling down, your training efficiency may decrease. 
+To improve your condition, you can utilize the ""get dick out"" option in the interaction commands.",""
+"\f[14]\E適度なびろーんで調子を整えましょう！","","","\E\font[3]\f[18]\-[2]Let's do it in moderation!",""
+"\f[14]\E地域貢献や討伐を行うことで収入を増やすことができます。
+不意な妊娠、爆発に備えて保存は\c[1]こまめ\c[0]に\c[1]別けて\c[0]おきましょう。","","","\E\font[3]\f[18]\-[2]You can increase your income by doing local contributions or completing subjugation requests. 
+Save \c[1]often\c[0] and \c[1]separate\c[0] your progresses in case of unexpected pregnancies or BAD END(s).",""
+"\f[14]\E敵が強いと思ったら\c[1]戦闘スキル\c[0]を習得しましょう。
+単体では逆に不利になるスキルもありますので注意しましょう。","","","\E\font[3]\f[18]\-[2]If you find the enemies to be strong, consider getting more \c[1]combat skills. \c[0]
+However, be mindful that some skills can work against you when used individually.",""
+"\>\f[14]\EVer1.0.0リリースしました！　2022.2.10
+Ver1.1.0追加アップデート1　2022.2.10
+不具合修正、ストーリークリア後コンテンツに討伐、大冒険を追加。
+Ver1.1.1不具合修正　　　2022.2.11
+誤字、不具合の修正をいたしました。
+Ver1.1.2不具合修正　　　2022.2.14
+誤字、不具合の修正をいたしました。
+Ver1.1.3不具合修正、追加 2022.2.17
+誤字や不具合の修正、一部バランスに関わる調整を行いました。
+Ver1.1.4不具合修正、調整 2022.2.23
+誤字や不具合の修正、一部シーンで早送り機能追加。
+Ver1.2.0不具合修正、調整 2022.4.27
+SDイラスト3点追加、水着立ち絵追加、各キャラ普段着立ち絵追加
+ストーリークリア後休日の外出先に海を追加。
+ストーリークリア後カスミ未加入の際に加入イベント追加。
+夢精イベントに妹を追加。
+　","","\>\f[14]\EVersion 1.0.0 has been released! 2022.2.10
+Version 1.1.0 Additional Update 1 2022.2.10
+Bug fixes, added subjugation and grand adventure to post-story clear content.
+Version 1.1.1 Bug fixes 2022.2.11
+Typos and bug fixes have been made.
+Version 1.1.2 Bug fixes 2022.2.14
+Typos and bug fixes have been made.
+Version 1.1.3 Bug fixes, additions 2022.2.17
+Typos and bug fixes, adjustments related to balance have been made.
+Version 1.1.4 Bug fixes, adjustments 2022.2.23
+Typos and bug fixes, fast-forward function added to certain scenes.
+Version 1.2.0 Bug fixes, adjustments 2022.4.27
+Added 3 SD illustrations, added swimsuit standing illustrations, added casual attire standing illustrations for each character
+Added a beach as a post-story clear outing location.
+Added an event for joining Kasumi after clearing the story.
+Added a sister to the wet dream event.
+","\>\font[3]\-[2]\f[14]\EVersion 1.0.0 Released! - February 10, 2022
+Version 1.1.0 Bug Fix and Addition - February 10, 2022
+Bug fixes, added subjugation and grand adventure to post-story clear content
+Version 1.1.1 Bug Fix - February 11, 2022
+Typos and bug fixes
+Version 1.1.2 Bug Fix - February 14, 2022
+Typos and bug fixes
+Version 1.1.3 Bug Fix and Addition - February 17, 2022
+Typos and bug fixes, and made adjustments related to balance in some parts
+Version 1.1.4 Bug Fix and Adjustment - February 23, 2022
+Typos and bug fixes, fast-forward function added to certain scenes
+Version 1.2.0 Bug Fix and Adjustment - April 27, 2022
+Added 3 SD portraits, added swimsuit standing portraits, added casual 
+attire standing portraits for each character
+Added beach as a post-story clear outing location.
+Added an event for joining Kasumi after clearing the story.
+Added sister to the wet dream event
+
+",""
+"\>\f[14]\EVer1.3.0大型追加アップデート　2022.6.17
+■追加
+・テーマイベント「爆発！？ウキウキッ大作戦！」を追加
+
+・日中ランダムイベントを追加
+・夜ランダムイベントを追加
+・外食コマンドを追加
+・深夜パートうつ伏せ時にお尻に挟むを追加
+・深夜パート横向き時にアナル挿入を追加
+・外出先に温泉を追加
+・温泉覗きイベント追加
+・温泉パンツハントイベントを追加
+・パンツ図鑑にギルドメンバーのパンツを追加
+・いくつかのスキルを追加
+■システム
+・戦闘にダウンシステムを追加
+・能力の上限値を500まで解放
+※イベント発生後
+
+他不具合の修正など
+
+詳細は付属の更新履歴ファイルをご参照下さい。
+　　","","\>\f[14]\EVer1.3.0 Major Update - June 17, 2022
+■ Additions
+・Added theme event ""Explosive!? Exciting Operation!""
+
+・Added daytime random events
+・Added nighttime random events
+・Added dining out command
+・Added ""Pinching the Butt"" during lying face down in the late-night section
+・Added ""Anal Insertion"" during lying sideways in the late-night section
+・Added hot springs to go out to
+・Added hot spring peeping event
+・Added hot spring panty hunt event
+・Added guild members' panties to the panty encyclopedia
+・Added several skills
+■ System
+・Added down system to battles
+・Unlocked the upper limit of abilities up to 500
+※After the event occurs
+
+and other bug fixes
+
+Please refer to the attached update history file for details.
+","\>\font[3]\-[2]\f[14]\EVersion 1.3.0 Major Update - June 17, 2022
+\font[0]■\font[3] Additions
+- Added theme event: ""Explosive!? Exciting Operation!""
+- Added daytime random events
+- Added nighttime random events
+- Added dining out command
+- Added ""squeeze between butt"" option when lying face down in 
+midnight (touching) activity
+- Added ""anal insertion"" option when lying sideways in midnight 
+(touching) activity
+- Added hot springs as a new outing location
+- Added hot spring peeping event
+- Added hot spring panty hunt event
+- Added guild members' panties to the panties encyclopedia
+- Added several skills
+
+\font[0]■\font[3] System
+- Added the ""down"" system to battles
+- Increased max stats limit to 500
+※ Available after triggering specific events
+
+Other bug fixes and improvements
+
+Please refer to the included update history file for more details
+
+",""
+"\>\f[14]\EVer1.3.1　2022.6.20
+不具合修正
+\f[14]\EVer1.3.2　2022.7.12
+不具合修正
+\f[14]\EVer1.3.3　2022.8.23
+不具合修正
+　","","","\>\font[3]\-[2]\f[14]\EVersion 1.3.1 - June 20, 2022
+Bug fixes
+Version 1.3.2 - July 12, 2022
+Bug fixes
+Version 1.3.3 - August 23, 2022
+Bug fixes
+
+",""
+"\>\f[14]\EVer1.4.0大型追加アップデート 2023.5.26
+
+■システム
+　・ウディタ3.0対応
+　・選択肢UI変更
+　・UI変更に伴いディフォルメCG23追加
+　・オートセーブ機能実装
+　　‥夜（妊娠判定がない場合）自動保存
+　・セーブ/ロード画面UI改良
+　・引き継ぎシステム追加
+　・所持しているパジャマを引き継ぐように変更
+　","","","\>\font[3]\-[2]\f[14]\EVersion 1.4.0 Major Update - May 26, 2023
+
+\font[0]■\font[3] System
+- Upgraded to Wolf 3.0
+- Changed the choice selection UI
+- Added 23 SD CGs to match the UI changes
+- Implemented auto-save feature
+  - Automatically saves during the night (if there is no pregnancy)
+- Improved save/load screen UI
+- Added carry over system
+- Changed to carry over owned pajamas from previous saves
+
+",""
+"\>\f[14]\E
+■ゲームパート
+　・夕日背景CG修正
+　・世界樹の森背景CG修正
+　・世界樹背景CG修正
+　・海背景1CG修正
+　・海背景2CG修正
+　・妹に起こされるCG追加
+　・街移動時にCGを追加
+　・街帰還時にCGを追加
+　・散歩にCGを追加
+　・日中ランダムイベント追加（25種）
+　・自宅ランダムイベント追加（10種）
+　・ストーリーイベントを追加
+　　‥合宿帰還後あたりにイベントを追加
+　・新規分岐シナリオを追加
+　　‥初回のアカツキに勝利した際に分岐
+　・ユイの体力トレーニングにCGを追加
+　・カナの修行イベントにCGを追加
+　・カスミの初回登場時にCGを追加
+　・カスミに好感度イベントを追加
+　・カナ、ユイ、カスミ、ユカリ好感度イベントにCGを追加
+　・最終戦前にCG追加
+　・温泉イベント会話時に差分追加
+　・大冒険クリア後すぐ超大冒険を実行できるよう変更
+　","","","\>\font[3]\-[2]\f[14]\E
+\font[0]■\font[3] Game Part
+- Adjusted sunset background CG
+- Adjusted World Tree Forest background CG
+- Adjusted World Tree background CG
+- Adjusted beach background 1 CG
+- Adjusted beach background 2 CG
+- Added CG for being woken up by sister
+- Added CG when moving around the city
+- Added CG when returning to the city
+- Added CG for strolling
+- Added daytime random events (25 types)
+- Added home random events (10 types)
+- Added story events
+  - Added events around the time of returning from the training camp
+- Added new branching scenarios
+  - Branches upon winning against Akatsuki for the first time
+- Added CG for Yui's physical training
+- Added CG for Kana's training event
+- Added CG for Kasumi's initial appearance
+- Added events to increase Kasumi's favorability
+- Added CG for favorability events with Kana, Yui, Kasumi, and Yukari
+- Added CG before the final battle
+- Added variations to the hot springs event conversations
+- Changed so that the Super Grand Adventure can be performed immediately 
+after clearing the Grand Adventure
+
+",""
+"\>\f[14]\E
+■Hイベント
+　・サブキャラシャワー覗きCG修正
+　・温泉イベントCG修正
+　・ランダムイベントオナニー目撃を追加
+　・外食におっぱいチャレンジを追加
+　・妹の夢精イベントその2を追加
+　・休日泳ぎに行くからHするを追加
+　・パンツハントにパンコキ派生イベントを追加
+　・騎乗位での中出しを追加（大冒険クリア後）
+　・スパイダー騎乗位を追加（大冒険クリア後）
+■深夜パート
+　・既存事後で怒る率が高すぎたので修正
+　・同意H終了時に事後CGを追加
+　　‥ほぼ裸であることが必要です
+　・手つなぎ演出追加
+　・ゴム、ティッシュ見る追加
+　・口内射精カットインを追加
+　・大冒険クリア後の中出し時リアクションを調整
+■その他
+　・テキスト調整
+　・CG/演出調整
+
+他不具合の修正など
+
+詳細は付属の更新履歴ファイルをご参照下さい。
+　","","","\>\font[3]\-[2]\f[14]\E
+\font[0]■\font[3] H Events
+- Adjusted sub-character shower peeping CG
+- Adjusted hot springs event CG
+- Added witnessing masturbation event to random events
+- Added boobs challenge during dining out
+- Added second dream event featuring the sister
+- Added option to have sex during beach outing
+- Added panty hunt event with pantyjob variation
+- Added vaginal cumshot during cowgirl position 
+(after clearing the Grand Adventure)
+- Added spider cowgirl position 
+(after clearing the Grand Adventure)
+
+\font[0]■\font[3] midnight (touching) Activities
+- Adjusted the frequency of getting angry in existing post-H scenes
+- Added consensual sex post-H CG
+  - Nudity is required in most cases
+- Added hand-holding gesture
+- Added scenes of looking at condoms and tissues
+- Added cut-in for ejaculation in the mouth
+- Adjusted reactions during creampie after clearing the Grand Adventure
+
+\font[0]■\font[3] Other
+- Adjusted text
+- Adjusted CG and effects
+
+Other bug fixes and improvements
+
+Please refer to the included update history file for more details
+
+",""
+"\>\f[14]\EVer1.4.1 2023.5.26
+軽微な不具合の修正
+Ver1.4.11 2023.5.27
+体調チュートリアル後ゲームが進行不能になってしまう不具合の修正
+Ver1.4.2 2023.5.30
+　・深夜意図しないタイミングでステータス画面などが開けてしまう現象の修正
+　・SAVEフォルダ内にサムネイル画像が無い場合でも処理を継続するよう修正
+　・セーブ/ロード選択時保存箇所が先頭ページに戻る現象へ対処
+　・引き継ぎで仲間のレベルを最大にした際の不具合を修正
+　・温泉イベント中にゲームが停止してしまう不具合への対応
+　・手繋ぎ演出が体位を変えても残ってしまう現象の修正
+　・超大冒険の進行度が100日目でリセットされてしまう現象の修正
+　・深夜悪戯時に意図しないタイミングで瞬きしてしまう現象への対処
+　・ランダムイベントで博士のイベント処理を変更
+　・体位69時に限界を超えて射精できてしまう現象の修正
+　・カスミの好感度イベントが繰り返し発生する現象の修正
+　・「Hしたい」を断られた際に旧選択肢表示になる現象の修正
+　・特定条件下で時間外にトレーニングなどが実行出来る現象へ対処
+　・引き継ぎPの最大値を30に設定
+　・その他軽微なバグ・誤字等の修正
+Ver1.4.3 2023.6.6
+　・深夜意図していないタイミングで瞬きが発生する現象の修正
+　・その他軽微なバグ・誤字等の修正
+　","","","\>\font[3]\-[2]\f[14]\EVersion 1.4.1 - May 26, 2023
+Fixed minor bugs
+Version 1.4.11 - May 27, 2023
+Fixed a bug where the game becomes unplayable after the health tutorial
+Version 1.4.2 - May 30, 2023
+- Fixed an issue where status screen unexpectedly open during midnight 
+(touching) activity
+- Fixed a bug where the game continues processing even if thumbnail images 
+are missing in the SAVE folder
+- Addressed the issue where the save/load selection returns to the first page
+- Fixed a bug related to leveling up companions to the maximum during 
+carry over
+- Addressed the issue where the game freezes during the hot springs event
+- Fixed the issue where the hand-holding gesture remains even when changing 
+positions
+- Fixed the issue where the progress of the Grand Adventure resets on 
+the 100th day
+- Addressed the issue where blinking occurs at unintended moments during 
+midnight (touching) activity
+- Modified the event handling for the Doctor's event during random events
+- Fixed the issue where excessive ejaculation is possible during the 69 
+position
+- Fixed the issue where Kasumi's favorability event occurs repeatedly
+- Fixed the issue where the old selection display appears when rejected 
+with ""Let's have sex!""
+- Addressed the issue where certain conditions allow training and other 
+activities outside of regular hours
+- Set the maximum carry over points to 30
+- Minor bug fixes, typo corrections, and other improvements
+Version 1.4.3 - June 6, 2023
+- Fixed the issue where blinking occurs at unintended moments during 
+midnight scenes
+- Minor bug fixes, typo corrections, and other improvements
+
+",""
+"\>\f[14]\EVer1.4.4 2023.7.2
+誤字や脱字その他軽微な不具合の修正
+
+　","","\>\f[14]\E Version 1.4% 2023.7 Fix typos, dropouts and other minor glitches","\>\font[3]\-[2]\f[14]\EVersion 1.4.4 - July 2, 2023
+Fixed typos, misspellings and other minor bugs",""
+"ステ","","","",""
+"パンツ","","","",""
+"■お触り判定設定","","","",""
+"マウスでのお触り判定を作ります","","","",""
+"ポーズによって判定範囲を変えてください","","","",""
+"self0=確認用透明度　普段は0で使用してね","","","",""
+"仰向け1","","","",""
+"かお","","","",""
+"くち","","","",""
+"あたま","","","",""
+"むね","","","",""
+"乳首舐め","","","",""
+"こかん","","","",""
+"脱いだぱんつ","","","",""
+"クンニ","","","",""
+"横向き1","","","",""
+"うつ伏せ1","","","",""
+"しり","","","",""
+"お尻愛撫中（揉み、撫で）にクリックでアナル舐め","","","",""
+"アナル舐め","","","",""
+"お尻","","","",""
+"カーソル変更","","","",""
+"顔を見る","","","",""
+"CharaChip/look.png","","","",""
+"キス","","","",""
+"CharaChip/talk.png","","","",""
+"頭を撫でる","","","",""
+"CharaChip/hand1.png","","","",""
+"胸を見る","","","",""
+"あそこを見る","","","",""
+"パンツを見る","","","",""
+"お尻を見る","","","",""
+"ちくび舐める　左","","","",""
+"ちくび舐める　右","","","",""
+"アナル　舐める","","","",""
+"ゴム","","","",""
+"ティッシュ","","","",""
+"■■処理さわる右","","","",""
+"カットイン呼び出しパラメータの変動","","","",""
+"テキストの表示など実際の処理を行います","","","",""
+"触るおっぱい","","","",""
+"揉むおっぱい","","","",""
+"ちくび","","","",""
+"触るおしり","","","",""
+"揉むおしり","","","",""
+"おしり中","","","",""
+"hscene/h_s02_action_handanal02.png","","","",""
+"hscene/h_s04_action_handanal01.png","","","",""
+"hscene/h_s06_action_anal01.png","","","",""
+"hscene/h_s07_action_teanal01.png","","","",""
+"hscene/h_s02_action_handanal01.png","","","",""
+"\Eだ、ダメだよ…。","","","\E\font[3]\f[18]\-[2]Yo, you can't...",""
+"\E…そこは…だめ……。","","","\E\font[3]\f[18]\-[2]...That's... you can't...",""
+"\E…やだっ…やめて！","","","\E\font[3]\f[18]\-[2]...Noo... stop!",""
+"\E…や、そんなとこ…やめてっ！","","","\E\font[3]\f[18]\-[2]...No, this kind of thing... cut it out!!",""
+"hscene/h_s07_action_teanal02_2.png","","","",""
+"hscene/h_s07_action_teanal02.png","","","",""
+"hscene/h_s10_action_teman01.png","","","",""
+"hscene/h_s01_action_handmanko03.png","","","",""
+"hscene/h_s01_action_handmanko02.png","","","",""
+"hscene/h_s02_action_handmanko01.png","","","",""
+"hscene/h_s04_action_teman01.png","","","",""
+"hscene/h_s05_action_teman01.png","","","",""
+"hscene/h_s06_action_teman01.png","","","",""
+"hscene/h_s07_action_teman01_2.png","","","",""
+"hscene/h_s07_action_teman01.png","","","",""
+"\E…だめ…。","","","\E\font[3]\f[18]\-[2]...You can't...",""
+"\Eっ………あっ…！","","","\E\font[3]\f[18]\-[2]A.... ah...!",""
+"\E…そんな…とこ…。","","","\E\font[3]\f[18]\-[2]...That... place...",""
+"\E…そこ…だめぇ……。","","","\E\font[3]\f[18]\-[2]...Not... there....",""
+"\E…そこはダメだよ…。","","","\E\font[3]\f[18]\-[2]...You can't there...",""
+"\E………っ…！","","","\E\font[3]\f[18]\-[2]....A..!",""
+"\E…やぁ……ん…。","","","\E\font[3]\f[18]\-[2]...Yah....nn...",""
+"\E…だ、だめぇ……。","","","\E\font[3]\f[18]\-[2]...N, no... don't...",""
+"\E…だ、だめ…。","","","\E\font[3]\f[18]\-[2]...Do, don't...",""
+"hscene/h_s07_action_teman02.png","","","",""
+"hscene/h_s10_action_teman02.png","","","",""
+"hscene/h_s01_action_handmanko01.png","","","",""
+"hscene/h_s02_action_handmanko02.png","","","",""
+"hscene/h_s04_action_teman02.png","","","",""
+"hscene/h_s05_action_teman02.png","","","",""
+"hscene/h_s06_action_teman02.png","","","",""
+"\E…濡れてないと…ちょっと痛いから…。","","","\E\font[3]\f[18]\-[2]...It's a bit painful... if it's not wet...",""
+"\E指入れちゃだめ…。","","","\E\font[3]\f[18]\-[2]You can't stick your finger in...",""
+"\Eんぅっ…ん…。","","","\E\font[3]\f[18]\-[2]Mmnn... nn...",""
+"\Eあっ…やっ……だめぇ…。","","","\E\font[3]\f[18]\-[2]Ah... no... don't...",""
+"\E…兄妹で…ダメ…。","","","\E\font[3]\f[18]\-[2]...We're siblings... we shouldn't...",""
+"\Eいやっ…お兄ちゃんだめっ！","","","\E\font[3]\f[18]\-[2]Noo... you can't do it, Onii-chan!",""
+"絶頂中例外","","","",""
+"\Eふぁ…お兄ちゃん…
+えっちなこと…してる…。","","","\E\font[3]\f[18]\-[2]Huh... Onii-chan...
+You're... doing lewd stuff...",""
+"\Eんー…お兄ちゃん…？
+なにしてるの…？","","","\E\font[3]\f[18]\-[2]Hmmm... Onii-chan...?
+What are you doing...?",""
+"※フェラ派生","","","",""
+"\E…お口でしてあげるね…。","","","\E\font[3]\f[18]\-[2]...I'll use my mouth, okay...?",""
+"\E…手でしてあげるね…。","","","\E\font[3]\f[18]\-[2]...I'll use my hand, okay...?",""
+"\E…こうされると…気持ちいいでしょ…？","","","\E\font[3]\f[18]\-[2]...Does this... feel good...?",""
+"※手コキ派生","","","",""
+"\E…お兄ちゃん…
+オナニー…してるの…？","","","\E\font[3]\f[18]\-[2]...Onii-chan...
+Are you... masturbating...?",""
+"※挿入中オナニー","","","",""
+"\E…ぁ…お兄ちゃんのがこすれて…んっ…","","","\E\font[3]\f[18]\-[2]...A... ah, Onii-chan's rubbing my.... nn...",""
+"\E…あ…お兄ちゃん…
+オナニー…してる…。","","","\E\font[3]\f[18]\-[2]...A... ah, Onii-chan...
+You're... masturbating...",""
+"\Eっ…出しちゃだめ…だよ…。","","","\E\font[3]\f[18]\-[2]Ah... don't... cum yet...",""
+"\Eお、おにいちゃん…その…それ…","","","\E\font[3]\f[18]\-[2]O, Onii-chan... th... there...",""
+"□深夜表情の表示","","","",""
+"寝てるよ","","","",""
+"69","","","",""
+"■■■仰向け1■■■","","","",""
+"覚醒","","","",""
+"cutin/cutin_126.png","","","",""
+"cutin/cutin_125.png","","","",""
+"まどろみ","","","",""
+"睡眠中","","","",""
+"■■■横向き1■■■","","","",""
+"■■■熱帯夜■■■","","","",""
+"■■深夜処理衣服","","","",""
+"▼▼▼服を着せる処理です▼▼▼","","","",""
+"着せるパジャマ","","","",""
+"\E…先にキャミソールを着せたほうがよさそうだな。","","","\E\font[3]\f[18]\-[2]It would be a good idea to put on the camisole first.",""
+"\E…今日はもうおしまい…？","","","\E\font[3]\f[18]\-[2]...Is that all for today...?",""
+"\Eお兄ちゃんが着せてくれるの…？","","","\E\font[3]\f[18]\-[2]You're going to put it on for me...?",""
+"\E…ふぁ…むにゃ…お兄ちゃん…？
+あ、あれ…なんで？","","","\E\font[3]\f[18]\-[2]...Hmm... huh... Onii-chan...?
+W, why... are you?",""
+"\E…絶対に起きると思うが…。","","","\E\font[3]\f[18]\-[2]...She will definitely wake up...",""
+"\E…そっとボタンを…。","","","\E\font[3]\f[18]\-[2]...Gently... the buttons...",""
+"着せるキャミ","","","",""
+"\E…着せちゃうの…？","","","\E\font[3]\f[18]\-[2]...You want to put it on for me...?",""
+"\E着せてくれるの…？","","","\E\font[3]\f[18]\-[2]...Will you to put it on for me...?",""
+"\E…お兄ちゃん……あれ…？
+わたし…なんで裸…？","","","\E\font[3]\f[18]\-[2]...Onii-chan... huh...?
+Why am I... naked...?",""
+"\E…起きる前に着せておこう…。","","","\E\font[3]\f[18]\-[2]...Let's put her clothes back on before she wakes up...",""
+"\E…ひとりでできるよー…。","","","\E\font[3]\f[18]\-[2]...I can do it on my own...",""
+"\E…ほどけてるぞ…。","","","\E\font[3]\f[18]\-[2]..It's undone...",""
+"\E…むにゃ…？
+お兄ちゃん…ありがとう…。","","","\E\font[3]\f[18]\-[2]...Mm...? 
+Thank you... Onii-chan...",""
+"\E…戻しておくか…。","","","\E\font[3]\f[18]\-[2]...Let's put it back on...",""
+"着せる短パン","","","",""
+"\Eお兄ちゃん…もっと…
+えっちしたい…。","","","\E\font[3]\f[18]\-[2]Onii-chan... more...
+Let's have lots of sex...",""
+"\Eもっといいよ…？","","","\E\font[3]\f[18]\-[2]I don't mind if you want to do more...",""
+"\Eはけばいいの…？","","","\E\font[3]\f[18]\-[2]Just need to put it on...?",""
+"\E一人ではけるから…。","","","\E\font[3]\f[18]\-[2]I can do it myself...",""
+"\Eお兄ちゃん…何してるの…？","","","\E\font[3]\f[18]\-[2]What are you doing,.. Onii-chan...?",""
+"\E…起きて脱いでたらさすがに不自然だよな…。","","","\E\font[3]\f[18]\-[2]...It would be quite odd if she woke up and discovered herself without clothes...",""
+"\E…。","","","\E\font[3]\f[18]\-[2]...",""
+"\Eそ、そのくらい自分でするから…。","","","\E\font[3]\f[18]\-[2]T, that much... I can do on my own...",""
+"\Eお兄ちゃん…くすぐったい…。","","","\E\font[3]\f[18]\-[2]Eheh... it tickles... Onii-chan...",""
+"\E…ちゃんと上げとこうか…。","","","\E\font[3]\f[18]\-[2]...Let's put it on properly...",""
+"\E……ん…ぅ…。","","","\E\font[3]\f[18]\-[2]......Mm... ugh...",""
+"着せるショーツ","","","",""
+"\E…お兄ちゃん…お兄ちゃんの精子で…
+オナニーしてもいい…？","","","\E\font[3]\f[18]\-[2]...This is... Onii-chan's... 
+Is it okay if I masturbate... with Onii-chan's sperm...?",""
+"\E…お兄ちゃん…あそこ…ぬるぬるだよ…。","","","\E\font[3]\f[18]\-[2]... Onii-chan... over there... it's slippery...",""
+"\Eん…ぬるぬるしてる…。","","","\E\font[3]\f[18]\-[2]Nhn... it's slippery...",""
+"\Eそれ…お兄ちゃんの…。","","","\E\font[3]\f[18]\-[2]That is... Onii-chan's...",""
+"\Eふぁ…おにいちゃん…
+…お股がぬるぬるするの…。","","","\E\font[3]\f[18]\-[2]Fuah... Onii-chan...
+...my crotch is slippery...",""
+"\E…精液付きのパンツを…よし。","","","\E\font[3]\f[18]\-[2]...Panties with semen on them... Good.",""
+"\Eパンツ…汚しちゃうかも…。","","","\E\font[3]\f[18]\-[2]My panties... might get dirty...",""
+"\E…はいている方が好きなの…？","","","\E\font[3]\f[18]\-[2]...Do you like it better when I have them on...?",""
+"\E脱がせたのに今度ははかせるの…？","","","\E\font[3]\f[18]\-[2]You took it off, but now you want to put it back on...?",""
+"\Eパンツくらい一人ではくから…あまり見ないで…。","","","\E\font[3]\f[18]\-[2]I'll put on my panties by myself... so don't stare at me too much...",""
+"\Eんぅー…あれ……おにいちゃん…？","","","\E\font[3]\f[18]\-[2]Nngh... huh...? Onii-chan...?",""
+"\E…朝になってお尻丸出しはマズイか…。","","","\E\font[3]\f[18]\-[2]...I guess it would be bad if she found her bare butt exposed in the morning...",""
+"\Eふふ…お兄ちゃんくすぐったいよ…。","","","\E\font[3]\f[18]\-[2]Hehe... Onii-chan, that tickles...",""
+"\Eむにゃ…あれ…？どうしたの…？","","","\E\font[3]\f[18]\-[2]Munya... Huh...? What's wrong...?",""
+"\E…よし…これでおっけー。","","","\E\font[3]\f[18]\-[2]...Perfect... that should do it.",""
+"▼▼▼服を脱がす処理です▼▼▼","","","",""
+"脱がすパジャマ","","","",""
+"\E…エッチしてくれるの？","","","\E\font[3]\f[18]\-[2]...Are you going to have sex with me?",""
+"\E…うん、脱ぐから待ってね…。","","","\E\font[3]\f[18]\-[2]...Okay, I'll take it off, so give me a second...",""
+"\E…見たいの…？","","","\E\font[3]\f[18]\-[2]...You want to see it...?",""
+"\E…なんで脱がそうとするの…？","","","\E\font[3]\f[18]\-[2]...Why are you trying to undress me...?",""
+"\E…うぅん…なに…？","","","\E\font[3]\f[18]\-[2]...Hmm... what...?",""
+"\E…そーっとボタンを…。","","","\E\font[3]\f[18]\-[2]...Gently... the button....",""
+"\E…いくら何でも起きると思うが…。","","","\E\font[3]\f[18]\-[2]...I think she will wake up no matter what....",""
+"脱がすキャミ","","","",""
+"\Eふふ…妹のおっぱい、好き？","","","\E\font[3]\f[18]\-[2]Hehe... do you like your cute sister's boobs?",""
+"\E…見たいの？","","","\E\font[3]\f[18]\-[2]...You want to see it?",""
+"\E…ん…わかった…。","","","\E\font[3]\f[18]\-[2]... Nn... got it...",""
+"\E…お兄ちゃん…見えちゃう…。","","","\E\font[3]\f[18]\-[2]... Onii-chan is... looking at them...",""
+"\E…ん…お兄ちゃん…どうしたの…？","","","\E\font[3]\f[18]\-[2]... Nn... Onii-chan... What's wrong...?",""
+"\E…気付かれないように肩紐をほどいて…。","","","\E\font[3]\f[18]\-[2]...Untie the shoulder straps so as not to be noticed....",""
+"\E…いっぱいエッチしようね♥","","","\E\font[3]\f[18]\-[2]...Let's have lots of sex.. \font[0]♥\font[3]",""
+"\Eん、わかった。脱ぐね。","","","\E\font[3]\f[18]\-[2]Nnh, got it. I'll take it off.",""
+"\E…やっぱりなんか恥ずかしいよ…。","","","\E\font[3]\f[18]\-[2]... It really is kind of embarrassing...",""
+"\E…は、恥ずかしいよ…。","","","\E\font[3]\f[18]\-[2]...I-It's embarrassing...",""
+"\E…あれ…お兄ちゃん…？
+なんで脱がしてるの…？","","","\E\font[3]\f[18]\-[2]...Huh... Onii-chan...?
+Why are you undressing me...?",""
+"\E…さすがに起きそうだが…。","","","\E\font[3]\f[18]\-[2]...It looks like she's going to wake up...",""
+"脱がす短パン","","","",""
+"\Eお兄ちゃんのも見せて…。","","","\E\font[3]\f[18]\-[2]Onii-chan, show me yours too...",""
+"\Eそんなに焦んなくてもいいんだよ…？","","","\E\font[3]\f[18]\-[2]You don't have to be so hasty, you know...?",""
+"\E脱ぐんだよね…うん…。","","","\E\font[3]\f[18]\-[2]You're taking it off, right... Okay...",""
+"\Eお兄ちゃん…
+見るだけ…見るだけだよ…？","","","\E\font[3]\f[18]\-[2]Onii-chan...
+You... you can only look, okay...?",""
+"\Eうぅん…？
+なんで脱がすの…？","","","\E\font[3]\f[18]\-[2]Nnhuh...?
+Why are you taking it off...?",""
+"\E…よし、このまま全部…。","","","\E\font[3]\f[18]\-[2]...Okay, like this, all of it...",""
+"\E脱がせてくれるの…？","","","\E\font[3]\f[18]\-[2]You want to take it off...?",""
+"\Eもー…いたずらしないの…。","","","\E\font[3]\f[18]\-[2]Geez... don't do mischievous things to me...",""
+"\Eふぁ…お兄ちゃん何してるの…？","","","\E\font[3]\f[18]\-[2]Fuah... Onii-chan, what are you doing...?",""
+"\E…少しづつゆっくり下げて…。","","","\E\font[3]\f[18]\-[2]...Lower it slowly little by little...",""
+"脱がすショーツ","","","",""
+"\Eお兄ちゃん…もう触って…。","","","\E\font[3]\f[18]\-[2]Onii-chan... just touch me already...",""
+"\Eふふ、そんなに妹のおまんこ見たいの…？","","","\E\font[3]\f[18]\-[2]Hehe, you want to see your sister's pussy that badly...?",""
+"\E焦らなくても逃げないよ…。","","","\E\font[3]\f[18]\-[2]No need to be so hasty, I'm not going anywhere...",""
+"\Eだ、だめ…。","","","\E\font[3]\f[18]\-[2]Do, don't...",""
+"\Eふふ…くすぐったいよお兄ちゃん…。","","","\E\font[3]\f[18]\-[2]Ehehe... Onii-chan, that tickles...",""
+"\E脱がせて…。","","","\E\font[3]\f[18]\-[2]Take it off for me...",""
+"\Eお兄ちゃん…。","","","\E\font[3]\f[18]\-[2]Onii-chan...",""
+"\Eこれ以上は…見えちゃう…。","","","\E\font[3]\f[18]\-[2]Any more than this... you'll be able to see it...",""
+"\E…ん…ふぁ……なあに？","","","\E\font[3]\f[18]\-[2]...Nn... fuah... what?",""
+"\E…よし、このままそーっと…。","","","\E\font[3]\f[18]\-[2]...Good, like this, gently...",""
+"\Eいっぱいエッチしようね…♥","","","\E\font[3]\f[18]\-[2]Let's have lots of sex...\font[0]♥\font[3]",""
+"\Eん…見える…？","","","\E\font[3]\f[18]\-[2]Nhn... can you see it...?",""
+"\Eお兄ちゃん…
+ダメだよ…。","","","\E\font[3]\f[18]\-[2]Onii-chan...
+Bad, that's not good...",""
+"\Eふぇ…おにいちゃん…？","","","\E\font[3]\f[18]\-[2]Fueh... Onii-chan...?",""
+"\E…あと少しで…ゴクリ。","","","\E\font[3]\f[18]\-[2]...Just a little more... *gulp*",""
+"めくるパジャマ/パンツ","","","",""
+"hscene/h_s10_pantu02.png","","","",""
+"hscene/h_s10_pantu01.png","","","",""
+"\E…ね、もっと…しよ？","","","\E\font[3]\f[18]\-[2]...Hey, let's... do more, okay?",""
+"\E…パジャマ脱ごっか？","","","\E\font[3]\f[18]\-[2]...Should I take off my pajamas?",""
+"\E…戻しちゃうんだ？","","","\E\font[3]\f[18]\-[2]...You're going to put it back?",""
+"\E…ん……。","","","\E\font[3]\f[18]\-[2]...Nnn...",""
+"\E…パタパタさせないでよー。","","","\E\font[3]\f[18]\-[2]...Don't flap it.",""
+"\E…んもう…。","","","\E\font[3]\f[18]\-[2]...Geez....",""
+"\E…もう、なんなの。","","","\E\font[3]\f[18]\-[2]...Geez, what is it?",""
+"\E…お兄ちゃん…何やってるの…。","","","\E\font[3]\f[18]\-[2]...Onii-chan... what are you doing....",""
+"\E…ふぅ。","","","\E\font[3]\f[18]\-[2]...Whew.",""
+"\E…うぅん…。","","","\E\font[3]\f[18]\-[2]...Hmmm...",""
+"\E…一応戻しておこう…。","","","\E\font[3]\f[18]\-[2]...I'll put it back just in case...",""
+"\E…そーっと…。","","","\E\font[3]\f[18]\-[2]...Gently....",""
+"■■処理さわる左","","","",""
+"道具ローター","","","",""
+"hscene/h_s01_action_rotor2.png","","","",""
+"hscene/h_s02_action_rotor.png","","","",""
+"hscene/h_s04_action_rotor.png","","","",""
+"hscene/h_s05_action_rotor.png","","","",""
+"hscene/h_s06_action_rotor.png","","","",""
+"hscene/h_s07_action_rotor01.png","","","",""
+"hscene/h_s10_action_rotor01.png","","","",""
+"hscene/h_s01_action_rotor.png","","","",""
+"hscene/h_s07_action_rotor02.png","","","",""
+"hscene/h_s10_action_rotor02.png","","","",""
+"道具バイブ","","","",""
+"\Eこんなのって…","","","\E\font[3]\f[18]\-[2]This is...",""
+"\Eそんなの…怖いよ…。","","","\E\font[3]\f[18]\-[2]That's... scary...",""
+"\Eや、やだっ…！やめて…！","","","\E\font[3]\f[18]\-[2]N, no... don't...! Stop it...!",""
+"hscene/h_s01_action_vibrator.png","","","",""
+"hscene/h_s02_action_vibrator.png","","","",""
+"hscene/h_s04_action_vibrator.png","","","",""
+"hscene/h_s05_action_vibrator.png","","","",""
+"hscene/h_s06_action_vibrator.png","","","",""
+"hscene/h_s10_action_vibrator2.png","","","",""
+"hscene/h_s10_action_vibrator.png","","","",""
+"道具アナルバイブ","","","",""
+"\Eっ…ひどい…。","","","\E\font[3]\f[18]\-[2]...That's mean...",""
+"\Eそんなの入れるの…怖いよ…。","","","\E\font[3]\f[18]\-[2]Putting something like that in... is scary...",""
+"\Eい、いや…何するの…やめて！","","","\E\font[3]\f[18]\-[2]You, you can't... what are you doing... stop it!",""
+"hscene/h_s02_action_analv.png","","","",""
+"hscene/h_s04_action_analv.png","","","",""
+"hscene/h_s06_action_analvibrator.png","","","",""
+"hscene/h_s10_action_analvibrator.png","","","",""
+"道具触手","","","",""
+"\Eいやっ！いやああ…っ！！","","","\E\font[3]\f[18]\-[2]No! Nooo...!!",""
+"\Eや、やだ…怖いっ…！","","","\E\font[3]\f[18]\-[2]N, no... I'm scared...!",""
+"\Eひっ！
+い、いや…やめてお兄ちゃんっ！","","","\E\font[3]\f[18]\-[2]Eek!
+You, you can't... stop it, Onii-chan!",""
+"hscene/h_s01_action_tentacle.png","","","",""
+"hscene/h_s02_action_tentacle.png","","","",""
+"hscene/h_s04_action_tentacle.png","","","",""
+"hscene/h_s05_action_tentacle.png","","","",""
+"hscene/h_s06_action_tentacle.png","","","",""
+"精子を拭き取る処理","","","",""
+"\E精子を拭き取るのか…？","","","\E\font[3]\f[18]\-[2]Wipe off the sperm...?",""
+"\Eだな、さすがに拭いておこう…。","","","\E\font[3]\f[18]\-[2]Yeah, I guess I'll wipe it off...",""
+"\E拭き取っておくか…。","","","\E\font[3]\f[18]\-[2]I guess I'll wipe it off...",""
+"\Eええとティッシュティッシュ…。","","","\E\font[3]\f[18]\-[2]Err, tissues... tissues...",""
+"\Eわぁ…いっぱいだしたねー、えへへ♥","","","\E\font[3]\f[18]\-[2]Wow... you came a lot, ehehe..\font[0]♥\font[3]",""
+"\Eまたしちゃったね…♥","","","\E\font[3]\f[18]\-[2]We did it again...\font[0]♥\font[3]",""
+"\E……もう気は済んだ？","","","\E\font[3]\f[18]\-[2]...Are you satisfied now?",""
+"\Eお兄ちゃんちょっとくすぐったい…。","","","\E\font[3]\f[18]\-[2]Onii-chan, that tickles a little...",""
+"\E……兄妹なのにね…だめだね。","","","\E\font[3]\f[18]\-[2]Even though we're siblings... we're done for.",""
+"\E………こんな関係…。","","","\E\font[3]\f[18]\-[2].........This kind of relationship...",""
+"\E…お兄ちゃん……。","","","\E\font[3]\f[18]\-[2]...Onii-chan...",""
+"\E………ぐす…どうして…。","","","\E\font[3]\f[18]\-[2]...*sob*... Why...?",""
+"\E……うぅ…こんなの……ひどいよ…。","","","\E\font[3]\f[18]\-[2]......Uuu... this is...... horrible...",""
+"ポーズ変更処理","","","",""
+"睡眠度合いなどのパラメータに応じたリアクションを作成すること","","","",""
+"\E足を広げるのか…？","","","\E\font[3]\f[18]\-[2]Spread her legs...?",""
+"\Eいや…まずいだろ…。","","","\E\font[3]\f[18]\-[2]Crap... that's no good....",""
+"\Eうん…わかった…。","","","\E\font[3]\f[18]\-[2]Yeah... got it....",""
+"\Eあ、あまり見ないで…。","","","\E\font[3]\f[18]\-[2]Do, don't stare so much...",""
+"\Eだめ…。","","","\E\font[3]\f[18]\-[2]No, you can't...",""
+"\Eこんな格好…恥ずかしい…。","","","\E\font[3]\f[18]\-[2]This position... is embarrassing...",""
+"\Eい…いや…！","","","\E\font[3]\f[18]\-[2]N... noo...!",""
+"挿入状態/アイテム解除","","","",""
+"\E足を閉じさせるのか…？","","","\E\font[3]\f[18]\-[2]Close her legs...?",""
+"\E足を閉じるの…？","","","\E\font[3]\f[18]\-[2]You want me to close my legs...?",""
+"■中央クリック処理","","","",""
+"横向き　直接お触り時の処理を行っています","","","",""
+"\E…深く寝入っているようだ。
+熱い吐息と高揚した頬…興奮しているのか…？","","","\E\font[3]\f[18]\-[2]...She appears to be in a deep sleep. 
+Her warm breath and flushed cheeks... is she turned on...?",""
+"\E…耳を澄ますと規則正しい寝息が聞こえてくる。
+少しだけ頬が紅潮しているように見える。","","","\E\font[3]\f[18]\-[2]...If you listen closely, you can hear her regular breathing while she sleeps. 
+Her cheeks look slightly flushed.",""
+"\E…耳を澄ますと規則正しい寝息が聞こえてくる。
+しばらく目を覚ますことはないだろうな。","","","\E\font[3]\f[18]\-[2]...If you listen closely, you can hear her regular breathing while she sleeps. 
+I don't think she'll wake up for a while.",""
+"\E…半分夢心地といった表情だ。
+しっとりと汗ばんで息も荒い…興奮しているようだ。","","","\E\font[3]\f[18]\-[2]She has a dreamy look on her face. 
+She's sweating and her breathing is ragged... She seems to be turned on.",""
+"\E…まだ夢から覚めていないのだろう、うつろげな表情だ。
+少しだけ頬が紅潮しているように見える。","","","\E\font[3]\f[18]\-[2]...She must not have woken up from her dream yet. Her expression is vacant.
+Her cheeks look a little flushed.",""
+"\E…夢心地…といったところだろうか…
+そろそろ目を覚ますかも知れない。","","","\E\font[3]\f[18]\-[2]...I guess you could say her expression is kind of dreamy... 
+She might wake up soon.",""
+"\E…完全に起きてしまった…再び寝入ることはないだろう。
+訴えるような熱い視線を絡ませてくる…。","","","\E\font[3]\f[18]\-[2]...She's completely awake... she won't fall asleep again. 
+Her passionate, pleading gaze intertwines with mine..",""
+"\E…完全に起きてしまった…再び寝入ることはないだろう。
+少し頬が赤いように見える…。","","","\E\font[3]\f[18]\-[2]...She's completely awake... she won't fall asleep again. 
+Her cheeks look slightly red...",""
+"\E…完全に起きてしまった…再び寝入ることはないだろう。","","","\E\font[3]\f[18]\-[2]...She's completely awake... she won't fall asleep again. ",""
+"\E眠る妹の頬に軽くキスをする…。","","","\E\font[3]\f[18]\-[2]I lightly kissed my sleeping sister's cheek...",""
+"\E……すぅ…すぅ……。","","","\E\font[3]\f[18]\-[2]...Zzz... zzz...",""
+"\Eまどろむ妹に引き寄せられるように口を近づける…。","","","\E\font[3]\f[18]\-[2]I leaned in closer to my sleeping sister, as if irresistibly drawn to her lips.",""
+"\E……ん…おにいちゃ……？","","","\E\font[3]\f[18]\-[2]......Mm......Onii-chan......?",""
+"\E深く繋がったまま唇を貪り合い
+互いの舌を絡ませ唾液を交換する。","","","\E\font[3]\f[18]\-[2]We devour each other's lips, still deeply connected... 
+Entwining our tongues and exchanging saliva.",""
+"\Eぷぁ…おにい…ん…♥
+ちゅ…れろ…ちゅ……っ……じゅる…","","","\E\font[3]\f[18]\-[2]Puah... Onii... nn...\font[0]♥\font[3]
+*kiss*... *lick*... *kiss*... *slurp*...",""
+"\E繋がったままの妹を抱き寄せ唇を寄せ合う…。","","","\E\font[3]\f[18]\-[2]I hugged my sister, our bodies still connected, and brought our lips together...",""
+"\Eおにいちゃん…ちゅ…♥
+ちゅ…すき…すき……ちゅ…","","","\E\font[3]\f[18]\-[2]Onii-chan... *kiss*\font[0]♥\font[3]
+I... I love you... I love you... *kiss*",""
+"\Eとろけ顔で見つめてくる妹と唇を重ねると
+当たり前のように舌が割り込んでくる…。","","","\E\font[3]\f[18]\-[2]I pressed my lips against hers as she stared at me with an enchanted expression.
+I feel her tongue intervene as if it were a matter of course...",""
+"\Eはぁっはぁっ…おにいちゃ…ん…ちゅ……れろ…","","","\E\font[3]\f[18]\-[2]Haa, haah... Onii-chan... nn... *kiss*... *lick*",""
+"\E見つめ合うと自然に唇を重ね舌を絡ませる。","","","\E\font[3]\f[18]\-[2]When we look at each other, our lips naturally meet, and our tongues intertwine.",""
+"\Eん…ちゅ…おにいちゃん……ちゅ…えへ…","","","\E\font[3]\f[18]\-[2]Nhn... *kiss*... Onii-chan... *kiss*... Ehe...",""
+"\E熱い息の漏れる唇を重ねると
+おずおずと妹の舌が割り込んでくる…。","","","\E\font[3]\f[18]\-[2]As I pressed my lips against hers, feeling the warmth of her breath.. 
+My sister's tongue timidly intertwined with mine...",""
+"\Eん…はぁ…ん…ぷぁ…おにい…ちゃ…ちゅ……","","","\E\font[3]\f[18]\-[2]Nhn... hah... nn... pwah... Onii-cha... *kiss*...",""
+"\E視線が絡みお互い引き寄せられるように唇を重ね合う…。","","","\E\font[3]\f[18]\-[2]Our gazes intertwined, and our lips met as if being drawn to each other...",""
+"\Eおにい…ちゃ…ん…すき♥
+…ちゅ……んっ…すき……","","","\E\font[3]\f[18]\-[2]Onii-chan... I love you...\font[0]♥\font[3]
+...*kiss*... nn... I love you...",""
+"\E身体を重ねたまま吸い付くようにお互いの唇を求め合う…。","","","\E\font[3]\f[18]\-[2]We pressed our bodies together, seeking each other's lips as if clinging to each other...",""
+"\Eんっ…はぁはぁ…おにいちゃ……
+兄妹…なのに…しちゃった…ん…ちゅ……。","","","\E\font[3]\f[18]\-[2]Nhn... haah, haa... Onii-chan...
+Even though... we're siblings... we did it... nn... *kiss*...",""
+"\E妹の膣奥へペニスを突きたて強引に唇を奪う。","","","\E\font[3]\f[18]\-[2]I thrust my dick deep into her pussy and forcibly steal her lips.",""
+"\E…やっ…こんなの…おにいちゃ…っ…。","","","\E\font[3]\f[18]\-[2]...No, don't... This is... Onii-chan...",""
+"\E怪訝そうな表情で見つめてくる妹に唇を寄せる…。","","","\E\font[3]\f[18]\-[2]I brought my lips close to my sister's as she stared at me dubiously...",""
+"\Eん…ちゅ…おにいちゃ…だめだよ…。","","","\E\font[3]\f[18]\-[2]Nhn... *kiss*... Onii-chan... don't...",""
+"\E……え…な、なに？やだ…。","","","\E\font[3]\f[18]\-[2]......Eh... wh, what? No, you can't...",""
+"hscene/h_s03_pose01_hand.png","","","",""
+"\E眠る妹の髪をそっとすくいあげると
+花のような香りがふわりと立ち上る。","","","\E\font[3]\f[18]\-[2]I gently lifted my sleeping sister's hair.. 
+A delicate floral scent wafted into the air.",""
+"\E柔らかな妹の髪を手に取り息を吸い込む、
+鼻腔内いっぱいに花のような香りが広がる…。","","","\E\font[3]\f[18]\-[2]I gently ran my fingers through my sister's soft hair and took a deep breath... 
+A delicate floral scent filled my nostrils.",""
+"\Eすやすやと眠りにつく妹の髪をすくようにそっとなで、頬に触れる。
+病気がちな妹を看病した思い出がよみがえる…。","","","\E\font[3]\f[18]\-[2]I gently stroked my sister's hair as she slept peacefully and lightly touched her cheek. 
+Memories of taking care of my sickly sister come flooding back...",""
+"\Eん……すぅ…すぅ……。","","","\E\font[3]\f[18]\-[2]Nhn... zzz... zzz...",""
+"\E夢心地の中にいる妹を安心させるように頭を優しくなでる。","","","\E\font[3]\f[18]\-[2]I gently patted my sister's head to reassure her while she was in a dream-like state.",""
+"\Eおにいちゃん…すき……すぅ…すぅ…","","","\E\font[3]\f[18]\-[2]Onii-chan... I love you... zzz... zzz...",""
+"\Eむにゃ…えへ…おにいちゃん……","","","\E\font[3]\f[18]\-[2]Mnyah... ehe... Onii-chan...",""
+"\E…ん…おにいちゃ？…すぅ…すぅ…","","","\E\font[3]\f[18]\-[2]...Nn... Onii-cha? ...zzz... zzz...",""
+"\E妹の頭にそっと手を伸ばし優しく髪をなでる。","","","\E\font[3]\f[18]\-[2]I gently reached for my sister's head and softly stroked her hair.",""
+"\E見つめてくる妹の頭にそっと手を伸ばし優しく髪をなでる。","","","\E\font[3]\f[18]\-[2]I gently reached for my sister's head as she stared at me and gently stroke her hair.",""
+"\Eえへへ…お兄ちゃん…♥","","","\E\font[3]\f[18]\-[2]Hehe... Onii-chan...\font[0]♥\font[3]",""
+"\E…おにいちゃん…安心する…。","","","\E\font[3]\f[18]\-[2]...Onii-chan... so calming...",""
+"\E…ん…。","","","\E\font[3]\f[18]\-[2]...Nn....",""
+"\E固くなった乳首の存在を示すかのように
+膨らみの頂点にポツリと点を浮かび上がらせている…。","","","\E\font[3]\f[18]\-[2]A dot appeared at the top of the bulge... 
+Seemingly indicating the existence of her erect nipples.",""
+"\E薄手の肌着越しに上下する
+乳房の形がはっきりと見て取れる。","","","\E\font[3]\f[18]\-[2]I could clearly see the shape of her breasts..
+Moving up and down through her thin underwear.
+",""
+"\E桃色の乳頭が刺激を受けてぷくりと膨らんでいる…。","","","\E\font[3]\f[18]\-[2]Her pink nipples erect from the stimulation...",""
+"\E白い肌にたわわな乳房が揺れている…。","","","\E\font[3]\f[18]\-[2]Her supple breasts sway against her pale skin...",""
+"\E薄手の肌着越しに
+乳房の形がはっきりと見て取れる。","","","\E\font[3]\f[18]\-[2]I could clearly see the shape of her breasts..
+Through her thin underwear.
+",""
+"\E年齢の割に大きく育った乳房は
+服の上からでもその膨らみがはっきりと分かる。","","","\E\font[3]\f[18]\-[2]Her breasts, which had grown large despite her age
+could clearly be seen through her clothes.",""
+"\E固くなったペニスが妹の胸に挟み込まれている…。","","","\E\font[3]\f[18]\-[2]My hardened dick is sandwiched between her boobs...",""
+"まんこみる","","","",""
+"\Eパジャマの裾から伸びる太ももが眩しい…。","","","\E\font[3]\f[18]\-[2]The thighs visible from beneath the hem of her pajamas are dazzling...",""
+"挿入中の結合部を見る（睡眠中","","","",""
+"\E尻穴のあるべき場所にはペニスが深く突き立てられている。
+肉棒を咥えた肛門が吸盤のように吸い付いてくる。","","","\E\font[3]\f[18]\-[2]My dick thrust deep into what should have been her butthole.
+Her anus, which has my member in its mouth, clung to it like a suction cup.",""
+"\E溢れる愛液で互いの性器が怪しく濡れ光っている。
+パンパンに膨れ上がったクリトリスが絶頂を待ちわび震えている。","","","\E\font[3]\f[18]\-[2]Our genitals glistened suspiciously with overflowing love juices.
+Her swollen clitoris trembles impatiently, waiting for her climax.",""
+"\Eにじみ出る愛液が絡み滑りがよくなったようだ。
+にゅるにゅるとうごめく膣内に思わず射精感が込み上げてくる…。","","","\E\font[3]\f[18]\-[2]The oozing juices seemed to coil around her, making it slippery. 
+I couldn't help but feel the urge to ejaculate welling up inside her as she wriggled...",""
+"\Eぴちっと閉じた割れ目をこじ開けるようにペニスが挿入されている。
+膣内は狭くぎちりと痛いほどに締め付けてくる…。","","","\E\font[3]\f[18]\-[2]My dick entered as if to wrench open her tightly closed folds.
+Her insides narrowed and tightened painfully...",""
+"\Eむき出しにされたクリトリスはピンと隆起し、
+膣穴はヒクヒクと物欲しそうに収縮を繰り返している…。","","","\E\font[3]\f[18]\-[2]Her exposed clit perked up...
+The inside of her pussy contracted greedily over and over again...",""
+"\Eぬめりと湿り気を帯びた妹のまんこだ。
+愛液で濡れ怪しくてかっている。","","","\E\font[3]\f[18]\-[2]It's my sister's sopping wet, slippery pussy.
+She is wet with her love juices and looks at me suspiciously.",""
+"\Eぷにぷにと柔らかいスジを押し広げると
+きれいなピンク色の女性器が現れる…。","","","\E\font[3]\f[18]\-[2]When I spread out her soft, squishy folds, 
+a beautiful pink female genitalia appeared...",""
+"\Eスジの奥に見える膣穴から愛液が溢れ出し
+てらてらといやらしく濡れ光っている。","","","\E\font[3]\f[18]\-[2]I can see deep inside her pussy 
+where love juices are lewdly glistening.",""
+"\E湿り気を帯びてツヤ光るスジまんこだ。","","","\E\font[3]\f[18]\-[2]It's a shiny wet pussy.",""
+"\E太ももに挟まれぷっくりと膨らむ妹のスジまんこだ。","","","\E\font[3]\f[18]\-[2]It's my sister's pussy, puffed up between her thighs.",""
+"挿入中の結合部を見るズラシ（睡眠中","","","",""
+"\Eショーツの中央部にじわりと染みが広がっている…。","","","\E\font[3]\f[18]\-[2]A stain slowly spread out in the middle of her panties...",""
+"\E柔らかい素材のショーツが湿気を吸って肌に張り付いている…。","","","\E\font[3]\f[18]\-[2]The soft fabric of her panties absorbed the moisture and clung to her skin.",""
+"\E年相応のリボンの付いたかわいいショーツだ。","","","\E\font[3]\f[18]\-[2]A cute panties with ribbons befitting her age.",""
+"\Eじっとりと汗ばむ肌に張り付くように食い込んでいる…。","","","\E\font[3]\f[18]\-[2]It clings to her moist, sweaty skin...",""
+"\E蒸れた股間に食い込んでいる…。","","","\E\font[3]\f[18]\-[2]I'm looking at her moist crotch...",""
+"\E伸びる太ももが眩しい部屋着のオーバーパンツだ。
+柔らかい素材で色々と浮いて見えてしまう。","","","\E\font[3]\f[18]\-[2]Her bulging thighs shine in her loungewear shorts.
+It's made of soft material, so I can see a lot of things floating around.",""
+"挿入中の結合部を見る　きもちいい","","","",""
+"\Eお尻っ…すき♥好きなの…あたし気持ちいいのっ♥
+もっと…もっとパンパンしてっ…おねがい…中にだして…！","","","\E\font[3]\f[18]\-[2]My butt... I love it \font[0]♥\font[3]... it feels good for me... \font[0]♥\font[3]
+More... fill me up more... please... cum inside me...!",""
+"\Eあっ…お尻で気持ちよくなっちゃうぅ…あっあっ…
+だめっ…おしりなのにっ！こんな…ぁ…あっ！あっ！","","","\E\font[3]\f[18]\-[2]Ah... my butt makes me feel good... ah, ah... 
+I can't... even though it's my butt! This is... ah... ah! Ah!",""
+"\Eおにい…ちゃ……ヘン…ヘンだよ…っ！
+お尻で…なんて……あん…あ…だめぇ…。","","","\E\font[3]\f[18]\-[2]Onii-cha... I feel... we, weird...!
+You can't... do it... with my butt... ahn... no... more...",""
+"\E妹の割れ目に挟まれにゅるにゅると擦り上げられ、
+膣奥から溢れる愛液が絡みつく…。","","","\E\font[3]\f[18]\-[2]As I rubbed against her folds, 
+love juices overflowed from the depths of her pussy...",""
+"\Eおにいちゃん…わかる？
+妹のおまんこ…もうぬるぬるなんだよ？","","","\E\font[3]\f[18]\-[2]Onii-chan... can you feel it? 
+Your sister's pussy... is already sopping wet, you know...?",""
+"\Eお兄ちゃんの息がかかって…
+あそこが切なくて…へんなの…。","","","\E\font[3]\f[18]\-[2]I can feel your breath hitting me...
+The place down here feels suffocating... it's strange...",""
+"\Eお、おにいちゃん…
+おまた見られるのはずかしい…","","","\E\font[3]\f[18]\-[2]O, Onii-chan...
+Don't stare at it too much, it's embarrassing...",""
+"\Eここにお兄ちゃんのが入っちゃうんだよ…♥
+ふふ…ねぇ、どうする…？","","","\E\font[3]\f[18]\-[2]Onii-chan's thing will go in here...\font[0]♥\font[3] 
+Hehe... Hey, what are you going to do...?",""
+"\Eお兄ちゃん…そんなとこ…見ないで…
+は、はずかしいよ…。","","","\E\font[3]\f[18]\-[2]Onii-chan... don't... look at me like that... 
+I, it's embarrassing...",""
+"\Eだめっ…お兄ちゃん！そこは…！
+見ないで…やだっ…やだやだ…！","","","\E\font[3]\f[18]\-[2]Noo... Onii-chan! That's...! 
+Don't look... no... noo noo...!",""
+"挿入中の結合部を見る　ノーマル","","","",""
+"\Eもっ…と解さないと…きつ…ぃ…ぃ…
+お尻っ…壊れちゃう……よ…。","","","\E\font[3]\f[18]\-[2]If you don't... loosen it... it will be... tight... 
+My butt... will bre... ak...",""
+"\Eくるし…っ…おにいちゃ…んっ…
+い…たいよっ……むりぃ…！","","","\E\font[3]\f[18]\-[2]It hurts...nh... Onii-chan... nnh... 
+It hurts... no more...!",""
+"\Eいぃ…た…い…だめぇ……抜いてぇ…。","","","\E\font[3]\f[18]\-[2]Ow... ow... ow... nooo... pull it out...",""
+"\Eぷっくらと膨らむスジまんこにペニスが埋もれている…。
+妹が身をよじる度にいやらしい水音を立てている。","","","\E\font[3]\f[18]\-[2]My dick is buried inside the swollen pussy...
+Every time my sister twists her body, there is a lewd slippery wet sound.",""
+"\Eおまんこ…もう準備できてるから…ね♥","","","\E\font[3]\f[18]\-[2]My pussy... is already prepared... see? \font[0]♥\font[3]",""
+"\Eお兄ちゃんに…見られちゃってる…
+あたしの…あそこ…","","","\E\font[3]\f[18]\-[2]Onii-chan's... looking at it... 
+My... private place...",""
+"\Eああ…みないで…","","","\E\font[3]\f[18]\-[2]Aah... don't look...",""
+"\Eお尻でえっちするの…すきになっちゃった…♥
+いっぱい動いて…中に熱いの出して…。","","","\E\font[3]\f[18]\-[2]I've learned to love butt sex... \font[0]♥\font[3] 
+Move more... then shoot out the hot stuff inside me....",""
+"\Eぁ…えっちする場所じゃなないのに…っ…こんな…
+ヘンだよぅ…おにいちゃん…お尻っこわれちゃう…っ","","","\E\font[3]\f[18]\-[2]Ah... that's not usually the place to have sex...nh... this is...
+It's weird... Onii-chan... you're going to break my butt... kh...",""
+"\Eっ…ぁ…っく！お尻っ…だめっ…
+く、るしいよ……こんなの……おかしいっ…よ！","","","\E\font[3]\f[18]\-[2]...Ah... kh! My butt... no...
+It, it hurts... this isn't... right!",""
+"\E妹の割れ目で挟み込むようにペニスが埋もれている。
+妹の体重や熱、ヌルヌルとした愛液の滑りが心地よい…。","","","\E\font[3]\f[18]\-[2]My dick is buried between her folds. 
+Her body, warmth, and slippery love juices brings a sense of comfort...",""
+"パンツあり挿入　きもちいい","","","",""
+"\E蒸されて熱々でとろとろのおまんこだよ…？
+挿入たらきっと気持ちいいよ…♥","","","\E\font[3]\f[18]\-[2]It's a hot, steamy, wet pussy, you know...? 
+I'm sure it will feel good when you stick it in...\font[0]♥\font[3]",""
+"\Eそんなにじっくり見ないで…はずかしいよ…。","","","\E\font[3]\f[18]\-[2]Don't stare at me like that... it's embarrassing...",""
+"\Eこ、これは汗だから…うぅ…。","","","\E\font[3]\f[18]\-[2]Th, this is just a sweat... Uuu...",""
+"\Eんっ…濡れてきちゃった…
+お兄ちゃん…えっちなこと、しよ♥","","","\E\font[3]\f[18]\-[2]Nnh... it's getting wet... 
+Onii-chan... let's have sex...\font[0]♥\font[3]",""
+"\Eや、エッチなことしないで…だめだよ…。","","","\E\font[3]\f[18]\-[2]No, don't do anything perverted... You can't...",""
+"\Eそ、そんなところ…見ちゃ…だめ…。","","","\E\font[3]\f[18]\-[2]T, that place... don't look at it... like that...",""
+"\Eもう…妹のパンツがそんなに好きなの…？
+息が荒くなってるよ…ふふ♥","","","\E\font[3]\f[18]\-[2]Geez... do you like your sister's panties that much...?
+Your breathing is getting rough...\font[0]♥\font[3]",""
+"\Eおにいちゃんはパンツが好きなの…？","","","\E\font[3]\f[18]\-[2]Onii-chan, do you like panties...?",""
+"\Eお、お兄ちゃん…はずかしいよ…","","","\E\font[3]\f[18]\-[2]O, Onii-chan... it's embarrassing...",""
+"\Eおにいちゃん…
+もういっぱい濡れてると思うから……しよ♥","","","\E\font[3]\f[18]\-[2]Onii-chan...
+I think mine's already wet, so... let's do it.\font[0]♥\font[3]",""
+"\Eおにいちゃん…見てるだけで…いいの…？
+もっと…いいよ……。","","","\E\font[3]\f[18]\-[2]Onii-chan... are you sure you want to just watch...?
+It's okay... to do more...",""
+"\Eおにいちゃん…どうしよう…
+あそこがきゅんってなって…切ないの…。","","","\E\font[3]\f[18]\-[2]Onii-chan... what should I do...?
+It's throbbing down there... I can't take it anymore...",""
+"\Eおにいちゃん…どこ見てるの…？
+ふふ…触ってもいいよ…♥","","","\E\font[3]\f[18]\-[2]Onii-chan... What are you looking at...?
+*chuckle*... It's fine, touch me as you please...\font[0]♥\font[3]",""
+"\Eおにいちゃん…おまたがキュンってするの…。","","","\E\font[3]\f[18]\-[2]Onii-chan... my crotch is throbbing...",""
+"\E…そ、そんなとこ…じっと見ちゃダメ…だよ。","","","\E\font[3]\f[18]\-[2]...Do, don't... stare at me like that...",""
+"\Eそんなにお顔近づけてみたら…恥ずかしいよ…。","","","\E\font[3]\f[18]\-[2]If you bring your face that close... it will be embarrassing...",""
+"\Eだめー！もう、ヘンなところばっかり見るんだから…。","","","\E\font[3]\f[18]\-[2]You can't! Geez, you're always looking at weird places...",""
+"\Eそ、そんなとこ…見ないで…。","","","\E\font[3]\f[18]\-[2]Do, don't... look at it...",""
+"ぱんつを見る","","","",""
+"\E脱がせた妹のパンツだ…。
+クロッチの部分は精液でベトベトになっている。","","","\E\font[3]\f[18]\-[2]These are my sister's panties that I took off.
+Sticky semen covered the crotch area.",""
+"\Eついさっきまで身につけられていた妹のパンツだ。
+クロッチの部分が大きくシミになっている…。","","","\E\font[3]\f[18]\-[2]These are my sister's panties that she was wearing just now.
+There's a big stain on the crotch...",""
+"\Eいままで妹のはいていたパンツだ。
+クロッチ部分がうっすらと湿っている…。","","","\E\font[3]\f[18]\-[2]These are my sister's panties that she has been wearing until now.
+The crotch area is slightly damp...",""
+"おしり見る","","","",""
+"アナル（ピンポイント）","","","",""
+"\Eほおずりしたくなるほどに白く眩しい妹のお尻だ…。","","","\E\font[3]\f[18]\-[2]My sister's butt is so bright and white that I want to rub my cheeks on it...",""
+"\Eかわいらしい下着に包まれた妹のお尻だ。","","","\E\font[3]\f[18]\-[2]My sister's butt wrapped in cute underwear.",""
+"\E丸みをおびた妹のお尻が揺れている…。","","","\E\font[3]\f[18]\-[2]My sister's round butt is swaying...",""
+"\E眠っている妹の割れ目に舌を差し込みスジを舌でなぞる…。
+分泌物と石鹸の混じり合う妹の味と匂いが口と鼻を満たす…。","","","\E\font[3]\f[18]\-[2]I stuck my tongue into my sleeping sister's folds and traced it along the line...
+The taste and smell of her secretions mixed with soap filled my brain...",""
+"\E膣奥へ舌を差し込み溢れる愛液を舐め啜り、
+隆起したクリトリスに吸い付き舌先で撫で回す…。","","","\E\font[3]\f[18]\-[2]I inserted my tongue into the depths of her pussy, licked and slurped up the overflowing love juices. 
+I sucked on her erect clit and stroked it with the tip of my tongue...",""
+"\E皮に包まれた陰核に吸い付き唇と舌で優しく吸い上げる…。
+膣穴をなぞるように舌を這わせ膣壁をなで上げる。","","","\E\font[3]\f[18]\-[2]I gently sucked on her clit, still wrapped in its skin...
+I ran my tongue along her pussy and stroked her pussy walls.",""
+"\E閉じた縦スジに沿って舌をなぞりほぐしていく…。
+分泌物の味と少しのおしっこの匂いが口いっぱいに広がる…。","","","\E\font[3]\f[18]\-[2]I traced my tongue along her closed folds...
+The taste of the secretion and the smell of pee spread through my mouth...",""
+"寝惚け状態","","","",""
+"\E妹の割れ目に舌を差し込みスジを舌でなぞる…。
+分泌物と石鹸の混じり合う妹の味と匂いが口と鼻を満たす…。","","","\E\font[3]\f[18]\-[2]I stuck my tongue into my sister's folds and traced it along the line...
+The taste and smell of her secretions mixed with soap filled my brain...",""
+"覚醒状態","","","",""
+"\Eあっ…あっ……おにいちゃん…そこっ……もっと…♥
+もっと吸って…あっ…きもちいいっ…あっああっ！","","","\E\font[3]\f[18]\-[2]Ah... ah... Onii-chan... there... more...\font[0]♥\font[3]
+Suck more... ah... it feels good... ah, aaah!",""
+"\Eんっ…ぁ…はぁっはぁっ…おにいちゃん…おいし？
+きもち…いいよ…っ♥…上手……んぁ…っ…はっ…ぁん…♥","","","\E\font[3]\f[18]\-[2]Nhn... ah... hah, hah... Onii-chan... does it taste good?
+It feel... good...nh... You're good at this... nnah...nh... hah... aahn...\font[0]♥\font[3]",""
+"\Eお兄ちゃんがあたしのおまんこ舐めてる…ふふ…♥
+ん…いいよ……いっぱい味わってね…。","","","\E\font[3]\f[18]\-[2]Onii-chan's licking my pussy... Hehe...\font[0]♥\font[3]
+Mm... It's okay... Taste it lots...",""
+"\Eそんな…吸っちゃ…あっ……んぁっ…あっあんっ♥
+あっ…気持ちいい…っ…きもちいいよおにいちゃん…！","","","\E\font[3]\f[18]\-[2]Don't... suck on it like that... ah... nnah... ah, ahn!\font[0]♥\font[3]
+Ah... it feels good...nh... it feels good, Onii-chan...!",""
+"\Eやっ…っ…そこ…おにいちゃ…だめぇ…っ…ぁ……あぅ…
+きた…汚いよ……あっ…あっ……だめっ…あ、ああっ！","","","\E\font[3]\f[18]\-[2]No...nh... don't... Onii-chan... there...nh... ah... auh...
+It's... dirty... ah... ah... no... ah, ahh!",""
+"\Eだめっ…そんなとこ……汚い…よ…っ…あっ…
+ああっ…だ、めぇ……あぅ……っ……んっ……ぁ…","","","\E\font[3]\f[18]\-[2]No... that's... dirty... aah...
+Aaah... no, nooo... auh... nh... nh... ah...",""
+"\Eだめっ…おにいちゃん！そこ…舐めちゃ汚っ……っ…あっ！ぁ…ぁっ！
+あっ…だめ……だめなのっ……んっ…はぁっ……あ…あっ！","","","\E\font[3]\f[18]\-[2]Don't... Onii-chan! Don't... lick there...! ...Ah! Ah... ah!
+Ah... no... I can't... nnh... haah... ah... ah!",""
+"\Eや、やだ……おにいちゃん……そこは…だめ…。
+お願い…わかって…。","","","\E\font[3]\f[18]\-[2]N, no...... Onii-chan...... not... there......
+Please... understand...",""
+"\Eや…嫌っ！お兄ちゃんダメッ！！
+止めてお願い！もう止めて…！お兄ちゃん！","","","\E\font[3]\f[18]\-[2]No... no! Onii-chan, don't!!
+Stop it, please! Stop it already...! Onii-chan!",""
+"\Eやだぁ…あっ…あっ！…嫌…なのにぃ……やめてぇ……。
+おにいちゃん…だめ…っ……あっあっ……もう…いやぁ…。","","","\E\font[3]\f[18]\-[2]Nooo... ah... aah! ...I hate this... please... stop...
+Onii-chan... don't... ah, ah... no more...",""
+"\Eな、何を…やだっ！だめぇ！！
+お兄ちゃん…おにいちゃん！やめて！やめて……。","","","\E\font[3]\f[18]\-[2]Wh, what are you... No! Don't!!
+Onii-chan... Onii-chan! Stop! Stop it already...",""
+"\Eい…嫌……やだ………嫌…いやーっ！！！
+やだ！やだぁ…止めて！だ、誰か……っ！","","","\E\font[3]\f[18]\-[2]... No... no... no... nooo!!!
+No! No... stop! He, help... someone...!",""
+"\E刺激され固くなった乳首を舌先で味わうように転がす…。","","","\E\font[3]\f[18]\-[2]I rolled the tip of my tongue around her erect nipples...",""
+"\Eそっと妹の乳房を口に含み乳首をやさしく吸い上げる…。","","","\E\font[3]\f[18]\-[2]I gently put her breasts in my mouth and gently sucked on her nipples...",""
+"\Eコリコリと固くなった乳首を吸い上げ。
+舌先で弾くように転がす…","","","\E\font[3]\f[18]\-[2]I sucked on her erect nipples.
+I rolled it around with the tip of my tongue...",""
+"\E妹の乳房を口に含み乳首を吸い上げる…。","","","\E\font[3]\f[18]\-[2]I put her breasts in my mouth and sucked on her nipples...",""
+"\Eん…きもちいいよ……♥
+おにいちゃん…妹のおっぱい美味し？","","","\E\font[3]\f[18]\-[2]Nhn... it feels good...\font[0]♥\font[3]
+Onii-chan... does your sister's boobs taste good?",""
+"\Eおにいちゃんかわいい…♥
+妹のおっぱい…いっぱい吸っていいからね…。","","","\E\font[3]\f[18]\-[2]Onii-chan, you're so cute...\font[0]♥\font[3]
+It's fine... you can suck on your sister's boobs a lot...",""
+"\Eんっ……はぁっ…♥
+お兄ちゃん一生懸命でかわいい…。","","","\E\font[3]\f[18]\-[2]Nnh... hahh... \font[0]♥\font[3]
+Onii-chan, you're so cute when you're trying so hard...",""
+"\E…お兄ちゃん、なんだか赤ちゃんみたい…。ふふ","","","\E\font[3]\f[18]\-[2]...Onii-chan, you look like a baby... hehe.",""
+"\Eんっ…やだ……やだやだ…。","","","\E\font[3]\f[18]\-[2]Nhn... no... no, noo...",""
+"\Eい…いやっ！
+お兄ちゃんやめて…。","","","\E\font[3]\f[18]\-[2]...No!
+Onii-chan, stop...",""
+"\Eんっ……はぁっ…
+お兄ちゃん一生懸命でかわいい…。","","","\E\font[3]\f[18]\-[2]Nnh... hahh...
+Onii-chan, you're so cute when you're trying so hard...",""
+"乳首舐め　右","","","",""
+"\Eおにいちゃんかわいい…。
+妹のおっぱい…いっぱい吸っていいからね…。","","","\E\font[3]\f[18]\-[2]Onii-chan, you're so cute...
+It's fine... you can suck on your sister's boobs a lot...",""
+"\E尻肉を広げきゅっとすぼまった肛門に舌を這わせる、
+シワの間を丁寧に舐め上げヒクく尻穴に舌先を差し入れる…。","","","\E\font[3]\f[18]\-[2]I spread her buttcheeks wide open and licked her butthole with the tip of my tongue, 
+then carefully worked its way into it.",""
+"\Eとろとろにほぐれた尻穴にしゃぶりつくように舐め回し、
+肛門に吸い付き舌先を何度も差し入れる…。","","","\E\font[3]\f[18]\-[2]I licked all over her slippery wet butthole as if to suck on it, 
+then put the tip of my tongue in and out repeatedly...",""
+"\E…あっ…入って…おにいちゃんの入ってるのわかるよ。
+いいよ…きれいにしてるから平気…いっぱいして…。","","","\E\font[3]\f[18]\-[2]...Ah... coming in... I can tell Onii-chan's inside.
+It's okay... I cleaned it up, so don't worry... do lots of it...",""
+"\Eんぁ…っ…ん……舌…きもちいいよ…♥
+もっと舐めて…っ…奥まで…あっ…あぁっ…！","","","\E\font[3]\f[18]\-[2]Nnah...nh... Nnh... your tongue... feels good...\font[0]♥\font[3]
+Lick it more...nh... all the way in... aah... aaah...!",""
+"\Eあっあっ…きもち…いいっ…お尻…おしりがいいの…っ♥
+おにいちゃん！あたし…おしりもきもちいいの…あっ…んっ！","","","\E\font[3]\f[18]\-[2]Ah, ah... it feels... good... butt sex... feels good...\font[0]♥\font[3]
+Onii-chan! My butt... feels good too... Ah... Nn!",""
+"\Eヒクヒクと開閉する尻穴に舌先を尖らせねじり込む、
+舌先をいっぱいに伸ばし腸壁の奥を舐め上げる…。","","","\E\font[3]\f[18]\-[2]I tapered and twisted the tip of my tongue into her twitching butthole, 
+stretching it to its full length as I licked up her inner walls...",""
+"\Eおにいちゃん…おしりのがいいの…？
+あたし…おまんこの方がいいな…うぅー…。","","","\E\font[3]\f[18]\-[2]Onii-chan... You prefer butt sex...?
+I... like normal sex better though... uuuuu...",""
+"\Eんっ……はぁ…おにいちゃん…きもちいいよ…。
+おにいちゃんも興奮する？あたしのお尻すき…？","","","\E\font[3]\f[18]\-[2]Nhn...... hah... Onii-chan... it feels good...
+Onii-chan, are you turned on too? You like my butt...?",""
+"\Eあ…あぁ…お尻も…あそこも…おにいちゃんのだからね…♥
+いっぱい…いっぱい舐めて…気持ちよくして…♥","","","\E\font[3]\f[18]\-[2]Ah... aah... my butt... and over there... they're Onii-chan's, after all...\font[0]♥\font[3]
+Lick lots... of them... make me feel really good...\font[0]♥\font[3]",""
+"\Eんっ…そんなとこ…っ……うぅ……。
+ヘンな感じ…。","","","\E\font[3]\f[18]\-[2]Nhn... there..nh... uuh...
+It feels weird...",""
+"\Eんっ…ぁ…今日はお尻がいいの？
+いいよ…していいようにしてるからいっぱい…して…。","","","\E\font[3]\f[18]\-[2]Nnh... aah... You want to do butt sex for today? 
+Okay... I'll make it so we can go ahead and do lots of it...",""
+"\Eあぅ…ん……んっ…はぁっ…おし…おしりぃ…♥
+おにいちゃ…あっ…お尻も…きもちいいかも……あっ！","","","\E\font[3]\f[18]\-[2]Au... nn... nn... haah... my butt... my butt...\font[0]♥\font[3]
+Onii-chan... ah... butt sex... might feel good too... ah!",""
+"\Eきゅっと閉じた肛門に舌を這わせ舐め上げる、
+尻穴を舌先でつつきシワの間を丁寧に舐めほぐす…。","","","\E\font[3]\f[18]\-[2]I gently licked her tightly contracted butthole butthole, 
+and poked its entrance with the tip of my tongue...",""
+"\Eやっ…っ…そこ…おにいちゃ…だめぇ…っ…ぁ……あぅ…
+いやぁ…ヘンな感じ……あっ…おにいちゃ…ぅんっ…！","","","\E\font[3]\f[18]\-[2]No...nh... don't... Onii-chan... there...nh... ah... auh...
+Nooo... it feels weird... aah... Onii-cha... nnh...!",""
+"\E異物の侵入を阻もうと閉じる尻穴の締め付けを感じながら
+固く尖らせた舌先を肛門に出し入れする…。","","","\E\font[3]\f[18]\-[2]I felt the tightness of her butthole as it tried to prevent foreign objects from entering, 
+while I moved my hard-pointed tongue back and forth inside...",""
+"\Eきゅっとすぼまった肛門に優しく口を寄せ、
+閉じた尻穴に舌先を差し入れほぐしていく…。","","","\E\font[3]\f[18]\-[2]I gently brought my mouth close to her tightly contracted butthole, 
+inserted the tip of my tongue into and loosened it...",""
+"\Eやっ！おにいちゃ…っ…そこ違っ…！
+き、汚いよ…ん……っ……あっ……だめぇ…。","","","\E\font[3]\f[18]\-[2]Kya! Onii-cha...nh... that's not it...!
+Tha, that's dirty... nnh... ah... no...",""
+"\Eやっ！？…そんなとこ…だめっ！！
+そこ…だめ……お願い、お兄ちゃん…。","","","\E\font[3]\f[18]\-[2]Kya!? ...You can't... do that!!
+No... not there... please, Onii-chan...",""
+"\Eやだっ…だ、だめ！
+お兄ちゃん！おにーちゃん！！！やめてぇ！","","","\E\font[3]\f[18]\-[2]No... no, noo!
+Onii-chan! Onii-chan!!! Stop!",""
+"\E尻肉を広げかぶりつくように尻穴を舌先でねぶる、
+閉じた肛門に無理やり差し入れ啜りシワを舐め上げる。","","","\E\font[3]\f[18]\-[2]I spread her buttcheeks wide open and licked her butthole with the tip of my tongue, 
+then forcefully worked its way into it.",""
+"\E嫌っ…っ…ん……だめ！もういやぁ…！
+お兄ちゃん…こんなこともう…ぁっ……いやだぁ…。","","","\E\font[3]\f[18]\-[2]I don't want... nnh... no! No more!
+Onii-chan... I don't want any of this... ah... anymore...",""
+"\い、嫌！！やだぁ…！
+お兄ちゃん…ひどいことしないで…。","","","\E\font[3]\f[18]\-[2]No, noo!! Nooo...!
+Onii-chan... don't do anything terrible...",""
+"絶頂中です　※妹の台詞などを変える","","","",""
+"\Eぷぁ…おにい…ん…ちゅ…れろ…ちゅ……っ……じゅる…","","","\E\font[3]\f[18]\-[2]Puah... Onii... nn... *kiss*... *lick*... *kiss*... nh... *slurp*...",""
+"\E蕩け顔で見つめてくる妹と唇を重ねると
+当たり前のように舌が割り込んでくる…。","","","\E\font[3]\f[18]\-[2]I pressed my lips against hers as she stared at me with an enchanted expression.
+I could feel her tongue coming in as if it was a matter of course...",""
+"\Eおにい…ちゃ…ん…すき…♥
+ちゅ……んっ…すき……","","","\E\font[3]\f[18]\-[2]Onii-chan... I love you...\font[0]♥\font[3]
+*kiss*... Mm... I love you...",""
+"\Eん…ちゅ…おにいちゃん……ちゅ…えへ…♥","","","\E\font[3]\f[18]\-[2]Nn...*kiss*... Onii-chan...*kiss*...hehe...\font[0]♥\font[3]",""
+"\Eおにい…ちゃ…ん…すき…ちゅ……んっ…すき……","","","\E\font[3]\f[18]\-[2]Onii-cha... nh... I love you... *kiss*... nh... I love you...",""
+"■例外処理監視","","","",""
+"射精、絶頂などの例外処理を判定し呼び出します","","","",""
+"\Eもうこんな時間か…
+1時には寝ておかないと明日にひびくな…。","","","\E\font[3]\f[18]\-[2]It's already this late... 
+If I don't sleep by 1 o'clock, I'll be too tired for tomorrow...",""
+"\Eさすがに朝になる前に寝ておかないとまずいな…。","","","\E\font[3]\f[18]\-[2]I really need to get some sleep before morning comes...",""
+"■例外処理実行","","","",""
+"タイムアップ","","","",""
+"エフェクトオフ","","","",""
+"\E…っともうこんな時間か…そろそろ寝ないと…！","","","\E\font[3]\f[18]\-[2]...Oh, it's already this late... I really need to go to sleep...!",""
+"行為を終了させます","","","",""
+"\E…一発シコシコしてから寝るか…。","","","\E\font[3]\f[18]\-[2]...I guess I'll do it once before going to sleep...",""
+"\E…………","","","\E\font[3]\f[18]\-[2]..........",""
+"例外処理　覚醒","","","",""
+"強制中断","","","",""
+"\E…い、いやっ！
+……お兄ちゃん…やめて…。","","","\E\font[3]\f[18]\-[2]... No, noo!
+...Onii-chan... stop...",""
+"怒らない","","","",""
+"\Eん…そんなにしたかったの…？","","","\E\font[3]\f[18]\-[2]Nhn... You wanted to do it that badly...?",""
+"\Eん…おにいちゃん…
+今日もえっちなことしてくれるの…？","","","\E\font[3]\f[18]\-[2]...Onii-chan...
+Are you going to have sex with me again today...?",""
+"\Eんー…おにいちゃん眠いよ……","","","\E\font[3]\f[18]\-[2]Nhhh... Onii-chan, I'm sleepy...",""
+"\E今日はもう寝よう…？","","","\E\font[3]\f[18]\-[2]Let's go to sleep for today...?",""
+"\E…お兄ちゃん、普通そこまでする…？","","","\E\font[3]\f[18]\-[2]...Onii-chan, would you normally go that far...?",""
+"\E…お兄ちゃん、していい時とだめな時があるんだよ？","","","\E\font[3]\f[18]\-[2]...Onii-chan, there are times when you can't do it, you know?",""
+"\E…もう…仕方ないなあ…。","","","\E\font[3]\f[18]\-[2]...Geez ...you can't be helped ....",""
+"\E…ん…おにいちゃん……したくなったの…？","","","\E\font[3]\f[18]\-[2]...Nn... Onii-chan... did that make you feel like doing it...?",""
+"\Eん…あれ…？","","","\E\font[3]\f[18]\-[2]Hmm... huh...?",""
+"\Eどうして…こんな…。","","","\E\font[3]\f[18]\-[2]Why... is this...",""
+"\Eや…お兄ちゃん…だめだよ……ね？","","","\E\font[3]\f[18]\-[2]...Onii-chan... you can't... okay?",""
+"\E…お兄ちゃん…今日は寝かせて…おねがい…。","","","\E\font[3]\f[18]\-[2]...Onii-chan... let me sleep today... please...",""
+"\E…え……い、いやっ！
+なんで…？えっ…えっ？","","","\E\font[3]\f[18]\-[2]... Eh... n, no!
+Why...? Ehh...... ehhh?",""
+"\Eあれ…おにい…ちゃん…？","","","\E\font[3]\f[18]\-[2]Huh... Onii...-chan...?",""
+"\E………んっ…こんなの…だめだよ…。","","","\E\font[3]\f[18]\-[2]... Nnh... this... you can't do this...",""
+"\E………あ……えと…やさしく…して…。","","","\E\font[3]\f[18]\-[2].........Ah......umm...be gentle...",""
+"\Eん…なに…？……あれ……？","","","\E\font[3]\f[18]\-[2]...What...? ...Huh...?",""
+"\E………おにいちゃ……なに…してるの…。","","","\E\font[3]\f[18]\-[2]...Onii-chan... what are you... doing...?",""
+"\E………おにいちゃ……え？えぇ！？
+なんで…え……だ、だめだよ！","","","\E\font[3]\f[18]\-[2]...Onii-cha... ehh? ehhh!?
+Why... huh...? You can't!",""
+"\E………おにいちゃ……え？…なに……
+だめなんだよ…兄妹なんだから……ね…？","","","\E\font[3]\f[18]\-[2]...Onii-cha... eh? ...what...
+You can't... we're siblings... okay...?",""
+"\E…え…？
+お兄ちゃん…嘘…なんで…。","","","\E\font[3]\f[18]\-[2]...Eh...?
+Onii-chan... no way... why...?",""
+"\E…お、お兄ちゃん……その…なに…してるの…。","","","\E\font[3]\f[18]\-[2]...Onii-chan... umm... what are you... doing...?",""
+"\E妹に怒られてしまった…。","","","\E\font[3]\f[18]\-[2]She got mad at me...",""
+"おねだり","","","",""
+"\E…ふぅ…いっぱい出してスッキリしたぞ…。
+ふぁ……そろそろ寝ようかな…。","","","\E\font[3]\f[18]\-[2]... Phew... I feel better now that I've let out so much...
+*yawn*... Maybe I should go to sleep...",""
+"\E………むー…おにーちゃん…。","","","\E\font[3]\f[18]\-[2]... Mmm... Onii-chan...",""
+"\Eむむ？","","","\E\font[3]\f[18]\-[2]Mmmm?",""
+"\Eそーやってお兄ちゃんばっかり…
+あたしだって…気持ちよくなりたいんだよ…？","","","\E\font[3]\f[18]\-[2]You're the only one who always feels good... 
+I... I want to feel good too, you know...?",""
+"今日は疲れた…","","","",""
+"\E……ぷー…。","","","\E\font[3]\f[18]\-[2].....*cuckle*...",""
+"\E………。","","","\E\font[3]\f[18]\-[2]..........",""
+"\E……う…おにい…ちゃん。","","","\E\font[3]\f[18]\-[2]......Uu... Onii...-chan.",""
+"\Eん？","","","\E\font[3]\f[18]\-[2]Hm?",""
+"\Eも…もっと…して…
+あたしも…きもちよくして…？","","","\E\font[3]\f[18]\-[2]Please... do it... more...
+I... want to feel good too...",""
+"\E……じぶんばっかり…。","","","\E\font[3]\f[18]\-[2]......You're only thinking about yourself...",""
+"\E…あの…おにいちゃん……
+も、もう少しだから…その…。","","","\E\font[3]\f[18]\-[2]...Um... Onii-chan...
+I-I'm almost there... so.. um...",""
+"\E……ぶぅ…。","","","\E\font[3]\f[18]\-[2]......*cuckle*...",""
+"絶頂","","","",""
+"嫌悪感最大","","","",""
+"\E……うぅん…。","","","\E\font[3]\f[18]\-[2]......Hmm...",""
+"1","","","",""
+"例外処理　嫌悪感最大","","","",""
+"X[移]セーブ・ロード画面描画","","","",""
+"バレルート","","","",""
+"\E…ほんとうに…ケダモノなの…？","","","\E\font[3]\f[18]\-[2]...Seriously... are you a beast...?",""
+"\E……こんなのって…","","","\E\font[3]\f[18]\-[2]...This is...",""
+"\E…最低……","","","\E\font[3]\f[18]\-[2]...You're the worst...",""
+"\E…なんで…こんなこと……","","","\E\font[3]\f[18]\-[2]...Why... are you doing this...?",""
+"\E…おにいちゃん……","","","\E\font[3]\f[18]\-[2]...Onii-chan...",""
+"\E…信じてたのに…ひどい……。","","","\E\font[3]\f[18]\-[2]...I believed in you, but...this is just terrible...",""
+"\E横なぎに倒れる木々、吹き飛んだ家…だったもの。
+見えるはずのない星空、感じるはずのない夜の風─","","","\E\font[3]\f[18]\-[2]Trees tumbling sideways, houses blown away—things that were once there. 
+An unexpectedly visible starry sky, a night breeze that defies expectation...",""
+"\E…い、いやぁっ…！","","","\E\font[3]\f[18]\-[2]...No, nooo...!",""
+"\E…いやっ…出さないでっ……","","","\E\font[3]\f[18]\-[2]...No... don't let it out inside...",""
+"\E…ひどい……","","","\E\font[3]\f[18]\-[2]...This is terrible...",""
+"深夜終了処理","","","",""
+"終了処理","","","",""
+"■■挿入浅い","","","",""
+"挿入関係ここから","","","",""
+"\E…先に精液を拭き取りたいぞ。","","","\E\font[3]\f[18]\-[2]...I want to wipe off the semen first.",""
+"挿入中止","","","",""
+"挿入　浅","","","",""
+"hscene/h_s01_pose04a.png","","","",""
+"hscene/h_s01_pose04b.png","","","",""
+"hscene/h_s03_pose02.png","","","",""
+"hscene/h_s03_pose03.png","","","",""
+"精液差分を用意する必要あり","","","",""
+"hscene/h_s04_sonyu.png","","","",""
+"hscene/h_s04_syasei08.png","","","",""
+"hscene/h_s04_syasei07.png","","","",""
+"hscene/h_s04_sonyu_pantu01.png","","","",""
+"hscene/h_s05_pose03_01.png","","","",""
+"hscene/h_s05_pose03_02.png","","","",""
+"hscene/h_s05_pose03_03.png","","","",""
+"ここに貼り付け","","","",""
+"cutin/cutin_210.png","","","",""
+"cutin/cutin_209.png","","","",""
+"cutin/cutin_208.png","","","",""
+"cutin/cutin_207.png","","","",""
+"cutin/cutin_107.png","","","",""
+"cutin/cutin_106.png","","","",""
+"cutin/cutin_180.png","","","",""
+"cutin/cutin_179.png","","","",""
+"\Eこんなの我慢できるわけ…ないだろ…？","","","\E\font[3]\f[18]\-[2]There is no way... I can hold back like this...",""
+"ポーズ4が挿入ポーズです　","","","",""
+"\E濡れてるな…。","","","\E\font[3]\f[18]\-[2]It's wet...",""
+"\E柔らかくて暖かい…。","","","\E\font[3]\f[18]\-[2]Soft and warm...",""
+"\Eほんの少し…先っぽだけなら…。","","","\E\font[3]\f[18]\-[2]If it's just a little... just the tip...",""
+"\Eちょっと当てるだけだから…。","","","\E\font[3]\f[18]\-[2]Just a little...",""
+"\Eお兄ちゃんになら…いいよ…。","","","\E\font[3]\f[18]\-[2]If it's for you... then, it's okay...",""
+"\Eお兄ちゃん…挿れたいの…？
+うん…いいよ…。","","","\E\font[3]\f[18]\-[2]Onii-chan... You want to stick it in...?
+Yeah... go ahead....",""
+"受け入れ体制OK","","","",""
+"\Eぁ…ん……ん…。
+おにいちゃん…きて…。","","","\E\font[3]\f[18]\-[2]Ah... nn... nn...
+Onii-chan... come....",""
+"\Eだ…だめぇ…。","","","\E\font[3]\f[18]\-[2]N...nooo...",""
+"\Eまた…あれ、するの…？","","","\E\font[3]\f[18]\-[2]You're... doing that again...?",""
+"身体はまだ気持ちはOK","","","",""
+"\Eん…ぁ……やさしくしてね…。","","","\E\font[3]\f[18]\-[2]Nhn... ah... be gentle...",""
+"身体も気持ちもまだ","","","",""
+"\Eんっ…ぅ……っ…
+ちょっとまだきついかも…。","","","\E\font[3]\f[18]\-[2]Nhn... uu... kh...
+It might still be a little tight...",""
+"\Eぁ…ん…
+おにいちゃん…やさしくして…。","","","\E\font[3]\f[18]\-[2]Ah... nn...
+Onii-chan... be gentle...",""
+"\Eっ…ん…
+お兄ちゃんの…おっき…。","","","\E\font[3]\f[18]\-[2]Kh... nn...
+Onii-chan's... big...",""
+"\Eつ…っ…！
+まだ…ちょっと……痛いよ…。","","","\E\font[3]\f[18]\-[2]Gh...hh!
+It still... hurts... a little...",""
+"\Eあたしたち兄妹なんだよ…。","","","\E\font[3]\f[18]\-[2]We're siblings, you know...",""
+"\E兄妹でこんなこと…。","","","\E\font[3]\f[18]\-[2]Siblings aren't supposed to do this...",""
+"受け入れ","","","",""
+"\Eぁ…ぁ……ああ…っ
+おにいちゃん…だめぇ…。","","","\E\font[3]\f[18]\-[2]Ah... ah... ahh... 
+Onii-chan... don't...",""
+"もうひと押し","","","",""
+"\Eそれだけはダメ…だよ…。
+お願い…わかって、ね？","","","\E\font[3]\f[18]\-[2]That's the one thing you can't do...
+Please... understand, okay?",""
+"拒否","","","",""
+"\E…今日のお兄ちゃん、なんだか怖いよ…。","","","\E\font[3]\f[18]\-[2]...Onii-chan's kinda scary today...",""
+"拒絶","","","",""
+"\E…っ！？
+い、嫌っ！やだっ！！お兄ちゃんやめてっ！！","","","\E\font[3]\f[18]\-[2]...Kh!?
+N, no! No!! Onii-chan, stop!!",""
+"■■挿入深い","","","",""
+"挿入　深","","","",""
+"hscene/h_s04_syasei09.png","","","",""
+"cutin/cutin_101.png","","","",""
+"cutin/cutin_100.png","","","",""
+"cutin/cutin_182.png","","","",""
+"cutin/cutin_181.png","","","",""
+"\Eぬるりと挿入ってしまった…。","","","\E\font[3]\f[18]\-[2]I slipped it in...",""
+"\Eき、きつい…挿れてるだけでも…。","","","\E\font[3]\f[18]\-[2]It's, it's so tight... just by putting it in...",""
+"\Eよく寝てるな…これなら…。","","","\E\font[3]\f[18]\-[2]She's sleeping well... with this...",""
+"hscene/h_s04_syasei01.png","","","",""
+"\E妹の膣内に挿入れたい…。","","","\E\font[3]\f[18]\-[2]I want to put it inside my sister's pussy...",""
+"\E妹のはじめて…あげるね。","","","\E\font[3]\f[18]\-[2]I'll give you... my virginity...",""
+"\Eあっ…ん……おにいちゃん…
+あたしの中でいっぱい気持ちよくなってね…。","","","\E\font[3]\f[18]\-[2]Ah... nn... Onii-chan... 
+Please make yourself feel really good inside of me...",""
+"\Eん……んっ……。
+お兄ちゃんの…ぜんぶ挿入ちゃったね♥","","","\E\font[3]\f[18]\-[2]Nhn......nn......
+Onii-chan's... is all the way inside of me.\font[0]♥\font[3]",""
+"\Eんっ…っ…
+濡らさないと…きつい…よ…。","","","\E\font[3]\f[18]\-[2]Nhn...
+If you don't get it wet... it will be... tight...",""
+"\Eん…挿入ちゃった…。
+お兄ちゃん…やさしくしてね…。","","","\E\font[3]\f[18]\-[2]Nhn... it's in...
+Be gentle... Onii-chan...",""
+"\Eんっ…おなか…くるし…っ！
+大きいよぅ…おにいちゃん…。","","","\E\font[3]\f[18]\-[2]Nhn... My inside... hurts...!
+It's too big... Onii-chan...",""
+"\Eいっ…っ……つ…。
+ちょっと…まだ…痛いよお兄ちゃん。","","","\E\font[3]\f[18]\-[2]Ow... kh...
+Wait... it still... hurts... Onii-chan.",""
+"hscene/h_s04_sonyu_pantu02.png","","","",""
+"\Eあっあっ…だめっ…。
+おちんちんしたらだめぇ…あ、あぁぁ…っ！","","","\E\font[3]\f[18]\-[2]Ah ah... noo....
+Don't stick your dick in... ah, aaah...!",""
+"■■挿入アナル","","","",""
+"挿入　アナル","","","",""
+"hscene/h_s04_anal.png","","","",""
+"\E妹のアナルに…。","","","\E\font[3]\f[18]\-[2]My sister's anal sex...",""
+"cutin/cutin_219.png","","","",""
+"cutin/cutin_206.png","","","",""
+"cutin/cutin_104.png","","","",""
+"\Eねっとりと包み込んでくる…。","","","\E\font[3]\f[18]\-[2]It's sticky and coiled around me...",""
+"\Eよく寝てる…いまなら…。","","","\E\font[3]\f[18]\-[2]She's sleeping well... now, with this...",""
+"\Eくっ…中がうねって…やば…。","","","\E\font[3]\f[18]\-[2]Her insides are contracting... it's crazy...",""
+"\Eどうしても…挿れたい…。","","","\E\font[3]\f[18]\-[2]No matter what... I want to stick it in...",""
+"\E狭…いな……ぎゅうぎゅうに締め付けてくる…。","","","\E\font[3]\f[18]\-[2]It's so... cramped... She's squeezing me so hard...",""
+"cutin/cutin_157.png","","","",""
+"\E…もう…早く入れて…。
+おにいちゃんのが欲しいの…♥","","","\E\font[3]\f[18]\-[2]...Geez ... just stick it in already....
+I want Onii-chan's...\font[0]♥\font[3]",""
+"cutin/cutin_176.png","","","",""
+"\Eお尻で…したいの？
+うー…少しだけ、なら…。","","","\E\font[3]\f[18]\-[2]You want to... do it with my butt?
+Ugh...if it's just a little, then...",""
+"\Eま、まだ…そんなおっきいの入らないよ…。","","","\E\font[3]\f[18]\-[2]I think... something that big won't fit in there yet...",""
+"cutin/cutin_154.png","","","",""
+"\Eもー、いきなりお尻なの…？
+お兄ちゃんのヘンタイ…いいけど…。","","","\E\font[3]\f[18]\-[2]Geez, with my butt all of a sudden...?
+Onii-chan, you pervert... but, it's okay...",""
+"cutin/cutin_174.png","","","",""
+"\Eまだおちんちんなんて無理だよ…。","","","\E\font[3]\f[18]\-[2]It's still impossible for me to have your dick...",""
+"\Eま、まだ…そんなおっきいの挿らないよ…。","","","\E\font[3]\f[18]\-[2]I-I'm not... going to stick something that big in yet.",""
+"\Eあっあっあっ……♥
+入って…おちんちん…おしりっ…に……っ♥","","","\E\font[3]\f[18]\-[2]Ah, ah, ah...\font[0]♥\font[3]!
+It's coming in... your dick... in my... butt...\font[0]♥\font[3]",""
+"\Eあっあっあっ……！
+入って…おちんちん…おしりっ…に……っ","","","\E\font[3]\f[18]\-[2]Ah, ah, ah...!
+It's coming in... your dick... in my... butt...",""
+"挿入処理","","","",""
+"\Eあっあっ…太いのきたぁっ♥
+きもちいぃっ！…お尻っ…きもちいいのっ♥","","","\E\font[3]\f[18]\-[2]Ah, ah... the big one's coming \font[0]♥\font[3] 
+It feels gooood! ...My butt.... feelsh good..\font[0]♥\font[3] ",""
+"\Eんっ…解れてないのに…
+ごりごりって入ってくるの…きもちいい…。","","","\E\font[3]\f[18]\-[2]Even though it's not loosened...
+It still feels... good when it grinds into me.",""
+"\Eうっ…ぐ……っ…くるし……
+も、もうぜんぶ…入った…の…？","","","\E\font[3]\f[18]\-[2]Uu... gh...... it hurts......
+It's, it's all... in... now...?",""
+"拒絶処理","","","",""
+"\Eお尻がいいの？
+…うん…いいよ。","","","\E\font[3]\f[18]\-[2]You want to use my butt? 
+...Okay... go ahead.",""
+"\Eそ、そっちはまだだめだよ…。","","","\E\font[3]\f[18]\-[2]I'm still not ready for that yet...",""
+"\E今日はお尻で気持ちよくしてくれるの…？
+うれしい…。","","","\E\font[3]\f[18]\-[2]You want to make me feel good with my butt today...? 
+I'm happy to hear it...",""
+"\E…お尻？うん…いいよ…
+入れて…おにいちゃん。","","","\E\font[3]\f[18]\-[2]...My butt? Yeah... it's okay...
+Come... Onii-chan.",""
+"\Eお、お尻でなんて無理だよ…。","","","\E\font[3]\f[18]\-[2]You, you can't do it with my butt...",""
+"\Eんっ…あぁあっ！！
+おしり広がっ…あっ…あっ…ああっ！！","","","\E\font[3]\f[18]\-[2]Nhn... aaaah!!
+My butt's wide open... ah... ah... aaah!!",""
+"\Eあっ…んっ……ああっ！！
+入ってきたぁっ……あ、あぁ…きもちいぃ…っ…♥","","","\E\font[3]\f[18]\-[2]Ahh... nnh... aaah!!
+It's coming in... anhh... it feels so good...\font[0]♥\font[3]",""
+"\Eんっ…ぐ……あっあぁ…！
+入ってる…入ってるの…お尻にぃ……っ…","","","\E\font[3]\f[18]\-[2]Nhn... gh... ah, aaah...!
+It's in... It's in... in my butt...",""
+"\Eきつ…い…たいぃ…っ…
+くるし…おにいちゃ…んっ","","","\E\font[3]\f[18]\-[2]It's... tight... that it hurts... 
+It hurts... Onii-chan... nn...",""
+"\Eそ、そこは…っ！","","","\E\font[3]\f[18]\-[2]Tha, that's...!",""
+"cutin/cutin_152.png","","","",""
+"\Eお兄ちゃんがそうしたいなら…
+いいよ…お尻…入れても…。","","","\E\font[3]\f[18]\-[2]If that's what you want...
+It's okay... you can... stick it in my butt...",""
+"\Eそ、そこ違っ！だ、だめだよ！","","","\E\font[3]\f[18]\-[2]Th, that's not it! Yo, you can't!",""
+"\Eや、やだ！そこはダメッ！","","","\E\font[3]\f[18]\-[2]N, no! You can't... not there!!",""
+"\E…お、おしり？
+そこはえっちする場所じゃないよ…","","","\E\font[3]\f[18]\-[2]...My, my butt?
+B, but... that's not usually the place to have sex...",""
+"\Eやだ！そこっ……っ…
+…するとこだからだめ！","","","\E\font[3]\f[18]\-[2]Absolutely not! Not there...!
+...It's a place for that, so don't!",""
+"\Eっ！！
+お兄ちゃんやめてっ！！","","","\E\font[3]\f[18]\-[2]Kh!!
+Stop it, Onii-chan!!",""
+"\Eんっ…んんっ…！
+入って…あっ…ヘン……っ…ヘンな感じだよぉ…。","","","\E\font[3]\f[18]\-[2]Nhh... nhh...!
+It's going in... ah... it's weird... it feels weird...",""
+"\Eあぅ…っ…！
+は、入っちゃった…お兄ちゃんのが…あっ…ああっ","","","\E\font[3]\f[18]\-[2]Aa.. ahh...!
+It's, it's in... you're... inside of me...",""
+"\Eああああっ…！
+こんな…おし…お尻…ひろがっちゃうぅ…っ…","","","\E\font[3]\f[18]\-[2]Aaahhh...!
+It's, it's spreading... my butt is... opening up... ahh...",""
+"\E…い、いやっ！やだ！！
+な、何するの…やめて！お兄ちゃん！！","","","\E\font[3]\f[18]\-[2]...No, noo! I don't want this!!
+Wh, what are you doing... Onii-chan!! Stop!!",""
+"パンツアイコン表示","","","",""
+"Picture/sub_button05.png","","","",""
+"攻撃メータ処理","","","",""
+"<SQUARE>FRAME","","","",""
+"\f[10]+\self[0]%","","","\font[3]\f[10]+\self[0]%",""
+"\f[10]\self[0]%","","","\font[3]\f[10]\self[0]%",""
+"深夜セーブ表示","","","",""
+"パンツ詳細表示監視","","","",""
+"パンツ種類","","","",""
+"Picture/pantu01.png","","","",""
+"Picture/pantu02.png","","","",""
+"Picture/pantu03.png","","","",""
+"Picture/pantu04.png","","","",""
+"Picture/pantu05.png","","","",""
+"Picture/pantu06.png","","","",""
+"Picture/pantu07.png","","","",""
+"Picture/pantu08.png","","","",""
+"Picture/pantu09.png","","","",""
+"Picture/pantu10.png","","","",""
+"Picture/pantu11.png","","","",""
+"Picture/pantu12.png","","","",""
+"Picture/pantu13.png","","","",""
+"Picture/pantu14.png","","","",""
+"Picture/pantu15.png","","","",""
+"Picture/pantu16.png","","","",""
+"Picture/pantu17.png","","","",""
+"Picture/pantu18.png","","","",""
+"Picture/pantu19.png","","","",""
+"Picture/pantu20.png","","","",""
+"Picture/pantu21.png","","","",""
+"Picture/pantu22.png","","","",""
+"Picture/pantu23.png","","","",""
+"Picture/pantu24.png","","","",""
+"Picture/pantu25.png","","","",""
+"挿入抜く","","","",""
+"hscene/h_s03_pose01.png","","","",""
+"hscene/h_s02_face_mayu.png","","","",""
+"hscene/h_s02_face_eye.png","","","",""
+"hscene/h_s02_face_mouth.png","","","",""
+"hscene/h_s04_sirikoki.png","","","",""
+"hscene/h_s04_syasei03.png","","","",""
+"hscene/h_s10_ef_syasei01c.png","","","",""
+"hscene/h_s10_ef_syasei01b.png","","","",""
+"hscene/h_s10_ef_syasei01a.png","","","",""
+"スピーカー表示","","","",""
+"Picture/speaker.png","","","",""
+"\f[8]\space[0]\c[9]■
+■
+■","","","",""
+"\f[8]\space[0]\c[9]□
+■
+■","","","",""
+"\f[8]\space[0]\c[9]
+■
+■","","","",""
+"\f[8]\space[0]\c[9]
+□
+■","","","",""
+"\f[8]\space[0]\c[9]
+
+■","","","",""
+"\f[8]\space[0]\c[9]
+
+","","","",""
+"音量調整","","","",""
+"save/system2.sav","","","",""
+"射精クリック","","","",""
+"射精処理監視","","","",""
+"射精処理を判定し呼び出します","","","",""
+"自動射精実行処理","","","",""
+"強制射精","","","",""
+"例外処理　強制射精","","","",""
+"\Eで、でるっ…！！","","","\E\font[3]\f[18]\-[2]I'm, I'm cumming...!!",""
+"あとあと寝相で変えるかも","","","",""
+"■■尻コキ","","","",""
+"\Eお尻の割れ目で…。","","","\E\font[3]\f[18]\-[2]Between the fold of her buttcheeks...",""
+"cutin/cutin_114.png","","","",""
+"\E柔らかく包み込んでくる…。","","","\E\font[3]\f[18]\-[2]Their softness enveloping me...",""
+"起きてる時","","","",""
+"\E……入れて欲しいなー…。","","","\E\font[3]\f[18]\-[2]......I want you to stick it in....",""
+"\Eあたしの身体でいっぱい気持ちよくなってね…♥","","","\E\font[3]\f[18]\-[2]Please make yourself feel good using my body...\font[0]♥\font[3]",""
+"\Eお尻で挟むの…？いいよ…。","","","\E\font[3]\f[18]\-[2]You want me to squeeze it between my buttcheeks...? 
+Okay...",""
+"\E……お兄ちゃんのが…当たってる…。","","","\E\font[3]\f[18]\-[2]......You're... hitting my insides...",""
+"\E……お尻で…は、恥ずかしいよ…。","","","\E\font[3]\f[18]\-[2]......It's, it's too embarrassing... to do it with my butt...",""
+"\E…いやっ…変なことしないで…。","","","\E\font[3]\f[18]\-[2]...No.. stop... don't do anything weird...",""

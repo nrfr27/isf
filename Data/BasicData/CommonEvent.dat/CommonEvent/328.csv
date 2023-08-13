@@ -1,0 +1,158 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"┣就寝前パジャマ","","","",""
+"Hしたい","","","",""
+"\E寝るには早すぎる時間だが…","","\EIt's too early to go to bed...","",""
+"\E少し早いがもう寝ようかな…。","","\EIt's a little early, but maybe I should go to bed now...","",""
+"\E今日はもう寝ようかな…。","","\EI think I'll go to bed now...","",""
+"\Eもういい時間だな…そろそろ寝ようかな？","","\EIt's getting late... Maybe I should go to bed soon?","",""
+"\Eだいぶ夜ふかししてしまったな…そろそろ寝るか。","","\EI stayed up pretty late... I should go to bed soon.","",""
+"妹","","Younger sister","",""
+"\Eお兄ちゃん、今日はもう休むの？","","\EBig brother, are you going to rest for today?","",""
+"はい","","Yes","\font[3]\f[17]Yes",""
+"いいえ","","No","\font[3]\f[17]No",""
+"\Eお兄ちゃん具合でも悪いの…？
+ちゃんと休んで元気になってね…","","\EIs big brother feeling unwell...? 
+Make sure to rest and get better...","",""
+"\Eそっか、すごく疲れてるんだね…
+ゆっくり休んでねお兄ちゃん。","","\EI see, you're really tired... 
+Take a rest, big brother.","",""
+"\Eちょっと早いけど寝ようかー
+おやすみ、お兄ちゃん。","","\EI'll go to bed a little early, but...
+Goodnight, big brother.","",""
+"\Eそうだね、そろそろ寝よっか。
+おやすみなさいお兄ちゃん。","","\EYeah, I guess it's about time to go to bed.
+Goodnight, big brother.","",""
+"\Eふぁ…明日もあるしそろそろ寝ないとだね…。","","\EPhew... I guess I should go to bed soon since there's still tomorrow...","",""
+"\Eいい加減寝ないとだねー
+おやすみなさい、お兄ちゃん。","","\EIf you don't go to bed soon, you know...
+Good night, big brother.","",""
+"\E寝るの？
+…おやすみ。","","\EAre you going to sleep?
+...Goodnight.","",""
+"cg/blackscreen.jpg","","","",""
+"ここに深夜判定を入れます","","","",""
+"※　金曜の夜に発生","","","",""
+"家族会議","","","",""
+"就寝","","","",""
+"cg/bg_16_midnight_b.jpg","","","",""
+"BGM/Clock-Second_Hand03-1(Loop-1).mp3","","","",""
+"\Eお兄ちゃん、今週もお疲れさま。","","\EBig brother, thank you for your hard work this week.","",""
+"禁欲達成","","","",""
+"cg/bg_16_midnight_c.jpg","","","",""
+"\E…わ、お兄ちゃん！
+禁欲生活達成できたんだね！おめでとう！","","\E...W-woah, big brother! 
+You were able to achieve a life of abstinence! Congratulations!","",""
+"\Eなんか…ちょっとイケメンな感じになってきたかも？","","\ESomehow... I might be starting to look a little handsome?","",""
+"やりきった","","Done it","",""
+"ハンサム","","Handsome","",""
+"オナ禁","","NoFap","",""
+"戻りA","","","",""
+"夢のある話","","A story full of dreams","",""
+"他愛もない話","","A pointless story","",""
+"えっちな話","","Source:","",""
+"おちんちんびろーん！","","Dick brrroooon!","",""
+"\Eなあ、将来……","","\EHey, in the future...","",""
+"\E…………","","\E…………","",""
+"\E二人でおおいに夢を語った。","","\EWe talked a lot about our dreams together.","",""
+"\Eとても盛り上がった。","","\EIt was very exciting.","",""
+"\Eなあ……","","\EHey...","",""
+"\E他愛もない話をした。","","\EWe had a pointless conversation.","",""
+"\E意外と盛り上がった。","","\EIt unexpectedly got exciting.","It turned out to be more engaging than I expected.",""
+"\E……しってるか？","","\E...Do you know?","",""
+"cg/bg_16_midnight_a.jpg","","","",""
+"\Eえっちな話をした。","","\EWe had a naughty conversation.","",""
+"\E興味津々のようだ。","","\ESeems to be very interested.","",""
+"\Eおちんちんびろーん！","","\EPenis brrroooong!","",""
+"\Eお兄ちゃんはおバカさんなの…？","","\EIs big brother a silly person...?","",""
+"\Eお兄ちゃん…それ何の意味があるの…？","","\EBig brother... What's the meaning of that...?","",""
+"\Eお兄ちゃん、女の子の前でそういうことは…。","","\EBrother, you shouldn't say things like that in front of girls.","",""
+"\Eそういうのはもうそろそろ卒業してもいいんじゃないかな…？","","\EIsn't it about time to graduate from that kind of thing...?","",""
+"妹からの提案","","","",""
+"\Eえーと…
+それでお兄ちゃんこれからの事なんだけど…","","\EUm...
+So, about what's going to happen from now on, big brother...","",""
+"\E来週は合宿だよね！
+あたしも応援するねお兄ちゃん！","","\ENext week is the training camp, right? 
+I'll be cheering for you too, big brother!","",""
+"合宿処理","","","",""
+"message","","message","",""
+"\f[14]\E<C>Tips　家族会議について","","\f[14]\E<C>Tips About Family Meetings","",""
+"\f[14]\E毎週\c[1]金曜夜\c[0]に妹と家族会議が開かれます。
+家族会議では来週の\c[1]生活方針\c[0]を決めることができます。","","\f[14]\EEvery Friday night, there is a family meeting with my sister. \c[1]During the family meeting, we can decide on the lifestyle plan for the next week. 
+","",""
+"\f[14]\E\c[1]生活方針\c[0]には様々な種類があり。
+選択した方針によって日々の生活に影響の出る効果が発生します。","","\f[14]\E\c[1]There are various types of \c[0]lifestyle policies.
+The chosen policy will have an impact on daily life and produce effects.","",""
+"再抽選1","","","",""
+"再抽選2","","","",""
+"いつもの日々","","Everyday life","Usual Days",""
+"バイト生活","","Part-time job life","Working Life",""
+"お弁当生活","","Bento Life","Lunchbox Life",""
+"倹約生活","","Frugal living","Frugal Life",""
+"読書週間","","Reading Week","Literature Week",""
+"肉体改造","","Physical transformation","Body Alteration",""
+"大人の階段","","Adult's staircase","Ways of Adulthood",""
+"健康的な生活","","Healthy lifestyle","Healthy Days",""
+"贅沢期間","","Luxurious period","Luxurious Period",""
+"禁欲生活","","Abstinence lifestyle","Abstinence Life",""
+"ただれた生活","","Tattered life","Sordid Life",""
+"煩悩全開","","Full of worldly desires","Desires Takeover",""
+"妹せいかつ","","Sister's Life","Imouto Life",""
+"選択し直し","","","",""
+"\E来週はこんな感じでどうかな？","","\EHow about next week, like this?","\E\font[3]\f[18]\-[2]How about something like this for next week?",""
+"\f[20]\cself[5]","","\f[20]\cself[5]","\font[3]\f[17]\cself[5]",""
+"\f[20]\cself[6]","","\f[20]\cself[6]","\font[3]\f[17]\cself[6]",""
+"\f[20]\cself[7]","","\f[20]\cself[7]","\font[3]\f[17]\cself[7]",""
+"選択した内容の説明","","","",""
+"\E普段と変わらない日常を過ごします。","","\EI spend my everyday life as usual.","\E\font[3]\f[18]\-[2]Spend everyday life as usual.",""
+"\E手伝い、アルバイト実行時に得られるお金が増えます。","","\EThe amount of money obtained when assisting and working part-time will increase.","\E\font[3]\f[18]\-[2]The amount of money obtained when helping out or working 
+part-time increases.",""
+"\E妹の弁当で行動力が少し回復します。","","\EMy energy will recover a little with my sister's bento.","\E\font[3]\f[18]\-[2]Eating my sister's lunchbox slightly restores stamina.",""
+"\E夕食時の食費の消費が0になります。","","\EThe consumption of dinner expenses will become 0.","\E\font[3]\f[18]\-[2]Food expenses will become zero.",""
+"\Eランダムで本が増え、期間中夜更かし状態になります。","","\EBooks will randomly increase, and during the period, you will stay up late.","\E\font[3]\f[18]\-[2]Books will randomly increase, allowing you to stay up late during 
+this period.",""
+"\E各訓練を行った際の経験値が+1されます。","","\EThe experience points gained from each training will increase by +1.","\E\font[3]\f[18]\-[2]The stats points gained from each training will be increased by +1.",""
+"\E妹の性興味が毎日2増加します。","","\EMy sister's sexual interest increases by 2 every day.","\E\font[3]\f[18]\-[2]My sister's interest increases by 2 every day.",""
+"\E早寝になりますが就寝時の体力回復量が増えます。","","\EAlthough it may result in going to bed early, the amount of stamina recovered during sleep increases.","\E\font[3]\f[18]\-[2]Making you go to bed early and increases the amount of stamina 
+recovered during sleep.",""
+"\E食費が倍増しますが食事で行動回復量アップ、
+精力回復、信頼上昇効果を得ます。","","\EFood expenses will double, but you will gain increased action recovery from meals, 
+vitality recovery, and trust increase effects.","\E\font[3]\f[18]\-[2]Food expenses will double, but they provide increased stamina, 
+vigor recovery, and trust-enhancing effects.",""
+"\E射精禁止。
+達成できるといいことがあるらしい…？","","\ENo ejaculation allowed.
+It seems there's something good that can be achieved...?","\E\font[3]\f[18]\-[2]Ejaculating is prohibited.
+However, it seems there's something good that happens if you can achieve it...?",""
+"\E妹の性欲が毎日20増加します。","","\EMy sister's sexual desire increases by 20 every day.","\E\font[3]\f[18]\-[2]My sister's lust increases by 20 every day.",""
+"\E兄の性欲が毎日さらに10増加します。
+また特定のコマンドの効果がアップ。","","\EMy brother's sexual desire increases by an additional 10 every day.
+Also, the effectiveness of certain commands is enhanced.","\E\font[3]\f[18]\-[2]My lust increases by an additional 10 every day.
+Additionally, it enhances the effectiveness of certain midnight commands.",""
+"\E妹の機嫌が毎朝最大状態となり、信頼を2得ます。
+また妹の性欲が毎日5増加します。","","\EMy sister's mood reaches its maximum state every morning, gaining 2 trust points.
+Additionally, my sister's libido increases by 5 every day.","\E\font[3]\f[18]\-[2]My sister's mood reaches its maximum state every morning, 
+gaining 2 trust points. Additionally, her lust increases by 5 every day.",""
+"\Eえっと、この…\cself[8]でいい？","","\EUm, is this...\cself[8]okay?","\E\font[3]\f[18]\-[2]Um, is this... \cself[8] okay with you?",""
+"\Eうん、じゃあ来週は\c[1]\cself[8]\c[0]でがんばろうね！","","\EYeah, let's do our best next week \c[1]\cself[8]\c[0]!","\E\font[3]\f[18]\-[2]Yeah, let's do our best next week with \c[1]\cself[8]\c[0]!",""
+"※読書週間選択の場合は本の所持数を増やします","","","",""
+"\Eいや、もっとよく考えよう…。","","\ENo, let's think about it more carefully...","\E\font[3]\f[18]\-[2]No, let's think about it more carefully...",""
+"\Eんと、じゃあ…えっちしよっか…♥","","\EWell then... shall we get naughty... ♥","\E\font[3]\f[18]\-[2]",""
+"cg/bg_01_home_d.jpg","","","",""
+"\Eこうして夜は更けていく……","","\EAnd so the night grows late...","",""
+"\E………………","","\E………………","",""
+"通常就寝","","","",""
+"cg/bg_01_home_f.jpg","","","",""
+"BGM/nc51105.ogg","","","",""
+"悪戯へ","","","",""
+"BGM/oyasumi no kiss wo1.mp3","","","",""
+"cg/bg_01_home_a.jpg","","","",""
+"騎乗位/夢精判定","","","",""
+"\Eうーん、もう少し起きていようかな…？","","\EHmm, should I stay awake a little longer...?","",""
+"お風呂を0にすること","","","",""
+"生活方針1","","","",""
+"生活方針2","","","",""
+"生活方針3","","","",""
+"選択方針","","","",""
+"乱数","","","",""
+"初回tips","","","",""
+"変動値","","","",""

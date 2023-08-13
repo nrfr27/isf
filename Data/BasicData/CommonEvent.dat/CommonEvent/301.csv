@@ -1,0 +1,1740 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"ランダムイベント","","","",""
+"メインシナリオの条件分岐（日数条件","","","",""
+"武器の修理　優先度はメインより下","","","",""
+"期限切れゲームオーバー","","","",""
+"カスミフラグを折る","","","",""
+"合宿の通知","","","",""
+"合宿帰還時の処理","","","",""
+"お腹が空いて","","","",""
+"1　カナと特訓","","","",""
+"カナ訓練","","","",""
+"cg/bg_17_main.jpg","","","",""
+"カナ","","","",""
+"\Eよっ…！はっ！","","\EYo...! Hah!","",""
+"\Eうーん…
+もう少しでモノにできそうな気がするんだけど…","","\EHmm...
+I feel like it could be something with just a little more effort...","",""
+"　なにしてんだ？　","","　What are you doing?","",""
+"\E…あ、お兄ちゃん。","","\E...Ah, big brother.","",""
+"\Eそれがね、新しい技を考えているんだけど
+イマイチしっくり来なくって。","","\ESo, you know, I'm trying to come up with a new move, but 
+it's not really clicking.","",""
+"\E（うーん、カナは真面目というか
+強くなることにまっすぐだな…）","","\EHmm, Kana is more like serious or rather, straightforward about becoming stronger...
+","",""
+"オレでいいなら付き合うよ","","If it's okay with me, I'll go out with you.","",""
+"今日は疲れてるからまた…","","Today, I'm tired so...","",""
+"\E手伝いたいが怪我を治す方が先だな…。","","\EI want to help, but healing the injury takes priority...","",""
+"帰還","","","",""
+"\Eほんと？やった！","","\EReally? I did it!","",""
+"\E…………","","\E…………","",""
+"\Eカナと日が落ちるまで特訓した。","","\EI trained until the kana and sun set.","",""
+"SE/decision24.mp3","","","",""
+"\Eカナのつよさが上がった！","","\EKana's strength has increased!","",""
+"\Eうん、わかったー。
+また明日ねお兄ちゃん。","","\EOkay, got it.
+See you tomorrow, big brother.","",""
+"2　カナと特訓2","","","",""
+"\Eあ、お兄ちゃん…","","\EAh, big brother...","",""
+"\E今日もカナの特訓に付き合うのか？","","\EAre you going to accompany Kana's special training again today?","",""
+"特訓に付き合う","","Engagement in special training","",""
+"今日は帰る","","Today, I will go home.","",""
+"\Eお兄ちゃんありがとうー！
+よーし今日は…","","\EThank you, big brother! 
+Alright, today...","",""
+"3　カナと特訓3","","","",""
+"4　カナと特訓4","","","",""
+"\Eあ、お兄ちゃんちょっといい？","","\EHey, can I talk to you for a moment?","",""
+"\E例の技の話なんだけど…
+練習でいい動きはできてるしあとは実践ってだけなんだけど…。","","\ESpeaking of that technique... 
+I can perform the moves well during practice, so all that's left is to put it into practice...","",""
+"\E…でもその怪我じゃまだ無理だよね…。","","\E...But with that injury, it's still impossible, right...?","",""
+"　まさか新技の標的に？　","","　Could it be the target of a new technique?","",""
+"\Eまさかー、それにお兄ちゃんが相手じゃ
+実践というかいつもの練習と同じだよ…。","","\ENo way, and my older brother is the opponent.
+It's more like a practical exercise, or rather the same as our usual practice...","",""
+"\Eあのね森にね、最近黒いうりぼうが出現するんだって。
+だからお兄ちゃん…。","","\EYou know, recently black melons have been appearing in the forest.
+So, big brother...","",""
+"　仕方ないな…　","","　There's no helping it...","",""
+"ユイ","","","",""
+"\Eわ、わたしも手伝います…！","","\EI-I'll help too...!","",""
+"\E最近2人でなにかしてるなって思ったから…
+カナちゃんもお兄ちゃんも妙に擦り傷とか増えてるし…。","","\EI thought you two were up to something recently... 
+Both Kana-chan and Onii-chan have been oddly getting more scratches and such.","",""
+"\Eそれに…
+ふ、2人だけじゃ…あ、あぶない…。","","\EAnd...
+T-there's only two of us... Oh, no...","",""
+"\E…ありがとうユイちゃん。
+隠してるみたいになってごめんね。","","\E...Thank you, Yui-chan.
+I'm sorry for acting like I'm hiding something.","",""
+"　それじゃ行こうか！　","","　Alright, let's go!","",""
+"1.4.0/v144_cg10_1.jpg","","","",""
+"\E……","","\E……","",""
+"\Eい、いました…
+黒いうりぼう…上位種です。","","\ET-T-There... 
+is a black melon... It's an advanced species.","",""
+"\Eあとは実戦で使えるかどうか…
+この\c[1]戦いに勝てたら\c[0]モノになりそうな気がするよ。","","\EWhether it can be used in actual combat...
+If I can win this\c[1]battle,\c[0]I feel like I could become something.","",""
+"\Eよし！いくよ！","","\EAlright! Let's go!","",""
+"cg/bg_11_forest_a.jpg","","","",""
+"\Eや、やった！できた…！","","\EY-Yes! I did it...!","",""
+"\Eおめでとうございます！カナちゃん！","","\ECongratulations! Kana-chan!","",""
+"\Eユイちゃんありがとうー！
+お兄ちゃんもありがとう！","","\EThank you, Yui-chan!
+Thank you too, big brother!","",""
+"\Eみんなでカナの特訓に付き合った！","","\EI joined in Kanade's special training with everyone!","",""
+"\Eカナのつよさが上がった！
+カナの好感度が上がった！","","\EKana's strength has increased!
+Kana's likability has increased!","",""
+"\Eユイのつよさが上がった！","","\EYui's strength has increased!","",""
+"SE/decision4.mp3","","","",""
+"\Eカナが\c[1]ファストスラッシュ\c[0]を習得した！","","\EKana learned \c[1]Fast Slash \c[0]!","",""
+"\Eスキル\c[1]連携攻撃\c[0]のヒントを得た！","","\EObtained hints for\c[1]skill\c[0]combo attacks!","",""
+"\Eごめん、だめだったね…。","","\EI'm sorry, it didn't work out...","",""
+"\E諦めないでまた挑戦しましょう…。
+か、カナちゃんならきっとできます！","","\EDon't give up and let's try again...
+I-I'm sure Kana-chan can do it!","",""
+"\Eうん。
+ありがとう。","","\EYes.
+Thank you.","",""
+"\E今回は新技をモノにできなかった…。","","\EThis time, I couldn't master any new techniques...","",""
+"5　つまみぐい","","","",""
+"SE/Hungry02-1.mp3","","","",""
+"\Eうーん、お腹が空いたぞ…。
+夕食にはまだ時間があるし…。","","\EHmm, I'm getting hungry...
+But it's still a while until dinner.","",""
+"SE/stupid7.mp3","","","",""
+"\Eん…なにかすごくいい匂いがする…。","","\EHmm... There's a really nice smell...","",""
+"cg/bg_07_guild_a.jpg","","","",""
+"Picture/food_04.png","","","",""
+"SE/cork-plug1.mp3","","","",""
+"BattleEffect/pipo-btleffect059.png","","","",""
+"\Eこ、これは…！","\EWha-what is this...!","\EWha-what is this...!","",""
+"つまみぐいしちゃう","I can't resist snacking.","I can't resist snacking.","",""
+"我慢する","Be patient.","Be patient.","",""
+"\Eユカリさんもいないし今なら…！","\EYukari-san is not here, so now...!","\EYukari-san is not here, so now...!","",""
+"\E………パクっ。","\E...Nom nom.","\E...Nom nom.","",""
+"\E\f[72]う…うまぁい！！！","\E\f[72]U... It's delicious!!!","\E\f[72]U... It's delicious!!!","",""
+"\E美味しいシチューをつまみ食いした。","\EI sneakily tasted the delicious stew.","\EI sneakily tasted the delicious stew.","",""
+"\Eスキル\c[1]隠密行動\c[0]を習得した！","\ELearned \c[1]Stealth Action \c[0]skill!","\ELearned \c[1]Stealth Action \c[0]skill!","",""
+"ユカリ","","","",""
+"\Eふうん…何をやっているのかなー？","","\EHmm... I wonder what they're doing?","",""
+"\Eやー、盗み食いとはよくないねー。
+ねえお兄ちゃん？","","\EStealing food is not good, you know.
+Hey, big brother?","",""
+"　はい…　","","　Yes...","",""
+"\E罰としてギルドハウスの掃除とあとは…
+そうね、訓練器具のお手入れもお願いしようかしら。","","\EAs a punishment, cleaning the guild house and...
+Yes, let's also ask for the maintenance of the training equipment.","",""
+"\Eギルドハウスの掃除をやらされた…。","","\EI was forced to clean the guild house...","",""
+"SE/button24.mp3","","","",""
+"\Eあら、お兄ちゃんちょうどよかった。","","\EOh, perfect timing, big brother.","",""
+"\Eシチューたくさん作ったから帰りに持っていってね。","","\EI made a lot of stew, so please take some with you when you go home.","",""
+"　え、いいんですか？　","","　Eh, is it okay?","",""
+"\Eいいわよ、妹さんと2人だけだと何かと大変でしょ。","","\EIt's fine, it must be tough for you and your little sister to handle everything just the two of you.","",""
+"\Eギルドマスターからシチューの差し入れを頂いた！","","\EI received a stew from the guild master!","",""
+"\E（…つまみ食いしなくてよかった。）","","\E(...I'm glad I didn't take a bite.)","",""
+"6　妹と一緒に帰宅","","","",""
+"妹","","","",""
+"\Eあ、お兄ちゃん！","","\EAh, big brother!","",""
+"\Eむ？","","\EHuh?","",""
+"\Eこっちに来る用事があったからちょっと寄ってみたんだよー。
+今日はまだ掛かりそう？","","\EI had something to do here, so I stopped by for a bit.
+Does it still seem like it will take a while today?","",""
+"\Eこれから帰るところだったかな。","","\EI think I was just about to go home.","",""
+"\Eじゃあ一緒に帰ろうー。","","\ELet's go home together then.","",""
+"\E今日は妹と一緒に帰路についた。","","\EToday, I headed home with my younger sister.","",""
+"SE/se_positive01.mp3","","","",""
+"ユイ訓練","","","",""
+"7　ユイとトレーニング","","","",""
+"1.4.0/v144_cg5_3.jpg","","","",""
+"\Eタッタッタ…","","\ETattattaa...","",""
+"\Eタッタッタッタ…","","\ETattattatta...","",""
+"\Eはぁはぁ…ふぅふぅ…","","\EHaa haa... fuu fuu...","",""
+"\Eあ、お兄ちゃん…ふぅふぅ…","","\EAh, big brother...huff, huff...","",""
+"　ええと…走り込み？　","","　Um... practice running?","",""
+"\Eす、少しでも…体力…はぁはぁ…
+つけて…おこうと…はぁはぁ…思って…","","\EJust... a little... stamina... *panting* 
+Let's... try to... *panting* build it up...","",""
+"　ユイは別にそんな鍛えなくても…　","","　Yui doesn't really need to train...","",""
+"\Eい、今はいいですけどいつか遠出する時がきたときに
+みんなに迷惑かけたくないですし…。","","\EWell, it's fine for now, but when the time comes for a long trip, 
+I don't want to inconvenience everyone...","",""
+"\Eわたし、ただでさえ体力ないですから…。","","\EI already have low physical strength, so...","",""
+"付き合うよ","","I'll go out with you.","",""
+"頑張って","","Do your best.","",""
+"\E！
+あ、ありがとう…ございます。","","\E! 
+Ah, thank you... very much.","",""
+"\Eユイの体力つくりに付き合った。","","\EI helped Yui build her stamina.","",""
+"\Eはいっ！がんばります…！","","\EYes! I'll do my best...!","",""
+"8　ユイ特訓2","","","",""
+"\Eはぁはぁ…あ、お兄ちゃん。","","\EHaa haa... Ah, big brother.","",""
+"\E今日もユイの体力つくりに付き合うのか？","","\EAre you going to help Yui with her physical training again today?","",""
+"付き合う","","To date","",""
+"頑張ってね","","Do your best.","",""
+"\Eあ、ありがとうございます。","","\EAh, thank you very much.","",""
+"9　ユイ特訓3","","","",""
+"cg/bg_04_farm_a.jpg","","","",""
+"\Eユイちゃん、そっちいったよ！","","\EYui-chan, went that way!","",""
+"\Eえ？きゃっ…！","","\EHuh? Kyaa...!","",""
+"\Eごめんなさい、足を引っ張ってしまいました…。","","\EI'm sorry, I ended up dragging you down...","",""
+"　怪我はなかったか？　","","　Did you get hurt?","",""
+"\Eはい…あたし、もっと体力をつけないとダメですね…。
+肝心なときに足が止まっちゃって…。","","\EYes... I need to build up more stamina...
+My legs stopped at a crucial moment...","",""
+"\Eユイちゃんはメディックだし無理しなくていいよー。
+突破されたのはあたしたちが悪いんだし…ごめんね。","","\EYui-chan is a medic, so you don't have to push yourself too hard.
+It's our fault for being broken through... I'm sorry.","",""
+"\Eでも…。","","\EBut...","",""
+"\E（ユイは体力の無さを気にしてるみたいだ…
+うーん、なんとかならないかな…？）","","\EYui seems to be concerned about her lack of physical strength... 
+Hmm, I wonder if there's any way to do something about it...?","",""
+"10　ユイ特訓4","","","",""
+"\E（ユイは体力の無さを気にしてるようだ…
+うーん、正直いえば体を鍛えるよりもっと…）","","\E (Yui seems to be concerned about her lack of physical strength... 
+ Hmm, to be honest, more than just training her body...)","",""
+"1.4.0/v144_cg5_4.jpg","","","",""
+"SE/pokan.mp3","","","",""
+"\Eきゃっ！","","\EKyaa!","",""
+"1.4.0/v144_cg5_5.jpg","","","",""
+"SE/down1.mp3","","","",""
+"　だ、大丈夫！？　","","　Are you, are you okay!?","",""
+"1.4.0/v144_cg6_2.jpg","","","",""
+"\Eは、はい…平気です…少しつまづいただけです。
+…痛っ。","","\EYes... I'm fine... I just stumbled a bit.
+...Ouch.","",""
+"\Eこれは…ちょっと捻ったみたいだな。","","\EThis... seems a bit twisted.","",""
+"\E…ほら、掴まって…診療所までおぶって行くよ。","","\E...Here, hold on...I'll carry you to the clinic.","",""
+"\E…すみません…。","","\E...I'm sorry...","",""
+"\E（うーん、背中にユイの感触…）","","\E (Hmm, the sensation of Yui on my back...)","",""
+"\E（ってまてよ…おんぶ…運ぶ…疲れない…）","","\E (Wait a minute... piggyback... carry... not tired...)","",""
+"　これだ！！！　","","　This is it!!!","",""
+"\Eこれだ！！","","\EThis is it!!","",""
+"\Eきゃっ！？
+な、なんです…急に…？","","\EKyaa!? 
+W-What is it... all of a sudden...?","",""
+"\Eいや、これだよ。
+体力がないならオレがもっと体力を付ければいいんだ。","","\ENo, this is it.
+If you don't have enough stamina, then I should work on increasing my stamina more.","",""
+"\Eえ、え、でもなんで…？","","\EEh, eh, but why...?","",""
+"\Eこうしてオレがおぶってたら疲れないだろ？
+ユイはユイにしかできないことを頑張ればいいと思うんだ。","","\EIf I carry you like this, you won't get tired, right?
+I think Yui should do her best at things that only Yui can do.","",""
+"\Eわたしにしか、できない…？","","\EIs it something only I can do...?","",""
+"\Eオレは戦うことはできても癒やすことはできないし…。
+傷ついた身体を癒やしたり、元気づけてくれたり。","","\EI can fight, but I can't heal...
+Healing my wounded body, giving me strength.","",""
+"\Eそういう役割を活かしていった方がきっといいと思う。","","\EI think it would be better to make use of such a role.","",""
+"\E私の役割…癒やし…","","\EMy role... Healing...","",""
+"\Eそう、そうですよね…わかりました。
+…わたし、何をすればいいのかわかった気がします。","","\EYes, that's right... I understand.
+...I feel like I know what I should do.","",""
+"\Eわたし無い物ねだりしてたんですね…。
+お兄ちゃん、ありがとうございます。","","\EI was being greedy, wanting something I didn't have...
+Thank you, big brother.","",""
+"\Eユイの特訓に付き合った。","","\EI accompanied Yui in her special training.","",""
+"\Eユイのつよさが上がった！
+ユイの好感度が上がった！","","\EYui's strength has increased!
+Yui's favorability has increased!","",""
+"\Eユイがスキル\c[1]おうえん\c[0]を習得した！","","\EYui has acquired\c[1]the skill\c[0]""Support""!","",""
+"\Eスキル\c[1]リーダーシップ\c[0]のヒントを得た！","","\EGot some tips for \c[1]leadership \c[0]!","",""
+"11　器具の手入れ","","","",""
+"\Eふぅ…今日も疲れたな…。","","\EPhew... I'm tired again today...","",""
+"\Eあいたっ！
+…ったくなんでこんなところに木剣が…。","","\EOuch! 
+...Why is there a wooden sword in a place like this...?","",""
+"\Eうーん、よく見るとギルドハウスもだいぶ散らかってるな…","","\EHmm, now that I look closely, the guild house is quite messy...","",""
+"片付けする","","Clean up.","",""
+"無視する","","Ignore","",""
+"\Eよし…やるか…","","\EAlright... Let's do this...","",""
+"\Eふぅ…だいぶ片付いたな。","","\EPhew... It's finally starting to come together.","",""
+"\Eお、感心感心。","","\EOh, impressive, impressive.","",""
+"\E勤勉なお兄ちゃんにはご褒美にいいものあげよう。","","\EI'll give you something nice as a reward for being a diligent big brother.","",""
+"\Eギルドマスターからお菓子を貰った。","","\EI received some sweets from the guild master.","",""
+"\Eギルドハウスの片付けをした。","","\EI cleaned up the guild house.","",""
+"\Eでも面倒だし…まあ別にいっか。","","\EBut it's troublesome... well, it doesn't really matter.","",""
+"12　着替えに遭遇","","","",""
+"cg/bg_02_house_a.jpg","","","",""
+"\Eふぅ…今日も疲れたな。","","\EPhew... I'm tired again today.","",""
+"SE/door-close2.mp3","","","",""
+"\Eただいまー…っと。","","\EI'm back...","",""
+"cg/bg_01_home_a.jpg","","","",""
+"\Eきゃっ…お、お兄ちゃん！？","","\EKyaa... B-Brother!?","",""
+"\E……。","","\E... .","",""
+"\E…………。","","\E………….","",""
+"\E…んもー、お兄ちゃんのえっち。","","\E...Ugh, big brother's lewdness.","",""
+"\E…なんでじっと見てるのよ…お兄ちゃんのすけべ！","","\E...Why are you just staring like that...you pervert, big brother!","",""
+"SE/[Action]DoorClose_Komori.ogg","","","",""
+"\E妹の着替えに遭遇してしまった…。","","\EI accidentally stumbled upon my sister changing clothes...","",""
+"13　小銭を拾う","","","",""
+"cg/bg_09_town_a.jpg","","","",""
+"\E…ん？んん？","","\E...Hm? Hmmm?","",""
+"\E小銭を拾った！ラッキー","","\EI found some change! How lucky!","",""
+"14　カスミとの出会い→メインイベントに変更","","","",""
+"居残り","","","",""
+"15　居残り訓練","","","",""
+"\Eうーん、今日は何となくもう少し訓練していこうかな…？","","\EHmm, maybe I should train a little more today...?","",""
+"する","","Do.","",""
+"しない","","Do not.","",""
+"\Eどのへんを重点的に鍛えようか…？","","\EWhich area should I focus on training...?","",""
+"　体 力　","","　Physical strength","",""
+"　攻 撃　","","　Attack","",""
+"　技 術　","","　Technology","",""
+"　防 御　","","　Defense","",""
+"　根 性　","","　Nature","",""
+"　賢 さ　","","　Intelligence","",""
+"\Eよし！もう一汗ながしていくか！","","\EAlright! Let's break a sweat and keep going!","",""
+"\E……うっ！","","\E...Ugh!","",""
+"\E足を捻ってしまった…。","","\EI twisted my foot...","",""
+"\E居残りして訓練に励んだ！","","\EI stayed behind and worked hard on training!","",""
+"\Eよし！もうちょっと頑張ってみるか！","","\EAlright! Let's give it a little more effort!","",""
+"\Eいや、オーバーワークは良くないな…","","\ENo, overworking is not good...","",""
+"16　雨に打たれて","","","",""
+"SE/rain_loop.ogg","","","",""
+"cg/bg_25_road_a.jpg","","","",""
+"\Eくそ…急な雨でずぶ濡れだ…！","","\EDamn... I'm completely soaked from the sudden rain...!","",""
+"cg/bg_15_bus_b.jpg","","","",""
+"\Eわっ…きゃっ！","","\EWhoa... Eek!","",""
+"\Eんもう、お兄ちゃんがそこにいたら着替えにくいよ…。","","\EIt's difficult to change clothes if my brother is there...","",""
+"\Eお…","","\EOh...","",""
+"\E…お？","","\E...Huh?","",""
+"\Eお兄ちゃんのえっち！早くでてってよもうっ！","","\EBig brother's naughty! Hurry up and get out already!","",""
+"\Eううむ、妹のシャワーシーンに遭遇してしまった…。","","\EHmm, I accidentally stumbled upon my sister's shower scene...","",""
+"\Eマスター…あれ、いない？","","\EMaster... Huh, they're not here?","",""
+"\Eまぁいいや、シャワー借りまーす。","","\EWell, whatever. I'll borrow the shower.","",""
+"雨に打たれて再判定","","","",""
+"カスミ","","","",""
+"SE/se_ofuro2.mp3","","","",""
+"\E…あれっ、誰か入って…。","","\E...Huh, someone's coming in...","",""
+"cg/event70_01.jpg","","","",""
+"\E……あっ。","","\E...Ah.","",""
+"\Eか、カスミちゃんがシャワーを浴びているぞ…。","","\EKa, Kasumi-chan is taking a shower...","",""
+"cg/event70_02.jpg","","","",""
+"\E…バレる前に退散しとくか…。","","\E...I better retreat before I get exposed...","",""
+"\E…ふぅ。","","\E...Phew.","",""
+"\Eあ、同志お兄ちゃん。
+おかえりなさ…あぅ、ずぶ濡れ…。","","\EAh, comrade big brother.
+Welcome back... Ah, you're soaking wet...","",""
+"\Eぬ、濡れたままだと風邪を引いちゃうので…。
+同志もシャワーを…その、暖まります。","","\EIf you stay wet, you'll catch a cold...
+Comrades, take a shower... it'll warm you up.","",""
+"\Eお、おう。
+そ、そうさせてもらおうかな…ははは。","","\EOh, okay.
+Y-yeah, I'll let you do that...hahaha.","",""
+"\Eカスミちゃんのシャワーシーンに遭遇してしまったぞ…。","","\EI accidentally stumbled upon Kasumi-chan's shower scene...","",""
+"cg/event68_01.jpg","","","",""
+"\Eむ、カナがシャワーを浴びているぞ…。","","\EHmm, Kana is taking a shower...","",""
+"cg/event68_02.jpg","","","",""
+"\E…あ、濡れねずみだ。","","\E...Ah, it's a wet rat.","",""
+"\E誰が濡れねずみだ誰が…
+…ふぇ…ふぇっ…へっぶしっ！！！","","\EWho is the wet rat...
+...fe...feh...hebushi!!!","",""
+"\Eお兄ちゃんもシャワー浴びてきなよー。
+風邪引くよ。","","\EBrother, you should take a shower too.
+You'll catch a cold.","",""
+"\Eお、おう。
+そうさせてもらおうかな…。","","\EOh, okay.
+I'll let you do that...","",""
+"\Eカナのシャワーシーンに遭遇してしまったぞ…。","","\EI've encountered Kana's shower scene...","",""
+"cg/event69_01.jpg","","","",""
+"\E…ユイがシャワーを浴びているぞ…。","","\E...Yui is taking a shower...","",""
+"cg/event69_02.jpg","","","",""
+"\Eあ、お兄ちゃん…帰ってたんですね。
+わっずぶ濡れ…ちょっと待っててくださいね。","","\EAh, big brother... You're back, huh?
+You're all soaked... Please wait a moment.","",""
+"\Eはい、とりあえずこれで頭拭いて…
+あ、上着は脱いでそこに置いてくださいね。","","\EYes, for now, please wipe your head with this...
+Ah, please take off your jacket and place it there.","",""
+"\Eだめです、そのままだと風邪を引いちゃいます。
+ほら、お兄ちゃんもシャワー浴びてきてください。","","\ENo, it's not good. If you stay like that, you'll catch a cold.
+Look, big brother, please take a shower too.","",""
+"\E上着はこっちで乾かしておきますね。","","\EI'll dry your clothes over here, okay?","",""
+"\Eお、おう…ありがとう。","","\EOh, th-thank you.","",""
+"\Eユイのシャワーシーンに遭遇してしまったぞ…。","","\EI accidentally stumbled upon Yui's shower scene...","",""
+"cg/event71_01.jpg","","","",""
+"\Eユ、ユカリさんがシャワーを浴びているぞ…。","","\EY-Yukari-san is taking a shower...","",""
+"cg/event71_02.jpg","","","",""
+"\E…バ、バレる前に退散しとくか…。","","\E...I better retreat before I get caught...","",""
+"\Eあら、お兄ちゃんおかえりなさい。","","\EOh, welcome back, big brother.","",""
+"\E…報告より先にシャワーを浴びたほうが良さそうね。","","\E...It seems better to take a shower before the report.","",""
+"\Eすんません。","","\ESorry.","",""
+"\Eいいからいいから、後でタオル持っていくわね。","","\EAlright, alright, I'll bring a towel later.","",""
+"\Eはい。","","\EYes.","",""
+"\Eユカリさんのシャワーシーンに遭遇してしまったぞ…。","","\EI accidentally stumbled upon Yukari's shower scene...","",""
+"財布を拾った","","","",""
+"\Eむ？これは…","","\EHuh? What's this...","",""
+"\E財布が落ちている。","","\EThe wallet is dropped.","",""
+"\E持った感じけっこうずっしりしているぞ…。","","\EIt feels quite heavy when you hold it...","",""
+"届ける","","Deliver","",""
+"ネコババしちゃう","","I'll mess you up, kitty.","",""
+"\Eこういうのはちゃんと届けないとな…。","","\EI have to deliver this properly...","",""
+"cg/bg_07_guild_c.jpg","","","",""
+"\Eあれ、どうしたの？
+…外に落とし物？","","\EWhat's wrong? 
+...Did you drop something outside?","",""
+"\Eふふ、正直者のお兄ちゃんにはこれをあげましょう。","","\EHehe, let's give this to my honest big brother.","",""
+"\Eお菓子をもらった！","","\EI received some snacks!","",""
+"\Eなんだったんだ…。","","\EWhat was that...?","",""
+"\Eキョロキョロ…
+…誰も見てないよな？","","\ELooking around...
+...No one's watching, right?","",""
+"\Eよし中身は…ってこれ石ころじゃん！
+…なんかメモ書きが入ってるぞ。","","\EAlright, the contents... wait, this is just a pebble!
+... There seems to be a note written on it.","",""
+"\E『どろぼうねこ』","","\E""The Thief Cat""","",""
+"\Eぐ…誰かのいたずらか…引っかかった…。
+やる気が下がった。","","\EUgh... Is this someone's prank... I fell for it...
+My motivation dropped.","",""
+"泥棒猫","","Cat burglar","",""
+"\E500Gを手に入れた。","","\EI obtained 500G.","",""
+"お腹が空いて力が…","","","",""
+"cg/bg_06_hill_a.jpg","","","",""
+"\Eくっ腹が減って力が…。","","\EI'm starving and losing strength...","",""
+"\Eあの、お兄ちゃん顔色が良くないですよ？
+どうしたんですか？","","\EUm, big brother, you don't look well. 
+What's wrong?","",""
+"\E実は…。","","\EActually...","",""
+"cg/bg_07_guild_e.jpg","","","",""
+"\Eんもう、ちゃんと食べなきゃだめよ。
+妹のさんの分もあるから持って帰ってね。","","\ECome on, you have to eat properly.
+Make sure to bring back your sister's portion too.","",""
+"cg/bg_07_guild_d.jpg","","","",""
+"\Eわざわざすいません…。","","\EI'm sorry for the trouble...","",""
+"\E妹さんのためにもしっかりしてね。","","\EPlease take care of yourself for your sister's sake.","",""
+"武器の修理","","","",""
+"\E（カーンカーン！","","\E(Clang clang!)","",""
+"\Eお、鍛冶屋か…。","","\EOh, a blacksmith...","",""
+"\Eそういえばずっと使ってきたこの剣もだいぶガタがきているな…","","\EBy the way, this sword that I've been using for a long time is quite worn out...","",""
+"せっかくだし直してもらおう　\f[12]400G","","Let's take this opportunity to get it fixed. \f[12]400G","",""
+"\f[20]まぁ、いいか","","\f[20]Well, whatever.","",""
+"\Eそんなお金はないみたいだ…また今度にしよう。","","\ELooks like I don't have that kind of money... Let's do it another time.","",""
+"\Eすいませーん。","","\EExcuse me.","",""
+"\E武器のメンテナンスをしてもらった！","","\EI had my weapon maintained!","",""
+"\Eまあ、いいか…お金もないし。","","\EWell, I guess it's fine... I don't have any money either.","",""
+"カナ強さアップ","","","",""
+"\Eえいっ！やっ！","","\EEi! Ya!","",""
+"\Eお、カナだ。","","\EOh, it's Kana.","",""
+"\Eあ、お兄ちゃん。","","\EAh, big brother.","",""
+"　今日はまたずいぶんと気合が入ってるな…　","","　Today, you seem to be really fired up again...","",""
+"\Eなんだかじっとしてられなくてね。","","\EI just can't sit still, you know.","",""
+"\Eあたしにやれることをやるって言ったら
+結局はこれしかないかなーって。","","\EIf you say you'll do what I can do, 
+I guess there's ultimately only this.","",""
+"そっか、頑張れ","","I see, do your best.","",""
+"\E気持ちはありがたいけど、
+お兄ちゃんは怪我を先に治しなよー。","","\EI appreciate the sentiment, but 
+brother, please take care of your injuries first.","",""
+"\Eそうしたいのは山々だけど今日はもう疲れてるな…。","","\EThe mountains want to do that, but I'm already tired today...","",""
+"疲れてるカナ","","","",""
+"\Eオレも付き合うよ！","","\EI'll join in too!","",""
+"\Eほんと？助かるよー","","\EReally? I'm glad to hear that.","",""
+"\E暗くなるまでカナの鍛錬に付き合った。","","\EI accompanied Kana in her training until it got dark.","",""
+"\Eそっか、頑張れ！","","\EI see, do your best!","",""
+"\Eうん、ありがとう。","","\EYeah, thank you.","",""
+"\Eはっ！とうっ！","","\EHah! Toot!","",""
+"\Eカナは一心不乱に剣を振るっている…。","","\EKana is swinging her sword with unwavering focus...","",""
+"付き合うよカナ","","","",""
+"\Eや！とうっ！","","\EHey! Tōtsu!","",""
+"\Eカナは今日も頑張ってるな…","","\EKana is still doing her best today...","",""
+"立ち去る","","Leaving","",""
+"\Eカナ！","","\EKana!","",""
+"\Eあれ、お兄ちゃん。","","\EHey, big brother.","",""
+"\E付き合うよ！今日もトコトンやろう！","","\ELet's go out together! Let's give it our all today too!","",""
+"\Eやった、じゃあ…いくよ！","","\EAlright, then... let's go!","",""
+"\E集中しているみたいだし中断させるのも悪いな…","","\EIt seems like they're focused, so it would be bad to interrupt...","",""
+"\E行ったよ！お兄ちゃん！","","\EI went! Big brother!","",""
+"\E了解だ！！！","","\EI understand!!!","",""
+"\Eでやーーーーっ！！","","\EDeyaaaaaaah!!","",""
+"SE/sword-slash3.mp3","","","",""
+"\Eふう…これで依頼完了だね。","","\EPhew... With this, the request is complete, right?","",""
+"\Eじゃ、後始末して帰ろっか。","","\EWell, let's clean up and go home.","",""
+"cg/bg_14_sunset_a.jpg","","","",""
+"BGM/train.mp3","","","",""
+"\Eはー、もう日が暮れちゃうねー。","","\EAh, the sun is already setting.","",""
+"\Eあのさ…お兄ちゃんはさ。
+この先のこととか、考えたりする？","","","",""
+"　先のこと？　","","　What about earlier?","",""
+"\Eこのままメクアで冒険者やるのかーとかそういう。","","\EAre you going to continue adventuring as a Mequa?","",""
+"\E…あたしはね。
+ここも好きだしユカリさんのところも居心地がいいよ。","","\E...As for me.
+I like it here, and I feel comfortable at Yukari-san's place too.","",""
+"\Eでも…今よりもっと腕を磨いて…
+お兄ちゃんにだって負けないくらい強くなって。","","\EBut... I will polish my skills even more... 
+And become strong enough to not lose to my big brother.","",""
+"\Eそしたらいつかみんなで
+世界中を旅してまわってみたいかなぁ…。","","\EAnd then, someday, I wonder if we could all travel around the world together.
+","",""
+"　いこう！　","","　Let's go!","",""
+"\Eま、その為には八会で優勝くらいはしとかないとね。","","\EWell, in order to do that, we have to win the championship at the Hachikai Tournament, at least.","",""
+"\Eマスター、心配しちゃうから。","","\EMaster, I'm worried.","",""
+"\E一応八会で優勝だってしてるし…","","\EI mean, they're saying they won the championship in Yaokai...","",""
+"\Eユカリさんも…ちょっとは安心かな？","","\EYukari-san too... I wonder if she feels a little relieved?","",""
+"\Eあー、お兄ちゃんが旅に出るなら
+きっと妹ちゃんもついてくるね。","","\EAh, if big brother goes on a journey, 
+I'm sure little sister will come along too.","",""
+"　そうかな？　","","　Is that so?","",""
+"\Eそりゃそうだよ。
+だって妹ちゃんはお兄ちゃん大好きじゃん。","","\EThat's right.
+Because my little sister loves her big brother.","",""
+"\Eそれにお兄ちゃん妹ちゃんのこと一人にしないでしょー。
+いい加減見てればわかるって。","","\EAnd don't leave me alone with my siblings, okay?
+You should be able to understand if you just pay attention.","",""
+"\E\f[12]もし…あたしもお兄ちゃんの妹だったら…","","\E\f[12]If... I were also my big brother's little sister...","",""
+"　ん？　","","　Huh?","",""
+"\Eん－んー、なんでもなーい！","","\EHmm, it's nothing!","",""
+"\Eだからー","","\ESo,","",""
+"\Eまあこれからもよろしくねってこと！","","\EWell, let's continue to get along from now on!","",""
+"\Eカナはスキル以心伝心を取得した！","","\EKana has acquired the Skill of Telepathy!","",""
+"ユイ強さアップ","","","",""
+"\Eよいしょ…よいしょ…","","\EYoisho... Yoisho...","",""
+"\Eあれ、ユイだ。","","\EHuh, it's Yui.","",""
+"\Eあ…お兄ちゃん、お疲れさま。","","\EAh... Onii-chan, welcome back.","",""
+"　どこかいくの？　","","　Where are we going?","",""
+"\E児童学校です。","","\EIt is an elementary school.","",""
+"\E…あ、えっと。
+遊びまわって擦り傷とか作っちゃう子多いですから、それで。","","\E...Ah, um.
+There are many children who play around and end up getting scraped knees, so that's why.","",""
+"\Eそれからお店のおばあちゃんにお薬を届けて。
+あと裏のおじいちゃんのとこは足が悪くて…","","\EAnd then deliver medicine to the old lady at the shop.
+Also, the old man in the back has bad legs...","",""
+"\E（ユイは本当に誰かの為に働くのが好きなんだな…。","","\EYui really loves working for someone's sake...","",""
+"手伝うよ","","I'll help you.","",""
+"\Eありがとうございます。
+でもお兄ちゃんはまず自分の怪我を治してくださいね。","","\EThank you very much.
+But please first take care of your own injury, big brother.","",""
+"\E手伝いたいんだけど今日はもう疲れてるな…。","","\EI want to help, but I'm already tired today...","",""
+"疲れてるユイ","","","",""
+"\E手伝うよ！","","\EI'll help you!","",""
+"\Eいいの？
+ありがとうお兄ちゃん。","","\EIs it okay?
+Thank you, big brother.","",""
+"\Eほら、荷物オレが持つよ…とと思ったより重いんだな。","","\ELook, I'll carry the luggage... It's heavier than I thought.","",""
+"\Eユイと村中を訪問してまわったぞ…。","","\EI visited Yui and the villagers...","",""
+"\E頑張ってね。","","\EGood luck.","",""
+"\Eはい、ありがとうございます。
+お兄ちゃんも何かあったら言ってくださいね。","","\EYes, thank you.
+If anything happens to you, please let me know, big brother.","",""
+"\Eよいしょ…よいしょ…。","","\EYoisho... Yoisho...","",""
+"\Eユイは行ってしまったな…。","","\EYui has gone...","",""
+"付き合うよユイ","","","",""
+"\Eんしょ…んしょ…。","","\ENsho... nsho...","",""
+"\Eユイは今日も頑張ってるな…","","\EYui is still doing her best today...","",""
+"\Eユイ！","","\EYui!","",""
+"\Eオレも付き合うよ、荷物持ちは任せて。","","\EI'll go with you too, leave the baggage to me.","",""
+"\Eありがとうございます。
+じゃあ、お言葉に甘えちゃいます。","","\EThank you very much.
+Well then, I'll take you up on your offer.","",""
+"\E今日はちょっと都合が悪いな…","","\EToday is a bit inconvenient...","",""
+"\Eユイは行ってしまった。","","\EYui has gone.","",""
+"\Eはい、これ今週のお薬です。
+あまり無理はしないでくださいね。","","\EYes, this is your medication for this week.
+Please try not to push yourself too hard.","",""
+"おばあちゃん","","Grandma","",""
+"\Eほんと、いつもありがとうね…。","","\EThank you so much, always...","",""
+"\Eいえいえ、いいんですよ。
+また来ますね。","","\ENo, no, it's fine.
+I'll come again.","",""
+"\Eふー、今日もユイと村中を回ってきたぞ…","","\EPhew, I've been going around the village with Yui today too...","",""
+"\E今日はこれで最後の一軒です。
+いつもありがとう、お兄ちゃん。","","\EThis is the last house for today.
+Thank you always, big brother.","",""
+"　どういたしまして　","","　You're welcome.","",""
+"\Eふふ、じゃあ帰りましょうか。","","\EHehe, shall we go home then?","",""
+"\Eわあ…夕日が真っ赤…。
+急がないと暗くなっちゃいますね。","","","",""
+"\E？","","\E?","",""
+"\Eどうかしましたか？","","\EWhat's wrong?","",""
+"　ユイはなんで冒険者になろうと思ったの？　","","　Why did Yui want to become an adventurer?","",""
+"\Eん－、なんででしょう。","","\EHmm, I wonder why.","",""
+"\E危ないこともありますけどね…
+わたし、ギルドの活動は楽しいって思ってるんです。","","\EThere are dangerous things too, but... 
+I actually find the guild activities enjoyable.","",""
+"\Eもちろんうまく行かないときもありますけど
+人の役に立てたりするのはやっぱり嬉しいです。","","\EOf course, there are times when things don't go well, but 
+it's still satisfying to be able to help others.","",""
+"\Eでも一番の理由は…ううん、これはダメですね。","","\EBut the main reason is... no, this won't do.","",""
+"\Eお兄ちゃんはたぶん、
+いつか村を出て本当の冒険に出るんだと思います。","","\EI think my big brother will probably leave the village someday and embark on a real adventure.
+","",""
+"\Eわたしは…
+やっぱり村の人達のことがありますからね。","","\EI...
+still have the people in the village to think about.","",""
+"\Eだから私はいっぱいいろんな世界をみて、回って―
+大冒険をしたお兄ちゃんが帰ってこられる場所になれたら…","","\ESo I've seen many different worlds and traveled around... 
+If it becomes a place where my adventurous big brother can come back to...","",""
+"\Eなんて。","","\EWhat a thing to say.","",""
+"\Eでもそれでいろんな話を聞かせてくれたら嬉しいです。","","\EBut I would be happy if you could tell me various stories with that.","",""
+"　約束するよ！　","","　I promise!","",""
+"\Eふふ、期待してますね。","","\EHehe, I'm looking forward to it.","",""
+"\Eユイはスキル献身を取得した！","","\EYui acquired the Skill Devotion!","",""
+"張り合う","","","",""
+"張り合うライバル","","","",""
+"\Eふぅ、今日もいい汗かいたぞ…。
+さ、家に帰るか。","","\EPhew, I worked up a good sweat today...
+Well, time to head home.","",""
+"？？？","","","",""
+"\Eはっ、そんなものか。","","\EAh, is that so.","",""
+"\Eその声は…","","\EThat voice...","",""
+"Picture/stand_sub05.png","","","",""
+"\Eアカツキ！","","\EAkatsuki!","",""
+"アカツキ","","","",""
+"\Eその程度の鍛錬で音を上げるとは…とんだ見込み違いだ。","","\ETo make such a fuss with that level of training... what a miscalculation.","",""
+"\Eなんだとっ！","","\EWhat did you say?!","",""
+"家に帰る","","Go back home.","",""
+"\Eそこまで言われて…！
+なら走り込みで勝負だ！","","\ETo be told that...! 
+Then it's a battle of training!","",""
+"\Eはっ…望むところだ！！
+ついてこれるものなら付いてくるがいい！","","\EHa... Just as I hoped!!
+If you can keep up, then come along!","",""
+"\Eうおおお…！","","\EUooo...!","",""
+"体力の限界","","","",""
+"\Eはっ！まだまだぁ！","","\EHah! Not yet!","",""
+"まだ張り合う","","Still competing","",""
+"このくらいにしておく","","Let's leave it at this.","",""
+"\Eうおおおお…！！","","\EUooo...!!","",""
+"cg/bg_13_road_a.jpg","","","",""
+"\Eはぁっはぁっ…この程度…！","","\EHaa... Haa... Is this all...?","",""
+"まだまだ張り合う","","Still competing","",""
+"\Eぐ…もう…体力の…げん、かい…。","","\EUgh... I... I'm running out of... energy...","",""
+"\Eバタン","","\EBatan","",""
+"\Eアカツキは振り返らずそのまま走り去っていった…。","","\EAkatsuki ran away without looking back...","",""
+"\Eくっそぉ…。","","\EDamn it...","",""
+"\Eやる気が下がった。","","\EMy motivation dropped.","",""
+"張り合う終了","","","",""
+"\Eも、もう…げん…かいだ…。","","\EM-mo... enough... let go...","",""
+"\Eぜぇっぜぇっ…
+はっ…な、なかなか…やるじゃないか…。","","\EHuff...huff...
+Hah...y-you're...quite impressive...","",""
+"\Eスキル\c[1]強靭な体\c[0]のヒントを得た！","","\EObtained\c[1]the hint of\c[0]a strong body!","",""
+"\Eはんっ…やはりこの程度か…。","","\EHmph... as expected, this is the extent of it...","",""
+"家で妹が","","","",""
+"\Eいやオレ家で妹が待ってるから…。","","\ENo, I have to go home because my little sister is waiting for me...","",""
+"\E…ふんっ。","","\E...Hmph.","",""
+"\E（…こいつもしかしてヒマなのか…？","","\E(...Is this guy perhaps free...?","",""
+"\Eその程度の鍛錬で音を上げるとは…とんだ見込み違いだ。
+僕ならその程度で音を上げたりしない！","","\ETo make a fuss over such a level of training... what a miscalculation.
+If it were me, I wouldn't make a fuss over such a level!","",""
+"次イベント1","","","",""
+"その名はサブロー","","","",""
+"サブロー","","","",""
+"BGM/autumncome.ogg","","","",""
+"\Eん？なんだこの行列は…
+なになに…「麺屋サブロー」？","","\EHuh? What's this line...
+What is it... ""Menya Saburo""?","",""
+"\E新しくできたラーメン店か…
+せっかく街まできたんだし食べてみるか。","","\EA newly opened ramen shop, huh... 
+Since I've come all the way to the city, I might as well give it a try.","",""
+"店員","","Clerk","",""
+"\Eしゃせーーーーーーーーっ！！！","","\EShaseeeeeeeet!!!","",""
+"\E…しゃ、射精！？","","\E...Shooting, ejaculation!?","",""
+"\Eおまっーせしぁしたっ！！！","","\ELeave it to me, I'll take care of it!!!","",""
+"\E（麺が見えない程の…野菜の山！！！
+　これは…ラーメンなのか…！？","","\EA mountain of vegetables so big that you can't see the noodles!!!
+Is this...ramen?!?","",""
+"\Eありぁっしたぁーーーっ！！！","","\EI did it!!!","",""
+"\Eうっぷ…げふ…
+も、もうしばらくラーメンはいいや…。","","\EUgh...ugh...
+I think I've had enough ramen for now...","",""
+"\Eついまた来てしまった…。","","\EI've come back again...","",""
+"\Eざーめんおまっーせしぁしたっ！！！","","\EWelcome! Leave it to me, okay?!","",""
+"\E（…こいつらワザと言ってないか…？","","\E(...Are these guys saying it on purpose...?","",""
+"\E（ぐっ…しかし相変わらずすごい量だ…！","","\E (Ugh... But as usual, it's an incredible amount...!)","",""
+"オオブタヤサイニンニクアブラマシマシ","","","",""
+"\E引き寄せられるようにまた来てしまった…。","","\EI ended up coming back as if I was being drawn in again...","",""
+"\Eおや…君は…？
+…………ふっ。","","\EOh... You are...?
+..........Hmph.","",""
+"\Eマスター。
+オオブタヤサイニンニクアブラマシマシ！","","\EMaster.
+I have added extra garlic oil to the large bowl of vegetables!","",""
+"\E（オオブタヤサイ…馬鹿な…！？
+　そんなもん食べきれないに決まってる…！","","\E (Oh buta yasai... Baka na...!? 
+ It's obvious that I can't eat something like that...!","",""
+"\Eさあ君の注文の番だ…なにを頼むんだい？
+…まさか小なんて事はないよね？","","\ENow, it's your turn to order... What would you like?
+...You're not going to order something small, are you?","",""
+"\Eなんだと！","","\EWhat did you say!","",""
+"　こっちもオオブタヤサイニンニクアブラマシマシだ！　","","　This side is also very oily with a lot of garlic and vegetables!","",""
+"\Eロット乱しは最大のギルティ…
+負けたほうがここの支払いを持つ、でいいかな？","","\EDisrupting the lot is the biggest guilt... 
+Is it okay for the loser to bear the payment here?","",""
+"　望むところだ！　","","　That's what I wanted!","",""
+"\Eざーめんおまっーせしぁしたーーーっ！！！","","\EWelcome, leave it to meeeee!!!","",""
+"\E（な、何だこれは…
+　これが本当に人間の食い物なのか…！？","","\E (W-What is this... 
+ Is this really what humans eat...!?","",""
+"勝ち","","","",""
+"\Eく、食ったぞ…げふ…。","","\EUgh, I ate it...burp...","",""
+"\Eな、なんだと…うっ！","","\EWh-what... ugh!","",""
+"\E…勝負あったようだな…うぷ。","","\E...Looks like there was a match...heh.","",""
+"\Eロットバトルに勝利した！","","\EVictory in the Lot Battle!","",""
+"\Eやる気が上がった。","","\EI feel motivated.","",""
+"\Eスキル\c[1]短期決戦\c[0]のヒントを得た！","","\EObtained\c[1]hints\c[0]for short-term battles!","",""
+"負け","","","",""
+"\Eう、うぷっ…
+も、もう…だめだ……。","","\EUgh...
+I... I can't... anymore...","",""
+"\Eふ、勝負あったようだね…うっぷ…。","","\EWell, it seems like there was a match... Ugh...","",""
+"\Eロットバトルに負けてしまった…。","","\EI lost in the lot battle...","",""
+"ひったくり","","","",""
+"おばちゃん","","","",""
+"\Eだ、だれかー！ひったくりよ―！","","\ESomeone, someone! Stop the thief!","",""
+"\Eなにっ！？","","\EWhat!?","",""
+"\Eへっ！！
+ボケっと歩いてるほうが悪ぃんだよ！！","","\EHuh!!
+It's worse to walk around absentmindedly!!","",""
+"\E…あいつか！待てー！","","\E...It's him! Wait!","",""
+"\E待てと言われて…","","\EI was told to wait...","",""
+"cg/bg_09_town_b.jpg","","","",""
+"\Eくそ…こいつ意外とやる…普段から鍛えてる足だ…！","","\EDamn... This guy is surprisingly good... Those legs must be trained regularly...!","",""
+"\Eうおおおおお！…ガシッ！","","\EUooooo!...Gashii!","",""
+"\Eくそっ…離せっ！","","\EDamn it... Let go!","",""
+"\E本当にありがとう。
+せめてお礼にこれを持っていっておくれ。","","\EThank you so much.
+At least take this as a token of my gratitude.","",""
+"\Eおばちゃんからお礼のお菓子をもらった！","","\EI received a thank-you snack from the old lady!","",""
+"\E（…ぜ、全然追いつけない…。","","\E(...I can't catch up at all...","",""
+"SE/kick-middle1.mp3","","","",""
+"聞き覚えのある声","","","",""
+"\Eふんっ","","\EHmph.","",""
+"\Eぐぇっ！","","\EGueh!","",""
+"\Eお、お前は…","","\EOh, you are...","",""
+"\Eふ…実に情けない姿だな…。","","\EUgh... What a pathetic sight...","",""
+"\Eご婦人、荷物は取り戻しましたよ。
+では僕はこれで…。","","\EMadam, your luggage has been recovered.
+Well then, I'll be on my way...","",""
+"街の声","","","",""
+"\Eさすがアカツキさんだ…。","","\EAs expected, it's Akatsuki-san...","",""
+"\Eやっぱり頼りになるわねー。","","\EYou're still reliable, huh.","",""
+"\Eくそお…。","","\EDamn it...","",""
+"キャライベント　ユカリ1","","","",""
+"ユカリ1","","","",""
+"\Eあ、お兄ちゃん！
+ちょうどよかったー。","","\EAh, big brother!
+Just in time!","",""
+"　どうしたんですか？　","","　What's wrong?","",""
+"\E来週分の食材がねー、ちょっと獲れすぎちゃって。
+運ぶのと配るの手伝ってくれないかしら。","","\EI ended up catching too much ingredients for next week. 
+Could you help me with transporting and distributing them?","",""
+"\Eいいですよ。","","\EThat's fine.","",""
+"\E（ユカリさんの狩りの腕前は恐らく村で一番…
+　弓も罠もお手の物だ。","","\EYukari's hunting skills are probably the best in the village...
+She's adept at both the bow and traps.","",""
+"\E（今も全然腕が衰えているようには思えないけど…
+　どうして引退しちゃったんだろう？","","\E (Even now, it doesn't seem like his skills have deteriorated at all... 
+ I wonder why he retired?)","",""
+"\Eうーん…謎だ。","","\EHmm... It's a mystery.","",""
+"\Eユカリさんの手伝いをした！","","\EI helped Yukari-san!","",""
+"ユカリ2","","","",""
+"キャライベント　ユカリ2","","","",""
+"\Eあ、お兄ちゃん。
+お水と席の用意してくれる？","","\EAh, big brother.
+Will you prepare water and a seat for me?","",""
+"　これから誰か来るんですか？　","","　Is someone coming from now on?","",""
+"\Eお客さんよ…。
+んー…たぶんたー君かな？","","\EOh, customer...
+Hmm...probably Taku, right?","",""
+"\Eた、たー君…？誰だ…
+よほど親しい間柄の人か…？","","\ET-Ta-kun...? Who... 
+Must be someone really close...?","",""
+"SE/[Action]DoorOpen_Komori.ogg","","","",""
+"\Eガチャ","","\EGacha","",""
+"\Eそ、村長？","","\ESo, Village Chief?","",""
+"村長","","","",""
+"\Eふぉふぉふぉ。
+ユカリさんはいるかい？","","\EFofofo.
+Is Yukari-san here?","",""
+"\Eあらあら、いらっしゃいたー君。","","\EOh my, welcome, Ita-kun.","",""
+"\E（確かに村長の名前はタロウ…でも…","","\E (Certainly, the village chief's name is Tarou... but...)","",""
+"\Eユカリさん…なんでたー…
+…村長ってわかったんです？","","\EYukari-san... Why did you come here... 
+...How did you know I'm the village chief?","",""
+"\Eん－、足音かしらね。
+ほら村長は杖をついているから特徴的な足音でしょ？","","\EHmm, I wonder if it's footsteps.
+You see, the village chief uses a cane, so it must be a distinctive sound, right?","",""
+"\E（ど、どうなってるんだこの人の耳は…。","","\E (W-What's going on with this person's ears...?","",""
+"\E…ってなことがあったんだよ。","","\E...there was something like that.","",""
+"\Eすごいですね。","","\EThat's amazing.","",""
+"\Eでも村長をたーくん呼びって…
+マスターって一体いくつなんだろう？","","\EBut calling the village chief ""Taa-kun""... 
+I wonder how many ""Master"" there are in total?","",""
+"\Eんー…
+見た目でいえば二十歳そこそこくらいですよね。","","\EHmm...
+In terms of appearance, I'd say around twenty years old.","",""
+"\E…あたし小さい頃に遊んでもらった記憶があるよ。","","\E...I have memories of playing when I was little.","",""
+"\Eわ、わたしもおんぶしてもらった事があります。","","\EI, I have also been carried on someone's back before.","",""
+"\Eオレも…","","\EMe too...","",""
+"\E…エルフってことを考えると
+100歳超えてるってこともあるんじゃない？","","\E...Considering the fact that they're elves, 
+isn't it possible that they're over 100 years old?","",""
+"　100ってそれもう老婆じゃん！　","","　Line 1: 100, isn't that already an old lady?!","",""
+"\Eねえお兄ちゃぁーん？
+…だれが老婆ですって？","","\EHey big brotheeeer?
+...Who said I'm an old lady?","",""
+"\Eあ、私お薬届けに行かなくちゃ。","","\EAh, I have to go deliver medicine.","",""
+"SE/flee1.mp3","","","",""
+"\Eわ、わたしもう一回見回りしてくる！","","\EI-I'm going to do another patrol!","",""
+"\E…さ、お兄ちゃん。
+お姉さんとお話しよっか。","","\E...Hey, big brother.
+Do you want to talk with me, big sister?","",""
+"\Eユカリさんの耳は…とてもいい…。","","\EYukari's ears... are very good...","",""
+"\Eこってり絞られた。","","\EIntensely squeezed.","",""
+"ユカリ3","","","",""
+"キャライベント　ユカリ3","","","",""
+"\E…では失礼します。","","\E...I apologize for the inconvenience.","",""
+"　あれ、アイツは…　","","　Hmm, what about that guy...","",""
+"\E…なんでまたうちのギルドから出てきたんだ…？","","\E...Why did you come out of our guild again...?","",""
+"\Eあ、お兄ちゃんおかえりー。","","\EOh, welcome back, big brother.","",""
+"　今アカツキが…　","","　Now, Akatsuki...","",""
+"\Eあー…彼ね私にタウンに戻ってきて欲しいんだって。
+やーねーモテちゃって困るわ。","","\EAh... He wants me to come back to town.
+Ugh, it's troublesome being popular.","",""
+"\E…戻るんですか？","","\E...Are you going back?","",""
+"\E戻らないわよー。","","\EI'm not coming back, you know.","",""
+"アカツキの事を聞く","","Ask about Akatsuki.","",""
+"冒険者を辞めたことを聞く","","Hearing that you quit being an adventurer.","",""
+"\E…気になってたんですけど
+アイツとユカリさんって何かあるんですか？","","\E...I was wondering
+Is there something going on between that person and Yukari-san?","",""
+"\E前にいたギルドで若手の指導と育成を行ってたのよ。
+それがアカツキ君も所属するタウン支部。","","\EI was in charge of mentoring and nurturing young members at the guild I used to be in.
+That's also where Akatsuki-kun belongs, the town branch.","",""
+"\Eまあ彼には直接は教えていないんだけどねー
+出会った時は本当に無邪気な子供だったし。","","\EWell, I haven't directly told him, but you know
+When we first met, he was truly an innocent child.","",""
+"\E気になったんですけど…
+ユカリさんどうして冒険者を辞めちゃったんですか？","","\EI was curious... 
+Why did you quit being an adventurer, Yukari-san?","",""
+"\E…腕が衰えてって感じじゃないですよね。","","\E...It doesn't feel like my arm is getting weaker, right?","",""
+"\E…んー、私の判断ミスで仲間を失った。
+これが現役を退いた直接の理由よ。","","\E...Hmm, I lost a comrade due to my own misjudgment.
+This is the direct reason why I retired from active duty.","",""
+"\Eで、一線を退いた後は若手の指導と育成を行ってきた。
+それがアカツキ君のタウン支部。","","\EAfter retiring from the front line, I have been engaged in mentoring and nurturing young talents.
+That is Akatsuki-kun's town branch.","",""
+"\Eま、そんなこんなで向こうにいた期間もそこそこ長かったし
+今じゃ当時の教え子たちがそれなりのポジションについているじゃない？","","\EWell, I spent a considerable amount of time over there, dealing with this and that.
+Nowadays, aren't my former students in decent positions?","",""
+"\Eそれでタウン支部の子達から先生だなんて呼ばれるワケなのよ。","","\EThat's why the kids from the town branch call me ""teacher"".","",""
+"\Eそうだったのか…！","","\EIs that so...!","",""
+"　なんでこんな村に…？　","","　Why in the world is there a village like this...?","",""
+"\Eだったらなんでこの村に…","","\EThen why is this village...","",""
+"\Eんー…それはね、お兄ちゃん―","","\EHmm... Well, you see, big brother―","",""
+"\E冒険者は基本は危険と隣り合わせ。
+どれだけ説いても気を付けてたってどうしようもならない時がある。","","\EAdventurers are always in close proximity to danger.
+No matter how cautious they are, there are times when they can't do anything about it.","",""
+"\Eその度にチクリと痛む心がね、無視できない痛みになって。
+冒険から離れてゆっくり静かに暮らすことにしたの。","","\EEvery time, that stinging pain in my heart, it becomes an undeniable pain.
+I decided to step away from adventure and live slowly and quietly.","",""
+"\Eそれでやってきたのがメクア村なんですね…。","","\ESo, this is Mequa Village that we've arrived at...","",""
+"　…でも…あれ…？　","","　...But...huh...?","",""
+"\E…でも今は冒険と関わってません？","","\E...But are you not involved in adventures right now?","",""
+"\Eそうねー。","","\EYeah, I guess so.","",""
+"\Eそれはね…幼い頃から知るあなた達が
+冒険者を目指している事を知ったからよ。","","\EYou see... I found out that you, who I've known since childhood, are aiming to become adventurers.
+ That's why.","",""
+"\E言ったとおり冒険は常に危険と隣り合わせ
+一つの判断ミスが致命的な事態に繋がる場合だってある。","","\EAs I said, adventure is always accompanied by danger.
+There are even cases where one misjudgment can lead to a fatal situation.","",""
+"\E財宝よりも強さよりも取り返しのつかない大切な物がある。
+まず生きる為の技術や考え方をあなた達に伝えようと思ったのよ。","","\EThere is something more precious than treasure or strength that cannot be recovered.
+First, I wanted to convey to you the skills and mindset necessary for survival.","",""
+"\Eそして出来ればこの考えを広めて伝えていきたい。
+だから私は新しくギルドを立ち上げてあなた達を誘った…","","\EAnd if possible, I want to spread and convey this idea.
+That's why I started a new guild and invited all of you...","",""
+"\E…ま、そんな感じよ。","","\E...Well, that's the feeling.","",""
+"\Eユカリさん…。","","\EYukari-san...","",""
+"\Eユカリさんの話を聞いた！","","\EI heard Yucari's story!","",""
+"\Eやる気があがった！","","\EI'm feeling motivated!","",""
+"カナ好感度","","","",""
+"ユイ高感度","","","",""
+"百戦危うべからず","","","",""
+"cg/bg_07_guild_j.jpg","","","",""
+"BGM/nonbiri.mp3","","","",""
+"cg/bg_07_guild_m.jpg","","","",""
+"\Eはい…こ、これで詰み…だと思います。","","\EYes... I-I think this is checkmate...","",""
+"\E負けた…。","","\EI lost...","",""
+"cg/bg_07_guild_n.jpg","","","",""
+"\Eほんとうに模擬盤強いねー、全然勝てないや。","","\EThe mock board is really strong, I can't win at all.","",""
+"cg/bg_07_guild_l.jpg","","","",""
+"\Eみんな見事に負けましたね…。","","\EEveryone lost splendidly...","",""
+"\Eも、模擬盤やカードだけなら…
+実際に武器を手に戦ったら私なんか相手にもなりません…。","","\EEven if it's just a simulation board or cards...
+I wouldn't stand a chance against anyone if I actually fought with a weapon in hand...","",""
+"\Eまー剣を振るうって感じには見えないのはわかる。","","\EI understand that it doesn't look like I'm swinging a sword or anything.","",""
+"\E相手を想定して戦いになる前に優位な状況を備える。
+もし戦闘になったらなるべく戦いやすい状況を作り出す…","","\EPrepare a favorable situation before engaging in battle with the opponent.
+If a battle does occur, create a situation that is as easy to fight in as possible...","",""
+"\Eそ、そんな感じで
+状況をコントロールするのが私の戦い方です。","","\ETh-th-that's the way I control the situation.
+It's my way of fighting.","",""
+"\Eそういう意味では…例えば…
+お兄さんとならもし勝負しても負けないと思います。","","\EIn that sense... for example... 
+I think I wouldn't lose even if I were to compete with you, big brother.","",""
+"\Eえ、ほんとに！？","","\EWait, really!?","",""
+"\E…お兄さん同士の弱点は妹ちゃんです。
+もし勝負になったらお兄ちゃんに虐められたと明日学校で言います。","","\E...The weakness of brothers is their little sister.
+If it comes to a competition, I will say that I was bullied by my older brother at school tomorrow.","",""
+"\E負け認めるのはやっ！","","\EI won't admit defeat!","",""
+"\E相手の事を知って自分のできることを理解する。
+そうしたら状況を優位にできる…かも知れない…。","","\EUnderstand the opponent and what you can do.
+Then, you might be able to gain an advantage in the situation...","",""
+"\Eこ、こんな感じです。","","\EThis, this is how it feels.","",""
+"\Eなるほど…相手を知り己を知るか…。","","\EI see... To know the opponent is to know oneself...","",""
+"\Eスキル\c[1]事前準備\c[0]のヒントを得た！","","\EGot some hints for \c[1]skill \c[0]preparation!","",""
+"\Eまた負けた…。","","\EI lost again...","",""
+"\Eありゃー…途中までいい線いってたのにねー。","","\EWell... we were on a good track until halfway.","",""
+"\E途中妙な動きをしたんで罠を警戒したんだけどなぁ…。
+読みが外れたか…？","","\EI was cautious of traps because they made strange movements along the way...
+Did I misread it...?","",""
+"\Eあたりです、さすがはお兄さん同士。","","\EIt's your turn, just as expected from brothers.","",""
+"\Eえっと…今回はその罠を使いました。","","\EUm... This time, I used that trap.","",""
+"\E罠？","","\ETrap?","",""
+"\E罠はそれ単体で期待できる効果もあるんですが…
+あるかも知れないと思わせた時点で相手に迷いを生じさせます。","","\ETraps have their own effects that can be expected...
+Just making the opponent think that there might be something will cause them to hesitate.","",""
+"\Eそしてその迷いに乗じて時間を稼いだり
+または攻勢に転じたりすることで状況を動かす事ができます。","","\EAnd by taking advantage of that hesitation, you can buy time or turn the tide of the battle to change the situation.
+","",""
+"\Eなるほどなぁ…。","","\EI see...","",""
+"\Eでも…
+実際に戦いになったら罠を設置するヒマなんてなくない？","","\EBut...
+Wouldn't there be no time to set up traps when it actually comes to a battle?","",""
+"\Eこれはなにも物理的に設置するような罠でなくともよくって…
+お兄さんやカナさんの立ち回りに変化をつけるだけでも効果があります。","","\EEven if it's not a trap that needs to be physically set up...
+Just changing the way you and Kana-san approach can have an effect.","",""
+"\Eこういうのを陣って言って…
+優位な陣に相手を引き込んで…自分のペースを保つ…","","\ESaying things like this... 
+Drawing the opponent into a favorable formation... Maintaining my own pace...","",""
+"\Eこ、こんな感じです…。","","\ETh-this is how it looks...","",""
+"\Eなるほど…優位な状況に相手を引き込むか…。","","\EI see... Should I draw the opponent into a favorable situation...?","",""
+"\Eスキル\c[1]陣地形成\c[0]のヒントを得た！","","\EObtained hints for\c[1]skill\c[0]formation!","",""
+"\Eまたまた負けた…。","","\EI lost again...","",""
+"\Eこ、今回は長引きましたね…。","","\EThis time, it dragged on, didn't it...?","",""
+"\Eはい、前にも言った陣に相手を引き込む方法の
+最大の弱点は相手を罠にかけるまで時間がかかることです。","","\EYes, the biggest weakness of the method of luring the opponent into the formation, as I mentioned before, is that it takes time to set up the trap for the opponent.
+","",""
+"\Eなのでカナさんみたいな速攻型とは相性が悪いんですね。","","\ESo, it's not compatible with a fast attack type like Kana-san.","",""
+"\Eだから序盤は守りを固めて体力の消耗を抑えて
+自分が優位に戦える準備が整ってから攻勢に出ました。","","\ESo in the early stages, I focused on strengthening my defense and minimizing stamina consumption.
+Once I was fully prepared to fight from a position of advantage, I launched my offensive.","",""
+"\Eペース配分を意識して時間をコントロールすることで
+優位になれる…場合もあります…。","","\EBy consciously managing the pace and controlling the time, 
+you can gain an advantage... in some cases...","",""
+"\Eなるほど…ペース配分で優位を作り出すか…。","","\EI see... Creating an advantage through pace distribution...","",""
+"\Eスキル\c[1]長期戦\c[0]のヒントを得た！","","\EObtained\c[1]a hint for\c[0]a long battle!","",""
+"カスミ強さアップ","","","",""
+"カスミ好感度最大","","","",""
+"初回","","","",""
+"\E……はぁ…。","","\E...sigh...","",""
+"\Eあれ…カスミちゃんだ。","","\EHuh... It's Kasumi-chan.","",""
+"\Eあ、お兄さん同士。","","\EOh, you're brothers.","",""
+"　どうしたのため息なんて…　","","　What's wrong? A sigh like that...","",""
+"\Eあ、いえそれは…その、実は…
+ちょっと読み物を…。","","\EAh, um... well, actually...
+I was just reading something...","",""
+"\E…こ、これ…なんです…けど。","","\E...Th-this...what is it...though.","",""
+"\Eこ、これは…
+「上級者向けBLブック」！","","\ETh-this is...
+""Advanced-level BL Book""!","",""
+"SE/se_book01.mp3","","","",""
+"\Eペラ…","","\EPera...","",""
+"\Eえぇっ！？1ページ目からもう…？","","\EWhat?! Already from the first page...?","",""
+"\Eえぇっ！？あの素直な少年が！？","","\EWhat?! That honest boy!?","",""
+"\Eうお！脱いだら凄っ！てかえぐっ！！","","\EWhoa! You're amazing when you take off your clothes! No, I mean, you're stunning!!","",""
+"\Eお、お兄さん！あのっ…！わ…わたし…っ！
+も、もう我慢出来ないんですっ！","","\EOh, big brother! Umm...! I... I can't take it anymore!
+I, I can't hold it in any longer!","",""
+"　え、えっ？…それって…　","","　Huh, huh?... Is that...","",""
+"\Eか、語り合いましょう同士！","","\ELet's have a conversation, comrades!","",""
+"\Eあ、そういう…。","","\EAh, I see...","",""
+"\Eカスミちゃんと勉強？したぞ。","","\EStudied with Kasumi-chan?","",""
+"\Eカスミの強さがあがった！
+好感度が上がった！","","\EKasumi's strength increased!
+Likeability increased!","",""
+"\Eカスミはスキル\c[1]機転\c[0]を習得した！","","\EKasumi has acquired\c[1]quick thinking\c[0]as a skill!","",""
+"2回目以降","","","",""
+"\Eおっ、カスミちゃんがいるな。","","\EOh, Kasumi-chan is here.","",""
+"\Eあ、同士！
+今日も新しいの持ってきましたよ！","","\EAh, comrade!
+I brought a new one today too!","",""
+"\Eお、お…おう…！","","\EOh, oh... okay...!","",""
+"2回目以降高感度MAX","","","",""
+"\Eカスミの強さがあがった！","","\EKasumi's strength has increased!","",""
+"\Eあ、同士！ここにいたんですね！
+さ、探しました！","","\EAh, comrade! You were here! 
+Alright, I've been searching!","",""
+"\Eあれ、カスミちゃんだ。
+どうしたの？","","\EOh, is that Kasumi-chan?
+What's wrong?","",""
+"\Eみみみ、見て下さい…！
+じつは…さく×くまの新刊がでたんです！！！","","\EPlease look...! 
+Actually... SakuxKuma's new book has been released!!!","",""
+"\Eは、初めての感動を同志と分かち合いたくて…
+今日ここまで読むのを我慢してきたんです！","","\EI wanted to share the first excitement with my comrades... 
+I've been holding back from reading this until today!","",""
+"\Eそ、そっか…！
+あ、ありがとう…！","","\ES-So, I see...!
+T-Thank you...!","",""
+"\Eも、もうあたし…我慢できそうにもありませんっ！
+さあっ！はやくページを…！","","\EI... I can't bear it anymore!
+Come on! Hurry up and turn the page...!","",""
+"\Eご、ごめんなさい…すっかり遅くなってしまって……。","","\EI-I'm sorry... I ended up being really late...","",""
+"\Eまあ、盛り上がっちゃったからね…。","","\EWell, things got exciting, you know...","",""
+"\Eこ、こういう話ってあまりできる人がいなくて…つい…。","","\EThere aren't many people who can have this kind of conversation... so I...","",""
+"\E（…だろうな…）","","\E(...I guess...)","",""
+"\Eあの、お兄ちゃん…私のこと、変だと思いますか？","","\EUm, big brother... Do you think I'm weird?","",""
+"\E…変？","","\E...Strange?","",""
+"\Eあぅ…こ、こういうBLが好きって…。","","\EAh... I-I like this kind of BL...","",""
+"　いや、別に変じゃないよ　","","　No, it's not weird or anything.","",""
+"\E好きなものに熱中するってのは普通の事だと思うよ。","","\EI think it's normal to be obsessed with things you like.","",""
+"\E（変わっているとは思うけど…","","\E (I think it's different, but...)","",""
+"\Eわ…わたし…っ！
+好きなことになると…つい止まらなくて…","","\EI... I...! 
+When it comes to something I like... I just can't stop...","",""
+"\Eそ、それで変なこと言ってたりしないかなって…あぅ…。","","\EI-I hope I didn't say anything weird... ahh...","",""
+"\Eん－、別に俺は平気だよ。
+好きなものは好きなんだからいいと思う。","","\EUm, I'm fine, you know.
+I think it's okay to like what you like.","",""
+"\Eお兄ちゃん同士…。","","\EBetween brothers...","",""
+"\Eあ、あの…っ！これからも、その…よろしくお願いします…。","","\EAh, um...! From now on, um... please take care of me...","",""
+"種を植えよう","","","",""
+"家の前のメクア大根が置かれている","","","",""
+"\Eお兄ちゃんお兄ちゃん！","","\EBig brother, big brother!","",""
+"\Eあれ…どうした、家の前で？","","\EHuh... What's wrong, in front of the house?","",""
+"\Eほら、前にお父さんから届いた荷物に種が入ってたでしょ。","","\ELook, there were seeds in the package I received from Dad before, right?","",""
+"\Eあーそういえば入ってたな…。","","\EOh, come to think of it, it was in there...","",""
+"\Eそれでせっかくだから植えてみようかなって。","","\ESo, since we've come this far, why not give it a try and plant it?","",""
+"　よし、やってみようか　","","　Alright, let's give it a try.","",""
+"cg/bg_03_garden_a.jpg","","","",""
+"\E何の種かなー、楽しみだねお兄ちゃん！","","\EI wonder what kind of seed it is, I'm looking forward to it, big brother!","",""
+"\E（あの親父のことだからな…
+　妙な物が生えてこなければいいけど…。","","\E (Knowing that old man... 
+ I hope nothing strange grows out...)","",""
+"\E妹と謎の種？を植えた。","","\EPlanted a mysterious seed with my little sister.","",""
+"\Eん？どうした？","","\EHm? What's wrong?","",""
+"\Eほら、芽が出てきたよ。","","\ELook, the sprout has come out.","",""
+"\Eおおっ、本当だ。","","\EOh, it's true.","",""
+"\E楽しみだねー","","\EI'm looking forward to it!","",""
+"\Eそうだな。","","\EI see.","",""
+"\E妹と畑の世話をしたぞ。","","\EI took care of the field with my little sister.","",""
+"\Eお兄ちゃん大変だよー！","","\EIt's tough, big brother!","",""
+"\Eなんだ？","","\EWhat is it?","",""
+"\E畑にウリボウが…！","","\EThere's a scarecrow in the field...!","",""
+"\Eなにっ！","","\EWhat!","",""
+"\E畑を荒らす害獣だ！","","\EIt's a pest that ravages the fields!","",""
+"\Eいてて…
+な、なんとか追い払ったか…。","","\EOuch...
+I, I managed to drive them away somehow...","",""
+"\Eだいぶ荒らされちゃったね…。","","\EIt's been quite messed up...","",""
+"\Eまだ無事な芽もあるな…
+荒らされないように柵で厳重に囲っておこう。","","\EThere are still some safe sprouts... 
+Let's surround them securely with fences so they won't be disturbed.","",""
+"\Eだいぶ育ってきたな。","","\EI've grown quite a bit.","",""
+"\Eそうだねー。","","\EYeah, that's right.","",""
+"\Eでもなんだか変わった模様の葉だね。
+花？お野菜？見たことないかも…？","","\EBut it's a leaf with a somewhat unusual pattern, isn't it?
+A flower? A vegetable? Maybe you've never seen it before...?","",""
+"\Eだな、どんな風に育つか楽しみだ。","","\EYeah, I'm looking forward to seeing how it grows.","",""
+"\Eおおきくなーれー
+　おおきくなーれー","","\EGrow up big
+　Grow up big","",""
+"日中イベントのフラグを立てる","","","",""
+"\Eお、お兄ちゃん…！","","\EOh, big brother...!","",""
+"\Eん？","","\EHuh?","",""
+"\Eは、畑が…","","\EThe field is...","",""
+"\Eもぬけの殻…というのも変な言い方だが…
+すっぽりと引っこ抜かれてるな…。","","\EAn empty shell... although that's a strange way to put it... 
+It's completely pulled out...","",""
+"\E帰ってきたらこうなってて…。","","\EWhen I came back, it was like this...","",""
+"\Eその後引きずって裏の森の方へ…
+獣か何かが咥えて引っこ抜いて森へ引きずっていった…？","","\EAfterwards, it was dragged towards the back of the forest...
+Did some kind of beast grab it and drag it into the forest...?","",""
+"\Eひどい…せっかく育てたのに…。","","\EHow terrible... I worked so hard to raise it...","",""
+"\E残念だけど仕方ない…。","","\EIt's a shame, but there's nothing we can do...","",""
+"\E…ふう。","","\E...Phew.","",""
+"社会見学","","","",""
+"\Eただいまー…ってあれ？","","\EI'm back... huh?","",""
+"\Eあ、お兄ちゃんおかえり。","","\EAh, welcome back, big brother.","",""
+"\Eえ、なんで妹が？","","\EWait, why is my little sister here?","",""
+"\Eあらおかえりなさい、お疲れさま。
+妹さんは研修でうちにきてるのよー。","","\EWelcome back, good job.
+My little sister is staying at our place for training.","",""
+"\Eなるほど…研修…。","","\EI see... training...","",""
+"\Eそうそう、気が利くし飲み込みが早いから将来が楽しみね。","","\EYeah, he's quick-witted and a fast learner, so I'm looking forward to his future.","",""
+"\Eそうなんですか…。","","\EIs that so...?","",""
+"\E（妹もちゃんと将来の事を考えているんだな…。","","\E (My little sister is also thinking about her future...)","",""
+"\Eお兄ちゃんも帰ってきたし、
+今日は上がっていいわよー。","","\ENow that big brother is back, 
+you can come up today.","",""
+"\Eはい、お疲れさまでした！
+お兄ちゃん、帰ろうー。","","\EYes, good job! 
+Big brother, let's go home.","",""
+"\Eおかえり、お兄ちゃん。","","\EWelcome back, big brother.","",""
+"\Eお、今日も研修か。","","\EOh, another training session today.","",""
+"\E（うーん、妹もだいぶ仕事姿が様になってきたな…。","","\EHmm, my little sister has really started to look the part at work...","",""
+"\Eオレも頑張らないと…！","","\EI have to do my best too...!","",""
+"\Eやる気が上がった！","","\EI'm feeling motivated!","",""
+"ユカリさんは鉄壁","","","",""
+"cg/event51_01.jpg","","","",""
+"cg/event51_02.jpg","","","",""
+"\Eあ、お兄ちゃんこれ。
+2番テーブルにおねがーい！","","\EAh, big brother, this.
+Please go to table number 2!","",""
+"\Eユイちゃんオーダー行けるー？","","\ECan you take Yui-chan's order?","",""
+"\Eはい！","","\EYes!","",""
+"\E今日は忙しい一日だった…！","","\EToday was a busy day...!","",""
+"面倒な客","","Difficult customer","",""
+"\Eなあなあ、となり来て酒注いでくれよー。","","\EHey, come over here and pour me some sake, will ya?","",""
+"\Eはいはいごめんねー。
+うちそういうお店じゃないのよー。","","\EYes, yes, I'm sorry.
+This is not that kind of shop, you know.","",""
+"\Eちっ連れねえなあ。","","\EI don't have any companions.","",""
+"\Eはーい、1番テーブルさんお料理お持ちいたしましたー。","","\EAlright, I have brought the dish for Table 1.","",""
+"ガラの悪い客","","Rude customer","",""
+"\Eへへっ、いいケツしてるなエルフのねーちゃん。","","\EHehe, that elf sister has a nice butt.","",""
+"SE/swing1.mp3","","","",""
+"\Eスカッ","","\ESka","",""
+"\Eあれっ？…あれ？","","\EHuh?... What's that?","",""
+"\Eあらあ？お客様～、どうかなさいましたかぁ？","","\EOh my? Customer~, what can I do for you?","",""
+"\Eな、なんて身のこなしだ…！まるで見えなかったぞ…。","","\EWh-what a nimble movement...! I couldn't see it at all...!","",""
+"\Eユ…ユカリ先生！！こ、今度いっしょにデー…","","\EY...Yukari-sensei!! Th-this time, let's go on a da...","",""
+"\Eあ、お兄ちゃんこれ。
+3番テーブルにお願いね。","","\EOh, big brother, this is for you.
+Please go to table number 3.","",""
+"\Eユカリさんのブロックはいつも完璧だ…！","","\EYukari's blocks are always perfect...!","",""
+"\Eスキル\c[1]鉄壁\c[0]のヒントを得た！","","\EObtained\c[1]the hint\c[0]of Iron Wall skill!","",""
+"全裸徘徊！？","","","",""
+"SE/se_minmin.mp3","","","",""
+"\Eしっかし今日は暑い一日だった…。","","\EBut today was a hot day...","",""
+"\E夜も寝苦しくなりそうだ…。","","\EI feel like I won't be able to sleep well at night...","",""
+"今日の寝相を熱帯夜用にします","","","",""
+"\E暑くて水浴びしたまではいいが…
+まさか服を丸ごと流されてしまうとは…。","","\EIt was nice to cool off with a swim, but... 
+I never expected my clothes to be completely washed away...","",""
+"\Eまあ幸い盾で下半身はうまいことカバーできる。
+よし…このまま壁を背にして扉まで…","","\EWell, fortunately I can cover my lower body with a shield.
+Alright... I'll keep my back against the wall and head towards the door...","",""
+"\Eドッキーン！","","\EDokkiin!","",""
+"\Eカカ、カカカカカナじゃないか。
+どっどどどどうした？","","\EKaka, isn't it Kakakakakana?
+What's wrong?","",""
+"\E何やってんの…裸で壁にひっついて、セミ？","","\EWhat are you doing... sticking to the wall naked, cicada?","",""
+"\Eいやあ暑くてさー
+上脱いでトレーニングした帰り…的な？","","\EWow, it's so hot, right?
+I took off my top and trained, and on the way back... something like that?","",""
+"\Eふうん、男はそういう時に脱げるからいいよねー。
+でさでさ…","","\EHmm, it's convenient for guys to be able to undress in those situations, huh?
+So, anyway...","",""
+"\E待った！ストップ！それ以上は近寄るな！","","\EWait! Stop! Don't come any closer!","",""
+"\Eえ、何？","","\EHuh, what?","",""
+"\Eい、いやほら…オレ汗すごいかいてるからさ。
+きっと…いや絶対に汗臭いだろうし。","","\EU-umm, well... I-I'm sweating a lot, you know.
+I'm sure... no, I definitely must smell sweaty.","",""
+"\Eそういう？乙女心的なアレだ。
+みなまで言わなくともカナならわかるだろ？","","\EIs that so? It's something like a maiden's heart.
+Even if you don't say it out loud, you should understand if you're a girl, right?","",""
+"\E…お兄ちゃんそのナリで乙女心とかいう？
+まーいいや。","","\E...Brother, do you believe in things like a maiden's heart?
+Well, never mind.","",""
+"\Eじゃ、あたし先いくねー。","","\EWell, I'm gonna go ahead.","",""
+"\E…さっさと服着なよー！
+勘違いされて通報されても知らないぞー！","","\E...Hurry up and put on your clothes! 
+Even if you get mistaken and reported, I won't know!","",""
+"\E（勘違いじゃないんだよなぁ…","","\E (It's not a misunderstanding...)","",""
+"\E行ったな…。","","\EYou went...","",""
+"\Eよし…。","","\EAlright...","",""
+"\Eあ、お兄ちゃん同志！","","\EAh, comrade!","",""
+"\Eどわあっ！","","\EWow!","",""
+"コーヒータイム","","","",""
+"\Eこぽぽ…","","\EKopopo...","",""
+"\Eカスミちゃんがコーヒーを淹れているぞ…","","\EKasumi-chan is brewing coffee...","",""
+"\Eは、はい…ど、どうぞみなさん。","","\EUm, um... P-please, everyone.","",""
+"\Eお、お兄ちゃん同志も…。","","\EOh, even you, big brother...","",""
+"\Eありがとうカスミちゃん。","","\EThank you, Kasumi-chan.","",""
+"\Eうーん、いい香り……ずずっ…。","","\EHmm, it smells good... *slurp*","",""
+"\Eど、どうですか…","","\EHow, how is it...","",""
+"\Eお客さんに出しても…大丈夫…ですかね…。","","\EIs it okay to serve this to the customers... I wonder...","",""
+"\E…うん…西海岸で飲む、いつもの味。","","\E...Yeah...the usual taste of drinking on the West Coast.","",""
+"\Eこの味なら、成功間違いなしだよ。","","\EWith this taste, success is guaranteed.","",""
+"\Eほ、ほんとですか…！よかったです…。","","\EI-Is that true...! I'm glad...","",""
+"\E西海岸って何…？","","\EWhat is the West Coast...?","",""
+"\Eカスミちゃんのコーヒーで夜更かしになった！","","\EI stayed up late because of Kasumi-chan's coffee!","",""
+"\Eずずっ…。","","\EZuzuu...","",""
+"\Eふ、僕にとって新鮮味のないこの味こそ成功の証だね。","","\EThis taste, without any freshness to me, is the proof of success.","",""
+"\E…だからなにそれ……。","","\E...So what is that...?","",""
+"お兄ちゃんは見た","","","",""
+"cg/bg_31_book.jpg","","","",""
+"\Eん？あれは…","","\EHuh? What's that...","",""
+"\Eカスミちゃんだ。","","\EIt's Kasumi-chan.","",""
+"\EカスミちゃんがBL本を漁っているぞ…。","","\EKasumi-chan is searching for BL books...","",""
+"\Eものすごい手際で見本をチェックしている…。","","\EChecking the samples with incredible efficiency...","",""
+"SE/[Action]Swing1_Komori.ogg","","","",""
+"\Eな、なんて動きだ…！
+目で追うのが精一杯だぞ…","","\EWhat... what a movement...!
+I can barely keep up with my eyes...","",""
+"\Eカスミの強さ？がアップした！","","\EKasumi's strength? has increased!","",""
+"ギルド名","","","",""
+"\Eところでさー","","\EBy the way,","",""
+"\E冒険者ギルドメクア支部って名前。","","\EThe name is Adventurer Guild Mekua Branch.","",""
+"\E…それがなんかした？","","\E...Did that do something?","",""
+"\Eいや、よく考えたらメクア支部ってのがギルド名なんだよね？","","\ENo, come to think of it, ""Mekua Branch"" is actually the name of the guild, right?","",""
+"\Eまあ…確かに。","","\EWell... That's true.","",""
+"\Eなんかこうもっと…ないかな？","","\EIs there something more...?","",""
+"\Eうーん…ユカリ食堂とか？","","\EHmm... How about Yukari's Diner?","",""
+"\Eエルフカフェなんでどうでしょう。","","\EHow about an Elf Cafe?","",""
+"\Eなんで飲食方向に行くの…","","\EWhy are you heading towards the food and drink area...","",""
+"cg/bg_07_guild_f.jpg","","","",""
+"cg/bg_07_guild_g.jpg","","","",""
+"\E結局いい案はでなかった。","","\EIn the end, there was no good solution.","",""
+"\E呑処縁！","","\ENomikurie!","",""
+"\Eユカリ'sキッチン！","","\EYukari's Kitchen!","",""
+"\Eメクアパブ！","","\EMekuapabu!","",""
+"\Eユカリ団！","","\EYukari Squad!","",""
+"\Eビストロメクア！","","\EBistro Mekua!","",""
+"\E今日もギルド名は決まらなかった。","","\EThe guild name still hasn't been decided today.","",""
+"ああ勘違い1","","","",""
+"\Eただいまーっす……げ、アカツキ…。","","\EI'm back... Ah, Akatsuki...","",""
+"1","","1","",""
+"\Eおかえりなさい、お兄ちゃん。","","\EWelcome back, big brother.","",""
+"\Eあれ、ユカリさん珍しくおめかししてどっか行くんです？","","\EOh, Yucari-san, you're all dressed up. Are you going somewhere?","",""
+"2","","2","",""
+"\Eちょっとおー、別に珍しくもないでしょー。
+ヘンな言い方しないでよね、誤解されちゃうじゃない。","","\EHey, it's not really that unusual, you know.
+Don't say it in a weird way, you'll be misunderstood.","",""
+"\E（うーん、エプロン姿しか見たこと無い気がするぞ…","","\EHmm, I feel like I've only ever seen you in an apron...","",""
+"\Eこれからちょっと村の会合にね。
+んー…1時間もしたら戻るから留守番よろしくねー","","\EI'm going to a village meeting now.
+Hmm... I'll be back in about an hour, so please watch the house for me.","",""
+"\Eはい、じゃあコイツ追い出していいです？","","\EYes, can I kick this guy out?","",""
+"3","","","",""
+"\Eだめよ～、仲良くしてね～。","","\ENo, you can't. Be friends, okay?","",""
+"\Eえー…","","\EUm...","",""
+"\Eじゃ、留守番よろしくねー。","","\EWell, please take care of the house while I'm gone.","",""
+"\E（ユカリさんは行ってしまったぞ…","","\EYukari has gone...","",""
+"\E…おい、お前。","","\E...Hey, you there.","",""
+"\Eユカリ先生に対して
+あの馴れ馴れしい口の聞き方はなんだ！","","\EWhat's with that familiar way of speaking to Yukari-sensei?
+","",""
+"\E…馴れ馴れしいって言われてもなぁ…
+かれこれもう長い付き合いだし…","","\E...Even if you say I'm too familiar...
+We've been together for a long time now...","",""
+"\Eよく飯とか作りに来てくれたっけなぁ、
+小さい頃はよく風呂とかも入れてもらってたし…","","\EI wonder if you used to come over often to cook meals and stuff, 
+when I was little, you used to even help me take baths...","",""
+"\Eだから家族みたいなも…","","\ESo, like a family...","",""
+"\Eき……","","\EKi...","",""
+"\Eき？","","\EWhat?","",""
+"\Eき、貴様ぁ…っ！！","","\EYou... you bastard...!!","",""
+"1.4.0/v144_cg21_1.jpg","","","",""
+"SE/[Effect]Attack1_default.ogg","","","",""
+"\Eうおっ……何だよ急に…？
+てか近っ…！近いから！！","","\EWhoa... What's with the sudden...?
+And you're so close...! You're too close!!","",""
+"\Eた、たまたま同じギルドだからって
+あまり調子に乗るなよっ！！","","\EDon't get too carried away just because we happen to be in the same guild.
+","",""
+"\Eは、はぁ？","","\EHuh?","",""
+"1.4.0/v144_cg21_2.jpg","","","",""
+"\E僕は認めない…
+絶対に諦めないからなっ！くそっ！！","","\EI won't admit it... 
+I will never give up, you hear me?! Damn it!!","",""
+"SE/Damage.wav","","","",""
+"\E勝手にぷりぷりしながら行ってしまったぞ…","","\EI went off on my own while being all pouty...","",""
+"\Eお、カスミちゃんおかえり。","","\EOh, welcome back Kasumi-chan.","",""
+"\Eお、お兄ちゃん同志……","","\EOh, oh brother comrades...","",""
+"\Eえっと…その……わ、私は…理解が、ありますから！","","\EUm... well... I, uh... I understand, so...!","",""
+"\Eだ、だいじょうぶ…です！応援してますっ！","","\EI-I'm... I'm okay! I'm cheering for you!","",""
+"\Eお、おう。","","\EOh, okay.","",""
+"\E（何の話だ…","","\E (What are you talking about...","",""
+"ああ勘違い2","","","",""
+"\Eお、カスミちゃんだ。","","\EOh, it's Kasumi-chan.","",""
+"\Eぽー……","","\EPoo...","",""
+"\Eおーい、カスミちゃん？","","\EHey, Kasumi-chan?","",""
+"\Eなんだか上の空って感じだな…。","","\EI feel like I'm in a daze...","",""
+"cg/whitescreen.jpg","","","",""
+"cg/bg_filter01.png","","","",""
+"\Eドンッ","","\EDon","",""
+"お兄ちゃん","","Big brother","",""
+"\Eキャッ……（トゥンク","","\EGah... (Thunk)","",""
+"\E…僕は認めない、絶対に諦めないからなっ！","","\E...I won't give up, I absolutely won't give up!","",""
+"\Eあ……","","\EAh...","",""
+"\E……ちゃん。","","\E...chan.","",""
+"\Eカスミちゃん？","","\EKasumi-chan?","",""
+"\E…はっ！すすす、すいませんっ！
+あたしぼーっとしちゃって…！","","\E...Huh! S-s-sorry! 
+I spaced out...!","",""
+"　大丈夫？　","","　Are you okay?","",""
+"\Eはい…。","","\EYes...","",""
+"\Eえと、この間…アカツキさんとその…。","","\EUm, the other day... with Akatsuki-san and that person...","",""
+"\Eあー…","","\EAh...","",""
+"\Eあ、あたし…現実でも…そ、そういう事あるんだって…
+びっくりしちゃって…。","","\EAh, I... even in reality... th-there are things like that... 
+I'm surprised...","",""
+"\Eまぁそうだよなぁ…","","\EWell, that's true...","",""
+"\Eわ、わかっています！だ、だいじょうぶ…です。","","\EI-I understand! I-I'm okay...","",""
+"\Eてかなんでしょっちゅうこっち来るんだよアイツは…","","\EWhy does that person always come over here...","",""
+"\Eそれは…やっぱり…その…
+諦めきれない…想いが…ある、とか…。","","\EThat is... after all... um... 
+I can't give up... there are... feelings, or something...","",""
+"\Eうーん…でもそれとこれとは…","","\EHmm... But this and that are...","",""
+"\Eそ、そうですよね…表面上は…
+き、競い合うライバル関係…っ！","","\EY-Yes, that's right... On the surface...
+A, a competitive rivalry...!","",""
+"\E立場上対立は避けられません…っ！","","\EThere's no avoiding the conflict from a standpoint...!","",""
+"\Eで、でも…心の奥底で煮えたぎる感情の渦…
+あぁっ…尊い…♥","","\EAnd yet... deep within my heart, a swirling vortex of boiling emotions... 
+Ah... precious... ♥","",""
+"\Eあ…もう、だめ…っ♥","","\EAh... I can't... anymore... ♥","",""
+"\Eカスミちゃんは顔を抑えてどっか行っちゃったぞ…","","\EKasumi-chan covered her face and went somewhere...","",""
+"ああ勘違い3","","","",""
+"\E…いい加減にしろ！","","\E...Cut it out already!","",""
+"\Eどちらが先生に相応しいか…
+次の対戦でハッキリさせてやる！","","\EWhich one is more suitable as a teacher... 
+I'll make it clear in the next battle!","",""
+"\Eいやそんな事言われてもな…","","\ENo, even if you say that...","",""
+"\Eあわわ","","\EAwawa","",""
+"\Eお、カスミちゃん。","","\EOh, Kasumi-chan.","",""
+"\Eだ、だいじょうぶ…です、か？","","\EA-Are you... okay?","",""
+"\Eああ、いつものこと。","","\EAh, as usual.","",""
+"\Eい、いつも…ですか…
+は、激しい人なんですね…。","","\EI-Is it always like this...?
+You're quite an intense person, huh...","",""
+"\Eま、このまま放っておいてもうるさいし
+本番できっちり立場をわからせないとな…。","","\EWell, if I leave it like this, it will be noisy.
+I need to make sure they understand their position properly during the real thing...","",""
+"\E本番…立場…そんな、はっきりと…は、はぁぅ…♥
+えっと…あまりいじめちゃ…だめ、です。","","\EThe real thing...position...such, clearly...is, ish...♥
+Um...please don't bully me too much...it's not good.","",""
+"\Eいずれ次は負けられない勝負になるな…。","","\ENext time, I can't afford to lose this match...","",""
+"　まずは受けに回る　","","　First, take turns receiving.","",""
+"　攻めに攻めまくる　","","　Keep attacking relentlessly.","",""
+"\E…まずはキツく締めて受けに徹して
+攻め疲れてヘロヘロになった所を一気に反撃、かな。","","\EFirst, tighten up and focus on defense.
+Then, when the opponent is exhausted from attacking, launch a counterattack all at once.","",""
+"\Eカスミちゃんも後ろで見ててな。","","\EKasumi-chan is also watching from behind.","",""
+"\Eえ、えぇーーーっ！？
+見るって…さ、さすがに、それは…あぅぅ……","","\EEh, whaaat?!
+To see... th-that's... ahhhh...","",""
+"\Eは……ハレンチすぎますーーーーーっ！！！","","\EThis is... way too lewd!!!","",""
+"\Eカスミちゃんは顔を抑えてどっか行っちゃったぞ…。","","\EKasumi-chan covered her face and went somewhere...","",""
+"\E反撃の狼煙のコツを取得した！","","\EObtained the secret of the counterattack signal fire!","",""
+"\E…あいつは受けに回ると弱いからな、
+開幕からガンガンに攻めてこじ開けて押し切る、かな。","","\E...He's weak when it comes to receiving, so 
+we'll aggressively attack from the start and break through, pushing him back.","",""
+"\E先手必勝のコツを取得した！","","\EI have acquired the secret to winning the first move!","",""
+"いつものお礼","","","",""
+"cg/bg_22_tower_a.jpg","","","",""
+"\Eみんなー","","\EHey everyone!","",""
+"\Eあ、マスター。","","\EAh, Master.","",""
+"\Eおやつ頂いたわよー","","\EI received a snack.","",""
+"\E（こんなところまでおやつ届けに来るユカリさんって…","","\EYukari-san, who even comes all the way here to deliver snacks...","",""
+"\Eユカリさんからおやつをもらった！","","\EI got a snack from Yukari-san!","",""
+"女の敵は","","","",""
+"茶色い奇声","","Brown strange voice","",""
+"\Eギャオッ！ギャオォォン！！！","","\EGyao! Gyaoooon!!!","",""
+"\Eうおっなんだこの騒ぎは…","","\EWhat on earth is this commotion...","",""
+"\Eあ、ここ女性向けの軽食屋さんですよね。
+わたしも入ったことありますよ。","","\EAh, this is a light snack shop for women, right?
+I've been here before too.","",""
+"\E…なんでも幼児向けの食事メニューの無償提供や
+お子様向けのセットを始めたらしいですよ？","","\E...It seems like they started offering free meals for children and
+sets specifically for kids, you know?","",""
+"\Eへー、いいこと…だと思うけど…
+…それがなんでこんなことになってんの…。","","\EWow, I think that's great...
+...but why did it end up like this?","",""
+"三十路女子","","Thirty-year-old woman","",""
+"\E子供苦手なので利用やめます…悲しい！！","","\EI'm not good with children, so I'll stop using it... It's sad!!","",""
+"口の悪い女","","Rude woman","",""
+"\Eガキが居ると落ち着けない！！","","\EI can't calm down when there are kids around!!","",""
+"権利を主張する女","","A woman asserting her rights","",""
+"\Eなんでそんな余計な事するんですか…
+もう二度と利用しません！！","","\EWhy would you do something so unnecessary...
+I will never use it again!!","",""
+"独り身女子","","Single woman","",""
+"\E最悪…客層悪くなる！！","","\EThe worst... the customer base is getting worse!!","",""
+"キレている女性","","An angry woman","",""
+"\Eほんと嫌なんでやめてください！！！","","\EPlease stop, I really don't like it!!!","",""
+"香水のキツイ女","","Strong-scented woman","",""
+"\Eギャーギャー騒がられるの聞くために行きたくない！！！","","\EI don't want to go just to hear all the screaming and commotion!!!","",""
+"\Eオンギャァッァァァ！！！
+ギャオォォォォオオオオン！！！","","\EOngyaaaahhh!!!
+Gyaaaooooooo!!!","",""
+"\Eえっと…あはは。","","\EUm... ahaha.","",""
+"\E…女性の敵は女性ってことか。","","\E...So, the enemy of women is women, huh?","",""
+"\E近寄らんどこ…。","","\EDon't come any closer...","",""
+"\Eお姉さま達が今日も奇声を発している…。","","\EThe older sisters are once again shouting strange cries...","",""
+"花売り","","","",""
+"女の子","","Girl","",""
+"\Eもし…","","\EIf...","",""
+"\E花…花はいかがですか…。","","\EHow about... flowers...?","",""
+"　はい\f[12]100G\f[20]　","","　Yes\f[12]100G\f[20]","",""
+"　いいえ　","","　No.","",""
+"\Eではこちらに…。","","\EAnd here...","",""
+"\E花を買った。","","\EI bought flowers.","",""
+"コケタ","","","",""
+"\Eあ、気をつけて下さい…そこ滑りますよ。","","\EPlease be careful... It's slippery there.","",""
+"\Eきゃっ…！","","\EKyaa...!","",""
+"\Eひゃっ！","","\EHyaa!","",""
+"\Eどわーっ！","","\EWow!","",""
+"\Eあんたら何やってんの…","","\EWhat are you guys doing...","",""
+"\Eコケタ。","","\ECocky.","",""
+"伝説の一冊","","","",""
+"\Eうおっ！びっくりした…急にどうしたの？","","\EWhoa! I was surprised... What happened all of a sudden?","",""
+"\Eお兄ちゃん同志…！これを！！","","\EBrother comrade...! Take this!!","",""
+"\Eえっと、畜生あざらし…なにこれ。","","\EUm, damn it, a walrus... what is this.","",""
+"\Eさく×クマの作者が初めて執筆した同人誌ですよ！
+わ、わたしも現物を見るのは初めてです！","","\EThis is the first doujinshi written by the author of ""Saku x Kuma""! 
+W-Wow, this is my first time seeing the actual thing too!","",""
+"\Eこれは奇跡ですよ同志！
+いいい今すぐお迎えしないと…！","","\EThis is a miracle, comrade! 
+Hurry up and come get it now...!","",""
+"\Eお、おう…そうなんだ…
+…って5000G！？","","\EOh, oh... Is that so...
+...and it's 5000G!?","",""
+"\E配布された数も20部足らずでプレミアがつくのも当然…
+いやその価値を考えるとむしろ安いまであります。","","\EIt's only distributed in less than 20 copies, so it's natural for it to have a premium... 
+No, considering its value, it's actually quite cheap.","",""
+"\E5000G払えば無料で手に入れられる事ができるんですよ！
+ああああっこうしている場合ではないです…！","","\EYou can get it for free if you pay 5000G! 
+Oh no, this is not the time to be doing this...!","",""
+"\Eカスミちゃんと楽しく？買い物をした。","","\EI had fun shopping with Kasumi-chan.","",""
+"おやつたいむ","","","",""
+"\Eただいまー…。
+ふー、疲れた…","","\EI'm back...
+Phew, I'm tired...","",""
+"\Eおかえりなさい、お疲れさまです。","","\EWelcome back, thank you for your hard work.","",""
+"\Eあ、わたしクッキー焼いてみたんですよ。
+甘いもので一息どうですか？","","\EOh, I tried baking cookies. 
+How about taking a break with something sweet?","",""
+"\Eじ、じゃあ私はコーヒーを…い、いれてきます。","","\EW-W-Well then, I'll go make some coffee... f-for you.","",""
+"\Eユイの手作りクッキーで一息ついた！","","\ETook a break with Yui's homemade cookies!","",""
+"占い","","","",""
+"占い師？","","Fortune teller?","",""
+"\Eやあ、また会ったね。","","\EHey, we meet again.","",""
+"\Eあれからどうだい？","","\EHow have things been since then?","",""
+"\E…いや、言わなくとも顔を見ればわかるよ。
+壮健そうでなによりだよ。","","\E...No, you can tell just by looking at their face.
+They look healthy, which is great.","",""
+"\Eどれ、ここで出会ったのもなにかの縁だ。
+一つ未来を視てあげよう…。","","\EWell, meeting here must be some kind of fate.
+Let me show you one possible future...","",""
+"\E水辺…困難。","","\EWater's edge... Difficult.","",""
+"\Eふむ、水難の相がでているね。
+水の多い場所では注意したほうが良いだろうね。","","\EHmm, it seems like there's a risk of drowning.
+It's probably best to be cautious in places with a lot of water.","",""
+"\E未開の地…深い森。","","\EUnexplored land... A deep forest.","",""
+"\Eふむ、これはいつか君が訪れる地だろうか。
+深い森の中を進む君と仲間たちが見えるね。","","\EHmm, I wonder if this is the place you will visit someday.
+I can see you and your companions advancing through the deep forest.","",""
+"\E追い風…祝福。","","\ETailwind... Blessing.","",""
+"\Eふむ、風に関する何かが君の旅の助けになると出ているね。","","\EHmm, it seems like something related to the wind will be helpful for your journey.","",""
+"\E調和…魔。","","\EHarmony... Magic.","",""
+"\Eふむ、魔と交わる未来が見えるね。
+魔法…魔女…魔物……。","","\EHmm, I can see a future where I interact with demons.
+Magic... witches... monsters...","",""
+"\E君にとって魔というものによほど縁があるようだ。","","\EIt seems like you have quite a connection with the concept of magic.","",""
+"\E孤島…別れ。","","\EIsland... Farewell.","",""
+"\E南海に浮かぶ孤島、何かとの別れを暗示しているようだね。
+いつか君の旅は大海原にまで達するようだ。","","\EThe solitary island floating in the South Sea seems to imply a farewell to something.
+It seems that someday your journey will reach the open sea.","",""
+"\E…どうやらこれからの君の旅路も
+未知と冒険に満たされているようだね。","","\E...It seems like your journey from now on is also filled with unknowns and adventures.
+","",""
+"\Eいずれにしてもこれは単なる標、
+運命とは自分の手で切り開くものさ。","","\EIn any case, this is just a sign, 
+destiny is something you carve out with your own hands.","",""
+"\E君の旅路の行く末は君自信が決めることが出来る。","","\EThe outcome of your journey is something that only you can decide.","",""
+"\E期待しているよ。","","\EI'm looking forward to it.","",""
+"号外","","","",""
+"\Eガヤガヤ…","","\EHubbub...","",""
+"\Eなんだこの騒ぎ。","","\EWhat's all this commotion?","",""
+"\Eえっと、号外ですって。","","\EUm, this is an extra edition.","",""
+"\Eへー、何かあったのかな？","","\EOh, I wonder if something happened?","",""
+"\E”独占スクープ！”","","\E""Exclusive scoop!""","",""
+"\E”あの大手ギルドのギルマスに●●疑惑！？”
+”ギルドハウスとは名ばかりの悪魔の館”","","\E""Suspicion surrounds the guild master of that major guild!?""
+""The guild house is nothing but a devil's mansion.""","",""
+"\E”謎のこちょこちょ部屋とは！？”
+”夜な夜な忍び寄るギルマスの魔の手！”","","\E""What is this mysterious tickling room!?""
+""The demonic hands of the guild master creeping in the night!""","",""
+"\Eうーん、大手は大手で大変だな…。","","\EHmm, even the big players have their own challenges...","",""
+"\E”アカツキ無名ギルドに返り討ち！？”
+”あの大手ギルドのエースにストーカ疑惑！？”","","\E""Defeated by the Unknown Guild, Akatsuki!?""
+""Stalking suspicions towards the ace of that major guild!?""","",""
+"\E”白昼堂々の壁ドン告白”
+”執心のお相手はまさかの男性！？”","","\E""Bold Wall Slam Confession in Broad Daylight""
+""The Unexpected Love Interest Turns Out to be a Man!?""","",""
+"\E”あの人は今…あの村のギルマスはなんと元エース”
+”美人エルフの秘密…実は100歳超え！？”","","\E""That person is now... the guild master of that village, and what's more, a former ace.""
+""The secret of the beautiful elf... she's actually over 100 years old!?""","",""
+"\E”特集！熟れた独り身美人エルフピンナップ（袋とじ）”
+”解説！なぜエルフの里は焼かれるのか？その実態に迫る”","","\E""Special Feature! Ripe and Single Beautiful Elf Pin-up (Centerfold)""
+""Explanation! Why is the Elf Village Burned? Investigating the Truth Behind It""","",""
+"\E…なんだこの記事。","","\E...What is this article.","",""
+"妹の秘密","","","",""
+"\Eただいまー…いてっ！
+…なんでこんなところにダンベルが…。","","\EI'm back... Ouch!
+...Why is there a dumbbell in a place like this...?","",""
+"\Eてか部屋もずいぶん散らかってるな…
+少し片付けするか…。","","\EWow, the room is really messy... 
+I should tidy up a bit...","",""
+"\Eただいまー！
+あれー、なんかきれいになってる！","","\EI'm back! 
+Huh, it looks cleaner!","",""
+"\Eありがとう、お兄ちゃん！","","\EThank you, big brother!","",""
+"\E（元は俺が散らかしたんだけどな…","","\E (Originally, it was me who made a mess...)","",""
+"\E枕の下からえっちブックを見つけた！","","\EI found a naughty book under my pillow!","",""
+"\Eこれ…なくしたと思ってたやつだな…
+うーん…そっと戻しておくか…。","","\EThis... is the one I thought I lost...
+Hmm... I'll quietly put it back...","",""
+"妹オナニー遭遇","","","",""
+"オナニ目撃","","","",""
+"\Eただいまー…","","","",""
+"\E…あれ、妹はまだ帰っていないのかな。","","","",""
+"\E………ぁ……っ……。","","","",""
+"\Eん？やっぱいるのか……
+ただい…こ、これは…っ！","","","",""
+"1.4.0/v144_cg24_2.jpg","","","",""
+"\E（机に向かって…うん、これは…","","","",""
+"1.4.0/v144_cg24_3.jpg","","","",""
+"\E（…オナニーだ！！！","","","",""
+"1.4.0/v144_cg24_4.jpg","","","",""
+"\E（まさかオレのスケベブックを
+　妹まで活用してたとは…","","","",""
+"1.4.0/v144_cg24_5.jpg","","","",""
+"\E（どうやら妹はイったみたいだぞ…","","","",""
+"1.4.0/v144_cg24_6.jpg","","","",""
+"\E（…そろそろいいかな。","","\E(...I wonder if it's about time.","",""
+"\Eただいまー！！","","\EI'm back!!","",""
+"SE/se_otosu.mp3","","","",""
+"\Eガタタッ！","","\EGatat!","",""
+"\Eお、お兄ちゃんおかえりー…っ！","","\EOh, welcome back, big brother...!","",""
+"\Eただいま…あれ、なんか顔赤い？","","\EI'm back... Huh, why is your face red?","",""
+"\Eそ、そうかな？
+えーと、走って帰ってきたからかな…？","","\EIs, is that so?
+Um, maybe because I ran back...?","",""
+"\E（ふっふ…お兄ちゃんは知ってるぞ…。","","\E (Hehe... Big brother, you know...)","",""
+"ひろいもの","","","",""
+"\Eふー今日も異常なし、だな。","","\EPhew, no abnormalities today either.","",""
+"\Eむむっ！これは……。","","\EHmm! What is this...?","",""
+"\Eスケベブックが草むらに落ちているぞ…","","\EThere's a perverted book lying in the grass...","",""
+"　拾う　","","　Picking up","",""
+"　拾わない　","","　Not picking up.","",""
+"\Eキョロキョロよし…誰も見ていないな…。","","\ELooking around... No one is watching...","",""
+"\E野生のエロ本を拾った。","","\EI found a wild erotic book.","",""
+"\E誰が触ったもんかもわからんしやめておこう…。","","\EI don't know who touched it, so let's stop...","",""
+"カナの趣味","","","",""
+"\Eそろそろ買い替え時だからね。","","\EIt's about time to replace it.","",""
+"\Eああ、剣ね。
+いいよ。","","\EAh, a sword.
+Sure, go ahead.","",""
+"\Eカナはウィンドウ越しに飾られた刀剣を眺めているぞ…。","","\EKana is gazing at the decorated swords through the window...","",""
+"\E買うなら今のよりちゃんとしたのが欲しいなぁ…
+オーダーとまでは言わないけど…せめて2等級品…。","","\EIf I were to buy it, I would want something better than what I have now... 
+I wouldn't go as far as to say it's a custom order, but at least a second-grade product...","",""
+"\E…げ、3000Gもするの。
+んー…もうしばらくは今の子に頑張ってもらおうかな…。","","\E...Gee, it costs 3000G.
+Hmm... Maybe I should let the current one keep working hard for a while longer...","",""
+"\Eあ、お兄ちゃんごめんね。
+もういいよ。","","\EOh, I'm sorry, big brother.
+It's okay now.","",""
+"\Eいいの？","","\EIs it okay?","",""
+"\Eあはは、買うにはちょっとまだ高いかなーって。","","\EAhaha, I think it's still a little expensive to buy.","",""
+"\Eカナは名残惜しそうにその場を離れた。","","\EKana reluctantly left the place.","",""
+"カナの趣味2","","","",""
+"\Eうーん…うーん…","","\EHmm... Hmm...","",""
+"\Eあれ、カナだ。
+…張り付くようにウィンドウを眺めているぞ。","","\EOh, it's Kana.
+...She's staring at the window as if glued to it.","",""
+"\Eカナ？","","\ECan I help you?","",""
+"\Eわ、お兄ちゃん。
+やー…やっぱいいなーと思って時々こうして眺めに来るんだ。","","\EHey, big brother.
+Y-Yeah... I sometimes come here to gaze at it and think how nice it is.","",""
+"\Eそんなに気に入ってたのか…","","\EDid you like it that much...","",""
+"カナ武器","","","",""
+"　俺が買ってやるよ！　","","　I'll buy it for you!","",""
+"　3000はさすがに高いよね…　","","　3000 is indeed expensive, isn't it...","",""
+"\Eそうしてあげたいけどお金がないな…","","\EI want to do that for you, but I don't have any money...","",""
+"\Eそれはさすがに悪いよ…
+でも、ありがとうお兄ちゃん。","","\EThat's really bad...
+But, thank you, big brother.","",""
+"\E…よし、決めた。","","\E...Alright, I've made up my mind.","",""
+"\Eすいませーん…！","","\EExcuse me...!","",""
+"\E…ただいま。","","\E...I'm home.","",""
+"\E結局買ったのか。","","\EDid you end up buying it?","",""
+"\Eうん、買い替え時だったのはほんとのことだし。
+お兄ちゃんが背中を押してくれたからね。","","\EYeah, it's true that it was time to replace it.
+Big brother pushed me from behind, you know.","",""
+"\Eまーでも、しばらくは節約しないとだね。
+…だから、お兄ちゃんご飯おごって！","","\EWell, we'll have to save money for a while.
+...So, big brother, treat me to a meal!","",""
+"\E…え、そうなるの。","","\E...Oh, is that how it's going to be.","",""
+"\Eえー、剣より安いしトクしたでしょ？","","\EWell, it's cheaper than a sword, so it's a good deal, right?","",""
+"\Eなるほど…確かに…？","","\EI see... Indeed...?","",""
+"\Eそういうことそういうこと、じゃあ行こっか！","","\EThat's right, that's right. Well then, shall we go?","",""
+"\Eカナにご飯をおごった。","","\EI treated Kana to a meal.","",""
+"\Eカナは新しい剣を手に入れた！
+カナの強さが上がった！","","\EKana obtained a new sword!
+Kana's strength has increased!","",""
+"\E…だよねぇ。","","\E...right?","",""
+"\Eはぁ…もっといい依頼とかこないかなー…。","","\ESigh... I wish there were better requests or something...","",""
+"カナの趣味3","","","",""
+"\E…またウィンドウを眺めているな。","","\E...You're still gazing out the window.","",""
+"\Eおーいカナ。","","\EHey Kana.","",""
+"\Eえっと、また武器の買い替え？","","\EUm, are we buying new weapons again?","",""
+"\Eんーん、単に眺めているのが好きなだけ。","","\EHmm, I just enjoy looking at it.","",""
+"\Eはぁ…あの子もいいし…あっちの子も小ぶりでかわいいー…。","","\ESigh... That child is also good... And that child over there is small and cute...","",""
+"\Eなるほど…カナにこういう趣味があったとは…。","","\EI see... I didn't know Kana had this kind of hobby...","",""
+"ユイの手当","","","",""
+"cg/bg_07_guild_h.jpg","","","",""
+"\Eただいまー、ふー今日も疲れた。","","\EI'm back. Phew, I'm tired again today.","",""
+"cg/bg_07_guild_i.jpg","","","",""
+"\Eおかえりなさい、お疲れさまでした。
+あ、ここ擦りむいてますよ。","","\EWelcome back, thank you for your hard work.
+Oh, you've scraped yourself here.","",""
+"\Eあれ、気が付かなかった。
+まあこのくらい舐めときゃへーきへーき。","","\EOh, I didn't notice.
+Well, it's no big deal if I underestimate this much.","",""
+"\Eもーっ、だめですよ。
+傷口はちゃんと洗って清潔にですよ。","","\ENo, it's not good.
+You need to wash the wound properly and keep it clean.","",""
+"\E…舐めるっていうのはあながち間違いでもないんですけどね。","","\E...It's not necessarily wrong to say ""licking"" though.","",""
+"\Eでも出来るときはちゃんと
+手当したほうが傷の治りも早いです。","","\EBut when you can, it's better to properly
+treat it, as it helps the wound heal faster.","",""
+"\Eはい、こっちきてください。","","\EYes, please come over here.","",""
+"\E（ち、近い…","","\E(T-Too close...","",""
+"\Eはい、終わりましたよ。","","\EYes, it's finished.","",""
+"\E軽い怪我でも遠慮しないで言ってくださいね。
+そのためのあたしなんですから…。","","\EPlease don't hesitate to tell me even if it's just a minor injury.
+After all, that's what I'm here for...","",""
+"\E（うーん、なんか大げさに手当してもらったぞ…。","","\EHmm, I feel like I received an overly generous treatment...","",""
+"ハラヘッタ","","","",""
+"\Eは、ハラヘッタ…","","\E is exhausted...","",""
+"\E今日はハードだったからね…あたしもお腹すいた。","","\EToday was tough... I'm hungry too.","",""
+"\E確かに少し休憩したいですね…。","","\EI definitely want to take a little break...","",""
+"\Eよーし、じゃあ今日は食べて帰ろう！","","\EAlright, let's eat and go home today!","",""
+"\Eさんせーい！","","\EThree, two, one, go!","",""
+"\Eみんなでご飯を食べた。","","\EWe all had a meal together.","",""
+"お酒は二十歳から","","","",""
+"\Eあ、お兄ちゃん。
+おかえりー、お疲れさま♪","","\EAh, big brother.
+Welcome back! You must be tired♪","",""
+"\Eくぴ","","\EKupi","",""
+"\Eあれ、マスターそれお酒ですか。","","\EOh, Master, is that alcohol?","",""
+"\Eそうよー、去年仕込んだ果実酒の味見をね。","","\EYeah, it's time to taste the fruit liquor I brewed last year.","",""
+"\E味見ってそんなカップに並々と注ぐもんなんですか…。","","\EDo you really pour it so generously into a cup for tasting...?","",""
+"\Eそうよ～","","\EThat's right~","",""
+"\Eちょっぴりだけ舐めたって
+お酒の良し悪しはわからないものなの。","","\EEven if you just take a little sip, 
+you won't know if the alcohol is good or bad.","",""
+"\E（すごい勢いでカップのお酒が減っていくぞ…","","\EThe cup of alcohol is decreasing at an incredible speed...","",""
+"\Eふぅー。
+んー…まだちょっとわからないわね。","","\EPhew.
+Hmm... I still don't quite understand.","",""
+"\E（味見ってお代わりするものなのか…？","","\EIs it customary to ask for seconds when tasting...?","",""
+"\Eただいまーって酒くさっ！","","\EI'm back! And I smell like alcohol!","",""
+"\Eあら～、お兄ちゃん♪
+おかえり♥","","\EOh, big brother♪
+Welcome back♥","",""
+"\Eマスター…また飲んでるんです？","","\EMaster... Are you drinking again?","",""
+"\Eもう、マスターじゃなくて…ユカリって呼んで♥","","\ENo longer call me Master... call me Yukari ♥","",""
+"\Eうわ酒癖悪いなこの人！？","","\EWow, this person has a bad drinking habit!?","",""
+"相変わらず","","","",""
+"\Eユカリさんは今日も酔っ払っている…。","","\EYukari is drunk again today...","",""
+"ヤキモチ","","","",""
+"\Eワイワイ…","","\EWaiwai...","",""
+"\Eおにーちゃーん、一緒に帰ろうー。","","\EOnii-chan, let's go home together.","",""
+"\Eお、もうそんな時間か。","","\EOh, is it already that time?","",""
+"\Eじゃねー、お兄ちゃんまた明日！","","\ESee you later, big brother! I'll see you tomorrow!","",""
+"\Eお兄ちゃん、お疲れ様でしたでは失礼しますね。","","\EThank you for your hard work, big brother. Goodbye.","",""
+"\Eど、同志…また明日、です。","","\EComrade... until tomorrow.","",""
+"\Eおう","","\EOh","",""
+"\E…なんかお兄ちゃんっていつも女の子に囲まれてるよね。","","\E...Somehow, big brother is always surrounded by girls.","",""
+"\E妹にちょっとだけ妬かれた。","","\EMy sister got a little jealous.","",""
+"ポリコレ","","","",""
+"\Eは～…","","\EHa~...","",""
+"\Eあれ、カスミちゃん。
+…どしたの、ため息なんかついて。","","\EHey, Kasumi-chan.
+...What's wrong? You're sighing or something.","",""
+"\Eこれ、です。","","\EThis is it.","",""
+"\Eあれ、前に面白いって言ってた本じゃない？
+荒廃した世界で女戦士が活躍するやつでしょ。","","\EHmm, isn't this the book you said was interesting before?
+It's the one where a female warrior thrives in a desolate world, right?","",""
+"\Eはい…そうなんですけど…
+設定の改変についていけなくて…。","","\EYes... that's right, but... 
+I couldn't keep up with the changes in the settings...","",""
+"\E主人公の女戦士もなんかカッコイイ系から
+ゴリラみたいなビジュアルに変えられて…。","","\EThe female warrior protagonist was changed from a cool-looking type to a gorilla-like visual.
+","",""
+"\Eさらわれたのも実はお姫様じゃなくて
+男子だけど心は姫を自認しているおじさんになって。","","\EThe one who was kidnapped was not actually a princess, but a man who identifies himself as a princess in his heart.
+","",""
+"\E道中仲間になったオーク族の女戦士長に告白されて
+浜辺で二人は幸せなキスをして終了、みたいな感じです。","","\EThe female orc warrior leader who became a companion on the journey confessed to me, and 
+we ended up happily kissing on the beach, something like that.","",""
+"\E…えぇ…そんな事になってるの…。","","\E...Um... Is that really happening...?","",""
+"\E落ち込むカスミちゃんをなぐさめたぞ。","","\EI comforted Kasumi-chan who was feeling down.","",""
+"cg/event59_02.jpg","","","",""
+"\Eみんなお疲れ。
+来週から本戦が始まるからこの休みのうちに備えてね。","","\EEveryone, good job.
+The main tournament starts next week, so let's prepare during this break.","",""
+"cg/event59_01.jpg","","","",""
+"\Eただいまーってあれ…","","\EI'm home...","",""
+"\E秘蔵のえっちな本が整理されて机に置かれている…","","\EA collection of naughty books is neatly organized and placed on the desk...","",""
+"\Eい、妹が片付けたんだろうな…。","","\EI guess my little sister cleaned up...","",""
+"SE/Onmtp-Inspiration06-1.mp3","","","",""
+"\E妹はスキル 騎乗位を覚えた！","","\EMy little sister learned the skill ""Cowgirl""!","",""
+"\E秘蔵の薄いブックが整理されて机に置かれている…","","\EA collection of thin books is neatly organized and placed on the desk...","",""
+"カスミありのランダムイベントです　基本はこちらをベースにします","","","",""
+"呼び出しイベント","","","",""
+"カナ特訓","","","",""
+"つまみぐい","","","",""
+"妹と帰宅","","","",""
+"ユイ特訓","","","",""
+"ギルドハウス片付け","","","",""
+"着替えに遭遇","","","",""
+"小銭を拾う","","","",""
+"カスミとの出会い","","","",""
+"居残り訓練","","","",""
+"雨に打たれて","","","",""
+"オオブタヤサイニンニク","","","",""
+"100戦危うべからず","","","",""
+"お兄ちゃんは見た…","","","",""
+"女の敵は…","","","",""
+"花を買いませんか","","","",""
+"おやつタイム","","","",""
+"拾い物","","","",""
+"腹減ったなぁ…","","","",""
+"相変わらず…","","","",""
+"ヤキモチ？","","","",""
+"一時変数1","","","",""
+"一時変数2","","","",""
+"修理初回","","","",""
+"片付け","","","",""
+"着替え遭遇","","","",""
+"シャワー遭遇","","","",""
+"財布拾った","","","",""
+"武器修理","","","",""
+"カナ強さアップイベ","","","",""
+"ユイ強さアップイベ","","","",""
+"カスミイベントカウント","","","",""
+"天才少女イベ","","","",""
+"カスミ強さアップイベ","","","",""
+"コーヒタイム","","","",""
+"ギルドの名前","","","",""
+"麺屋サブロー","","","",""
+"オオブタヤサイ","","","",""
+"ユカリ鉄壁","","","",""
+"全裸徘徊","","","",""
+"カナ武器更新","","","",""
+"お酒","","","",""
+"カスミ好感度","","","",""
+"自由乱数","","","",""
+"勝敗","","","",""

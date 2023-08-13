@@ -1,0 +1,515 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"■昼コマンド　平日","","","",""
+"日付で発生するイベント分岐","","","",""
+"温泉イベント","","","",""
+"温泉イベント前提会話","","","",""
+"cg/bg_07_guild_k.jpg","","","",""
+"ユカリ","","","\font[3]\f[18]Yukari",""
+"\Eおはよう、お兄ちゃん。","","","\E\font[3]\f[18]\-[2]Onii-chan, good morning.",""
+"cg/bg_07_guild_j.jpg","","","",""
+"　おはようございます。　","","","\font[3]\f[17]Good morning, Yukari-san",""
+"Picture/talk_ef01.png","","","",""
+"\E揃ったわねー、じゃあ始めるわよー。","","","\E\font[3]\f[18]\-[2]We're all here. Okay, let's begin!",""
+"\E…改まってなんかあるんですか？","","","\E\font[3]\f[18]\-[2]Is there a particular reason for the formality?",""
+"\Eそれを今から話すのよー、…コホン。","","","\E\font[3]\f[18]\-[2]I'm going to talk about it now... ahem.",""
+"\E─えっと知っての通り、
+例のゴタゴタ騒ぎで大会が有耶無耶になっちゃったじゃない。","","","\E\font[3]\f[18]\-[2]─So, as you may know, 
+the tournament ended up being cancelled due to the recent incident, right?",""
+"cg/bg_07_guild_n.jpg","","","",""
+"Picture/talk_ef02.png","","","",""
+"カナ","","","\font[3]\f[18]Kana",""
+"\Eうん。","","","\E\font[3]\f[18]\-[2]Yeah.",""
+"\Eそれなんだけど…本来は優勝ギルドはもちろん、
+準優勝のギルドにもそれなりの報奨なんかが出る…はずよね？","","","\E\font[3]\f[18]\-[2]But, as per the original plan...
+Were there... not supposed to be rewards for both the winning guild and the runner-up guild?",""
+"\E…そういえば確かに。","","","\E\font[3]\f[18]\-[2]...Indeed, I recall that being the case.",""
+"cg/bg_07_guild_l.jpg","","","",""
+"Picture/talk_ef03.png","","","",""
+"ユイ","","","\font[3]\f[18]Yui",""
+"\E何も頂いてはいませんね…。","","","\E\font[3]\f[18]\-[2]We didn't receive any rewards, did we...?",""
+"\Eとまあそいう風な話がこないだの会合で出たのよ。
+…それで色々話し合って代わりに貰ったのがこれ。","","","\E\font[3]\f[18]\-[2]That topic came up during our recent meeting, 
+so we discussed it and received this as a substitute.",""
+"cg/bg_07_guild_m.jpg","","","",""
+"カスミ","","","\font[3]\f[18]Kasumi",""
+"\E…えっと…温泉旅館の宿泊券ですね。","","","\E\font[3]\f[18]\-[2]...Um... is it a voucher for a stay at a hot spring inn?",""
+"\Eんー…ホットスパ猿山…？","","","\E\font[3]\f[18]\-[2]Hmm... Saruyama Hot Spring...?",""
+"\Eあ、そこ。
+お猿さんと一緒に入浴体験ができるとかで有名なとこですよね。","","","\E\font[3]\f[18]\-[2]Oh, I've heard of that place. 
+Isn't it famous for offering a unique experience of bathing with monkeys?",""
+"\Eへー、そうなんだ。","","","\E\font[3]\f[18]\-[2]Really? That's quite unique.",""
+"\Eでもなんか…
+報奨…ずいぶんしょぼくなってないですか…？","","","\E\font[3]\f[18]\-[2]However... 
+Doesn't the reward seem rather underwhelming?",""
+"\E…有効期限は…あと半月ですね…","","","\E\font[3]\f[18]\-[2]The voucher is valid for... just another two weeks, right?",""
+"\E…それ余ってた券か何か渡されたんじゃないの…。","","","\E\font[3]\f[18]\-[2]...Maybe you were given some leftover vouchers or something...
+
+",""
+"\E件の対応で動員したギルドへの支払いやチケットの払い戻しで、
+実際あっちはあっちで火の車みたいなのよねぇ…。","","","\E\font[3]\f[18]\-[2]Considering the compensation provided to the guild involved and the ticket refunds, 
+it seems like they are having a tough time over there...",""
+"\E本部に貸しは作っておくに越したことはないし。
+喧嘩したっていいことないでしょうから─。","","","\E\font[3]\f[18]\-[2]Cut the headquarters some slack just this time, 
+as it's best to avoid unnecessary conflicts.",""
+"\Eそこはまあ…確かに。","","","\E\font[3]\f[18]\-[2]Well, in that respect... I agree.",""
+"\Eと、いうわけで。
+この際だし思い切り楽しんでリフレッシュしましょう！","","","\E\font[3]\f[18]\-[2]Now that we have that settled, 
+let's take this opportunity to have some fun and recharge ourselves!",""
+"みんな","","","\font[3]\f[18]Everyone",""
+"\E「「おおーっ」」","","","\E\font[3]\f[18]\-[2]""Ohh!!""",""
+"\E期日もあるしこの週末を利用して行きましょうか。
+お兄ちゃんは帰ったら妹さんに話しておいてね。","","","\E\font[3]\f[18]\-[2]Since there's a deadline, let's make use of this weekend and go. 
+Please let your sister know when you get home, Onii-chan.",""
+"\Eはい。","","","\E\font[3]\f[18]\-[2]Got it.",""
+"\Eふむ…週末は温泉か…。","","","\E\font[3]\f[18]\-[2]So... a hot spring trip for the weekend, huh?",""
+"100日以降","","","",""
+"cg/bg_07_guild_c.jpg","","","",""
+"\E交流戦を行うわよー
+事件も一応落ち着いたってことで久々の交流戦ね。","","","\E\font[3]\f[18]\-[2]We're going to have an exhibition matchー
+It's been a while since we had one, now that things have settled down since the incident.",""
+"\E今回の相手は…「冒険者協会タウン支部」よ。","","","",""
+"\E色々あって大会の決勝は流れちゃったけど…
+この交流戦でスッキリとさせちゃいましょ！","","","\E\font[3]\f[18]\-[2]Since the tournament finals couldn't take place due to various circumstances... 
+Let's utilize this exhibition match to bring a sense of closure.",""
+"\E交流戦は\c[2]3日後\c[0]だから備えておいてね。","","","\E\font[3]\f[18]\-[2]The exhibition match is in \c[2]three days\c[0], so make sure to prepare for it.",""
+"\Eタウン支部…アカツキか…負けないぞ！
+やる気があがった！","","","\E\font[3]\f[18]\-[2]Town Branch... Akatsuki, huh? We won't lose this time! 
+I feel more motivated!",""
+"\E交流戦
+<R>\f[18]あと\cself[51]日","","","\E\font[3]\f[24]\-[2]Exhibition Match
+<R>\f[18]\cself[51] day(s) left",""
+"終了","","","",""
+"地域貢献","","","Local Contributions",""
+"\Eおはよう、お兄ちゃん。
+そろそろ八会の地区予選が始まるわよ。","","","\E\font[3]\f[18]\-[2]Good morning, Onii-chan. 
+The district qualifiers for the Hachioji Tournament are about to start.",""
+"\E交流戦と違って\c[2]負けられない戦い\c[0]になるわ。
+初戦で負けるようじゃ\c[2]先はない\c[0]わよ、頑張って。","","","\E\font[3]\f[18]\-[2]Unlike the exhibition match, \c[2]this is a fight we cannot lose.\c[0] 
+If we lose in the first match, \c[2]there is no way forward.\c[0] Give it everything you've got.",""
+"\Eメクア支部の出番は\c[2]3日後の木曜\c[0]よ。
+それまでに備えておいてね。","","","\E\font[3]\f[18]\-[2]The Mekua Branch turn is on \c[2]thursday\c[0], which is \c[2]three days\c[0] from now. 
+Make sure to be prepared by then.",""
+"\E地区予選
+<R>\f[18]あと3日","","","\E\font[3]\f[24]\-[2]District Qualifiers
+<R>\f[18]3 day(s) left",""
+"Picture/stand_sub05.png","","","",""
+"アカツキ","","","\font[3]\f[18]Akatsuki",""
+"\E先生から話は聞いている。
+…精々足だけは引っ張らないように努力することだな。","","","\E\font[3]\f[18]\-[2]Sensei has provided me with information. 
+The important thing is to avoid slowing down the team, so try not to fall behind.",""
+"\E何を！？","","","\E\font[3]\f[18]\-[2]What did you say!?",""
+"\E我々はタウン北の貯水湖に棲み着いたアザラシを一掃する。
+僕たちは東、君たちは西側から包囲を狭め害獣を駆除する。","","","\E\font[3]\f[18]\-[2]We've been tasked with eliminating the seals that have settled in the reservoir located in the northern part of town. 
+We will approach them from the east, gradually closing in, while you all do the same from the west to exterminate these pests.",""
+"\E用意が出来たら討伐に出発だ。","","","\E\font[3]\f[18]\-[2]Once you're all set, proceed with the subjugation.",""
+"BGM/Clock-Second_Hand03-1(Loop-1).mp3","","","",""
+"\Eそろそろまた交流戦を行うわよ―
+交流戦は\c[2]3日後の木曜日\c[0]だから備えておいてね。","","","\E\font[3]\f[18]\-[2]We have another exhibition match coming up.
+The interleague match will be held on \c[2]thursday\c[0], \c[2]three days\c[0] from now, so make sure to be ready.",""
+"\E八会で優勝
+<R>\f[18]交流戦まであと3日","","","\E\font[3]\f[24]\-[2]Wins the Hachioji Tournament
+<R>\f[18]3 day(s) left until the Exhibition Match",""
+"\E地区予選の次の相手が決まったわよ。
+次の相手は…前に交流戦で戦った美食倶楽部よ。","","","\E\font[3]\f[18]\-[2]So, the next opponent for the district qualifiers has been decided. 
+And our next opponent is... the Gourmet Club, whom we previously faced in the exhibition match.",""
+"\E一度勝っている相手ではあるけど…
+逆に自分たちの成長を確認するいい機会でもあるわ。","","","\E\font[3]\f[18]\-[2]It's true that we already defeated them once... 
+But this is also an opportunity for us to demonstrate how much we've grown.",""
+"\Eさらに成長した所を見せつけましょ。
+試合は\c[2]3日後の木曜日\c[0]だから備えておいてね。","","","\E\font[3]\f[18]\-[2]Let's demonstrate how much further we've grown. 
+The match is in \c[2]three days\c[0], on \c[2]thursday\c[0], so be prepared.",""
+"\E次の相手は美食倶楽部か…負けないぞ…！","","","\E\font[3]\f[18]\-[2]The next opponent is the Gourmet Club... We won't lose...!",""
+"\Eやる気があがった！","","","\E\font[3]\f[18]\-[2]I feel more motivated!",""
+"\E一度負けている相手ではあるけど…
+逆に自分たちの成長を確認するいい機会でもあるわ。","","","\E\font[3]\f[18]\-[2]It's true that we were once defeated by them... 
+But this is also an opportunity for us to demonstrate how much we've grown.",""
+"\Eあの頃とは違うって所を見せつけましょ。
+試合は\c[2]3日後の木曜日\c[0]だから備えておいてね。","","","\E\font[3]\f[18]\-[2]Let's demonstrate how much we have changed since then. 
+The match is in \c[2]three days\c[0], on \c[2]thursday\c[0], so be prepared.",""
+"\E次の相手は美食倶楽部か…今度こそは…！","","","\E\font[3]\f[18]\-[2]The next opponent is the Gourmet Club... This time, we'll definitely win...!",""
+"\E八会で優勝
+<R>\f[18]地区予選まであと3日","","","\E\font[3]\f[24]\-[2]Wins the Hachioji Tournament
+<R>\f[18]3 day(s) left until the District Qualifier",""
+"合宿","","","",""
+"cg/bg_07_guild_e.jpg","","","",""
+"BGM/Migratory_Birds.ogg","","","",""
+"\Eおはようお兄ちゃん、妹ちゃん。","","","\E\font[3]\f[18]\-[2]Good morning, both of you.",""
+"\Eさ、みんな揃ったわね。
+じゃあ行きましょう！","","","\E\font[3]\f[18]\-[2]Well, now that everyone's here.
+Let's go!",""
+"BGM/Sunshine!.ogg","","","",""
+"cg/bg_25_road_a.jpg","","","",""
+"cg/bg_13_road_a.jpg","","","",""
+"cg/bg_26_sea_a.jpg","","","",""
+"駆除作戦","","","",""
+"\Eおはよう、合宿の疲れは取れたかしら？","","","\E\font[3]\f[18]\-[2]Good morning, have you recovered from the fatigue of the training camp?",""
+"\E早速だけどお仕事があるわよ。","","","\E\font[3]\f[18]\-[2]Let's get straight to the point.
+We have work to do.",""
+"\E今回は複数ギルド参加の駆除作戦ね。","","","\E\font[3]\f[18]\-[2]In this mission, we are joining forces with multiple guilds to carry out an extermination operation.",""
+"\E…ええと順を追って説明するわね。","","","\E\font[3]\f[18]\-[2]...Okay, I'll go through the details in order.",""
+"\Eかつてこの辺り一帯にメ・クーアという
+古い文明が栄えていた…のは知っているわね。","","","\E\font[3]\f[18]\-[2]You all know... that the ancient civilization known as Me-Kua, 
+once prospered in this entire region.",""
+"\Eはい、今のメクア地方という呼び名もその名残ですよね。","","","\E\font[3]\f[18]\-[2]Of course, our region, named ""Mekua,"" serves as a reminder of that.",""
+"\Eこの辺で冒険者が多いのはこのメ・クーア文明の
+遺跡がそこかしこにあると言うのが大きいわ。","","","\E\font[3]\f[18]\-[2]The presence of ruins from the Me-Kua civilization scattered throughout 
+is a significant reason why this area attracts numerous adventurers.",""
+"\Eで、今回はタウン北の遺跡に調査団を派遣して
+調査の拠点となるベースキャンプを作るんだけど…","","","\E\font[3]\f[18]\-[2]This time, we're sending an exploration team to the ruins north 
+of town in order to set up a base camp for an investigation.",""
+"\Eまー、やっぱり普通にモンスターが棲み着いているわけ。
+そこである程度モンスターを駆除して安全を確保する。","","","\E\font[3]\f[18]\-[2]But, as one would expect, there are monsters living there. 
+The plan is to eliminate a specific number of monsters and create a safe environment.",""
+"\Eこれが今回のお仕事よ。","","","\E\font[3]\f[18]\-[2]That is the work we need to focus on at the moment.",""
+"\Eえっと…つまりは敵を排除すればいいんだよね。","","","\E\font[3]\f[18]\-[2]Err... so basically we just need to eliminate the monsters, correct?",""
+"\Eそ、キャンプ建てる前の安全確保ってこと。","","","\E\font[3]\f[18]\-[2]Correct, it's about establishing a safe environment before setting up the camp.",""
+"\Eこの駆除作戦の参加は自由。
+ただ活躍を見せるいい機会だし報酬も高めよ。","","","\E\font[3]\f[18]\-[2]Participating in this mission is not mandatory. 
+However, it presents a great opportunity to demonstrate your skills and the rewards are quite generous.",""
+"\Eわかりました。","","","\E\font[3]\f[18]\-[2]I understand.",""
+"\E（モンスターの駆除作戦か…どうしようかな？","","","\E\font[3]\f[18]\-[2](A mission to exterminate monsters, huh... What should I do?)",""
+"cg/bg_07_guild_d.jpg","","","",""
+"cg/bg_07_guild_g.jpg","","","",""
+"cg/bg_07_guild_f.jpg","","","",""
+"\Eおはよう、お兄ちゃん。
+今週からいよいよ本戦が始まるわよ。","","","\E\font[3]\f[18]\-[2]Good morning, Onii-chan. 
+The main event is finally starting this week.",""
+"\E本戦はトーナメント方式で地区の代表が争うの。
+全8チームだから単純に3回勝てば優勝ってことになるわ。","","","\E\font[3]\f[18]\-[2]The main event will follow a tournament format, with representatives from each district competing. 
+With a total of 8 teams, securing 3 victories guarantees the championship.",""
+"\Eそれで気になる初戦の相手は…「スカウトユニオン」ね。","","","\E\font[3]\f[18]\-[2]Oh, and the first team we'll be facing is the... ""Scout Union.""",""
+"\Eその名のとおりスカウト…
+偵察や探索のスペシャリストが数多く在籍しているわ。","","","\E\font[3]\f[18]\-[2]As the name suggests, 
+the ""Scout Union"" comprises a large number of experts in scouting and exploration.",""
+"\Eトリッキーな戦い方で主導権を握るのが得意ね。
+純粋に剣の勝負じゃ十分戦えるはずだから惑わされないようにね。","","","\E\font[3]\f[18]\-[2]They are skilled at gaining the upper hand with their cunning tactics. 
+However, if you focus solely on your swordsmanship, you should be able to fight them effectively. 
+Remain vigilant and do not allow yourself to be deceived.",""
+"\E一回戦は\c[1]3日後の木曜日\c[0]だから備えておいてね。","","","\E\font[3]\f[18]\-[2]The first match is scheduled for \c[2]thursday\c[0], which is \c[2]three days\c[0] from now, so make sure to prepare yourself.",""
+"\Eいよいよ八王子武闘会が始まる…！","","","\E\font[3]\f[18]\-[2]The long-awaited Hachioji Martial Arts Tournament is about to begin...!",""
+"\Eおはよう、お兄ちゃん。
+決勝の相手が決まったわよ。","","","\E\font[3]\f[18]\-[2]Good morning, Onii-chan. 
+I heard that the opponent for the finals has been decided.",""
+"\E相手は「冒険者協会タウン支部」
+あのアカツキ君の所属するギルドね。","","","\E\font[3]\f[18]\-[2]The opponent is the ""Adventurer's Guild Town Branch,"" 
+the guild that Akatsuki belongs to.",""
+"\Eさすがはここ10年負け知らずの優勝候補ギルド。
+一回戦、準決勝ともに圧倒的な強さを見せつけての決勝進出よ。","","","\E\font[3]\f[18]\-[2]As expected from the guild that has been undefeated for the past 10 years, they are a strong contender for the championship. 
+They have demonstrated overwhelming strength in both the first round and the semifinals, securing their spot in the finals.",""
+"\Eアカツキ…","","","\E\font[3]\f[18]\-[2]Akatsuki...",""
+"\E決勝は\c[1]今週の日曜日\c[0]よ。
+十分に備えておいてね。","","","\E\font[3]\f[18]\-[2]The final match will be held on \c[1]sunday of this week.\c[0] 
+Make sure to be fully prepared.",""
+"怪異について","","","",""
+"\Eおはよう。
+昨日はみんなお疲れさま。","","\EGood morning. 
+Thank you all for your hard work yesterday.","\E\font[3]\f[18]\-[2]Good morning. 
+Everyone, great job yesterday.",""
+"\E昨日の件について
+新しく得た情報も含めてまとめるわよ。","","\EI'm going to summarize yesterday's events, including some new information that I've learned.","\E\font[3]\f[18]\-[2]I'll provide a summary of yesterday's incident, 
+including any new information we have obtained.
+
+",""
+"\E調べてみると調査中の遺跡から未発見の層が
+発見されたという報告が最近上がってたそうよ。","","\EI found out that there was a recent report that an undiscovered layer was found at an archaeological site under investigation.","\E\font[3]\f[18]\-[2]Our findings indicate recent reports of a newly discovered layer 
+at the ongoing ruins site investigation.",""
+"\Eじゃあ発生源は遺跡で間違いない？","","\ESo you are sure the source is the archaeological site?","\E\font[3]\f[18]\-[2]Are you certain that the ruins site is the source of this crisis?",""
+"\Eでしょうね。","","\E: It must be.","\E\font[3]\f[18]\-[2]It has to be.",""
+"\E霧の速度はゆっくりだが徐々に街に迫ってきている。
+正体が何なのかはハッキリしないけれども…","","\EThe fog is slowly but gradually approaching the city. 
+\EThe speed of the fog is slow, but it is slowly closing in on the city.","\E\font[3]\f[18]\-[2]The fog is slowly advancing towards the town. 
+Its exact nature remains unclear...",""
+"\E見たこともない異形の姿や発生源となった遺跡…
+ギルドの学者は門が開いた可能性を指摘しているわ。","","\EAn unseen apparition, the remains of the source of the outbreak...
+The guild scholars are pointing out the possibility that a gate has been opened.","\E\font[3]\f[18]\-[2]The guild scholars have suggested the possibility of a gate being opened due to the sight 
+of unfamiliar and monstrous forms originating from the ruins site.",""
+"\E門？","","\EThe gate?","\E\font[3]\f[18]\-[2]A gate?",""
+"\Eえぇ、今よりずっとずっと昔。","","\EYes, long, long before now.","\E\font[3]\f[18]\-[2]Yes, it's from a much more distant time in the past.",""
+"\E魔法がもっと当たり前に使えてずっとずっと栄えてた時代、
+大きな都市と都市は魔法の門で繋がれていたらしいの。","","\EWhen magic was more commonplace and much more prosperous, 
+the great cities were connected to each other by magical gates.","\E\font[3]\f[18]\-[2]In an era when magic was widely used and flourished, 
+the major cities were connected by magical gate.",""
+"\E魔法の門を通るだけではるか遠くの街へ一瞬行くことができるとか…
+確かに古い遺跡でそんな門跡が見つかる事自体は稀にあるのよ。","","\EIt is said that one can go to a faraway city for a moment just by passing through a magic gate...
+It is indeed rare to find such gate ruins in old ruins.","\E\font[3]\f[18]\-[2]Many believed that by passing through that gate, one can instantly travel to a distant city... 
+It's indeed rare to come across such artifact at a ruins site.",""
+"\Eそんなすごい魔法があるんですか…。","","\EIs there such an amazing magic...?","\E\font[3]\f[18]\-[2]Is there truly such extraordinary magic...?",""
+"\E実際にそういった門跡から何かが這いずった痕跡が見つかったり、
+それこそ異形が現れたというような事例はあるらしいわ。","","\EThere have actually been cases where something has crawled out of such gateways, or where a deformity has appeared.","\E\font[3]\f[18]\-[2]There have been reports indicating signs of something crawling out of it, 
+as well as sightings of otherworldly beings.",""
+"\Eだいぶそれっぽいですね…","","\EThat sounds pretty much like it...","\E\font[3]\f[18]\-[2]That sounds pretty much like it...",""
+"\Eとなると…","","\E...","\E\font[3]\f[18]\-[2]In that case...",""
+"\Eそうね、門自体を壊して閉じてしまえば
+この怪異も収まる可能性が高いんじゃないかしら？","","\EWell, if we break down the gate itself and close it, then there is a good chance that the strange phenomenon will stop, right?","\E\font[3]\f[18]\-[2]If we were to destroy the gate and close it off, 
+there is a good chance that this crisis would be resolved, don't you think?",""
+"\E…でも遺跡に向かえば異形と出会う可能性も高い。
+何が待ち受けているかわからないとても危険な任務になる。","","\E...but if we head for the ruins, there's a good chance we'll meet up with a deformity. 
+\E...but if we head for the ruins, there is a good chance that we will encounter deformities.","\E\font[3]\f[18]\-[2]However, there is also a high chance of encountering otherworldly beings if we were to head 
+towards the ruins. It would be a very dangerous mission with unknown dangers awaiting us.",""
+"\E迫ってくる霧に街が飲まれる前…猶予はあと15日くらいかしらね。
+\c[2]霧が襲来する前に\c[0]解決する必要があるわ。","","\E...we have about 15 days to go before the city is engulfed by the approaching \c[2] fog. 
+\EAll the \c[0] guilds are in the same boat.","\E\font[3]\f[18]\-[2]Before the town is swallowed by the approaching fog... we have about 15 days left, I suppose. 
+We need to resolve this as soon as possible \c[2]before it hits.\c[0]",""
+"\E全ギルドに指令が出ているわ。","","\EAll guilds are ordered.","\E\font[3]\f[18]\-[2]Orders have been issued to all guilds.",""
+"\E私たちも準備が整い次第対応にあたるわ。
+お兄ちゃん、頼んだわよ。","","\E We will respond as soon as we are ready. 
+Brother, I'm counting on you.","\E\font[3]\f[18]\-[2]We will move out once we are ready.
+I'm counting on you, Onii-chan.",""
+"\E調べてみるとタウン北の遺跡から未発見の層が
+発見されたという報告が最近上がってたそうよ。","","\EI found out that there was a recent report of the discovery of an undiscovered layer from the ruins to the north of Town.","\E\font[3]\f[18]\-[2]I looked into it and found out from recent reports that an uncharted layer was discovered in 
+the ruins site north of town.",""
+"\E実際に門跡から何かが這いずった痕跡が見つかったり、
+それこそ異形が現れたというような事例はあるらしいわ。","","\EThere have actually been cases of traces of something crawling through the ruins of a gateway, or even the appearance of a deformity.","\E\font[3]\f[18]\-[2]There have been reported cases where traces of something crawling out of the gate have 
+been found, or even instances of otherworldly beings appearing.",""
+"\E迫ってくる霧に街が飲まれる前…猶予はあと15日くらいかしら。
+その前にこの異変の原因を取り除く必要がある。","","\EBefore the city is engulfed by the oncoming fog...I think we have about 15 days to wait. 
+Before that time, we need to remove the cause of this anomaly.","\E\font[3]\f[18]\-[2]Before the town is swallowed by the approaching fog... we only have about 15 days left. 
+We need to eliminate the cause of this crisis before then.",""
+"\E異変を解決
+<R>\f[18]霧の襲来まであと15日","","\ESolving the Anomaly
+<R>\f[18] 15 days to go until the fog strikes.","\E\font[3]\f[24]\-[2]Resolve the Crisis
+<R>\f[18]15 day(s) left until the fog hits",""
+"クライマックスなので飛ばす","","","",""
+"例外分岐怪我をしている","","","",""
+"cg/bg_27_hospital_a.jpg","","","",""
+"message","","","\font[3]\f[18]message",""
+"\f[14]\E<C>Tips　怪我","","\f[14]\E<C>Tips Injuries","\E\font[3]\f[14]\-[2]Tips on Injuries",""
+"\f[14]\E状態が\c[2]怪我\c[0]の時は鍛錬や探索を行うことができません。
+完治するまで診療所に通うことになります。","","When \f[14]\E state is \c[2]injured\c[0], you cannot forge or explore. 
+You will have to go to the clinic until you are completely healed.","\E\font[3]\f[14]\-[2]When you are \c[2]injured\c[0], you cannot engage in training or exploration. 
+You will need to visit a clinic until you fully recover.",""
+"BGM/We_are_Going.ogg","","","",""
+"cg/training_f1.jpg","","","",""
+"cg/training_f2.jpg","","","",""
+"SE/decision24.mp3","","","",""
+"\E怪我が治った！","","","\E\font[3]\f[18]\-[2]I've recovered from my injury!",""
+"100日目以降は昼パートの選択などが行えなくなります","","","",""
+"Tips","","Tips","\font[3]\f[18]Tips",""
+"\f[14]\E101日目以降日中パートは自動で進行され任意の育成ができなくなります。","","After day \f[14]\E101, the daytime part will progress automatically and arbitrary training will not be possible.","\E\font[3]\f[14]\-[2]Starting from Day 101, daytime activities will progress automatically, 
+and you will no longer be able to engage any voluntary training.",""
+"週末に新大冒険、新討伐（やりこみ）が加わります。","","","",""
+"SE/decision9.mp3","","","",""
+"\E日中パートが再度開放されました！","","","\E\font[3]\f[18]\-[2]Daytime activities are available once more!",""
+"\Eおはよう、お兄ちゃん。
+今日も頑張ってねー。","","","\E\font[3]\f[18]\-[2]Good morning, Onii-chan. 
+Do your best today as well!",""
+"通常処理","","","",""
+"\f[14]\E<C>Tips　ギルド活動について","","%A\E<C>Tips%About%Guild\f[14]ctivities","\E\font[3]\f[14]\-[2]<C>Tips on Guild Activities",""
+"\f[14]\Eユカリさんからその日に行う\c[1]ギルド活動\c[0]が提案されます。","","\f[14]\EYukari will suggest\c[1]guild Activities\c[0] to be done that day.","\E\font[3]\f[14]\-[2]Yukari suggests various \c[1]guild activities\c[0] that be conducted on that day.",""
+"\f[14]\E\c[1]ギルド活動\c[0]にはいくつか種類があり。
+選択した内容によってステータスの強化やお金が取得できます。","","There are several types of \f[14]\E\c[1]guild Activities\c[0]. 
+You can enhance your status or get money depending on what you choose.","\E\font[3]\f[14]\-[2]There are several types of \c[1]guild activities.\c[0] 
+Depending on what you choose, you can improve your stats or earn money.",""
+"初回","","","",""
+"\Eお兄ちゃんたちもだいぶ慣れてきたわねー。
+そろそろ街の依頼を受けてもいい頃合いかもしれないわね。","","\EYou guys are getting used to it too.
+It might be a good time to accept requests from the city soon.","\E\font[3]\f[18]\-[2]You guys have gotten quite used to it, haven't you? 
+It might be about time for us to start taking requests from the town.",""
+"\Eがんばってるねー、うんうん。
+これなら強いモンスターと出会っても大丈夫かしらね。","","\EI'm doing my best, yeah yeah.
+If it's like this, I wonder if I'll be okay even if I meet a strong monster.","\E\font[3]\f[18]\-[2]You've been working hard, haven't you? 
+Alright. With this, it should be okay even if you come across powerful monsters.",""
+"選択し直し","","","",""
+"再抽選1","","","",""
+"再抽選2","","","",""
+"\Eおはよう、お兄ちゃん。
+んー…、今日はこんな感じでどうかしら。","","","\E\font[3]\f[18]\-[2]Good morning, Onii-chan. 
+Hmm... how about something like this for today?",""
+"■1.4改修箇所","","","",""
+"お店の手伝い","","","Helping Out at the Shop",""
+"お勉強会","","\font[3]\f[17]\-[-1]Study Groups","Study Group",""
+"基礎鍛錬","","\font[3]\f[17]\-[-1]Basics Training","Basic Training",""
+"攻撃練習","","Offensive drills","Offensive Training",""
+"防御練習","","Defensive drills","Defensive Training",""
+"秘密特訓","","Secrets training","Special Training",""
+"探索","","Explorations","Exploration",""
+"遠征","","Expeditions","Expedition",""
+"他の案を聞きたい","","Other suggestions","Other",""
+"討伐依頼 \f[14]期限 \v[49] 日","","","Subjugation \f[10]\v[49] day(s) left",""
+"討伐判定へ","","","",""
+"討伐パス","","","",""
+"-16～3数値を+側に振れば期日が増えます。-で無し","","","",""
+"開始時リセット","","","",""
+"期限経過時リセット","","","",""
+"■画像選択肢処理1.44","","","",""
+"1.4.0/base_bottan.png","","","",""
+"\f[20]\cself[5]","","","\font[3]\f[17]\cself[5]",""
+"\f[20]\cself[6]","","","\font[3]\f[17]\cself[6]",""
+"\f[20]\cself[7]","","","\font[3]\f[17]\cself[7]",""
+"\f[20]\cself[9]","","","\font[3]\f[17]\cself[9]",""
+"1.4.0/SD_tetsudai2.png","","","",""
+"\Eギルドハウスでユカリさんの手伝いをして\c[2]お小遣い\c[0]を稼ぎます。","","","\font[3]\f[16]\-[2]\EYou can earn some \c[2]extra money\c[0] by helping Yukari-san at the guild house.",""
+"\f[12]\E\c[2]▲","","","",""
+"1.4.0/SD_study1.png","","","",""
+"\E冒険に必要な\c[2]知識・スキル\c[0]について学習します。","","","\font[3]\f[16]\-[2]\EYou can learn the necessary \c[2]knowledge and skills\c[0] for adventuring.",""
+"\f[12]\E\c[2]▲▲","","","",""
+"1.4.0/SD_kiso1.png","","","",""
+"\E走り込み訓練で\c[2]行動力\c[0]を鍛えます。","","","\font[3]\f[16]\-[2]\EYou can improve your \c[2]stamina\c[0] by engaging in running exercises.",""
+"1.4.0/SD_atk1.png","","","",""
+"\E木剣を使った訓練で\c[2]攻撃力\c[0]を鍛えます。","","","\font[3]\f[16]\-[2]\EYou can improve your \c[2]attack\c[0] by practicing your swinging skill with a wooden sword.",""
+"1.4.0/SD_def1.png","","","",""
+"\E打たれ強さを強化し\c[2]防御力\c[0]を鍛えます。","","","\font[3]\f[16]\-[2]\EYou can improve your \c[2]defense\c[0] by practicing how to handle incoming attacks.",""
+"1.4.0/SD_kon1.png","","","",""
+"\E秘密の特訓で\c[2]根性\c[0]を鍛え上げます。","","","\font[3]\f[16]\-[2]\EYou can improve your \c[2]guts\c[0] by engaging in special training.",""
+"1.4.0/SD_kouken1.png","","","",""
+"\E地域の困ったを解決する\c[2]ごく簡単なお仕事\c[0]を中心に活動します。","","","\font[3]\f[16]\-[2]\EYour main focus will be on completing \c[2]simple tasks\c[0] to help address local issues.",""
+"1.4.0/SD_quest1.png","","","",""
+"\E依頼のあるモンスターを\c[2]討伐\c[0]します。","","","\font[3]\f[16]\-[2]\EYou can take on the challenge of \c[2]hunting down\c[0] the specified monster.",""
+"\f[12]\E\c[2]ALLUP","","","\f[14]\E\c[2]\font[3]ALLUP",""
+"1.4.0/SD_tetsudai1.png","","","",""
+"1.4.0/SD_study2.png","","","",""
+"1.4.0/SD_kiso2.png","","","",""
+"1.4.0/SD_atk2.png","","","",""
+"1.4.0/SD_def2.png","","","",""
+"1.4.0/SD_kon2.png","","","",""
+"1.4.0/SD_kouken2.png","","","",""
+"1.4.0/SD_quest2.png","","","",""
+"1","","","",""
+"2","","","",""
+"3","","","",""
+"4","","","",""
+"<SQUARE>","","","",""
+"SE/cancel1.mp3","","","",""
+"選択した内容の説明","","","",""
+"討伐依頼","","","Subjugation Request",""
+"討伐対象の説明","","","",""
+"ニャースドラゴン","","","Meowth Dragon",""
+"あのアザラシ","","","That Seal",""
+"謎の影","","","Shadow Cleansing",""
+"逃げ出した野菜","","","Runaway Vegetables",""
+"白いアイツ","","","That White Thing",""
+"野生化した筋肉","","","Muscles Gone Feral",""
+"大量発生したアレ","","","Mass Outbreak of That Thing",""
+"危険な海洋生物","","","Dangerous Marine Creatures",""
+"畑を荒らす害獣","","","Field-wrecking Pests",""
+"森に潜む野獣","","","Wild Beasts Lurking in the Forest",""
+"棲み着いたアザラシ","","","Residing Seals",""
+"遺跡付近のモンスター","","","Ruins Monsters",""
+"\E依頼内容は怪異の解決。","","","\E\font[3]\f[18]\-[2]The objective is to solve the mystery behind the current crisis.",""
+"\Eいくつかのギルドから選抜して合同精鋭チームを
+派遣して異変の対処にあたるわ。","","","\E\font[3]\f[18]\-[2]We will choose skilled individuals from multiple guilds and send out a combined elite team 
+to help as well.",""
+"\E恐らくは遺跡の門を破壊すれば霧も収まるはず…
+だけどその前に異形との戦いは避けられないはずよ。","","","\E\font[3]\f[18]\-[2]It is likely that if we destroy the gate in the ruins, the fog should dissipate... 
+but before that, we cannot ot avoid a confrontation with the otherworldly beings.",""
+"\E敗北の許されない決戦になるわ、
+本当に準備はいい？","","","\E\font[3]\f[18]\-[2]This will be a crucial battle where defeat is not an option.
+Are you fully prepared?",""
+"はい","","","\font[3]\f[17]Yes",""
+"いいえ","","","\font[3]\f[17]No",""
+"\Eわかった、十分に気をつけてね。","","","\E\font[3]\f[18]\-[2]Got it, be careful and don't let your guard down.",""
+"\Eまだ準備が足りない…。","","","\E\font[3]\f[18]\-[2]If you feel that you're still not fully prepared, 
+take the time you need to ensure you're well-prepared.",""
+"討伐処理","","","",""
+"帰ってきた猿の軍団","","","The Returning Group of Monkeys",""
+"\E今回の依頼は例の\c[2]\cself[8]\c[0]の討伐よ。","","","\E\font[3]\f[18]\-[2]This time, the request is to eliminate that infamous \c[2]\cself[8]\c[0].",""
+"\E以前も手を焼いたけどそれに増して戦力を増強させているはずよ。
+生半可じゃ返り討ちに合いそうだけど、どうする？","","","\E\font[3]\f[18]\-[2]We had a hard time dealing with it in the past, and it's probably even stronger now. 
+It seems like we'll be in for a tough fight. So, what's your plan?",""
+"\E\f[14]\c[7]推奨戦力はノーマルで1700以上です。","","","\E\font[3]\f[18]\-[2]For normal difficulty, it is recommended to have a guild power of 1700 or higher.",""
+"\E今回の依頼は\c[2]\cself[8]\c[0]の討伐よ。","","","\E\font[3]\f[18]\-[2]The request is to eliminate \c[2]\cself[8]\c[0].",""
+"\E今のあなた達なら大丈夫だと思うけど気を付けて。","","","\E\font[3]\f[18]\-[2]I believe you'll be fine with your current abilities, but please be careful.",""
+"\E戦力的には互角の相手よ、油断はしないで。","","","\E\font[3]\f[18]\-[2]They are on par with you in terms of strength, so don't underestimate them.",""
+"\E今のあなた達には厳しいかも知れないけど…
+逆に言えばチャンスよ。","","","\E\font[3]\f[18]\-[2]While it may be difficult for you currently, 
+it also presents an opportunity.",""
+"\Eうーん…
+今のあなた達じゃちょっと手に余るかな？どうする？","","","\E\font[3]\f[18]\-[2]Hmm... It looks like it might be a bit too difficult for you guys
+with your current capabilities. What's your plan?",""
+"問題ない","","no problem","\font[3]\f[17]Not a problem",""
+"考え直す","","reconsider","\font[3]\f[17]Reconsider",""
+"\Eじゃあみんなくれぐれも気をつけてね。","","","\E\font[3]\f[18]\-[2]Got it, everyone, remember to keep your guard up and stay safe.",""
+"\Eここは慎重にいこう…。","","","\E\font[3]\f[18]\-[2]Let's proceed with caution this time...",""
+"\E今日は\cself[8]ってことでいいのね？","","","\E\font[3]\f[18]\-[2]Today will be \cself[8], is that alright?",""
+"\Eじゃあみんな\c[1]\cself[8]\c[0]がんばってねー。","","","\E\font[3]\f[18]\-[2]Alright, everyone, do your best on \c[1]\cself[8]\c[0].",""
+"\Eいや、もっとよく考えよう…。","","","\E\font[3]\f[18]\-[2]Let's think it through more carefully.",""
+"コマンド　鍛錬","","","",""
+"BGM/windletter.ogg","","","",""
+"cg/bg_07_guild_a.jpg","","","",""
+"\E…うーん、なんか手がチクチクする。","","","\E\font[3]\f[18]\-[2]Hmm, my hands are tingling.",""
+"\Eあ…あれ？どうしたの？","","","\E\font[3]\f[18]\-[2]Oh... What's the matter?",""
+"　手がチクチクする　","","","\font[3]\f[17]My hands feel tingly",""
+"\Eえと、あの…ちょっと見せてもらってもいいですか？","","","\E\font[3]\f[18]\-[2]Um, excuse me... would it be alright if I take a quick look?",""
+"cg/bg_07_guild_i.jpg","","","",""
+"\Eえ……あ、トゲが刺さってます。
+きっと訓練用の木剣がささくれてたんですね。","","","\E\font[3]\f[18]\-[2]Oh... Ah, there's a thorn stuck in there. 
+It must be from the training sword, it must have splintered.",""
+"cg/bg_07_guild_h.jpg","","","",""
+"\E（そういえば手入れをサボってたな…。）","","","\E\font[3]\f[18]\-[2](Now that she mentioned it, I've been slacking off on the maintenance...)",""
+"放っておく","","","\font[3]\f[17]Leave it as it is.",""
+"ツバでもつけておく","","","\font[3]\f[17]Spit on it",""
+"\Eだ、ダメです。
+小さな傷が後で腫れて痛むこともあるんですから…。","","","\E\font[3]\f[18]\-[2]Oh, no, that's not good. 
+Small wounds can swell and cause pain later on...",""
+"\E眼の前にいる女の子は一応メディックですよ、もう…
+少しじっとしててくださいね…。","","","\E\font[3]\f[18]\-[2]The girl in front of you is a medic, so please stay still for a moment..",""
+"\E………………。","","","\E\font[3]\f[18]\-[2]............",""
+"\E…小さな傷が怪我に繋がってしまうこともあるから…
+診せられる余裕があるときは診せてください。","","","\E\font[3]\f[18]\-[2]...Because small wounds can sometimes lead to bigger injuries, 
+please show them to me when you have the means.",""
+"\E…ん。
+はい、これで大丈夫です。","","","\E\font[3]\f[18]\-[2]Hmm... 
+Okay, you should be good now.",""
+"　ありがとう　","","","\font[3]\f[17]Thank you for the help",""
+"\Eどういたしまして。","","","\E\font[3]\f[18]\-[2]My pleasure.",""
+"\E（なんだかとてもかわいらしい
+メディカルシールを貼られてしまった…。）","","","\E\font[3]\f[18]\-[2] (I ended up with a really cute medical sticker...)",""
+"cg/map_05.jpg","","","",""
+"金曜日は給料日","","","",""
+"\Eあ、お兄ちゃん今週もお疲れさま。
+えーと…今週の収支は……","","\EAh, brother, good job this week. 
+ Well... this week's income and expenses: ......","\E\font[3]\f[18]\-[2]Oh, Onii-chan, you did a great job this week. 
+So... let's review our financial results for this week.",""
+"\Eなんと……","","\EWhat a ......","\E\font[3]\f[18]\-[2]Wait for it...",""
+"\Eうふふふ。","","\EUhmmmmm.","\E\font[3]\f[18]\-[2]Hehehe.",""
+"\E今週の分け前\cself[50]Gが分配された。","","\EThis week's share\cself[50]G was distributed.","\E\font[3]\f[18]\-[2]",""
+"\E結構な黒字よー、うふふ。","","\EQuite a surplus...ugh...","\E\font[3]\f[18]\-[2]It's quite a significant profit, hehe.",""
+"\E…やったわね、黒字よ！","","\E...you did it, you're in the black!","\E\font[3]\f[18]\-[2]...We did it! We've made a profit!",""
+"\E…まあ、トントンね。","","\E...well, we're even.","\E\font[3]\f[18]\-[2]...Well, it's neither a profit nor a loss, so it's alright.",""
+"\Eこれは…赤字じゃなかっただけ喜ぶべきなんだろうな…。","","\E...I guess I should be happy that I wasn't in the red...","\E\font[3]\f[18]\-[2]I suppose... I should be happy that it isn't a loss...",""
+"\E…赤字よ。","","\E...deficit.","\E\font[3]\f[18]\-[2]...It's a loss.",""
+"\Eと、いうわけでカンパよろしくー。","","\E....so please give me some money.......","\E\font[3]\f[18]\-[2]So, in that regard, we kindly ask for your financial support.",""
+"\E鍛錬だけしてても赤字か…そりゃそうだよな…。","","\E...I'm in the red even if I only work out...that's right...","\E\font[3]\f[18]\-[2]Merely focusing on training alone will not necessarily prevent financial loss... isn't that obvious?",""
+"\E…大幅に赤字よ。","","\E...I'm in the red a lot.","\E\font[3]\f[18]\-[2]...It's a big loss.",""
+"\Eと、いうわけで一人200Gのカンパね、カンパ。","","\E...that's why 200g per person..............................","\E\font[3]\f[18]\-[2]So, in that regard, we kindly ask for a financial support of 200G per person, okay? ",""
+"\Eわかっていても辛いな…。
+やる気が下がった。","","\EIt's hard even though I know.... 
+\EThis is hard to do even though I know....","\E\font[3]\f[18]\-[2]I get it that it can be hard sometimes...
+My motivation has dropped.",""
+"\Eそれじゃまた来週もよろしくねー。","","\ESee you next week!","\E\font[3]\f[18]\-[2]Alright then, see you next week!",""
+"選択項目1","","","",""
+"選択項目2","","","",""
+"選択項目3","","","",""
+"選択してるリスト","","","",""
+"メニュー1","","","",""
+"メニュー2","","","",""
+"メニュー3","","","",""
+"選択済みリスト","","","",""
+"昼決定済み","","","",""
+"合宿初回","","","",""
+"討伐チェック済み","","","",""
+"今日の討伐チェック","","","",""
+"中級者！","","","",""
+"上級者！","","","",""
+"tips","","","",""
+"初回トレーニング","","","",""
+"怪我","","","",""
+"再開放","","","",""
+"討伐依頼フラグ","","","",""
+"基準値","","","",""
+"収支","","","",""
+"カウントダウン","","","",""
+"処理飛ばし","","","",""
+"怪異説明","","","",""
+"本戦始まる","","","",""
+"相手は美食","","","",""
+"43日","","","",""
+"15日","","","",""
+"最後の交流戦","","","",""
+"100日","","","",""
+"79日","","","",""
+"64日","","","",""
+"29日","","","",""
+"選択オン","","","",""
+"カーソル状態取得","","","",""
+"カーソル位置取得","","","",""

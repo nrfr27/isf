@@ -1,0 +1,93 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"○┣悪いイベント系","","","",""
+"おちんちんびろーん","","","",""
+"妹","","Younger sister","\font[3]\f[18]Imouto",""
+"\Eびろろろろーん！","","\EBirorororoon!","\E\font[3]\f[18]\-[2]Look at this, look at this!",""
+"\Eお兄ちゃん…昔はカッコよかったのにね…。","","\EBig brother...you used to be cool back in the day...","\E\font[3]\f[18]\-[2]Onii-chan... You used to be so cool back then...",""
+"\Eお兄ちゃん、それあまりやんない方がいいよ…。","","\EBig brother, it's better not to do that too much...","\E\font[3]\f[18]\-[2]Onii-chan, it's better not to do that too much...",""
+"進捗ダメです","","","",""
+"\E進捗がダメになってしまった…。","","\EProgress has gone downhill...","\E\font[3]\f[18]\-[2]The progress has gone downhill...",""
+"酩酊","","","",""
+"要修正","","","",""
+"\E…………。","","\E…………","\E\font[3]\f[18]\-[2].........",""
+"cg/bg_02_house_a.jpg","","","",""
+"BGM/sparrows.mp3","","","",""
+"\Eはっ！ここは……！？","","\EHuh! Where am I...!?","\E\font[3]\f[18]\-[2]Huh! Where am I...!?",""
+"\E気がついたら外で寝ていた…。","","\EI woke up outside...","\E\font[3]\f[18]\-[2]I woke up to find myself sleeping outside...",""
+"症状悪化","","","",""
+"\E…けほっけほっ。","","\E...Cough, cough.","\E\font[3]\f[18]\-[2]...*cough* *cough*...",""
+"\E妹の体調が芳しくないようだ…。","","\EIt seems that my little sister's condition is not good...","\E\font[3]\f[18]\-[2]Looks like my sister's not feeling well...",""
+"SE/button24.mp3","","","",""
+"兄妹喧嘩","","","",""
+"\E…お兄ちゃん。
+今日すっごくデレデレしてたよね…ぷー！","","\E...Onii-chan.
+You were acting really lovey-dovey today...poo!","\E\font[3]\f[18]\-[2]Onii-chan... 
+You were so mushy-gushy today... *cuckles*!",""
+"\E妹がモチを焼いている…。","","\EMy little sister is baking mochi...","\E\font[3]\f[18]\-[2]My sister is roasting mochi...",""
+"\E……………………。","","\E……………………。","\E\font[3]\f[18]\-[2]...................",""
+"\E…お兄ちゃん！あたしのおやつ食べたでしょ！","","\E...Big brother! You ate my snack, didn't you!","\E\font[3]\f[18]\-[2]...Onii-chan! You ate my snack, didn't you!",""
+"\E些細なことで喧嘩してしまった…。
+やる気が下がった。","","\EWe ended up fighting over something trivial... 
+My motivation dropped.","\E\font[3]\f[18]\-[2]We ended up fighting over something trivial... 
+My motivation has dropped.",""
+"空腹","","","",""
+"BGM/yuuyake.mp3","","","",""
+"SE/Hungry02-1.mp3","","","",""
+"\Eお腹空いた…。","","\EI'm hungry...","\E\font[3]\f[18]\-[2]I'm getting hungry...",""
+"\Eうーん、夕ごはんが少なかったか…。
+やる気が下がった。","","\EHmm, dinner was a bit lacking...
+My motivation has dropped.","\E\font[3]\f[18]\-[2]Is it because today's dinner was a bit lacking...?
+My motivation has dropped.",""
+"貧困","","","",""
+"\E同情するならお金をください。","","\EIf you sympathize, please give me money.","\E\font[3]\f[18]\-[2]If you sympathize, please give me some money.",""
+"\E…お小遣いを巻き上げられてしまった。
+とても理不尽だ…。","","\E...I had my allowance taken away.
+It's so unfair...","\E\font[3]\f[18]\-[2]...My pocket money was taken away from me. 
+It's so unfair...",""
+"\Eやる気が下がった。","","\EMy motivation dropped.","\E\font[3]\f[18]\-[2]My motivation has dropped.",""
+"怪我","","","",""
+"SE/SC_damage3.ogg","","","",""
+"\Eぐわ～～～～～～っ！！","","\EGwaaaahhhhhhhhhhh!!","\E\font[3]\f[18]\-[2]Gwaaaahhhhhhhhhhh!!",""
+"\Eお兄ちゃんっ！？","","\EBig brother!?","\E\font[3]\f[18]\-[2]Onii-chan!?",""
+"\E…転んで怪我をした。","","\E...I fell down and got injured.","\E\font[3]\f[18]\-[2]...I tripped and got injured.",""
+"疲労困憊","","","",""
+"\Eお兄ちゃん…なんだか顔色がよくないよ…？","","\EBig brother... you don't look well...?","\E\font[3]\f[18]\-[2]Onii-chan... your complexion doesn't look good...?",""
+"\E…ううむ、今日はなんだかとても身体が重い…。
+やる気が下がった。","","\EHmm, today my body feels unusually heavy...
+My motivation has dropped.","\E\font[3]\f[18]\-[2]...Riiight, today my body feels unusually heavy...
+I feel so demotivated.",""
+"散財","","","",""
+"\E豪遊だ！！","","\EWhat a great game!!","\E\font[3]\f[18]\-[2]Living it up!",""
+"\Eえぇっ！？","","\EWhat!?","\E\font[3]\f[18]\-[2]Huh!?",""
+"\E出るまで回すぞ！！！うおおおおおおっ！","","\EI'll keep spinning until I win!!! Uooooooooh!","\E\font[3]\f[18]\-[2]I won't stop until it comes out! Uooooooooh!",""
+"\E…豪遊してしまった。","","\E...I got carried away and had a blast.","\E\font[3]\f[18]\-[2]...I got carried away.",""
+"無気力
+","","","",""
+"\E…はぁぁぁ……。","","\E...Haaaah...","\E\font[3]\f[18]\-[2]...Haaaah...",""
+"\E…ど、どうしたの…珍しい…。","","\E...W-What's wrong... This is unusual...","\E\font[3]\f[18]\-[2]...W-What's wrong... This is unusual...",""
+"\E…なんだかやる気が出ない。","","\E...I just can't seem to get motivated.","\E\font[3]\f[18]\-[2]...I just can't seem to get motivated.",""
+"嵐の夜","","","",""
+"\E雨の音ってなんだか眠くなるよね…。","","\EThe sound of rain makes me feel sleepy for some reason...","\E\font[3]\f[18]\-[2]The sound of rain makes me feel sleepy for some reason...",""
+"\Eゴロゴロゴロ…","","\EGoro goro goro...","\E\font[3]\f[18]\-[2]*rolls* *rolls*...",""
+"\Eひゃっ…。","","\EHyaa...","\E\font[3]\f[18]\-[2]Hyau...",""
+"\E雨は降り続いている…。","","\EThe rain continues to fall...","\E\font[3]\f[18]\-[2]The rain continues to fall...",""
+"Gショック","","","",""
+"\Eんぎゃーーッ！！！","","\ENgyaaaahhh!!!","\E\font[3]\f[18]\-[2]Ngyaaaahhh!!!",""
+"\Eどどどどうした！？","","\EWhat's wrong!?","\E\font[3]\f[18]\-[2]W-W-W-What's just happened!?",""
+"\E…Gが出た。","","\E...G appeared.","\E\font[3]\f[18]\-[2]...There was an earthquake.",""
+"足をぶつける","","","",""
+"SE/Damage.wav","","","",""
+"\Eぐあっ！","","\EGah!","\E\font[3]\f[18]\-[2]Gwah!",""
+"\Eお兄ちゃん！？","","\EBig brother!?","\E\font[3]\f[18]\-[2]Onii-chan!?",""
+"\Eだ、大丈夫…ちょっとぶつけただけだから…","","\EI-I'm fine... I just bumped into something...","\E\font[3]\f[18]\-[2]I-I'm fine... I just bumped into something...",""
+"\E机のカドに小指をぶつけた。
+長男だから我慢できた。","","\EI bumped my pinky finger on the corner of the desk.
+I could endure it because I am the eldest son.","\E\font[3]\f[18]\-[2]I bumped my toe on the corner of the desk.
+I managed to endure it as the eldest son.",""
+"やきもち","","","",""
+"イベント内容","","","",""
+"疲労","","","",""
+"無気力","","","",""
+"足をぶつけた","","","",""
+"ヤキモチ","","","",""
+"乱数","","","",""

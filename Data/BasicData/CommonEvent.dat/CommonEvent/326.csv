@@ -1,0 +1,339 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"┗食事処理","","","",""
+"\f[20]今日は外食だ！　　　　\f[12]300G","","","",""
+"親父帰宅END","","","",""
+"cg/bg_01_home_d.jpg","","","",""
+"親父","","Father","",""
+"\Eおう、今帰ったのか。","","\EOh, you just got back.","",""
+"\E…は？
+え、親父？","","\E...What?
+Huh, dad?","",""
+"\E妹とは手紙でちょいちょいやりとしてててな。
+お前のこともよく聞いている。","","\EI often exchange letters with my little sister.
+I also often hear about you.","",""
+"\E…それで、だ。
+多少のことには目をつむるが…まあ分かるな？","","\E... And, well. 
+I can turn a blind eye to some things... Well, you understand, right?","",""
+"\E……。","","\E...","",""
+"\Eそして俺は親父の手配するままに兵役に出された。","","\EAnd I was sent to military service as arranged by my father.","",""
+"\E訓練という名のしごきの日々、硬い寝床、冷めたご飯。
+ああ、家が恋しい…。","","\EDays of harsh training, hard beds, and cold meals, all under the name of discipline. 
+Oh, how I miss home...","",""
+"message","","message","",""
+"\E残念ながらあなたの冒険はここで終わってしまった…！","","\EUnfortunately, your adventure has come to an end here...!","",""
+"\Eここにたどり着けるのは割と最低なお兄ちゃんです。
+もっと妹の信頼を得るような行動を心がけましょう。","","\EThe one who can reach here is a pretty lousy older brother.
+Let's strive to earn more trust from our little sister through our actions.","",""
+"<C>\EBADEND　～兵役～","","<C>\EBAD END - Military Service -","",""
+"\E年がら年中冒険に出ているあの親父が帰ってきた。","","\EThat old man who is always going on adventures has returned.","",""
+"\Eお前に妹のことは任せられないのだと、
+語らずともその目はそう言っていた。","","\EI could tell from your eyes that you couldn't be trusted with my sister, 
+even without saying a word.","",""
+"\E確かに妹のことを疎かにしていたのかも知れない…。","","\EI might have been neglecting my little sister...","",""
+"\E狙ったのでなければ結構なダメお兄ちゃんです。
+まずは地道に信頼を重ね妹の気持ちを大事にしましょう。","","\EIf it's not intentional, you're quite a useless big brother.
+First, let's steadily build trust and cherish our sister's feelings.","",""
+"<C>\EBADEND　～帰宅～","","<C>\EBAD END - Returning Home -","",""
+"妊娠END判定","","","",""
+"休息から","","","",""
+"\Eふぁ……おっと、もうこんな時間か…。","","\EPhew... Oops, is it already this late...?","",""
+"妹","","Younger sister","",""
+"\Eお兄ちゃんおかえり。
+ただいま。","","\EWelcome back, big brother.
+I'm home.","",""
+"\Eただいま、おかえり。","","\EWelcome back, I'm home.","",""
+"\E今日はなんだか大変なことになっちゃったね…
+大丈夫かな…ちょっと怖いね。","","\EToday, something really difficult happened...
+I wonder if everything is okay... It's a little scary.","",""
+"7で温泉イベント完了　以降は討伐へ","","","",""
+"外出着での帰宅処理","","","",""
+"1","","1","",""
+"\Eただいまー！","","\EI'm back!","",""
+"\Eおかえり。","","\EWelcome back.","",""
+"\Eお兄ちゃんもおかえり～","","\EWelcome back, big brother~","",""
+"\Eん、ただいま。","","\EHmm, I'm home.","",""
+"3","","3","",""
+"\Eはー…なんだか色々と大変だったね…
+お兄ちゃん、お疲れさま。","","\EPhew... It seems like you've been through a lot...
+Big brother, well done.","",""
+"\Eふぅ…久々の我が家に帰ってきたぞ…。","","\EPhew... I've finally returned to my home after a long time...","",""
+"\Eじゃ、あたし着替えてくるね。","","\EWell, I'm going to change my clothes.","",""
+"\E……………………。","","\E……………………。","",""
+"お夕飯の処理","","","",""
+"\Eお兄ちゃん疲れてるでしょ。
+今日はあたしがごはん作るから休んでていいよ。","","\EYou look tired, big brother. 
+I'll make dinner today, so you can take a break.","",""
+"SE/cook1.mp3","","","",""
+"\Eおまたせー。
+おにーちゃーん、並べるの手伝って。","","\ESorry for the wait.
+Big brother, help me line them up.","",""
+"\Eいただきます。","","\EThank you for the meal.","",""
+"食事終了","","","",""
+"休日処理","","","",""
+"\Eおかえり、お兄ちゃん！","","\EWelcome back, big brother!","",""
+"\Eただいまー、おかえり。","","\EWelcome back, I'm home.","",""
+"平日処理","","","",""
+"\Eただいま。","","\EI'm home.","",""
+"\Eなんだかすごく久しぶりな気がするね、おにいちゃん。","","\EIt feels like it's been a really long time, big brother.","",""
+"\Eだな。","","\EI see.","",""
+"\E久々の我が家に帰ってきたぞ…。","","\EI've finally returned to my home after a long time...","",""
+"妊娠判定","","","",""
+"\Eあれ、お兄ちゃん怪我してる！","","\EHuh, big brother, are you hurt?","",""
+"\Eん？ああ、ちょっとな。","","\EHuh? Ah, just a moment.","",""
+"\Eダメだよ放っておいちゃ…ちょっとまっててね…。","","\ENo, don't leave me alone... Just wait a moment, okay...","",""
+"\Eはい、これでよし。
+今日はあたしがごはん作るからね。","","\EYes, that's it.
+I'll make dinner today, okay?","",""
+"\E妹に手当してもらったぞ。","","\EI got my sister to give me some pocket money.","",""
+"怪我をしていない且つ31日目以上経過でカナ、ユイ登場の可能性","","","",""
+"ユイ食事イベント","","","",""
+"SE/door-wood-knock2.mp3","","","",""
+"\E（コンコンコン）","","\E(Knock, knock, knock)","",""
+"\Eん、誰だ…？","","\EWho... is it?","",""
+"\Eあ、ユイじゃないか。
+どうしたんだこんな時間に。","","\EAh, it's Yui.
+What's up at this hour?","",""
+"ユイ","","Yui","",""
+"\Eこんばんは、お兄ちゃん。","","\EGood evening, big brother.","",""
+"\Eえっと、お夕飯いっぱい作り過ぎちゃって…。
+食べるかなーなんて思って。","","\EUm, I ended up making too much dinner...
+I'm wondering if I should eat it.","",""
+"\Eおおっ！食べる食べる！","","\EOh wow! Let's eat, let's eat!","",""
+"\Eよかった、じゃあ…これ。","","\EGood, then... here.","",""
+"\Eこんなに！？ありがとうユイ。","","\EThis much!? Thank you, Yui.","",""
+"\Eいいえ、どういたしまして。","","\ENo, you're welcome.","",""
+"\E…………………………………………。","","\E.......................................................","",""
+"\Eユイの手料理を頂いてしまった…。","","\EI ended up eating Yui's homemade cooking...","",""
+"外食終了","","","",""
+"カナ食事イベント","","","",""
+"\Eさて、今日の夕食は…。","","\ENow, let's see what's for dinner today...","",""
+"\Eむむ…だいぶ食材が少ないな…。","","\EHmm... We're running low on ingredients...","",""
+"貧乏飯","","","",""
+"\f[20]妹の手料理！　　　　　\f[12]0G","","\f[20]My sister's homemade cooking!　　　　　\f[12]0G","",""
+"\f[20]お兄ちゃんに任せろ！　\f[12]0G","","\f[20]Leave it to me, big brother! \f[12]0G","",""
+"兄","","","",""
+"\f[20]妹の手料理！　　　　　\f[12]200G","","\f[20]My sister's homemade cooking!　　　　　\f[12]200G","",""
+"\f[20]お兄ちゃんに任せろ！　\f[12]200G","","\f[20]Leave it to me, big brother! \f[12]200G","",""
+"\cself[6]","","","",""
+"外食","","","",""
+"\f[20]妹の手料理！　　　　　\f[12]100G","","\f[20]My sister's homemade cooking!　　　　　\f[12]100G","",""
+"\f[20]お兄ちゃんに任せろ！　\f[12]100G","","\f[20]Leave it to me, big brother! \f[12]100G","",""
+"外食処理","","","",""
+"休日","","","",""
+"\Eえ、今日はお外で食べるの？","","\EWait, are we eating outside today?","",""
+"外食の処理","","","",""
+"普段日","","","",""
+"\Eわかった！準備するね！","","\EGot it! I'll get ready!","",""
+"cg/bg_07_guild_c.jpg","","","",""
+"\Eちわーす。","","\EHello there.","",""
+"ユカリ","","Yukari","",""
+"\Eあら、いらっしゃい。","","\EOh, welcome.","",""
+"cg/blackscreen.jpg","","","",""
+"\Eドリンクはサービスよ、ゆっくりしていってね。","","\EThe drinks are on the house, take your time.","",""
+"\Eわあ、お兄ちゃん美味しそうだね！","","\EWow, big brother, that looks delicious!","",""
+"　頂きます！　","","　Thank you!","",""
+"　おっぱいが見たい…　","","　I want to see breasts...","",""
+"\Eいただきます！","","\EBon appétit!","",""
+"\Eえぇ…そんなの…恥ずかしいよ。","","\EUm...that's...embarrassing.","",""
+"\E……","","\E……","",""
+"\Eうぅ…お兄ちゃんがそんなに見たいって言うなら…。","","\EUgh... If big brother says he wants to see it that badly...","",""
+"\Eはい、ちょっとだけだよ…。","","\EYes, just a little bit...","",""
+"\Eみ、見えたよね…もうおしまいっ…！","","\EI-I saw it... It's over...!","",""
+"\Eもう…お兄ちゃんのえっち…。","","\EEnough... Big brother's lewdness...","",""
+"\E…もうっ、お兄ちゃん…。","","\E...geez, big brother...","",""
+"\Eこんな所で出来るわけないでしょ。","","\EThere's no way you can do it in a place like this.","",""
+"\E…そんな事できるわけ無いでしょ！もうっ！","","\E...There's no way I can do something like that! Seriously!","",""
+"\E美味しいね！お兄ちゃん！","","\EIt's delicious! Big brother!","",""
+"\Eユカリさんのところでご飯を食べた！
+やる気が上がった。","","\EI had dinner at Yukari's place! 
+I got motivated.","",""
+"\E…今日はこんなので我慢してくれるか？","","\E...Can you put up with something like this today?","",""
+"\Eううん。
+ありがとう、お兄ちゃん。","","\ENo.
+Thank you, big brother.","",""
+"\E質素な食事を済ませた…。","","\EI finished a simple meal...","",""
+"倹約","","","",""
+"\E…むむっ！これはまだ食べられそうだ。","","\E...Hmm! This still looks edible.","",""
+"\Eやったね！お兄ちゃん！","","\EWell done! Big brother!","",""
+"\Eああ、食べ物は大事にしていかないとな。","","\EAh, we must take good care of our food.","",""
+"\E食べられそうな食料を発掘？した。","","\EDiscovered edible food?","",""
+"追加収穫","","","",""
+"\Eお兄ちゃんお兄ちゃん！","","\EBig brother, big brother!","",""
+"\E…ん？","","\E...Huh?","",""
+"\E見てー！ランニング根菜！","","\ELook! Running root vegetables!","",""
+"\Eおお！","","\EOh!","",""
+"\E野菜を収穫した。","","\EHarvested vegetables.","",""
+"貧乏飯終了","","","",""
+"健康判定61以上なら食事を用意してくれている","","","",""
+"\Eお腹空いた？
+いまご飯の用意するからね。","","\EAre you hungry?
+I'll prepare dinner now.","",""
+"\Eおまたせー。
+お兄ちゃん並べるの手伝って。","","\ESorry for the wait.
+Help me set up, big brother.","",""
+"カナ","","Kana","",""
+"\Eいただきまーす！","","\EThank you for the meal!","",""
+"\E…3人でご飯するのも当たり前の光景になってきたな…。","","\E...It has become a common sight for the three of us to have a meal together...","",""
+"\E…なんでカナが居るん？","","\E...Why is Kana here?","",""
+"\Eいやあ家の前を通りかかったらいい匂いがしたもんで、つい。","","\EWhen I passed by in front of the house, there was a nice smell, so I couldn't help it.","",""
+"\E…お前はついついで人んちに飯食いに来るのか。","","\E...Do you always come to other people's houses just to eat?","",""
+"\Eうん。","","\EYeah.","",""
+"\Eまあいいけどさ。","","\EWell, whatever.","",""
+"会話などの行動後にランダムで発生するイベントです。","","","",""
+"新メニュー保険","","","",""
+"\E……う…","","\E...Ugh...","",""
+"\Eう？","","\EHuh?","",""
+"\Eう・ま・い・ぞぉーーーーーーーっ！！！","","\EThat's de-li-cious!!!","",""
+"\Eなんだこれは！手が止まらん…！
+美味い…うまいぞぉぉっ！","","\EWhat is this! I can't stop my hands...! 
+Delicious... it's so good!","",""
+"\Eはっ……こ、これだっ！！","","\EHuh... T-This is it!!","",""
+"\E…え…な、なに？
+どうしたのお兄ちゃん。","","\E...Eh...w-what? 
+What's wrong, big brother?","",""
+"\Eこれだよ！これ！これならきっと…！","","\EThis is it! This! I'm sure this will...!","",""
+"\E…どゆこと…？","","\E...What do you mean...?","",""
+"\Eいや実は…","","\EWell, actually...","",""
+"\Eそっか…
+いまお兄ちゃんのギルドがタイヘンなんだね…。","","\EI see... 
+So your brother's guild is in a tough situation, huh...","",""
+"\Eでも、新メニュー作戦もわかったし協力もするけど…
+お兄ちゃんて\c[1]お料理得意\c[0]だったっけ…？","","\EBut, I understand the new menu strategy and I'm willing to cooperate... 
+Big brother, were you \c[1]good at cooking \c[0]?","",""
+"\Eそりゃもう！まかせとけ！","","\EOh, leave it to me!","",""
+"\Eじゃあ、明日からしばらく学校帰りに寄るからね。
+がんばろうねお兄ちゃん。","","\EWell then, I'll stop by after school for a while starting from tomorrow.
+Let's do our best, big brother.","",""
+"\Eう……それは…。","","\EUgh... That is...","",""
+"\Eじゃあ、あたし明日からしばらく学校の帰りに寄るからね。
+お兄ちゃんも\c[1]お料理の腕前\c[0]を上げとかないとだね。","","\EWell then, I'll stop by on my way home from school for a while starting tomorrow.
+Big brother, you should improve your cooking skills too.\c[1]Otherwise, you know.\c[0]","",""
+"\E新メニュー作戦をひらめいた！
+やる気があがった！","","\EI came up with a new menu strategy! 
+I'm feeling motivated!","",""
+"新メニュー","","","",""
+"\E…誰？","","\E...Who?","",""
+"\Eなんだか食欲が爆発した。
+やる気が上がった。","","\EMy appetite suddenly exploded.
+I feel motivated.","",""
+"\E妹の手料理を食べて少し元気になった。","","\EI ate my sister's homemade meal and felt a little better.","",""
+"\Eうーん、今日は何を作ろうか…。","","\EHmm, what should I make today...?","",""
+"\E…よし、すぐ用意するから待っててな。","","\E...Alright, I'll prepare it right away, so just wait.","",""
+"料理失敗","","","",""
+"\Eみ、見た目はアレだけど…きっと平気だよ。","","\EAlthough the appearance is like that... I'm sure it'll be fine.","",""
+"\Eいつもありがとう、お兄ちゃん。
+いただきます。","","\EThank you always, big brother.
+Let's eat.","",""
+"\Eはうっ…。
+お…美味しいよ…お兄ちゃん……。","","\EUgh...
+Oh... it's delicious... big brother...","",""
+"\E料理を失敗してしまった…。
+やる気が下がった。","","\EI failed at cooking... 
+My motivation dropped.","",""
+"\Eありがとう、お兄ちゃん。","","\EThank you, big brother.","",""
+"\E……ぁ…お兄ちゃん……この味…
+ん…美味し……♥","","\E...Ah...Onii-chan...this taste...
+n...delicious...♥","",""
+"\E……なんか不思議な味…
+でも癖になるような…なんだろ…？","","\E...It's a strange taste...
+But it's addictive...what could it be...?","",""
+"料理大成功","","","",""
+"\E……お…","","\E...Oh...","",""
+"\Eお？","","\EHuh?","",""
+"\Eおいしいっ！！！","","\EDelicious!!!","",""
+"\Eお兄ちゃん！これどうやって作ったの！？
+ね、今度あたしにも作り方教えてお兄ちゃん！","","\EBig brother! How did you make this!?
+Hey, next time, teach me how to make it too, big brother!","",""
+"\Eお、おう。","","\EOh, okay.","",""
+"\E喜んでもらえたようだ…。","","\EIt seems like you were pleased...","",""
+"\E妹と一緒にごはんを食べたぞ。","","\EI had dinner with my little sister.","",""
+"\E…おおっ！？こ、このメクア大根…！","","\E...Oh!?! Th-this is a giant radish...!","",""
+"\Eめちゃくちゃちんぽこに似てないか！！","","\EDoesn't it look like a completely different thing!!","",""
+"\E…お兄ちゃんのそこまでおっきくないでしょ！","","\E...You're not that big, big brother!","",""
+"\Eガーン…","","\EGah...","",""
+"\Eやる気がなくなった…。","","\EI've lost my motivation...","",""
+"\Eそういえばさ…
+学校にすごい人がいるってウワサを聞いたんだけど…。","","\EBy the way...
+I heard a rumor that there's an amazing person at school...","",""
+"\Eあー…きっとカスミちゃんのことかな？
+うん、よく話すけど？どうしたの？","","\EAh... It must be about Kasumi-chan, right?
+Yeah, we talk a lot. What's wrong?","",""
+"\Eいや、それが今日たまたま話題に上がってな。","","\ENo, that just happened to come up in conversation today.","",""
+"\E……という訳なんだ。","","\EThat's the translation.","",""
+"\Eネコの手も借りたい…かぁ。
+お兄ちゃんとこも色々と大変だもんね…。","","\EI wish I could lend a helping hand...
+I know your place is also going through a lot...","",""
+"\Eカスミちゃん休みの日はよく本屋に行くって言ってたから…
+もしかしたら本屋に行けば会えるかも？","","\EKasumi-chan often said she goes to the bookstore on her days off... 
+Maybe if I go to the bookstore, I might be able to meet her?","",""
+"\Eあ、でも知らない人とはあまり話さないかも？","","\EAh, but I might not talk much with people I don't know?","",""
+"\E…なるほど…。","","\EI see...","",""
+"\E人見知りで…本屋…
+うーん心当たりがあるような…","","\EI'm shy... a bookstore... 
+Hmm, I feel like I have a clue...","",""
+"\Eお兄ちゃん。","","\EBig brother.","",""
+"\Eん？","","\EHuh?","",""
+"\E明日頑張ってね！
+あたしも応援に行くからね！","","\EGood luck tomorrow! 
+I'll also come to cheer you on!","",""
+"\Eおう！","","\EOh!","",""
+"\E妹に応援してもらった…！","","\EI got cheered on by my little sister...!","",""
+"\Eやる気がアップした！","","\EMotivation increased!","",""
+"\Eふう…ごちそうさま。","","\EPhew... Thank you for the meal.","",""
+"\E─あ、そうだそうだ実はな…","","\E- Ah, yes, that's right, actually...","",""
+"\E…………","","\E…………","",""
+"\E…と、いうわけなんだ。","","\E...and that's the story.","",""
+"\Eえー、温泉ーっ！？","","\EOh, hot springs!?","",""
+"\Eけっこう急な話なんだけど…大丈夫そうか？","","\EIt's a pretty sudden story, but... Are you okay?","",""
+"\Eうん、もちろん平気だよ！
+えへへー、遠出ってあまりしたことないから楽しみ！","","\EYeah, of course I'm fine!
+Hehe, I haven't really gone on a trip before, so I'm excited!","",""
+"\Eうむ、妹は喜んでいるみたいだぞ…。","","\EHmm, it seems like my little sister is happy...","",""
+"Picture/sd_icon02.png","","","",""
+"Picture/sd_icon06.png","","","",""
+"<CIRCLE>","","","",""
+"Picture/sub_button04.png","","","",""
+"\f[14]\E<C>Tips　スキルについて<L>
+\c[1]スキルpt\c[0]を消費してお兄ちゃんは\c[1]スキル\c[0]を取得する事ができます。","","\f[14]\E<C>Tips About Skills<L>
+\c[1]By consuming Skill Points\c[0], you can acquire\c[1]skills\c[0], big brother.","",""
+"\f[14]\Eスキルは\c[1]ステータス画面\c[0]から取得することができます。
+アイコンをクリックしてステータス画面を開いてみましょう。","","\f[14]\ESkills can be obtained from the status screen.\c[1] Let's click on the icon and open the status screen.\c[0]
+","",""
+"\f[14]\E<C>Tips　妹の体調<L>
+日常生活の中で妹が体調を崩すときがあります。
+体調にはいくつか段階があり、大きく崩した際などには
+看病コマンドを実行することで体調を改善させることができます。
+　","","\f[14]\E<C>Tips: Sister's Health<L>
+There are times when your sister's health may deteriorate in daily life.
+There are several stages of health, and when it is greatly deteriorated, you can improve it by executing the nursing command.
+","",""
+"\Eお兄ちゃん！","","\EBig brother!","",""
+"\Eいつもありがとう！
+はい、これ。","","\EThank you always! 
+Yes, here it is.","",""
+"\Eこれは…","","\EThis is...","",""
+"\E日頃の感謝の気持ちだよ。","","\EIt's a feeling of gratitude for everyday.","",""
+"\c[7]実習で作ったお菓子\c[0]","","\c[7]Sweets made during practice\c[0]","",""
+"\c[7]冒険の書5巻セット\c[0]","","\c[7]Adventure Book Volume 5 Set\c[0]","",""
+"\c[7]ダンベル\c[0]","","\c[7]Dumbbell\c[0]","",""
+"\c[7]鉄下駄\c[0]","","\c[7]Iron geta\c[0]","",""
+"\c[7]ティータイムセット\c[0]","","\c[7]Tea Time Set\c[0]","",""
+"\c[7]ファイトいっぱつセット\c[0]","","\c[7]Fight one-shot set\c[0]","",""
+"\c[7]怪しい夜のセット\c[0]","","\c[7]Mysterious Night Set\c[0]","",""
+"\c[7]使用済みパンツ\c[0]","","\c[7]Used underwear\c[0]","",""
+"\c[7]感謝の気持ち\c[0]","","\c[7]Feeling of gratitude\c[0]","",""
+"\E妹から\cself[5]を貰った！","","\EI received \cself[5] from my little sister!","",""
+"食事パターン","","","",""
+"平日","","","",""
+"休息","","","",""
+"外食だ！文字変数","","","",""
+"乱数","","","",""
+"怪我","","","",""
+"スキル取得","","","",""
+"体調チュートリアル","","","",""
+"自由乱数","","","",""
+"カナ食事初","","","",""
+"カナ食事","","","",""
+"信頼ボーナス","","","",""
+"回数","","","",""
+"プレゼント","","","",""

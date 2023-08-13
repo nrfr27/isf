@@ -1,0 +1,315 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"■大冒険","","","",""
+"BGM/centennial_loop.ogg","","","",""
+"cg/map_full.jpg","","","",""
+"\E昔から妹とは大冒険と称して
+時々ちょっとしたお出かけをする事がある。","","\ESince long ago, my sister and I have called it a great adventure 
+and sometimes we go on little outings.","",""
+"\E村外れの湖畔まで釣りに行ったり、家の裏手の森を探検したり…。
+普段よりちょっと足を伸ばした安全な冒険。","","\EI go fishing to the lakeside outside the village, and explore the forest behind my house...
+A safe adventure that stretches my legs a little further than usual.","",""
+"\E手頃な枝を剣に見立て、特に目的もなくただ歩き
+日が暮れたら家路につく。","","\EImagining a convenient branch as a sword, I walk aimlessly without any particular purpose.
+When the sun sets, I make my way home.","",""
+"\Eまだ幼かった少年と少女の小さな冒険─","","\EA small adventure of a young boy and girl who were still young─","",""
+"BGM/ango.ogg","","","",""
+"\Eしかしこれから目指すあの森は、深く、暗く、危険で─
+抗いようのない未知という魅力に溢れている。","","\EHowever, the forest we are about to aim for is deep, dark, and dangerous - 
+filled with an irresistible allure of the unknown that cannot be resisted.","",""
+"\Eこの国の北に広がる世界樹の大森林。
+世界樹の祝福を得たものはあらゆる病魔を退け幸運に恵まれる…。","","\EThe great forest of the World Tree spreads to the north of this country.
+Those who receive the blessings of the World Tree are protected from all diseases and blessed with good fortune...","",""
+"\E単なる伝承、言い伝え。
+だとしても俺たちにはそこを目指す理由がある。","","\EJust mere legends and tales.
+But even so, we have our reasons to aim for that place.","",""
+"\Eいま少年は剣を手に、少女を連れて。","","\ENow the boy holds a sword and takes the girl with him.","",""
+"\E大冒険が始まる…！","","\EThe great adventure begins...!","",""
+"cg/bg_02_house_a.jpg","","","",""
+"\E大丈夫か？","","\EAre you okay?","",""
+"妹","","Younger sister","",""
+"\Eうん、へいき。","","\EYeah, I'm fine.","",""
+"\Eよし…行こうか！","","\EAlright... Let's go!","",""
+"\f[24]\E自宅の前","","\f[24]\EIn front of my house","",""
+"トップ","","","",""
+"\Eこれ以上の冒険は無理そうだな…
+今回はここまでにしておこう…。","","\EIt seems like any further adventures are impossible... 
+Let's call it quits for this time...","",""
+"帰還","","","",""
+"\Eこれ以上冒険は無理そうだな…
+今回はここまでにしておこう…。","","\EI guess it's impossible to continue the adventure any further... 
+Let's call it quits for now...","",""
+"メニュー","","","",""
+"エリアイベント","","","",""
+"1.4.0/v144_cg12_1.jpg","","","",""
+"\f[24]\E世界樹の森","","\f[24]\EWorld Tree Forest","",""
+"なまはげちゃん","","Namahage-chan","",""
+"\E何人たりとも近づくことはできぬ…！","","\ENo one can approach...!","",""
+"\Eく、くそ…。","","\EDamn it...","",""
+"処理ジャンプ","","","",""
+"1.4.0/v144_cg13_1.jpg","","","",""
+"\Eこれが…世界樹…。","","\EThis is... Yggdrasil...","",""
+"\Eわあ…上が見えないよお兄ちゃん。","","\EWow... I can't see the top, big brother.","",""
+"声","","Voice","",""
+"\E約束を違えず2人でここまでこれたようだね。","","\EIt seems like the two of us have made it this far without breaking our promise.","",""
+"占い師","","Fortune Teller","",""
+"\Eやあ、また会えて嬉しいよ。
+よく腕を磨いたようだね、実に素晴らしい。","","\EHey, I'm glad to see you again.
+It seems like you've really honed your skills, it's truly amazing.","",""
+"\E妹の方もよく気持ちを暴走させず今まで抑えてきたね。
+魔力を溜め込んだ体は下手をすれば爆発することもあった。","","\EMy sister has also done a good job of controlling her emotions and keeping them in check until now.
+There have been times when her body, filled with magical energy, could potentially explode.","",""
+"\E妹が爆発？…そんなまさか。","","\EMy sister exploded?... No way.","",""
+"\E蓄積された魔力はなにかの拍子に爆発なんてこともある。
+君の妹は火薬の詰まったタルのようなものなんだよ。","","\ESometimes, accumulated magic can explode unexpectedly.
+Your sister is like a barrel filled with gunpowder.","",""
+"\E……","","\E……","",""
+"\E─コホン。
+さて、ここまで来てくれた君たち兄妹に新たな提案をしよう。","","\EAhem.
+Now, let me propose something new to you, my dear siblings who have come this far.","",""
+"\E私はいま君の未来と引き換えに妹を救う事ができる。","","\EI can now save your sister in exchange for your future.","",""
+"\E妹の身体の魔力の流れを正常に戻すことは難しいが…
+異常を起こしている部分を君と入れ替える術式を施すことが可能だ。","","\EIt is difficult to restore the flow of magical energy in my sister's body, but... 
+It is possible to perform a ritual to replace the parts that are causing abnormalities with you.","",""
+"\E他人同士でなら難しい秘術でも
+兄妹であれば比較的に容易い。","","\EEven difficult secret techniques that are challenging for others, 
+are relatively easy for siblings.","",""
+"\Eなにより君は魔力の開放…
+爆破の力を使うことができる。","","\EAbove all, you can unleash the power of magic... 
+and use the power of explosion.","",""
+"\E魔力？開放…？
+身に覚えがないんですけど…。","","\EMagic? Unleashed...?
+I don't remember anything about it...","",""
+"\E普通の人は剣戟で爆発を起こすなんて真似はできないのさ。
+ま、つまり適度に発散できるんで暴走の可能性が少ないんだ。","","\EOrdinary people can't imitate causing explosions with swordplay.
+Well, that means there is a low possibility of going berserk because they can release their energy moderately.","",""
+"\Eそれじゃあ…未来と引き換えにってのは？","","\EWell then... What do you mean by trading it for the future?","",""
+"\E子を成す能力、つまり君の未来。","","\EThe ability to create offspring, in other words, your future.","",""
+"\E魔力と生命力は表裏一体、その魔力の流れが変わるわけだ。
+残念だけどそういう事が起こりうる。","","\EMagic power and vitality are two sides of the same coin, and the flow of that magic power changes.
+It's unfortunate, but such things can happen.","",""
+"\E爆発の可能性を抱えつつ新たな魔石を持ち歩くか。
+君の未来と引き換えに妹を救うか。","","\ECarry a new magic stone while bearing the possibility of an explosion.
+Will you save your sister in exchange for your future?","",""
+"\E大事なことだからね、ゆっくり考えるといい。","","\EIt's an important matter, so take your time to think about it.","",""
+"\Eそんなもの…","","\ESuch a thing...","",""
+"\E悩むまでもない！","","\EThere's no need to worry!","",""
+"\E…………","","\E…………","",""
+"\Eさて、一つ言うことがある。","","\ENow, there is something I want to say.","",""
+"\E…くると思ってました。
+今度はなんですか。","","\EI thought you would come... 
+What is it this time?","",""
+"\E君たちに施した秘術の効果は長くても10年ほどだ。","","\EThe effect of the secret technique I bestowed upon you will last for about 10 years, at most.","",""
+"\E10年…。","","\E10 years...","",""
+"\Eなに、そう悲観することでもないさ。","","\EWhat? There's no need to be so pessimistic.","",""
+"\Eこの世界は広く、未知で溢れている。
+その中に君と妹の生きていく術もきっと存在するだろう。","","\EThis world is vast and filled with unknowns.
+Surely, within it, there must exist a way for you and your sister to live.","",""
+"\Eある意味で君は未来と引き換えに力を得たとも言える。
+その力で自分たちの未来を掴み取るといい。","","\EIn a sense, you could say that you gained power in exchange for the future.
+It would be great if you could seize your own future with that power.","",""
+"\E期待しているよ。","","\EI'm looking forward to it.","",""
+"\f[24]\E世界樹","","\f[24]\EWorld Tree","",""
+"cg/bg_24_wilderness_a.jpg","","","",""
+"\f[24]\E北の荒れ地","","\f[24]\ENorthern wasteland","",""
+"アザラ団","","Azara Group","",""
+"\Eアザラシー！","","\EAzarashi!","",""
+"\Eはぁはぁ…遂にここまで来たな。
+しかし野党だ山賊だと色々物騒にも程があるぞ…","","\EHuff... Finally made it this far.
+But there's a limit to how dangerous it can get with all these opposition parties and bandits...","",""
+"\Eここが世界樹の森…？
+こんな遠くまで初めてきたよ、お兄ちゃん。","","\EIs this the Forest of the World Tree...?
+I've never been this far before, big brother.","",""
+"\Eまだ歩けるか？
+お兄ちゃんがおぶろうか？","","\ECan you still walk? 
+Do you want me to carry you, big brother?","",""
+"\Eうん、ありがとう大丈夫。
+…あの大きい木のところまでいくんだよね？","","\EYeah, thanks I'm fine.
+...Are we going to that big tree over there?","",""
+"\Eそうだな。
+着いたところで何があるかはわからないけど。","","\EI see. 
+I don't know what's going to happen when we get there.","",""
+"\Eでも、行くしかないよね。
+暗くなる前に急ごう、お兄ちゃん。","","\EBut there's no choice but to go.
+Let's hurry before it gets dark, big brother.","",""
+"\Eよし、先を急ごう。","","\EAlright, let's hurry ahead.","",""
+"\Eうん！","","\EYeah!","",""
+"cg/bg_10_prairie_a.jpg","","","",""
+"\f[24]\Eメクア平原","","\f[24]\EMekua Plains","",""
+"盗賊団","","Thieves' guild","",""
+"\Eおっと、この先はアタイ達の領土だよ！","","\EOops, this area is our territory!","",""
+"cg/bg_09_town_b.jpg","","","",""
+"BGM/madoromu2.ogg","","","",""
+"\Eあ、それと─","","\EAh, and─","",""
+"\E…まだ何かあるんですか？","","\E...Is there still something else?","",""
+"\E世界樹って知ってる？","","\EDo you know about the World Tree?","",""
+"\Eそりゃ知ってますよ、
+このあたりどこからでも見えますし。","","\EI know that, 
+you can see it from anywhere around here.","",""
+"\Eうんうん、ならよかった。
+じゃとりあえず3年後に世界樹を訪れてちょうだいね。","","\EYeah, that's good then.
+Well, for now, please come visit the World Tree in 3 years.","",""
+"\E…いやいや、北の樹海の奥ですよ？
+それになんだってそんなところに…","","\E...No, no, it's deep in the northern sea of trees. 
+And why would it be in a place like that...","",""
+"\Eあら、知らない？","","\EOh, don't you know?","",""
+"\E世界樹の祝福を得たもの
+あらゆる病魔を退け幸運に恵まれるって。","","\EThose who have received the blessings of the World Tree
+are protected from all diseases and blessed with good fortune.","",""
+"\Eそれは知ってますけど…。","","\EI know that, but...","",""
+"\Eじゃあ話は早いじゃない、そういう事よ。","","\EWell, let's not waste any time, that's what I mean.","",""
+"\Eそれで病気が治るならこの国の人は苦労してない…","","\EIf that's how you cure the illness, then the people in this country haven't been suffering...","",""
+"\E魔石も無限に魔力を供給できるわけじゃないのよね。
+定期的にマナを充填する必要があるの。","","\EMagic stones can't supply infinite magical power, you know.
+You need to regularly refill mana.","",""
+"\Eでこの辺の龍脈…まあマナの吹き出口ね。
+そこが世界樹なの。","","\EThis is the dragon vein in this area... well, it's a mana vent.
+That's the World Tree.","",""
+"\E魔石の魔力がなくなる前に魔力を補給しようって話。
+ね、何も変な話じゃないでしょ？","","\EThe story is about replenishing magic power before the magic power of the magic stone runs out.
+Hey, it's not a weird story, right?","",""
+"\Eなんとなく筋は通ってるように聞こえるけど…。","","\EIt sounds like the logic is somewhat consistent, but...","",""
+"\Eまあ信じる信じないは君次第だけど。
+わたしが嘘でこんな話をする意味、ある？","","\EWell, whether you believe it or not is up to you.
+Is there any meaning for me to tell such a story if it's a lie?","",""
+"\Eそれは…確かに…。","","\EThat is... certainly...","",""
+"\E3年、あっという間よ。
+あなた達二人で世界樹までこれるかな？","","\EThree years, it went by in a flash.
+I wonder if you two can make it to the World Tree?","",""
+"\Eさあ腕を磨き、大いに学びなさい。
+3年後、また会える日を楽しみにしているよ。","","\ENow, polish your skills and learn a lot.
+I'm looking forward to the day we can meet again in 3 years.","",""
+"cg/bg_13_road_a.jpg","","","",""
+"\f[24]\E街道","","\f[24]\EStreet","",""
+"小悪党","","Petty villain","",""
+"\Eここを通りたかったら相応の物を置いていきな！","","\EIf you want to pass through here, leave behind an appropriate item!","",""
+"cg/bg_09_town_a.jpg","","","",""
+"\Eえっと…次の買い物は…こっちか。","","\EUm... The next shopping is... this way.","",""
+"\Eおにーちゃーん、早く早く！","","\EOnii-chan, hurry up, hurry up!","",""
+"\E久しぶりに街までこられたからな、
+妹も喜んでいるみたいだぞ…。","","\EIt seems like my sister is happy too, since it's been a while since she came to the town.
+","",""
+"\Eねぇそこの君。","","\EHey, you there.","",""
+"\E？","","\E?","",""
+"\E君だよ、君。","","\EIt's you, it's you.","",""
+"\E…俺？","","\E...Me?","",""
+"怪しい女性","","Suspicious woman","",""
+"\Eそ。","","\ESo.","",""
+"\Eええとその子、妹さん？","","\EUm, that child, is she your younger sister?","",""
+"\Eあー…私は単なる占い師みたいなもんさ。
+珍しい雰囲気だったんでね、よかったら視させてよ。","","\EAh... I'm just like a mere fortune teller.
+Since it was an unusual atmosphere, would you mind letting me take a look?","",""
+"\Eさ、座って座って。","","\ECome on, sit down, sit down.","",""
+"\E……。","","\E... .","",""
+"\Eふうん…ふんふん…妹さん、身体に流れるマナの流れ…
+て小難しいことを言ってもしょうがないか。","","\EHmm...hmm...the flow of mana running through your body, sister...
+It's pointless to say something complicated like that.","",""
+"\E通常あるべき魔力が体にほぼ残っていないね。
+つまり妹さんは常に魔力切れのような状態…といってわかる？","","\EThere's almost no magic power left in your body as there should be normally.
+In other words, can we say that your sister is always in a state of running out of magic power?","",""
+"\Eめまいや吐き気、ふらつき、発熱…昏睡。
+髪が白髪化してしまったりすることもあるのさ。","","\EDizziness, nausea, lightheadedness, fever... and then unconsciousness.
+Sometimes, the hair even turns white.","",""
+"\E思い当たる節、あるでしょ？","","\EDo you have any idea?","",""
+"\E…まぁ、はい。","","\E...Well, yes.","",""
+"\E生きていく上で必要なモノが
+別のところに流れているといえばいいかな。","","\EI guess you could say that the things necessary for living are flowing elsewhere.
+","",""
+"\E例えるなら穴の開いた桶。
+水を注いでも底から抜けていってしまう。","","\EIf I were to compare it, it's like a bucket with a hole in it.
+Even if you pour water in, it just leaks out from the bottom.","",""
+"\E…その穴はどうやったら塞げるんですか？","","\E...How can I seal that hole?","",""
+"\E何人もの癒術師を雇って何日も儀式をすれば…
+王族貴族でもなければその線は諦めた方がいいわね。","","\EIf you hire multiple healers and perform rituals for several days...
+It's better to give up if you're not a member of the royal or noble family.","",""
+"\Eそんな…。","","\EOh no...","",""
+"\Eそこでやり方を変えるの。","","\ESo let's change the way we do it.","",""
+"\Eやり方…？","","\EHow...?","",""
+"\Eこの魔石を身に着けるのよ。
+出ていくものは仕方ないから配給量を増やすってワケ！","","\EWear this magic stone.
+Since we can't help those who leave, we'll increase the distribution amount!","",""
+"\Eこの特製の魔石なんと今ならたった3000G！はいお買い得。","","\EThis special magic stone is now only 3000G! Yes, it's a great deal.","",""
+"\Eまあまあ、そんな顔をしない。","","\EWell, don't make that kind of face.","",""
+"\E身体が弱ったら栄養の付くものを食べたりするでしょ？
+これもそれと同じこと。","","\EWhen your body weakens, you eat things that are nutritious, right?
+This is also the same thing.","",""
+"\E私も商売だからそりゃあお金は取る。
+生きていくためにお金は必要な物だからね。","","\ESince I'm also in business, of course I charge money.
+Money is necessary to live, you know.","",""
+"\Eそしてこの子にはこの魔石が、生きていくために、必要。
+嘘は言ってないよ。","","\EAnd this child needs this magic stone to survive.
+I'm not lying.","",""
+"\E結局、当時なけなしのお金をはたいて買ったその魔石は
+今も大事に妹が持ち歩いている。","","\EIn the end, the magic stone that was bought with every last bit of money at that time is still being carefully carried around by my sister.
+","",""
+"cg/bg_25_road_a.jpg","","","",""
+"\f[24]\E村外れ","","\f[24]\EVillage outskirts","",""
+"\Eようやく街道か。","","\EFinally, the main road.","",""
+"\E結構来たねー、お兄ちゃん。","","\EYou've come a long way, big brother.","",""
+"\Eしかしまだ先は長いからな…大丈夫か？","","\EBut there's still a long way to go... Are you okay?","",""
+"\Eうん。","","\EYeah.","",""
+"\E…妹は身体が弱い。
+少し外を歩いただけで熱を出し寝込むこともしばしばだ。","","\E...My sister has a weak body.
+She often gets a fever and falls ill just from taking a short walk outside.","",""
+"\E冒険者の親父は旅先で怪しげな薬品や滋養にいいらしい薬草、
+果てには護符の類まで何か見つけては送り付けてくる。","","\EThe adventurer's father sends back suspicious medicines, supposedly good for nourishment, and even talismans that he finds during his travels. 
+","",""
+"\Eその甲斐があったのかどうか、怪しげな護符がよかったのか、
+とりあえず昔よりは少しはマシにはなった。","","\EWhether it was worth it or not, whether it was thanks to the suspicious amulet, 
+at least it has improved a little compared to before.","",""
+"\Eそれでもやっぱり妹は身体が弱い。
+馬車を使わず村を出るなんて夢のまた夢─","","\EStill, my little sister is weak.
+Leaving the village without using a carriage is just a pipe dream─","",""
+"\E…だからこそ俺達は冒険に憧れ、
+この広い世界を旅したいと強く願う。","","\E...That's why we long for adventure, 
+and strongly desire to travel this vast world.","",""
+"メニュー2","","","",""
+"大冒険用の画面レイアウトを作ります","","","",""
+"\c[2]\E\f[14]●渇き\c[0]\f[12]（行動消費+1）","","\c[2]\E\f[14]●Thirst\c[0]\f[12](Action cost +1)","\E\c[2]\f[14]\-[2]●\font[3]Thirsty\c[0]\f[12](Stamina Uses +1)",""
+"\c[2]\E\f[14]●難所\c[0]\f[12]（休憩不能区間）","","\c[2]\E\f[14]●Difficult Area\c[0]\f[12](No Rest Zone)","\E\c[2]\f[14]\-[2]●\font[3]Difficult Terrain\c[0]\f[12](Resting Disabled)",""
+"\E\f[16]\v[335]/100","","\E\f[16]\v[335]/100","\E\font[3]\f[16]\-[2]\v[335]/100",""
+"\E\f[16]\c[9]●●●","","","",""
+"\E\f[16]\c[9]●●\c[0]○","","","",""
+"\E\f[16]\c[9]●\c[0]○○","","","",""
+"\E\f[16]○○○","","","",""
+"\E\f[16]\v[337]/10","","","\E\font[3]\f[16]\-[2]\v[337]/10",""
+"\c[14]休む\c[0]","","\c[14]Rest\c[0]","\font[3]\f[17]\c[14]Rest\c[0]",""
+"休む","","Take a break.","\font[3]\f[17]Rest",""
+"進む","","Move forward.","\font[3]\f[17]Advance",""
+"背負う","","Carrying on one's back","\font[3]\f[17]Carry sister",""
+"\cself[5]","","\cself[5]","\font[3]\f[17]\cself[5]",""
+"\Eだいじょうぶか？","","\EAre you okay?","\E\font[3]\f[18]\-[2]Are you alright?",""
+"\Eうん、へいきだよ。","","\EYeah, I'm okay.","\E\font[3]\f[18]\-[2]Yeah, I'm fine.",""
+"\Eほら、お兄ちゃんがおぶってあげるから無理すんな。","","\EHey, I'll give you a piggyback ride, so don't push yourself.","\E\font[3]\f[18]\-[2]Hey, look, I'll carry you on my back, so don't force yourself.",""
+"\Eん、ありがとうお兄ちゃん。","","\EHmm, thank you big brother.","\E\font[3]\f[18]\-[2]Okay, thank you, Onii-chan.",""
+"\E少し休もうか。","","\ELet's take a short break.","\E\font[3]\f[18]\-[2]Let's take a short break.",""
+"cg/training_f3.jpg","","","",""
+"SE/decision24.mp3","","","",""
+"\E喉の渇きが解消された！","","\EMy thirst has been quenched!","\E\font[3]\f[18]\-[2]Our thirst has been quenched!",""
+"\Eこの辺で大冒険を切り上げるのか…？","","\EAre you going to end this grand adventure around here...?","\E\font[3]\f[18]\-[2]\EAre you going to end the grand adventure around here...?",""
+"はい","","Yes","\font[3]\f[17]Yes",""
+"いいえ","","No","\font[3]\f[17]No",""
+"\Eそうだな、このくらいにしておこうか。","","\EWell, let's leave it at this.","\E\font[3]\f[18]\-[2]Yeah, let's leave it at this for now.",""
+"終了処理","","","",""
+"SE/[Effect]ZAZAZAZA_panop.ogg","","","",""
+"\E中出ししても妊娠しなくなった！","","\EI can't get pregnant even if I have a creampie!","\E\font[3]\f[18]\-[2]Your sister can't get pregnant even if you cum inside
+of her from now on!",""
+"\E大冒険から帰還した。","","\EReturned from a great adventure.","\E\font[3]\f[18]\-[2]We have returned from the grand adventure.",""
+"cg/bg_01_home_a.jpg","","","",""
+"BGM/Be_yourself.ogg","","","",""
+"サブメニュー表示","","","",""
+"Picture/sub_button01.png","","","",""
+"お知らせアイコン108","","","",""
+"Picture/sub_button02.png","","","",""
+"アイテムアイコン109","","","",""
+"Picture/sub_button03.png","","","",""
+"ステータスアイコン110","","","",""
+"Picture/sub_button04.png","","","",""
+"初回","","","",""
+"背負う初回","","","",""
+"イベント1","","","",""
+"イベント2","","","",""
+"イベント3","","","",""
+"イベント4","","","",""
+"イベント5","","","",""
+"開始時進行度","","","",""
+"終了時進行度","","","",""

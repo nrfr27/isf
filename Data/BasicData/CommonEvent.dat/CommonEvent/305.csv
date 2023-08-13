@@ -1,0 +1,1316 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"メインシナリオ","","","",""
+"1　初めての週末","","","",""
+"BGM/autumncome.ogg","","","",""
+"cg/bg_07_guild_d.jpg","","","",""
+"cg/bg_07_guild_f.jpg","","","",""
+"カナ","","","",""
+"\Eそういえばお兄ちゃんは明日はどうするの？","","\EBy the way, what are you going to do tomorrow, big brother?","",""
+"　明日って？　","","　""Tomorrow? ""","",""
+"\Eほら、お兄ちゃんとこの妹ちゃん
+週末は学校も休みでしょ？","","\ELook, this older brother and this little sister.
+School is also closed on weekends, right?","",""
+"\E（そういえばそうだな…
+普段できない事をした方がいいのかな…）","","\E (By the way... 
+ Should I do something I don't usually do?)","",""
+"\Eねーマスター。
+いつになったらちゃんとした依頼がくるのかな？","","\EHey, Master.
+I wonder when we'll receive a proper request.","",""
+"cg/bg_07_guild_e.jpg","","","",""
+"ユカリ","","","",""
+"\Eそうねえー
+活動の評判が広まってくれたらきちんとした依頼がくる…","","\EWell, if the reputation of our activities spreads, we'll start receiving proper requests... 
+","",""
+"\E…かも知れないわね。","","\E...maybe.","",""
+"\Eいずれウチは小さなギルドだから、
+小さいことからコツコツ積み重ねていかないと。","","\ESince our guild is small, 
+we have to start small and steadily build up.","",""
+"\E実績に評判か…。","","\EIs it reputation for achievements...?","",""
+"2　ギルド対抗戦","","","",""
+"Picture/talk_ef01.png","","","",""
+"\E…というわけでギルド交流戦を行うわよ。","","\ESo, we're going to have a guild exchange battle.","",""
+"　交流戦？　","","　Interleague game?","",""
+"\Eギルド間の親睦と互いに切磋琢磨することでの技術向上…
+まー力試しというかそんな感じね。","","\EImproving skills through fostering camaraderie and mutual competition between guilds...
+Well, more like a test of strength, I guess.","",""
+"Picture/talk_ef02.png","","","",""
+"\E八会も近いしねー。","","\EYakai is also close, you know.","",""
+"八…なんだっけ？","","Eight... What was it again?","",""
+"そういえばそうだった","","By the way, that's right.","",""
+"\E八王子武闘会だよ、お兄ちゃん。","","\EIt's the Hachioji Martial Arts Tournament, big brother.","",""
+"\E昔このあたりの地域は偉大な王を頂点として
+それぞれの地区を8人の王子が分割して収めていた。","","\EIn the past, this area was ruled by a great king at its peak.
+Each district was divided and governed by eight princes.","",""
+"\Eしかし王亡き後に誰を世継ぎとするかで大いに揉めた。
+そこで後継者を決めるために開かれたのが…","","\EHowever, there was a great dispute over who would succeed the king after his death.
+So, in order to determine the successor, a meeting was held...","",""
+"ユイ","","","",""
+"Picture/talk_ef03.png","","","",""
+"cg/bg_07_guild_g.jpg","","","",""
+"\Eその八王子武闘会なんですね。","","\ESo that's the Hachioji Martial Arts Tournament, right?","",""
+"\Eで、後の世になんでか毎年開かれるようになって
+ギルド同士の腕を競い合う大会となったってわけ。","","\ESo, for some reason, it started being held every year in the future, and it became a tournament where guilds compete with each other.
+","",""
+"\Eもし地区の代表になって優勝すればものすごく栄誉なの。
+評判を聞いて人も増える、依頼も増える、村もギルドも潤う。","","\EIf you become the representative of the district and win, it's a tremendous honor.
+The reputation will spread, more people will come, and there will be more requests. The village and the guild will prosper.","",""
+"\Eとにかくこの国で冒険者をやるなら\c[1]最大の目的\c[0]と言ってもいいわ。
+そして50年以上優勝と縁のないここメクア地方の悲願でもあるの。","","\EAnyway, if you're going to be an adventurer in this country, you could say that \c[1]it's the ultimate goal \c[0]as well. 
+And it's also the long-cherished desire of the Mequa region, which has had no victory for over 50 years.","",""
+"\Eそういえばそうだった…！
+オレ達の力で深紅の大優勝旗をメクアに持ち帰るんだ！","","\EBy the way, that's right...! 
+We're going to bring back the deep crimson championship flag to Mequa with our power!","",""
+"\E3日後の\c[1]木曜日\c[0]に交流戦の予定だからそれまでみんな励んでね。","","\EThree days later, on \c[1]Thursday, we have a scheduled interleague game, so until then, everyone please work hard.","",""
+"\Eギルド交流戦か…がんばろう。
+やる気が上がった。","","\EGuild exchange battle... Let's do our best.
+I'm feeling motivated.","",""
+"\E交流戦
+<R>\f[18]あと3日","","\EInterleague Game
+<R>\f[18]3 days left","",""
+"ギルド交流戦2","","","",""
+"BGM/We_are_Going.ogg","","","",""
+"\Eおはよう、みんな用意はいい？","","\EGood morning, is everyone ready?","",""
+"\E今日の交流戦の相手は「美食倶楽部」よ。
+なんでも世の中の美食の探求の為に冒険しているらしいわ。","","\EToday's opponent in the exhibition match is the ""Gourmet Club"".
+It seems they are adventuring in pursuit of gourmet food from all over the world.","",""
+"Picture/stand_sub12.png","","","",""
+"cg/bg_17_main.jpg","","","",""
+"巨乳","","","",""
+"\Eあなた達が今日の対戦相手ね！なんだかやべぇっすね！","","\EYou guys are today's opponents! It seems kinda tough, huh!","",""
+"幼女","","","",""
+"\E本日はどうぞお手柔らかによろしくおねがいします。","","\EThank you for your kind cooperation today.","",""
+"ネコ","","","",""
+"\Eシャーッ！！","","\EShaaa!!","",""
+"ヒモ男","","","",""
+"\Eあうあうあーー","","\EAuauaa--","",""
+"\E（何だこいつら…やば…）","","\E(What are these guys...dangerous...)","",""
+"\E本日はありがとうございました。","","\EThank you for today.","",""
+"\Eさあ主さま、帰りましょう。","","\ENow, my lord, let's go home.","",""
+"\E…………。","","\E………….","",""
+"\Eお疲れさま、初めての交流戦はどうだった？","","\EGood job, how was your first interleague game?","",""
+"勝ち","","","",""
+"\E今回はなんとか勝てたけど…
+あっちのギルドのが人数多いし不公平じゃない？","","\EWe managed to win this time, but...
+Their guild has more members, isn't that unfair?","",""
+"\Eあら、冒険に出たら魔物や野獣は公平になんか襲ってこないわよ。","","\EOh, if you go on an adventure, monsters and wild beasts won't just attack you fairly, you know.","",""
+"\E多勢に無勢、不意打ち、地形差…
+ルールの中で戦えるだけギルド戦はまだ公平じゃないかな？","","\EOutnumbered, caught off guard, differences in terrain...
+Guild battles still aren't fair, even within the rules, don't you think?","",""
+"\E……","","\E……","",""
+"\Eほらほら、そんな顔しないの。
+それでも今回は勝てたんだし胸を張っていいと思うわよー。","","\ECome on, don't make that face.
+But even so, I think you can be proud that you won this time.","",""
+"\Eまた明日からがんばりましょ、今日はみんなお疲れさま。","","\ELet's do our best starting from tomorrow, everyone, good job today.","",""
+"\Eはい。","","\EYes.","",""
+"\Eはーい。","","\EYes.","",""
+"\E交流戦で美食倶楽部に勝利した！","","\EWe won against the Gourmet Club in the exhibition match!","",""
+"負け","","","",""
+"\Eむー…あっちのギルドのが人数多いし不公平だよ…","","\EMmm... The guild over there has more members, it's unfair...","",""
+"\Eほらほら、そんな顔しないの。
+これから経験を積んでいけばいいんだから。","","\ECome on, don't make that face.
+Just keep gaining experience from now on.","",""
+"\Eはーい…","","\EYes...","",""
+"\E交流戦で負けてしまった…。","","\EWe lost in the exhibition match...","",""
+"交流戦と現実","","","",""
+"\Eうちらだってやれば出来るって所をもっとアピールしないとねー。","","\EWe have to show more that we can do it too.","",""
+"　うん？　","","　Hmm?","",""
+"\Eいや、昨日の交流戦ね。","","\ENo, it was yesterday's exhibition match.","",""
+"\E今でこそ中堅だけど前はセルラン常連だったこともあるし…
+美食倶楽部ってそれなりに知名度はあるとこだから。","","\EAlthough I'm now considered a mid-tier, there was a time when I was a regular in the top rankings... 
+The Gourmet Club is somewhat well-known, after all.","",""
+"\E交流戦とはいえ勝てたってのは大きいと思うんだ。","","\EEven though it's just an exhibition match, I think it's a big deal that we won.","",""
+"\Eまあ、確かに。","","\EWell, certainly.","",""
+"\Eでも、アピールと言っても何をしたらいいんでしょうか？","","\EBut even if you say ""appeal,"" what should I do?","",""
+"\Eまーね…","","\EWell...","",""
+"\Eうーん、地道に地域貢献…しかないのかな？","","\EHmm, is contributing to the community the only way?","",""
+"\Eやっぱ悔しいよねー。","","\EIt's frustrating, isn't it?","",""
+"\Eいや、昨日の交流戦。
+ウチがまだまだ弱いのはわかってるけど…どうにかならないかな？","","\ENo, yesterday's exhibition game.
+I know we're still weak... Is there any way to change that?","",""
+"\Eうーん…","","\EHmm...","",""
+"\E…どうにかしようとして
+どうにかなるものなんでしょうか？","","\E...Is there any way to do something about it?
+I wonder if there is any way to make it work.","",""
+"\Eうーん、地道に訓練…しかないのかな？","","\EHmm, is there no other way but to train diligently?","",""
+"討伐依頼","","","",""
+"\Eあ、きたきた。","","\EAh, here it comes.","",""
+"\Eおはよう、お兄ちゃん。","","\EGood morning, big brother.","",""
+"\Eおはようございます。","","\EGood morning.","",""
+"　みんな揃ってどうしたの？　","","　What's everyone gathered here for?","",""
+"\E朗報よ、依頼が入ったわ。
+農園を荒らす害獣の駆除、対応期限はなるべく急ぎで。","","\EGood news, we've received a request.
+We need to quickly exterminate the pests that are ravaging the farm, so please respond as soon as possible.","",""
+"\E今回は大丈夫だと思って請けたから
+今日はそっちの対応よろしくね。","","\EI took this job thinking it would be okay.
+So please handle it today.","",""
+"message","","","",""
+"チュートリアルは修正すること","","","",""
+"\f[14]\E<C>Tips　討伐依頼","","\f[14]\E<C>Tips: Subjugation Requests","",""
+"\f[14]\E今後ときどき\c[1]討伐依頼\c[0]が発生する事があります。
+依頼には期限があり期限を過ぎると消えてしまいます。","","\f[14]\EFrom now on, occasionally\c[1]there may be monster hunting requests\c[0]that occur.
+These requests have deadlines, and if the deadline passes, they will disappear.","",""
+"\f[14]\E\c[1]討伐依頼\c[0]では地域貢献よりも報酬評価と経験を得られますが
+通常より\c[2]強い\c[0]敵が出現します。","","\f[14]\E\c[1]In a subjugation request, you can obtain rewards and experience rather than regional contributions, but 
+stronger enemies than usual will appear.","",""
+"地区予選1","","","",""
+"\Eおはよう、お兄ちゃん。
+今日はいよいよ八会の\c[1]地区予選\c[0]よ。","","\EGood morning, big brother.
+Today is finally the district preliminaries of the Hachikai.\c[1]tournament.\c[0]","",""
+"\E今日の対戦ギルドは…","","\EToday's opposing guild is...","",""
+"\Eランニング根菜愛好会よ。","","\ERunning Root Vegetable Lovers Club.","",""
+"\E愛好会ってこれも冒険者ギルドなのかしら…。
+まあいいわ、とにかく気を抜かないでね。","","\EI wonder if this gathering is also an adventurer's guild...
+Well, never mind, just make sure to stay alert.","",""
+"cg/map_05.jpg","","","",""
+"　戦闘開始！　","","　Battle start!","",""
+"\E隣村のノーソン支部ね。","","\EIt's the Norton branch in the neighboring village.","",""
+"\E普段は農民としてクワを振るっているらしいわ。
+農業で鍛えた腕力は侮れないわよ。","","\EIt seems that they usually swing a hoe as farmers.
+Their physical strength trained in agriculture should not be underestimated.","",""
+"ライバル登場","","","",""
+"Picture/stand_sub05.png","","","",""
+"\Eやったー！
+ユカリさーん勝ったー…って誰かいるぞ？","","\EYay! 
+Yukari-san won... Wait, is someone there?","",""
+"？？？","","","",""
+"\Eユカリ先生…お久しぶりです。
+…彼らが以前お話してた冒険者達ですか？","","\EYukari-sensei... Long time no see.
+... Are they the adventurers they were talking about before?","",""
+"\Eそうよー。","","\EThat's right.","",""
+"\E…先程の戦いも見せていただきましたが、
+失礼ながら…まるで素人だ。","","\E...I have also witnessed the previous battle, but 
+with all due respect...you were completely amateurish.","",""
+"\E何っ！？","","\EWhat!?","",""
+"\E君、悪いことは言わない。
+剣を置き、畑でも耕していたほうがいい。","","\EI won't say anything bad to you.
+You should put down your sword and start tilling the fields.","",""
+"\E…外の世界は君たちが思うほど甘くない。
+そうでしょうユカリ先生。","","\EThe outside world is not as sweet as you think. 
+That's right, Yukari-sensei.","",""
+"\Eまあ嘘だと思うなら試してみるといい。
+君たちの腕が通用するのか。","","\EWell, if you think it's a lie, you should give it a try.
+Will your skills be effective?","",""
+"　なんだと…！　","","　What...!","",""
+"\Eさあ遠慮はいらない、きたまえ。","","\ENo need to hold back, come at me.","",""
+"\Eば、ばかな…！？","","\EWha-what...!?","",""
+"\Eくっ…少しはやるようだな。
+さすがは先生の手ほどきを受けていると言っておこうか。","","\EUgh... It seems you've improved a bit.
+As expected, I should mention that you've received the guidance of a teacher.","",""
+"\Eだが…これで勝った等と思わない方がいい、
+命を落とす前に冒険者ごっこはやめるべきだ。","","\EHowever... it's better not to think that winning with this means anything, 
+before losing your life, you should stop playing adventurer.","",""
+"\E先生はこんなところにいるべき人じゃない。
+…また来ます。","","\EThe teacher shouldn't be someone who belongs in a place like this.
+...I'll come back again.","",""
+"\Eふんだ、負け惜しみ言っちゃってカッコ悪ー。","","\EHmph, saying things like ""I almost won"" is so uncool.","",""
+"\E（いや…明らかにアイツは手を抜いていた…
+　もし最初から本気だったら…）","","\E (No... It's clear that he was holding back... 
+ If he had been serious from the beginning...)","",""
+"　アイツは一体…？　","","　What on earth is that person...?","",""
+"\E彼はアカツキ、冒険者協会タウン支部のエースよ。","","\EHe is Akatsuki, the ace of the Adventurer's Association Town Branch.","",""
+"\E現役時代の後輩…いや教え子かしらね。
+いやあ、時が経つのは早いわねー。","","\EMy junior from my active days... No, perhaps my former student.
+Oh my, how time flies.","",""
+"\E…アカツキか…。","","\E...Akatsuki, huh...","",""
+"\Eタウン支部のアカツキと出会った。","","\EI met Akatsuki from the Town Branch.","",""
+"\Eま、まるで歯が立たない…。","","\EWell, it's like I can't even make a dent...","",""
+"\Eふんっ…これでわかっただろう？
+命を落とす前に冒険者ごっこはやめるべきだ。","","\EHmph... Have you understood now?
+You should stop playing adventurer before losing your life.","",""
+"\E（くっ…まだ腕がしびれて…あいつ…）","","\E (Ugh... My arm is still numb... That guy...)","",""
+"\Eメクア支部は地区予選一回戦で敗退してしまった…。","","\EThe Mekua branch was eliminated in the first round of the district qualifiers...","",""
+"\E結局、その後も何かを成すでもなく。
+細々と冒険生活を続けていくもやがてギルドは解散。","","\EIn the end, without accomplishing anything afterwards.
+Continuing a modest adventure life, the guild eventually disbanded.","",""
+"\E剣をクワに持ち替え農場で大地を相手に汗を流す…。
+そんな日々が続いてゆく…。","","\ESwapping my sword for a hoe, I sweat as I work the land on the farm...
+And so, those days continue on...","",""
+"\E農民END
+必殺技スキルを取得してみよう。","","\EFarmer END
+Let's try to acquire a special move skill.","",""
+"ライバル","","","",""
+"\Eユカリ先生…お久しぶりです。
+…彼らが今の教え子ですか？","","\EYukari-sensei... Long time no see.
+... Are they your current students?","",""
+"\E…なるほど。","","\EI see.","",""
+"\E先日の地区予選、見せていただきましたが…
+失礼ながら…まるで話にならない。","","\EI saw the district preliminaries the other day, but... 
+With all due respect... it's completely pointless.","",""
+"ギルド併合の危機","","","",""
+"\E大変大変！ギルドがなくなっちゃう！","","\EOh no, oh no! The guild is going to disappear!","",""
+"\Eえぇっ！？","","\EWhat!?","",""
+"\Eど、どうして…？","","\EWhy... why...?","",""
+"\Eこないだ街に行ったときに偶然マスターを見かけて…
+知らない人と話してて…","","\EThe other day when I went to town, I happened to see the master... 
+I was talking to someone I didn't know...","",""
+"\Eなんかギルドの合併とか…
+統合だとか…そんな話をしてた。","","\ESomething like a guild merger...
+Or integration... We were talking about that.","",""
+"\Eそんな…せっかくみんなで頑張ってきたのに…。","","\EI can't believe it... We've all worked so hard together...","",""
+"\Eうん…お宅のギルドは実績も利用者も少ないしって…
+確かにそうなんだけどさー、なんかショック。","","\EHmm... Your guild has few achievements and users, so... 
+That's true, but it's still kind of shocking.","",""
+"\Eですね…。","","\EI see...","",""
+"\Eギルド合併…本当だろうか…。
+やる気が下がった。","","\EGuild merger... Is it true...?
+My motivation has dropped.","",""
+"意気消沈","","","",""
+"\E…あ、お兄ちゃんおつかれ。","","\E...Ah, big brother, you must be tired.","",""
+"　なんだか元気ないな？　","","　You seem a little down, huh?","",""
+"\Eそりゃ元気もなくなるよー
+確かにうちはマスター入れて4人しかいないし…","","\EWell, no wonder we're not feeling well.
+After all, we only have four members, including the master...","",""
+"\E実績って言えるほどの実績もないですしね…","","\EI don't have any achievements that I can call achievements...","",""
+"\E正直街までそう遠くないし…
+わざわざ支部がこの村にあるって必要も…。","","\EIt's not that far to Honesty Street... 
+There's no need for the branch to be in this village.","",""
+"\E…","","\E…","",""
+"\Eうーん、
+どんよりと沈んだ空気が漂っているな…。","","\EHmm, 
+there's a heavy and gloomy atmosphere hanging in the air...","",""
+"\Eは、だから冒険者ごっこだと言ったんだ。","","\EThat's why I said it's like playing adventurers.","",""
+"\Eお前は…","","\EYou...","",""
+"\Eアカツキ！","","\EAkatsuki!","",""
+"アカツキ","","","",""
+"\E噂を聞きつけてきてみれば当の本人達がこんな有様とはな。
+実績がないのであれば作ればいいだけの話。","","\EWhen I came to check out the rumors, I found the people themselves in such a state.
+If you don't have any achievements, just make them. It's as simple as that.","",""
+"\E他人事だと思って…別にお前には関係ないだろ。","","\EI thought it was someone else's problem... It's not like it concerns you, right?","",""
+"\Eああ、お前たちの事ははどうでもいい…
+だがユカリ先生のギルドを潰す訳にはいかないからな。","","\EAh, I don't care about you guys...
+But I can't let you destroy Yukari-sensei's guild.","",""
+"\Eまあ聞きたまえ。","","\EWell, listen up.","",""
+"\Eアザラシは知っているな？
+言わずと知れた害獣だが…","","\EDo you know about seals? 
+They are well-known pests...","",""
+"\E最近タウンの付近でもアザラシによる被害が拡大していてな、
+その駆除をタウン支部で請け負う事になった。","","\ERecently, damage caused by seals has been expanding even in the vicinity of the town, and 
+the town branch has been entrusted with the extermination of them.","",""
+"\E…アザラシは10～30の群れで行動し好戦的で手強い。
+駆除となると人手が必要だが誰でもいいというわけではない。","","\ESeals move in groups of 10 to 30 and are aggressive and formidable opponents.
+When it comes to extermination, it requires manpower, but not just anyone will do.","",""
+"\E畜生の中の畜生と呼ばれているアザラシの駆除。
+これを君たちのギルドと合同で実行する。","","\EThe extermination of a seal known as the ultimate beast among beasts.
+This will be carried out jointly with your guild.","",""
+"\E…これが僕の案だ。","","\E...This is my idea.","",""
+"\E…そうは言っても僕は部外者、
+結局は君たちがどうしたいか…月曜まで待ってやる。","","\E...Even so, I am an outsider, 
+in the end, it's up to you what you want to do... I'll wait until Monday.","",""
+"\Eその時までに返事を用意しておくんだな。","","\EMake sure to have your response prepared by then.","",""
+"\Eアカツキ…あいつ…","","\EAkatsuki... that guy...","",""
+"　みんなを励ます　","","　Encouraging everyone","",""
+"\Eん…やれることをやってくしかないんだよね…。
+ごめんね、どうしてもなんか考えちゃって…。","","\EHmm... I have no choice but to do what I can...
+I'm sorry, I just can't help but think about something...","",""
+"\Eんじゃ今日は帰るね、ありがとうお兄ちゃん。","","\EWell then, I'll go home today. Thank you, big brother.","",""
+"\Eじゃああたしも…また明日。","","\EWell then, I'll see you tomorrow too.","",""
+"\Eどうしても雰囲気が暗いな…どうしたものか…","","\EWhy is the atmosphere so gloomy... What should I do...","",""
+"ユカリさんに相談","","","",""
+"SE/door-close2.mp3","","","",""
+"cg/bg_07_guild_a.jpg","","","",""
+"\Eあら、おかえりなさいお兄ちゃん。
+今日はひとり？","","\EOh, welcome back big brother.
+Are you alone today?","",""
+"　ユカリさんに相談する　","","　Consult with Yukari-san.","",""
+"\Eマスター…実は…。","","\EMaster... Actually...","",""
+"\Eあー、知ってたの？","","\EOh, did you know?","",""
+"\Eじゃあ合併って噂は…","","\ESo, the rumor about the merger...","",""
+"\Eそうね、まーそういう話が出ているのは本当の話よ。","","\EWell, it's true that such rumors are circulating.","",""
+"\Eもちろんはいそうですかと黙っているつもりはないわ。
+でも、一番大切なのは…","","\EOf course, I don't intend to stay silent when asked if I'm okay.
+But, the most important thing is...","",""
+"\Eキミ達がどうしたいか、そこが一番大事よ？","","\EWhat you want to do, that's the most important thing, you know?","",""
+"\E…アカツキにも同じようなことを言われました。","","\E...I was told the same thing by Akatsuki.","",""
+"\Eだったら明日みんなで話し合いましょう。","","\EThen let's discuss it together tomorrow.","",""
+"\Eアカツキ君の案に乗るのか、
+それとも別の方法を模索するのか…。","","\EWill you go along with Akatsuki's idea, or will you search for a different method...?
+","",""
+"\E私個人としては…
+あまり危険な思いはして欲しくないけど…。","","\EAs an individual... 
+I don't want you to experience too much danger, though...","",""
+"\E…でも、これまでの模擬戦やアカツキ君に膝をつかせた事実。
+私自身があなた達の実力と向き合うべきなのかも知れないわね。","","\E...However, the fact that I made Akatsuki-kun kneel in previous mock battles.
+Perhaps I myself should face your abilities.","",""
+"\E自分たちがどうしたいか、か…。","","\EWhat do we want to do...?","",""
+"\Eやる気が上がった。","","\EI feel motivated.","",""
+"\Eでもそういうのは大人の世界のお話だからねー
+お姉さんに任せておけばいいのよ。","","\EBut that's a story for adults, you know.
+Just leave it to your big sister.","",""
+"\Eワタシ的にはキミ達がどうしたいか、
+そこが一番大事よ？","","\EAs for me, what you all want to do, 
+that's the most important thing, right?","",""
+"\Eね、だから心配しすぎないこと。","","\EHey, so don't worry too much.","",""
+"\Eでも相談してくれてありがとうね。
+みんなにも私から話しておくわ。","","\EBut thank you for consulting with me. 
+I will also talk to everyone about it.","",""
+"実績とお金","","","",""
+"\E…いま私達メクア支部の問題は
+大きくわけてお金の問題と実績の問題よ。","","\E...The problems we have in the Mekua branch can be broadly divided into two: financial issues and performance issues.
+","",""
+"\E本部からはなるべく早め…
+\c[1]一週間以内\c[0]には対策案か返事を聞かせてくれだって。","","\EAs soon as possible from headquarters... 
+\c[1]Within one week, \c[0]please let me hear a countermeasure or a response.","",""
+"\Eそこでアカツキの例の件ですね。","","\ESo, it's about that Akatsuki incident, right?","",""
+"\Eアザラシという生物についてはどれだけ知ってるかしら？","","\EI wonder how much you know about the creature called ""azarashi""?","",""
+"\Eまあ、大体なんとなくは。","","\EWell, I kind of have a vague idea.","",""
+"\Eアザラシは危険な害獣よ。
+徒党を組んで畑を荒らし人を襲うこともあるわ。","","\ESeals are dangerous pests.
+They sometimes form groups and attack people, causing damage to fields.","",""
+"\E群れが大きくなると村ごと襲うなんて事例もあるわね。
+なので駆除には基本的に高い報奨金が用意されているの。","","\EThere are cases where they attack entire villages when the herd gets bigger.
+That's why there is generally a high bounty for extermination.","",""
+"\E…でも高い報奨金に釣られた駆け出しの冒険者が
+逆に返り討ちに合うなんてこともよくあることよ。","","\E... However, it's not uncommon for novice adventurers who are lured by high rewards to end up being counterattacked.
+","",""
+"\Eそんなに危険な生物だったんですね…。","","\EI didn't realize it was such a dangerous creature...","",""
+"\E油断するとベテランでも大怪我…最悪命を落とすこともある。
+群れたアザラシはそれだけに危険で厄介な相手なの。","","\EEven experienced veterans can suffer serious injuries if they let their guard down... and in the worst case, even lose their lives.
+A group of seals is a dangerous and troublesome opponent for that reason alone.","",""
+"\E問題解決の近道ではあるけれど危険も伴う…
+手に余るほどの無謀な賭けは避けるべきだと考えるわ。","","\EIt may be a shortcut to problem-solving, but it also comes with risks... 
+I believe we should avoid reckless gambles that are beyond our capabilities.","",""
+"\E…だからね、あなた達をテストしたいと思うの。
+今のあなた達の実力を私相手に見せてちょうだい。","","\E...So, I want to test you.
+Please show me your current abilities against me.","",""
+"\Eえっ？私達とマスターと勝負するの？","","\EHuh? Are you going to compete with us and the Master?","",""
+"\Eもちろん、本気なんか出さないわよ。
+さ、遠慮せずかかってらっしゃい。","","\EOf course, I won't show my true strength.
+Now, don't hold back and come at me.","",""
+"\E十分よ。
+思ってたよりあなた達はずっと強くなっていたみたいね。","","\EVery good.
+Seems like you all have become much stronger than I thought.","",""
+"\Eそれじゃあ…","","\EWell then...","",""
+"\Eこれならアザラシ相手でも遅れは取らないと思うわ。","","\EI think I won't fall behind even against a seal with this.","",""
+"\E…ただし油断は禁物よ
+しっかり気を引き締めて討伐に挑んでちょうだい。","","\E... However, you must not let your guard down.
+Please tighten your focus and take on the challenge of subjugation.","",""
+"\Eはい！","","\EYes!","",""
+"\Eつ、つよっ！？","","\EWha, what?!","",""
+"\Eどう？見直したかしら？","","\EHow about it? Have you reconsidered?","",""
+"\E（なんでこの人が現役じゃないんだ…","","\E (Why isn't this person still active...","",""
+"\E残念だけれども今のお兄ちゃんたちにはまだ無理ね。
+マスターとして実力以上の依頼をお願いするわけにはいかないわ。","","\EUnfortunately, it's still impossible for the current big brothers.
+I can't ask for requests beyond their abilities as masters.","",""
+"\Eギルドの件はまた別の方法を考えましょ。","","\ELet's think of another way for the guild matter.","",""
+"\Eそうですね…。","","\EWell...","",""
+"\Eそうなると当面まずはお金よねー。
+夜の営業時間も伸ばしたほうがいいかしら…。","","\EIn that case, first and foremost, it's all about the money, right? 
+I wonder if it would be a good idea to extend the evening business hours...","",""
+"\E（お金か…オレたちでなにかできることはないかな…？","","\E (Money... Is there anything we can do about it...?","",""
+"\Eうーん…まいったわね。","","\EHmm... I give up.","",""
+"\Eあれユカリさん、どうしたんですか。","","\EHey Yukari, what's wrong?","",""
+"\Eあら、お兄ちゃん。","","\EOh, big brother.","",""
+"\Eいやね、例の併合の話なんだけど…。
+ま、大きくわけてお金の問題と実績の問題よ。","","\EWell, you know, it's about that merger...
+Well, broadly speaking, it's about the issue of money and the issue of achievements.","",""
+"\Eなるべく早めに…
+\c[1]一週間以内\c[0]には対策案か返事を聞かせてくれだって。","","\EAs soon as possible...
+\c[1]Within a week,\c[0] please let me know the countermeasure or response.","",""
+"\E一週間以内…来週中にはなにか案を…
+実績とお金…","","\EWithin a week... I need to come up with some ideas by next week... 
+Achievements and money...","",""
+"\E実績はお兄ちゃん達に期待するとして…まずはお金よねー。
+夜の営業時間も伸ばしたほうがいいかしら…","","\EAs for achievements, let's rely on the big brothers... but first, it's all about the money, right?
+I wonder if it would be better to extend the evening business hours...","",""
+"\E（実績とお金か…
+オレたちでなにかできることはないかな…？","","\E (Achievements and money... 
+ Is there anything we can do about it...?)","",""
+"新メニュー開発","","","",""
+"妹","","","",""
+"\Eお兄ちゃーん！","","\EHey, big brother!","",""
+"\Eおお、さっそくやる気だな…！
+よし！やってみるか！","","\EOh, you're motivated already...! 
+Alright! Let's give it a try!","",""
+"\Eなるほど…
+新メニューとはなかなか考えたわね。","","\EI see...
+You really put some thought into the new menu.","",""
+"\E確かにお客さんを呼べるような名物メニューがあれば
+慢性的な赤字…お金の問題の対策になりそうね。","","\EIf there is a specialty menu that can attract customers, it could be a solution to the chronic deficit... It seems like a way to address the financial issue.
+","",""
+"\E噂になるくらいの名物があればきっと…！","","\EIf there is a famous specialty that becomes a rumor, then surely...!","",""
+"\Eとにかくやってみましょう。","","\ELet's give it a try, anyway.","",""
+"cg/event45_01.jpg","","","",""
+"\E…………","","\E…………","",""
+"\E…ふぅ、あともう一歩ね。
+今日はもう遅いからこのくらいにしましょうか。","","\E...Phew, just one more step to go.
+It's already late today, so let's call it a day here.","",""
+"\Eはい、では明日もまたきますね。","","\EYes, then I'll come again tomorrow.","",""
+"\E新メニューの開発は順調だ…！","","\EThe development of the new menu is going smoothly...!","",""
+"\Eおお、さっそくやる気だな！
+よし！今日もやるか！","","\EOh, you're motivated already! 
+Alright! Let's do it today too!","",""
+"\E…できたわ！
+このメニューならきっと…！","","\EI did it! 
+With this menu, for sure...!","",""
+"\Eうんうん、すごく美味しいよ！","","\EYeah, yeah, it's really delicious!","",""
+"\Eこの料理ならきっと新しいメクアの名物になるわ。
+お兄ちゃんも妹さんもありがとうね。","","\EThis dish will surely become a specialty of the new Mequa.
+Thank you, both big brother and little sister.","",""
+"\E新メニューの開発に成功した！
+ギルドの評判があがった！","","\ESuccessfully developed a new menu!
+The guild's reputation has increased!","",""
+"\Eねー、お兄ちゃんお兄ちゃん。","","\EHey, big brother, big brother.","",""
+"　ん？　","","　Huh?","",""
+"\Eお兄ちゃんの役に立ててよかったよー。
+ふふ","","\EI'm glad I could be of help to you, big brother. 
+Hehe","",""
+"\Eおうち帰ろっか。","","\ELet's go home.","",""
+"\E…ダメね、まだ何かが足りない…まだ…
+今日はもう遅いからこのくらいにしましょうか。","","\E...No good, something is still missing...still...
+Since it's already late today, let's stop at this point.","",""
+"\E新メニューの開発は難航している…
+くそっ…オレが妹と同じくらい\c[2]料理上手\c[0]だったら…","","\EThe development of the new menu is facing difficulties...
+Damn it... If only I were as good at cooking as my sister...\c[2]\c[0]","",""
+"期限","","","",""
+"\E合併の話で朝からユカリさんは街に行っているぞ。
+アザラシの駆除が評価されればいいけど…。","","\EYukari-san has been going to the town since morning for the merger discussion.
+I hope the seal extermination will be appreciated...","",""
+"\E…………うーん、遅いな…。","","\E...Hmm, it's slow...","",""
+"SE/[Action]DoorOpen_Komori.ogg","","","",""
+"\Eあ、ユカリさん。
+…どうでした？","","\EAh, Yukari-san.
+...How was it?","",""
+"\E……。","","\E... .","",""
+"\E駆除の功績が認められて今回は延命できたわよ。
+これからも継続的に実績を上げられるかが課題ね。","","\EMy achievements in extermination have been recognized, so I was able to extend my life this time.
+The challenge now is whether I can continue to achieve results consistently.","",""
+"\Eそれにまあ今回はタウンに借りを作った形だから…
+独り立ちというにはまだまだね。","","\EAnd well, this time I kind of owe a favor to the town...
+I'm still far from being independent, though.","",""
+"\E借り…。","","\EBorrow...","",""
+"\Eそこで…","","\EAnd so...","",""
+"\E…ごくり。","","\E...gulp.","",""
+"\E本気で八会優勝を狙うわよ！","","\EI'm serious about aiming for victory in the Hachikai tournament!","",""
+"\Eやっぱり！","","\EAs I thought!","",""
+"\E大会で優勝して私達の実力をしっかりアピールしましょ。","","\ELet's win the tournament and firmly showcase our abilities.","",""
+"\Eだから今まで以上に…
+がんばってね、お兄ちゃん。","","\ESo, more than ever before... 
+Do your best, big brother.","",""
+"\Eアザラシの駆除が評価された！","","\EThe extermination of seals was praised!","",""
+"セーフ","","","",""
+"ゲームオーバー","","","",""
+"\E合併の話で朝からユカリさんは街に行っているぞ。
+残念ながら実績を上げることは出来なかったけれど…。","","\EYukari-san has been going to the town since morning for a merger discussion.
+Unfortunately, she couldn't achieve any accomplishments though...","",""
+"cg/bg_04_farm_a.jpg","","","",""
+"\E結局、ギルドは他ギルドと統合することになった。
+オレ達にとってはいろいろ問題もあって実質的に解散。","","\EIn the end, the guild ended up merging with another guild.
+For us, there were various issues and it practically dissolved.","",""
+"\E平日の半分は農場でクワを振るう。
+そんな日々が続いてゆく…。","","\EHalf of the weekdays are spent swinging a hoe on the farm.
+And so, those days continue on...","",""
+"\E農民END","","\EFarmer END","",""
+"hint","","","",""
+"\E期限までに討伐をクリアしよう！","","\ELet's clear the subjugation before the deadline!","",""
+"\E合併の話で朝からユカリさんは街に行っているぞ。
+新メニュー作戦がうまく行けばいいんだけど…。","","\EYukari-san has been going to the town since morning for the merger discussion.
+I hope the new menu strategy goes well...","",""
+"\Eとりあえずは様子見ということで延命できたわよ。
+新メニューで赤字をどれだけ解消できるかが課題ね。","","\EFor now, we were able to extend our lifespan by observing the situation.
+The challenge is how much we can eliminate the deficit with the new menu.","",""
+"\Eただ、それでも根本的な解決にはなってないの。
+今後を考えると本部を黙らせるくらいの実績が必要よ。","","\EHowever, it still hasn't become a fundamental solution.
+Considering the future, we need achievements that can silence the headquarters.","",""
+"\E実績…。","","\EAchievements...","",""
+"\Eギルド存続の為にはなにが何でもやるしかないわ。
+金勘定ばかり得意な本部の連中のハナをあかすわよー。","","\EWe have to do whatever it takes to ensure the survival of the guild.
+I'll expose the true colors of the headquarters members who are only good with money.","",""
+"\E新メニュー作戦が評価された！","","\EThe new menu strategy was praised!","",""
+"\E八会で優勝を目指すことになった！","","\EWe are aiming for victory in Yagai!","",""
+"\Eやる気が出た！","","\EI'm motivated!","",""
+"\E合併の話で朝からユカリさんは街に行っているぞ。
+残念ながら特に何もいい案は浮かばなかったけど…。","","\EYukari-san has been going to the town since morning to discuss the merger.
+Unfortunately, she didn't come up with any particularly good ideas...","",""
+"\E妹の手料理を食べよう！
+期限までにお兄ちゃんの料理スキルを取得してみよう。","","\ELet's eat my sister's homemade cooking!
+Let's try to acquire my brother's cooking skills by the deadline.","",""
+"天才少女","","","",""
+"BGM/windletter.ogg","","","",""
+"\Eはぁー…","","\ESigh...","",""
+"　どうした…？　","","　What's wrong...?","",""
+"\Eどうした？ため息なんかついて。","","\EWhat's wrong? You're sighing or something.","",""
+"\E地道にやっても急に強くなれるわけでもないし…
+実績が増えるワケでもない…うぅ…焦る。","","\EJust doing it diligently won't make you suddenly stronger... 
+It won't increase your achievements either... Ugh... I'm getting anxious.","",""
+"\Eどうしても気持ちが焦ってしまいますね…。","","\EI can't help but feel impatient...","",""
+"\Eこの状況を一変できるなにか…
+あーっもう！モノでも人でもこの際ネコでも…。","","\ESomething that can completely change this situation...
+Ah, I don't care anymore! Whether it's an object, a person, or even a cat at this point...","",""
+"　求む、天才、的な。　","","　In need of a genius, like.","",""
+"\Eそれ！","","\EThere it is!","",""
+"\E…んっと…そういえば…
+天才といえば学校で噂になってる子がいるみたいですよ。","","\E...Um...come to think of it...
+There seems to be a kid at school who's rumored to be a genius.","",""
+"\Eほー？","","\EHuh?","",""
+"\Eカードや模擬盤を使った戦術テストじゃ
+ずっと負け知らずで大人でも勝てないとか…？","","\EUsing cards and mock boards for tactical tests, 
+you're always unbeatable, even for adults...?","",""
+"\Eへー、あたしそれ系ニガテだったけどすごいね。","","\EWow, I'm not really into that kind of thing, but that's amazing.","",""
+"\E確か…
+お兄ちゃんとこの妹ちゃんと同じ年くらいじゃなかったかな。","","\EI think... 
+Wasn't this little sister about the same age as her big brother?","",""
+"\Eその子の話なら寄り合いでも結構ウワサになっているわよ、
+「ぜひウチのギルドに」ってね。","","\EIf it's about that child, it's become quite a rumor even among the gathering, 
+""Please come to our guild.""","",""
+"\E将来有望な若手…
+はー…ならなおさらうちには縁がないねぇ…。","","\EPromising young talent...
+Sigh...especially not connected to us.","",""
+"\Eちょっとそれどういう事よー、もう。","","\EWhat do you mean by that? Seriously.","",""
+"\E天才少女か…うーん、気になるな。","","\EA genius girl... Hmm, she piques my interest.","",""
+"危機一髪","","","",""
+"cg/bg_09_town_a.jpg","","","",""
+"\E…ええと…
+今日の買い出しはこれで全部かな…と…。","","\E...Um...
+I think this is everything for today's shopping... I guess...","",""
+"\E……………！","","\E...!","",""
+"\Eきゃっ…い、いや…っ！","","\EKyaa... no, stop...!","",""
+"\Eん？なにか聞こえたぞ…。
+…こっちか？","","\EHm? Did you hear something...?
+...Is it this way?","",""
+"cg/bg_09_town_b.jpg","","","",""
+"Picture/stand_sub06.png","","","",""
+"見覚えのある女の子","","A familiar girl.","",""
+"\Eだ、誰か…！","","\ESomeone...!","",""
+"\Eた、大変だ！
+女の子がごろつきに襲われそうになっているぞ！","","\EOh no, this is bad!
+A girl is about to be attacked by thugs!","",""
+"\Eむ、あの娘は…なんだか見たことがある気が…
+…って今はそれよりも助けないと…！！","","\EUm, I feel like I've seen that girl somewhere before... 
+...but right now, I need to help her first...!!","",""
+"　そこまでだ悪党！　","","　That's enough, villain!","",""
+"ごろつき","","Hooligan","",""
+"\E…くっくそ…覚えてやがれ…！","","\E...Damn it... Remember this...!","",""
+"\Eく、くそっ…手強い…","","\EDamn... They're tough...","",""
+"\Eえ、衛兵さんこっち！こっちです！","","\EHey, guard! Over here! This way!","",""
+"\E…ちっ…。","","\E...Tch...","",""
+"\Eあああの…
+け、怪我とかだいじょうぶ…ですか…？","","","",""
+"　大丈夫　","","　It's okay.","",""
+"\Eああ、大丈夫だ…えっと。","","\EAh, it's okay... um.","",""
+"カスミ","","","",""
+"\Eあ、わたしカスミって言います…えっと…","","\EAh, I'm Kasumi... um...","",""
+"\E…カスミ？……カスミってどっかで…
+あっ！もしかして…！！","","\E...Kasumi?...I feel like I've heard that name somewhere...
+Ah! Could it be...!!","",""
+"\Eあうっ…","","\EOuch...","",""
+"\Eあ、驚かせてごめん。
+えっと…","","\EAh, sorry for surprising you.
+Um...","",""
+"\E妹ちゃんのお兄さんだったんですね…。","","\ESo you're my little sister's big brother...","",""
+"\Eそうそれで実は…。","","\ESo, actually...","",""
+"\E事情はわかりましたけど…でもその…
+急にギルドって言われても…ごめんなさい…。","","\EI understand the situation, but... um... 
+Even if you suddenly mention a guild... I'm sorry...","",""
+"　そうだよね…　","","　That's right...","",""
+"\Eまぁ、そりゃそうだよな…。","","\EWell, I guess that's true...","",""
+"\Eご、ごめんなさい…。","","\EI-I'm sorry...","",""
+"\Eいやいいんだよ。
+こっちこそ突然無理いってごめん。","","\ENo, it's fine.
+I'm the one who suddenly said it was impossible, sorry.","",""
+"\Eそれより…
+裏路地は危ないから表通りまで送るよ。","","\EMore importantly...
+Because the back alley is dangerous, I'll escort you to the main street.","",""
+"\Eカスミと出会った。","","\EI met Kasumi.","",""
+"本屋にて","","","",""
+"cg/bg_31_book.jpg","","","",""
+"\E…そういや奥のコーナーにはどんな本があるんだ？","","\E...By the way, what kind of books are there in the corner over there?","",""
+"\E男性同士が絡み合って……
+うおっ…尻に……まじか……","","\EMen entangled with each other... 
+Whoa... on the butt... seriously...","",""
+"\Eこ、これは…！
+BL（濃厚）本だ！","","\ETh-this is...!
+A BL (intense) book!","",""
+"\E…そっと棚に戻しておこう…。","","\E...Let's quietly put it back on the shelf...","",""
+"\E…あ。","","\E...Ah.","",""
+"\Eあれカスミちゃんだ…
+って手に持っているのは…。","","\EThat's Kasumi-chan... 
+And what she's holding in her hand is...","",""
+"\Eはぅぅ…。","","\EHauu...","",""
+"　…も、もしかしてこういうのが好きなの…？　","","　...Could it be that you actually like this kind of thing...?","",""
+"\Eす…好き、です。","","\EI... like you.","",""
+"\Eあの…もしかしてお兄さんも…？","","\EUm... Could it be that you're also...?","",""
+"\Eま、まぁ嫌いではないかな…。","","\EWell, well, I guess I don't hate it...","",""
+"\Eそうなんですか！","","\EIs that so?","",""
+"\Eい、いいですよね…！さく×クマ！
+私この作者さん大好きでずっと推してるんです！","","\EI-It's, it's so good...! Saku x Kuma! 
+I really love this author and have been supporting them all along!","",""
+"\E特に第2集の異性の恋人を取るか…
+自分の本当の気持ちに従うか…！","","\EWill you take a lover of the opposite sex, especially in the second volume... 
+Or will you follow your true feelings?!","",""
+"\Eあの展開とかもう最高に尊くて…
+私！3冊買いました！","","\EThat development was just so precious...
+I bought three copies!","",""
+"　お、おお…おう。　","","　Oh, oh... okay.","",""
+"\Eはわっ！すすすいません…！
+同士とお話する機会なんて滅多にないので舞い上がっちゃって…！","","\EWhoa! S-s-sorry...!
+I rarely get the chance to talk with others, so I got all excited...!","",""
+"　いいよ、そういう嬉しい気持ちわかるから。　","","　It's okay, I understand that happy feeling.","",""
+"\E！","","\E!","",""
+"\Eお兄さん同士…。","","\EBetween brothers...","",""
+"\E本屋でカスミちゃんと出会った。
+…意外な趣味？を知ってしまった！","","\EI met Kasumi-chan at the bookstore.
+...I found out about her unexpected hobby!","",""
+"新戦力加入","","","",""
+"\Eそういえば…
+今回の交流戦の相手ってどんなギルドなんですか？","","\EBy the way...
+What kind of guild is the opponent in this interleague match?","",""
+"\E今回の交流戦の相手はマッシブブラザーズよ。","","\EThe opponent for this interleague game is the Massive Brothers.","",""
+"\E鉄壁の兄が鍛え上げられた筋肉で攻撃を受け止めて
+そのスキに弟が力を溜めてズドンってのがお決まりの戦法らしいわ。","","\EThe older brother with his well-trained muscles intercepts the attack, and 
+then the younger brother gathers strength and goes ""Zudon,"" which seems to be their signature tactic.","",""
+"\E手数は少ないけれども一撃が重い相手ね。","","","",""
+"\E力を溜めた攻撃…
+お兄ちゃんの技みたいな感じかな…","","\ECharging up an attack... 
+Feels like one of big brother's moves...","",""
+"SE/door-wood-knock2.mp3","","","",""
+"\E（コンコンコン","","\E (Knock, knock, knock)","",""
+"\Eん、なんだ？","","\EHuh, what is it?","",""
+"\Eあのぅ…
+メクア支部っていうのはここであっていますか…？","","\EUm... 
+Is the Mekua branch located here...?","",""
+"\Eあれっ？","","\EHuh?","",""
+"\Eはい、えっと…ご依頼かしら？","","\EYes, um... Is this a request?","",""
+"\Eえと、そうじゃなくて…
+あの…あたしここのギルドに入りたくて…。","","\EUm, not that... 
+Um... I want to join this guild...","",""
+"\Eあ、ユカリさん。
+この娘は…。","","\EAh, Yukari-san.
+This girl is...","",""
+"\Eえ、この娘が噂の！？
+でもうちなんかになんで！？","","\EWait, this girl is the rumored one!? 
+But why would she come to a place like this?!","",""
+"\E（マスターがうちなんかって言ったらダメだろ…","","\E (It's not okay for the master to say something like that...)","",""
+"\E…うち分け前少ないけど…平気？
+ギルド間違えてない？","","\E...Even though there are few options to choose from... Are you okay with that? 
+Did you not mistake the guild?","",""
+"\Eあ、それは、はい大丈夫です。","","\EAh, yes, that's fine.","",""
+"\Eでもどうしてうちに？
+他にも引く手あまたって聞いたけど…。","","\EBut why to my house?
+I heard there were plenty of other options...","",""
+"\E信頼…できそうだったから…。
+それに困っている同士を見過ごすことは…できない。","","\EBecause... I felt like I could trust you...
+I can't just ignore those who are in trouble.","",""
+"\E…同士？","","\E...Fellow comrades?","",""
+"\Eあー…
+それを説明するのはなかなか難しいかも知れない…","","\EAh...
+Explaining that might be quite difficult...","",""
+"cg/bg_07_guild_j.jpg","","","",""
+"SE/MusMus-JGL-027.mp3","","","",""
+"\Eカスミがギルドに加入した！","","\EKasumi joined the guild!","",""
+"SE/decision4.mp3","","","",""
+"\Eスキル\c[1]戦闘の天才\c[0]のヒントを得た！","","\EObtained hints\c[1]from the genius of\c[0]battle skills!","",""
+"交流戦","","","",""
+"cg/bg_07_guild_k.jpg","","","",""
+"\E今日の相手は「マッシブブラザーズ」よ。
+究極のボディを手に入れるために日々鍛錬に励んでいるらしいわ。","","\EToday's opponent is ""Massive Brothers"".
+It seems like they are diligently training every day to obtain the ultimate body.","",""
+"Picture/stand_sub07.png","","","",""
+"\Eうお…でか…！","","\EWhoa... it's huge...!","",""
+"\Eきょ、今日はよろしくおねがいします。","","\EUm, nice to meet you today.","",""
+"兄者","","Brother","",""
+"\Eフハハハハ
+お前達がメクア支部か！！","","\EFuhahahaha
+You guys are the Mekua branch!!","",""
+"\E小さい！実にノーマッスルだ！","","\ESmall! Truly no muscle at all!","",""
+"弟者","","Younger brother","",""
+"\E鍛え上げられた我らの肉体と美技…
+とくと味わうがいい！","","\EOur trained bodies and exquisite skills... 
+You better savor them!","",""
+"\Eゆくぞ弟者！","","\EHere we go, Dejima!","",""
+"\E了解だ兄者！","","\EI understand, brother!","",""
+"\Eレディ…","","\ELady...","",""
+"兄者弟者","","Brother and younger brother","",""
+"\E「「マッシィィィブ……ファイッ！！！！！」」","","\E""Massiiiiive... Fight!!!""","",""
+"\Eどうだ！","","\EHow about that!","",""
+"\Eく…何という見事なインナーマッスル…！","","\EWow... What a magnificent inner muscle...!","",""
+"\E外見の見てくれにばかり気を取られ
+真のマッスルを見落としていたというのか…。","","\EI was so focused on the appearance
+that I overlooked their true strength...","",""
+"\E我ら兄弟の完敗だ…！","","\EWe, brothers, have been completely defeated...!","",""
+"　いい勝負だった！　","","　It was a good match!","",""
+"\Eまたいつか手合わせしよう。
+鍛え直しじゃ！弟者！","","\ELet's have a match someday.
+Let's train again, Dejima!","",""
+"\E交流戦で勝利できた！","","\EWe won in the exhibition match!","",""
+"\E見たか！これがマッスルの力だ！
+フハハハハハ","","\EDid you see that? This is the power of muscles!
+Fuhahahaha","",""
+"\Eお前たちにはプロテインが足りていないようだな。","","\EIt seems like you guys are lacking in protein.","",""
+"\Eではさらばだ！また会おう！","","\EFarewell then! Until we meet again!","",""
+"地区予選2","","","",""
+"\Eおはよう、みんな用意はいいかしら？","","\EGood morning, is everyone ready?","",""
+"\E今日の相手は「美食倶楽部」よ。
+ここで勝てば本戦出場よ、がんばってね。","","\EToday's opponent is the ""Gourmet Club"".
+If you win here, you'll advance to the main tournament. Good luck!","",""
+"\E今回も勝たせてもらうよ！","","\EI'll win again this time!","",""
+"\E交流戦では完敗だったけど…今回は負けないよ！","","\EWe were completely defeated in the exhibition match... but this time, we won't lose!","",""
+"\Eなんか気合十分ですね？やべえっすね！？","","\EYou seem really fired up, huh? That's pretty intense!","",""
+"\E並々ならぬ思いを感じます。","","\EI feel an extraordinary emotion.","",""
+"\Eシャーッ！！！","","\EShaaa!!!","",""
+"\Eあうあうあー","","\EAuauaa","",""
+"\Eでも…","","\EBut...","",""
+"BGM/straightcontrast.ogg","","","",""
+"\Eあたし達だって前より成長してますよ？やべえっすね！？","","\EWe've grown up more than before, you know? It's pretty amazing, right?!","",""
+"\Eシャーーーーーーーッッ！！！！！！！","","\EShaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","",""
+"\Eお手合わせありがとうございました。","","\EThank you for the match.","",""
+"\Eあうあうあー…","","\EOw ow ow...","",""
+"\Eやったわね！これで晴れて地区予選突破よ！
+これもあなた達が努力した結果ね、おめでとう。","","\EYou did it! With this, we've successfully advanced to the district qualifiers!
+This is also the result of your hard work. Congratulations!","",""
+"\E…ふふ今日はお祝いしなきゃね。","","\E...Hehe, we have to celebrate today.","",""
+"\Eお祝い？やったー！","","\ECelebration? Yay!","",""
+"\Eやれやれ、地区予選を通ったくらいで大げさ…いや…
+…君たちの実力からしてみればこれも喜ぶべき事なんだろうね。","","\EWell well, it's a bit exaggerated to make a big deal out of just passing the district qualifiers... No... 
+...Considering your abilities, I suppose this is something to be happy about.","",""
+"　お前は…アカツキ！　","","　You are... Akatsuki!","",""
+"\Eてかまた何しにきたんだよ…","","\EWhat did you come here for again...","",""
+"\Eふ、まずは予選通過おめでとう。","","\EFirst of all, congratulations on advancing to the qualifying round.","",""
+"\Eまあ、君たちの事は正直どうでもいいが…
+予選程度で敗退して先生の顔に泥を塗ってもらっては困るからね。","","\EWell, honestly, I don't really care about you guys... 
+But I wouldn't want to lose in the preliminaries and embarrass the teacher.","",""
+"\Eその意味で最低限の責を果たしてくれたことについては
+君たちに感謝しなければならないね。","","\EIn that sense, we must thank you for fulfilling the minimum responsibility.
+","",""
+"\Eだが…本戦で相対するのはそれぞれの地区代表となる選抜ギルド。
+むろん僕の所属するギルドも当然その中に入っている。","","\EHowever... in the main match, we will be facing the selected guilds that represent each district.
+Of course, the guild I belong to is naturally included among them.","",""
+"\E…今までのようにいくと思わないことだ。","","\E...I don't think things will go as they have up until now.","",""
+"　言われなくともわかってる！　","","　I understand even without being told!","",""
+"\Eいちいちお前に言われなくともわかっている！","","\EI understand without you having to tell me every single time!","",""
+"\Eふんっ…だといいがな。","","\EHmph... I hope so.","",""
+"\Eなにアイツ…いちいち嫌味を言いに来たわけ？
+はらたつー","","\EWhat's with that person...coming here just to make sarcastic remarks?
+So annoying.","",""
+"\Eふふ","","\EHehe","",""
+"\Eマスターはなんで笑ってるの？","","\EWhy is the master laughing?","",""
+"\Eんー？
+みんないい子だなぁって思ってねー。","","\EHmm? 
+I think everyone is a good kid.","",""
+"\E？","","\E?","",""
+"SE/decision24.mp3","","","",""
+"\Eオレ達はメクア地区の今季代表ギルドとなった！","","\EWe have become the representative guild of the Mequa District this season!","",""
+"\E予選突破ですぅ！やべえっすね！？","","\EWe made it through the preliminaries! It's amazing, right?!","",""
+"\Eメクア支部は地区予選で敗退してしまった…。","","\EThe Mequa branch was eliminated in the district qualifiers...","",""
+"\E結局、大した実績を残すことも出来なかったオレ達のギルドは
+当初の予定どうり他ギルドと統合することになった。","","\EIn the end, our guild, which couldn't achieve anything significant, ended up merging with another guild as originally planned.
+","",""
+"\E新しい環境は色々と問題もあってギルド実質的に解散。
+平日の半分は農場でクワを振るう―","","\EThe new environment had various problems, leading to the guild practically disbanding.
+Half of the weekdays are spent swinging a hoe on the farm―","",""
+"\Eそんな日々が続いてゆく…。","","\ESuch days continue on...","",""
+"\E時は流れ―","","\ETime flows―","",""
+"ラストバトルへ","","","",""
+"合宿のお知らせ","","","",""
+"\Eみんな昨日はおつかれさま。
+本戦は一週間空いて\c[2]再来週\c[0]から始まるわよ。","","\EEveryone, good job yesterday.
+The main event will be on hold for a week,\c[2]and it will start again in two weeks.\c[0]","",""
+"\E予選を勝ち抜いたそれぞれの地区代表と当たるわけだから
+これまで以上に強力なギルドと当たることになるわ。","","\ESince we will be facing the district representatives who have advanced through the preliminaries, 
+we will be up against even stronger guilds than before.","",""
+"\E…と、いうことで。
+強化合宿をするわよー！","","\E... And that's it. 
+We're going to have a training camp to strengthen ourselves!","",""
+"\E合宿？","","\ETraining camp?","",""
+"\Eそ、起きてから寝るまで1日中たっぷり鍛錬に集中できるわよー。","","\ESo, from waking up to going to bed, I can fully concentrate on training all day long.","",""
+"cg/bg_07_guild_n.jpg","","","",""
+"\Eうへー…。","","\EUgh...","",""
+"\E週明けの月曜から金曜まで合宿だからね。
+あ、妹ちゃんも合宿に付いてくるから逃げようとか思っちゃダメよ。","","\EWe have a training camp from Monday to Friday next week, you know.
+Oh, my little sister is coming along to the camp, so don't even think about trying to escape.","",""
+"\Eえぇ…。","","\EUm...","",""
+"\E来週の\c[2]月曜から金曜\c[0]まで合宿を行うらしい。","","\EIt seems that there will be a training camp from \c[2]Monday to \c[0]Friday next week.","",""
+"本戦一回戦","","","",""
+"cg/bg_29_colo.jpg","","","",""
+"観客","","Audience","",""
+"\Eガヤガヤ…
+　　ガヤガヤ…","","\EHubbub...
+   Hubbub...","",""
+"\Eここが八王子武闘会会場…！","","\EThis is the Hachioji Martial Arts Tournament venue...!","",""
+"\Eさ、さすがにいつもと雰囲気ちがいますね…。","","\EWell, well, the atmosphere is certainly different from usual...","",""
+"\E国一番のギルドを決める大会だからね。
+観客はもちろん内外からお客さんも来るわよ。","","\EIt's a tournament to determine the number one guild in the country, you know.
+Not only spectators, but also customers from both inside and outside will come.","",""
+"\E変に緊張して固くならないでね。","","\EDon't get too nervous and stiff.","",""
+"\E…うう…緊張してきた…。","","\E...Ugh...I'm starting to get nervous...","",""
+"Picture/stand_sub08.png","","","",""
+"\Eやあ君たちがメクア支部の代表かな？","","\EHey, are you guys the representatives of the Mekua branch?","",""
+"　はい、えっと…　","","　Yes, um...","",""
+"グイン","","","",""
+"\Eっと俺はスカウトユニオンチームのグイン。","","\EI am Guin, a member of the Scout Union team.","",""
+"\Eま、見ての通りで現役引退もそろそろなおじさんさぁ。
+今日はどうかお手柔らかに頼むよ。","","\EWell, as you can see, I'm an old man who's about to retire from active duty.
+So, please go easy on me today.","",""
+"\Eはい、どうぞよろしく…。","","\EYes, please take care of me...","",""
+"\Eお互い正々堂々と戦おう！","","\ELet's fight fair and square!","",""
+"\Eでは後ほど試合で…！","","\EI'll see you later in the match...!","",""
+"\E（なんか意外といい人そうだぞ…？","","\E (He seems surprisingly nice...?)","",""
+"\E（ふ…青いな…","","\E (Huh... It's blue...","",""
+"\E（スカウトがまっとうな殴りあいなんてするか。
+　悪いが奇襲からの速攻で決めさせてもらう。","","\E (Do you think scouts would engage in a fair fight? 
+ Sorry, but I'll have to finish this with a surprise attack and quick assault.","",""
+"\Eじゃあみんな準備はいい？
+さあ行ってらっしゃい！","","\EIs everyone ready? 
+Well then, off you go!","",""
+"　戦闘開始　","","　Battle start","",""
+"\Eっちゃー…負けたわ。","","\EUgh... I lost.","",""
+"\Eぜんぜん正々堂々じゃなかった…。","","\EIt was not fair at all...","",""
+"\Eうちは戦いに関しては得意分野じゃないからな。
+スカウトなんざ小細工を使ってなんぼよ。","","\EI'm not good at fighting, you know.
+When it comes to scouting, tricks are everything.","",""
+"\Eま、それで負けたなら完敗だ。
+勝負はお前たちの勝ちさ。","","\EWell, if you lost, it's a complete defeat.
+The victory is yours.","",""
+"\E一回戦に勝った！","","\EWon the first round!","",""
+"\Eその後、大会は前回に続いて
+アカツキ率いるタウン支部のチームが優勝。","","\EAfter that, the tournament continued from the previous one, and 
+the team led by Akatsuki from the Town Branch won.","",""
+"\Eギルドは負けてしまったものの
+本戦出場の実績を認められ合併は見送りとなった。","","\EAlthough the guild lost, 
+they were recognized for their achievements in the main tournament and the merger was called off.","",""
+"\Eオレたちは次回大会での優勝を目指し
+鍛錬と冒険の日々を重ねていく…。","","\EWe will continue to train and embark on adventures, aiming for victory in the next tournament.
+","",""
+"準決勝","","","",""
+"\E今日は八会の準決勝…これに勝てば決勝だ！","","\EToday is the semi-finals of the Hachikai... If we win this, it's the finals!","",""
+"\Eまさかここまでこれるなんてねー","","\EI never thought I could come this far.","",""
+"\E…少し順調すぎて怖いですね。","","\E...It's a little too smooth and scary, isn't it?","",""
+"\Eしかしなんだ…
+前にもましてなんだか今日はやけに人が多いな？","","\EHowever, what is it... 
+There seems to be an unusually large number of people today, isn't there?","",""
+"\Eそれに…
+すごく女性の方が多いような…","","\EAnd... 
+It seems like there are a lot of women...","",""
+"\E今日の相手はナナホシ事務所だからきっとそれ目当てね。","","\EToday's opponent is Nanahoshi Office, so they must be here for that.","",""
+"\Eナナホシ…？","","\ENanahoshi...?","",""
+"\E男子の…
+それもイケメンばかりを集めたギルドよ。","","\EMen... 
+And it's a guild that gathers only handsome guys.","",""
+"\E女性からの支持は圧倒的で
+狂信的に崇めているファンもいるほどよ。","","\EThe support from women is overwhelming, and there are even fans who worship me fanatically.
+","",""
+"\Eなるほど…","","\EI see...","",""
+"\Eき、今日の相手はナナホシ事務所ですのでそのせいかと。","","\ET-Today's opponent is Nanahoshi Office, so maybe that's why.","",""
+"\E男子の…
+それもイケメンばかりを集めたギルドです。","","\EA guild consisting of handsome men...
+That's what it is.","",""
+"\E女性からの支持は圧倒的で
+狂信的に崇めているファンもいるほどです。","","\EThe support from women is overwhelming, and there are even fans who worship it fanatically.
+","",""
+"\Eわたしは生モノにはあまり興味がないのですが
+BL界でも一定の人気があるんですよ。","","\EI'm not really interested in raw food, but 
+it also has a certain level of popularity in the BL world.","",""
+"\E生モノ…
+あまり聞き慣れない単語が出てきたな…","","\ELiving things...
+Some unfamiliar words came up...","",""
+"黄色い声","","Yellow voice","",""
+"\Eキャーーーーーーッ！！！！！","","\EKyaaaaaaaahhhhhhhhh!!!","",""
+"\Eな、なんだ！？","","\EWhat, what is it!?","",""
+"\Eカズヤ様ーーっ！キャーーーーー！！","","\EKazuya-sama!! Kyaaaaaa!!","",""
+"\Eカズヤ…さま？","","\EKazuya...sama?","",""
+"\Eどうやら出てきたようね。","","\EIt seems like they've appeared.","",""
+"\Eどうやら出てきたようですね。","","\EIt seems like it has appeared.","",""
+"Picture/stand_sub09.png","","","",""
+"\E子猫ちゃん達が今日の相手かい？","","\EAre the kitten friends today's playmates?","",""
+"　子猫ちゃん…？　","","　Kitten-chan...?","",""
+"カズヤ様","","","",""
+"\E女性相手に剣を振るうのは本意ではないんだけど…
+これもお仕事だからごめんね。","","\EI don't really want to swing my sword at women...
+But it's part of the job, so I'm sorry.","",""
+"\Eは、はあ…。","","\EHaah...","",""
+"ファンの声","","","",""
+"\Eなによあのブス！
+カズヤ様と会話するなんて許せない…","","\EWhat's with that ugly face! 
+I can't forgive you for talking to Kazuya-sama...","",""
+"\Eふぅん…
+君は汚れのないきれいな手をしているね。","","\EHmm...
+You have clean, unblemished hands.","",""
+"\Eな、なんですか…","","\EWh-what is it...","",""
+"\E試合が終わったら3番ゲート前で待ってて。
+かわいがってあげるよ、子猫ちゃん。","","\EWait in front of gate number 3 after the game is over.
+I'll take care of you, little kitten.","",""
+"\Eちゅっ","","\EChu","",""
+"\Eじゃまたね。","","\ESee you later.","",""
+"\Eギャーーーーーッ！！！
+カズヤさまの…許せない…許せないっ！","","\EGyaaaaahhh!!!
+I can't forgive... I can't forgive Kazuya-sama!","",""
+"　…よし！事故を装ってアイツ殺そう。　","","　...Alright! Let's pretend it's an accident and kill that guy.","",""
+"\Eもう…手にキスされたくらいの事で
+人を殺めちゃダメですからね…","","\EI mean... you can't just go around killing people just because they kissed your hand, you know...
+","",""
+"\Eオラァ！！！","","\EOraaa!!!","",""
+"\Eギャーーーー！
+カズヤーーー！！！","","\EGyaaaaaaah!
+Kazuyaaaaaa!!!","",""
+"\E…負けた…のか…俺たちが…？","","\E...Did we...lose...?","",""
+"\E…うぅそんな…ぐす…","","\E...Ugh...sob...","",""
+"\Eカズヤかわいそう…","","\EPoor Kazuya...","",""
+"\Eみんな…
+今日はがっかりさせてごめんね…","","\EEveryone...
+I'm sorry for disappointing you today...","",""
+"\E何だこいつ…急になんか言い出したぞ。","","\EWhat's with this guy... He suddenly started saying something.","",""
+"\Eガズヤ""ァ""ァ""ァ""ア""ァ""！","","\EGazuya ""a"" a"" a"" a"" a""!","",""
+"\E感動をありがとー","","\EThank you for the inspiration.","",""
+"\Eこんな…こんなに弱い俺たちだけど…
+まだ応援してくれるのかい…？","","\EWe are so... so weak, but... 
+Will you still support us...?","",""
+"\E一生ついていくーーー！！","","\EI'll be with you for the rest of my life!!","",""
+"\E受精させてーーーー！","","\EFertilize meeeeeeee!","",""
+"\Eみんな…ありがとう…。","","\EEveryone... thank you...","",""
+"\Eその声に応えるために…俺たちはきっと戻ってくる…！","","\EIn order to respond to that voice... We will definitely come back...!","",""
+"\Eその日まで…さようならだ！！","","\EUntil that day... goodbye!!","",""
+"\Eギャオオオオオオォォォォオォオォン！！！","","\EGyao ooooooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh","",""
+"\Eなんなのこれ…。","","\EWhat is this...?","",""
+"\E準決勝に勝った！","","\EWon the semi-finals!","",""
+"\Eおめでとうー！
+ここまで来たからにはあと一勝ね！","","\ECongratulations! 
+Since you've come this far, just one more victory!","",""
+"\E優勝…もらっていくわよ！","","\EI'm taking the championship...!","",""
+"全員","","","",""
+"\E「「「おー！」」」","","\E""Oo!""","",""
+"\Eギルドは負けてしまったものの
+準決勝進出の実績を認められ合併は見送りとなった。","","\EAlthough the guild lost, 
+they were recognized for their achievement of reaching the semi-finals and the merger was postponed.","",""
+"明日は決勝","","","",""
+"\Eみんなお疲れさま。
+日曜日はいよいよ決勝戦よ。","","\EEveryone, good job.
+Sunday is finally the final match.","",""
+"\Eやり残しがないように
+準備は土曜のうちに済ませておいてね。","","\EMake sure you don't have any unfinished business.
+Please finish your preparations by Saturday.","",""
+"\E\c[2]ちゃんと記録もつけておくのよ。\c[0]","","\E\c[2]I'll make sure to keep a record of it.\c[0]","",""
+"黒い霧","","","",""
+"\Eガヤガヤ…
+　ガヤガヤ…","","\EHubbub...
+ Hubbub...","",""
+"\Eみんな、いよいよ決勝よ。","","\EEveryone, it's finally the finals.","",""
+"\E相手は冒険者協会タウン支部。
+ここ10年負けなしの強豪よ。","","\EThe opponent is the Adventurer Association Town Branch.
+They have been undefeated for the past 10 years, a formidable force.","",""
+"\E簡単に勝てるような相手ではないけど…頑張って！","","\EThey're not an opponent that can be easily defeated... but let's do our best!","",""
+"\E「「「はい！」」」","","\E""Yes!""","",""
+"\Eがんばってー！","","\EHang in there!","",""
+"\Eまさか君たちと決勝で当たることになるとはね。","","\EI never thought I would end up facing you guys in the finals.","",""
+"　決着をつけよう！　","","　Let's settle this!","",""
+"　今度は負けない！　","","　This time, I won't lose!","",""
+"\Eふん。
+いいだろう…","","\EHmph.
+Very well...","",""
+"\Eだが僕たちが勝ったら…先生を返してもらう！","","\EBut if we win... we want our teacher back!","",""
+"\E（いつからそんな話になったんだ…","","\E (When did it become such a story...)","",""
+"\Eいいな！？","","\EIs that so?!","",""
+"　いや、良くないが。　","","　No, it's not good.","",""
+"\Eえっ","","\EHuh","",""
+"\Eえ？","","\EHuh?","",""
+"\Eとにかくお遊びもここで終わりだ！","","\EAnyway, the fun ends here!","",""
+"\Eいくぞ！","","\ELet's go!","",""
+"Picture/stand_sub10.png","","","",""
+"\Eな、なんだ…？
+こいつら一体どこから湧いてきた？","","\EWhat... what is this? 
+Where did these guys come from?","",""
+"\Eくそ…！襲い掛かってくるぞ！","","\EDamn it...! They're coming at us!","",""
+"\E…消えた…？","","\E... Disappeared...?","",""
+"\E今のは…","","\EThat was...","",""
+"ギルド職員","","","",""
+"\Eほ、報告します！","","\EI-I will report!","",""
+"\E報告によると北の遺跡から得体の知れない
+黒い霧のようなものが溢れ出したという事よ。","","\EAccording to the report, it is said that an unknown 
+black mist-like substance overflowed from the ruins in the north.","",""
+"\E霧に紛れて見たこともない異形を目撃…
+これはさっきの影の様な奴らかしらね。","","\EWitnessed an unprecedented, grotesque creature hidden in the mist... 
+I wonder if these are the same beings as the shadow I saw earlier.","",""
+"\E黒い霧は遺跡から広がりつつあり
+このタウンにも迫ってきている。","","\EThe black mist is spreading from the ruins.
+It is also approaching this town.","",""
+"\E…と、まとめるとこんな感じかしら。","","\E...and when summarized, it would be something like this.","",""
+"\Eええと…じゃあ大会は…","","\EUm... so the tournament is...","",""
+"\Eんー、さすがにこの状況だと
+試合どころではないでしょうね。","","\EHmm, it's no wonder that in this situation, 
+it's not the time for a match, right?","",""
+"\Eお、おい…聞いたか…？","","\EHey... did you hear...?","",""
+"\Eなんかやばいんじゃね―か？","","\EIsn't this kind of dangerous?","",""
+"影","","","",""
+"\Eグォォォォォッ！！！","","\EGwoooooo!!!","",""
+"SE/sword-slash3.mp3","","","",""
+"SE/down1.mp3","","","",""
+"\E落ち着いて対処すれば、この影はそこまで強くはない。
+…君達の方がまだ幾分かマシだ。","","\EIf you handle it calmly, this shadow won't be that strong.
+...You guys are still somewhat better.","",""
+"\Eす、すまんアカツキ…助かった。","","\ES-Sorry Akatsuki... I'm saved.","",""
+"\Eしかし…これは…。","","\EHowever... this is...","",""
+"\E報告によると近くの遺跡から得体の知れない
+黒い霧のようなものが溢れ出したという事よ。","","\EAccording to the report, it is said that an unknown 
+black mist-like substance overflowed from the nearby ruins.","",""
+"\Eオレたちのギルドは惜しくも決勝で破れ、
+前回に続きタウン支部のチームが優勝。","","\EUnfortunately, our guild was defeated in the finals, 
+and once again, the town branch team won the championship.","",""
+"\Eギルドは負けてしまったものの
+決勝進出の実績を認められ合併は見送りとなった。","","\EAlthough the guild lost, 
+they were recognized for their achievement of reaching the finals and the merger was postponed.","",""
+"異形襲来","","","",""
+"\Eあれ、ユカリさん？ご無沙汰です。
+どうしたんですか顔色変えて？","","\EOh, Yukari-san? Long time no see.
+What's wrong? Your face looks pale.","",""
+"\E古い遺跡に未発見の層が発見されて…そこから黒い霧が…
+ええと…と、とにかく危険が迫っているの！","","\EAn undiscovered layer was discovered in the ancient ruins... and from there, a black mist...
+Um... um, anyway, danger is approaching!","",""
+"\E（なんだか要領を得ないけど…
+ユカリさんがこんなに取り乱すなんておお事だぞ…","","\E (Somehow, I can't quite grasp it... 
+ It's a big deal that Yukari-san is getting so flustered like this...","",""
+"\Eもうタウンのあたりは霧で真っ暗よ…
+じきにここも飲まれる。","","\EThe area around the town is already pitch black with fog... 
+Soon, this place will be swallowed up too.","",""
+"\E今は説明してる時間が惜しいわ、
+とにかく遠くに逃げるのよ。","","\EI don't have time to explain now, 
+but anyway, I need to run away far.","",""
+"\E私は村人たちを誘導するから
+お兄ちゃん達もすぐにここを離れて！","","\EI will guide the villagers, so
+brothers, please leave here immediately!","",""
+"\Eわ、わかりました。","","\EOkay, I-I understand.","",""
+"cg/bg_02_house_a.jpg","","","",""
+"BattleEffect/frameeffects001m.png","","","",""
+"\Eこれは…黒い…霧…？","","\EIs this... black... mist...?","",""
+"\Eな、なんだこいつら？","","\EWhat, what are these guys?","",""
+"影敗北","","","",""
+"\Eどこから出てきた…！？","","\EWhere did it come from...!?","",""
+"\Eくっ…まだ来るぞ！！","","\EUgh... They're still coming!!","",""
+"\Eくそ…倒しても倒しても…","","\EDamn... no matter how many times I defeat them...","",""
+"BattleEffect/pipo-mapeffect015_480.png","","","",""
+"\Eお、お兄ちゃん！あれ！","","\EOh, big brother! Look!","",""
+"\Eなんだこれは！？","","\EWhat is this!?","",""
+"\Eみんな、来るぞ…！","","\EEveryone, they're coming...!","",""
+"\E陽の光に溶けこむように霧が晴れていく。
+怪異は去った―","","\EThe mist clears as if melting into the sunlight.
+The strangeness has departed—","",""
+"\E―かのように思えた。","","\EIt seemed as if.","",""
+"\Eこの国ではその日を堺にして、夜の帳に―
+深い森の奥底に―、日の届かぬ路地裏に―","","\EIn this country, on that day, behind the veil of night—
+deep within the depths of the forest—within the sunless alleyways—","",""
+"\E”影”が現れるようになる。
+そしてやがて…","","\E""Shadows"" start to appear.
+And soon...","",""
+"\Eここに到達したお兄ちゃんは育成は十分。
+あとは大会を勝ち抜くだけなので頑張ってください。","","\EThe big brother who has reached this point has trained enough.
+Now all that's left is to win the tournament, so please do your best.","",""
+"\EEND　～影～","","\EEND ~Shadow~","",""
+"\E溢れ出した黒い霧は国中を覆い尽くし
+山を森を野を黒く染め上げる。","","\EThe overflowing black mist covers the entire country 
+and dyes the mountains, forests, and fields black.","",""
+"\E異形が我が物顔で闊歩し
+陽の光を遮る黒い霧で覆われた大地。","","\EThe land covered in a black mist that blocks the sunlight, where the aliens walk around with a sense of ownership.
+","",""
+"\Eいつしかこの地方は畏怖を込めて
+人々にこう呼ばれることになる。","","\EBefore long, this region came to be called with awe 
+by the people.","",""
+"\E―魔界と。","","\E- The Demon World.","",""
+"\Eここにたどり着いたお兄ちゃんは育成が足りていません。
+おちんちんびろーんで調子を上げ鍛錬を効率的に行いましょう。","","\EThe big brother who arrived here is not sufficiently trained.
+Let's increase our condition with the penis biron and train efficiently.","",""
+"\EBADEND　～魔界～","","\EBAD END ~Demon World~","",""
+"遠征隊","","","",""
+"BGM/Tenseness.ogg","","","",""
+"cg/bg_08_ruins_a.jpg","","","",""
+"\Eこれで何体目…？","","\EHow many is this...?","",""
+"\Eいまので36体目ですね。","","\EThis is the 36th one.","",""
+"\Eはー、きりがないね…。","","\ESigh, there's no end to it...","",""
+"\Eこの先の床面が崩れた箇所を降りれば新階層に行ける。
+門は下に降りてまっすぐ進んだ先だ。","","\EIf you descend from the collapsed area of the floor ahead, you can go to a new level.
+The gate is straight ahead after descending.","",""
+"\E霧が濃くなってきましたね…。","","\EThe fog has become thicker...","",""
+"\Eまた影が出てくるかも知れない、先を急ごう。","","\EThere might be more shadows appearing, let's hurry ahead.","",""
+"cg/bg_21_cave_a.jpg","","","",""
+"cg/bg_32_station.jpg","","","",""
+"\E降りてまっすぐ…ここ、だよね？","","\EStraight down... This is it, right?","",""
+"\Eこれがその、門…なんでしょうか。","","\EThis is the gate... What could it be?","",""
+"\Eうーん…石の柱と…なんかシャンデリア？
+えーと、とにかくこのへん壊してみる？","","\EHmm... stone pillars and... some kind of chandelier?
+Um, anyway, should I try destroying this area?","",""
+"マッシブ兄","","Massive Brother","",""
+"\Eはっはっは、了解だ。
+任せてくれ。","","\EHahaha, understood.
+Leave it to me.","",""
+"\E待て！","","\EWait!","",""
+"1.4.0/v144_cg11_1.jpg","","","",""
+"\E門が…起動した…！？","","\EThe door... has been activated...!?","",""
+"1.4.0/v144_cg11_3.jpg","","","",""
+"\E門が…ひらいた…？","","\EThe door... opened...?","",""
+"\E門から…何か…何か出てくるぞ！","","\ESomething... something is coming out of the door!","",""
+"1.4.0/v144_cg11_2.jpg","","","",""
+"1.4.0/v144_cg11_4.jpg","","","",""
+"SE/small_explosion1.mp3","","","",""
+"\Eよーし今だ、門をぶっ壊せ！","","\EAlright, now is the time. Break down the gate!","",""
+"\E思惑通り、門を破壊することで霧の流入は収まり。
+その後は影に出会うこともなくあっさりと帰路についた。","","\EAs expected, the influx of mist subsided by destroying the gate.
+Afterwards, they returned home without encountering any shadows.","",""
+"\E今後詳しく今回の件について調査が行われるだろうが
+ひとまずオレたちの任務はここまでだ。","","\EThere will likely be a detailed investigation into this matter in the future, but for now, our mission ends here.
+","",""
+"\Eあの門がどこに繋がってしまったのかは知る由もないが…
+今や完全に破壊され再び開くことはないだろう。","","\EI have no idea where that gate leads to...
+But now it's completely destroyed and will never open again.","",""
+"\Eこうして…、一連の騒動は収まり。
+オレたちはいつもの日常へ戻っていった。","","\EAnd so... the series of disturbances came to an end.
+We returned to our usual daily lives.","",""
+"\Eそして騒動のせいもあって今回優勝こそ逃したが
+この働きっぷりのおかげで無事メクア村のギルド存続が決定した！","","\EAnd due to the commotion, we missed out on winning this time, but
+thanks to this hard work, the survival of the guild in Mequa Village has been secured!","",""
+"期限切れ","","","",""
+"\Eあれ、ユカリさん？
+どうしたんですか顔色変えて？","","\EHey, Yukari-san? 
+What's wrong? Your face looks pale.","",""
+"\Eお兄ちゃん！
+黒い霧がそこまで迫っているの…もう…手遅れね…","","\EBig brother! 
+The black mist is closing in... It's already... too late...","",""
+"\Eくそっこんなところにまで…！","","\EDamn it, even to a place like this...!","",""
+"\Eお、お兄ちゃん…。","","\EOh, big brother...","",""
+"\Eこっちだ！","","\EThis way!","",""
+"\Eう、うん…。","","\EUh, yeah...","",""
+"\E妹の手を取りただひたすら黒い霧に背を向けて走る。","","\EI took my sister's hand and ran, relentlessly turning my back to the black mist.","",""
+"\E野を、森を、小川を超え…
+小高い丘までたどり着いてから初めて振り返る。","","\ECrossing fields, forests, and streams... 
+Only after reaching the small hill, I finally look back.","",""
+"\E眼下に広がるのは地上にぽかりと空いた穴の様な闇。","","\EThe darkness spread out before my eyes, like a hole that opened up in the ground.","",""
+"\E―ただ闇だけが広がっていた。","","\E- Only darkness spread out.","",""
+"\E時間切れです。
+100日到達前に事件を解決してください。","","\ETime is up.
+Please solve the case before reaching 100 days.","",""
+"\EBADEND　～逃亡～　","","\EBAD END - Escape -","",""
+"決着","","","",""
+"\E今日はタウン支部との交流戦よ。
+正式な大会ではないけどここで白黒つけましょ。","","\EToday is a friendly match with the Town Branch.
+It's not an official tournament, but let's settle things here.","",""
+"\Eみんな、準備はいい？","","\EIs everyone ready?","",""
+"　おう！　","","　Oh!","",""
+"\Eふ…久しぶりだな…。","","\EHuh... It's been a while...","",""
+"\Eあの時の約束を覚えているか…？","","\EDo you remember the promise we made back then...?","",""
+"\E約束？","","\EPromise?","",""
+"\E勝ったら先生を…","","\EIf I win, I will...","",""
+"　いやオレそんな約束してない…。","","　No, I didn't make such a promise...","",""
+"\Eな…っ！？","","\EWha...!?","",""
+"\Eてかさ─。
+そんなに言うならお前がメクアに来ればいいじゃん。","","\EWell, you know...
+If you're gonna say that much, why don't you just come to Mequa?","",""
+"\Eはっ！
+いまさら何を言うかと思えば…","","\EHah!
+And just when I thought what you were going to say now...","",""
+"\Eえ、いいのか！？","","\EWait, is it okay!?","",""
+"\Eまあ、なんか変な空気になってしまったけど…やるか。","","\EWell, it's become a weird atmosphere but... let's do it.","",""
+"\E決着をつけるぞ！","","\EI will settle this!","",""
+"旅路","","","",""
+"SE/sirorenga.mp3","","","",""
+"cg/bg_01_home_a.jpg","","","",""
+"\E……ぃ…ちゃん。","","\E...I...chan.","",""
+"\E…おにいちゃん、おにーちゃん！
+ほらあ、そろそろ起きないと遅れちゃうよー。","","\E...Onii-chan, onii-chan! 
+Hey, come on, you need to wake up soon or you'll be late.","",""
+"SE/se_basa.mp3","","","",""
+"cg/whitescreen.jpg","","","",""
+"1.4.0/v144_cg1_2.jpg","","","",""
+"\Eお""・に""・い""・ぢ・ゃ・ん""っ！","","\EOh, ni, i, di, ya, n!","",""
+"BGM/line.ogg","","","",""
+"\Eあれから月日は流れ…季節は春。","","\ETime has passed since then... The season is spring.","",""
+"\E旅立ちの季節だ。","","\EIt's the season of departure.","",""
+"\Eちかごろの妹は誰の影響なのか
+少し口が悪くなってきた気がする。","","\EI feel like my little sister has become a bit more rude lately. 
+I wonder whose influence it is.","",""
+"\Eあの大冒険の後は、
+髪色も母親に似た黄金色を取り戻しつつある。","","\EAfter that great adventure, 
+my hair color is gradually returning to the golden color that resembles my mother.","",""
+"\E金色の部分が肩まで伸びたら切るだなんて言っているのは
+お兄ちゃんからすると少し勿体ない気もするが…","","\EIt feels a bit wasteful to say that I should cut it when the golden part reaches my shoulders... 
+from my older brother's perspective.","",""
+"\Eまあそれでも妹はかわいい、最高だ。","","\EWell, my sister is still cute, the best.","",""
+"\Eとりあえずは街道を東に、この国の果てへ。
+その後は…南国の島々を巡るのも悪くないかも知れない。","","\EFor now, head east along the highway, towards the end of this country.
+After that... it might not be a bad idea to explore the tropical islands to the south.","",""
+"cg/map_04.jpg","","","",""
+"\Eとにかく─
+まだ見知らぬ世界を見て回る世界旅行をする。","","\EAnyway, 
+I will travel the world and see unfamiliar places.","",""
+"\Eこれから妹と、妹たちと―","","\EFrom now on, with my little sister and her sisters―","",""
+"\E世界をめぐる大冒険を！","","\EEmbark on a great adventure around the world!","",""
+"エンディング","","","",""
+"cg/staff.png","","","",""
+"Picture/title01.jpg","","","",""
+"1.4.0/v144_cg1_1.jpg","","","",""
+"cg/ending08.jpg","","","",""
+"cg/ending07.jpg","","","",""
+"1.4.0/v144_cg2_1.jpg","","","",""
+"cg/ending03.jpg","","","",""
+"1.4.0/v144_cg5_2.jpg","","","",""
+"cg/ending11.jpg","","","",""
+"cg/ending06.jpg","","","",""
+"cg/ending09.jpg","","","",""
+"cg/ending02.jpg","","","",""
+"cg/ending05.jpg","","","",""
+"ループへ","","","",""
+"4フレームごとに1ピクセルずつピクチャが動いていく処理","","","",""
+"決定もキャンセルも押されてないとき（キー入力が0のとき）","","","",""
+"決定キー（１０）かキャンセルキー（１１）押されてたら高速でピクチャを動かす","","","",""
+"cg/ending01.jpg","","","",""
+"cg/ending01-2.jpg","","","",""
+"\E▼","","","",""
+"\Eストーリーの完走ほんとうにお疲れさまでした！
+引き続き妹！せいかつをお楽しみください！","","\ECongratulations on completing the story! 
+Please continue to enjoy your life with your sister!","",""
+"種を植えよう","","","",""
+"\Eあ、やっときた。","","\EAh, you finally made it.","",""
+"cg/bg_07_guild_l.jpg","","","",""
+"　アレ、今日はみんなどうしたんだ？　","","　What's wrong? What happened to everyone today?","",""
+"\E珍しく仕事の依頼よ。
+実は村近くの森でね、魔物が出たって報告があったのよ。","","\EIt's rare to receive a job request.
+Actually, there has been a report that monsters appeared in the forest near the village.","",""
+"\E魔物って…大事じゃないですか
+…本当ですか？","","\EMonsters... aren't they important?
+... Is that true?","",""
+"\Eわからないわ、
+この辺で魔物が出るなんて聞いた事はないけど…","","\EI don't know, 
+I've never heard of monsters appearing around here...","",""
+"\Eだから今日はその件の調査をお願いするわね。","","\ESo today, I'm asking you to investigate that matter.","",""
+"\E正直見間違いか勘違いだとは思うけど、
+もし本当に魔物だとしたら戦闘は避けるのよ。","","\EHonestly, I think it might be a mistake or a misunderstanding, 
+but if it really is a monster, we should avoid fighting.","",""
+"\Eはいっ","","\EYes","",""
+"\E目撃情報があったのはここか…ってうちの裏じゃないか。","","\EIs this the place where there was a sighting...? Isn't this behind my house?","",""
+"\Eとにかく調べてみよう。","","\ELet's investigate anyway.","",""
+"cg/bg_11_forest_a.jpg","","","",""
+"\E……ガサガサ……","","\E...Rustling...","",""
+"\Eお兄ちゃん、あれ！","","\EBig brother, look!","",""
+"\Eん？","","\EHuh?","",""
+"Picture/enemy_017.png","","","",""
+"\Eあ、あれは…
+いや…そ、その葉っぱの模様…まさか…","","\EAh, that... 
+No... th-the pattern on that leaf... could it be...","",""
+"\Eどうかしたんですか？","","\EWhat's wrong?","",""
+"\Eや、な…なんでもない。","","\EYeah, it's... it's nothing.","",""
+"\E珍しい…あれは絶叫ニンジンです。
+ランニング根菜みたいなもので害はないですよ。","","\ERare... that is the Screaming Carrot.
+It's like a running root vegetable, so it's harmless.","",""
+"\Eちなみに滋養強壮によいと聞きます。","","\EBy the way, I hear that it is good for nourishing and strengthening the body.","",""
+"\Eえっとどうする…お兄ちゃん。","","\EUm, what should we do... big brother.","",""
+"\E害がないならまぁ…。","","\EWell, if there's no harm...","",""
+"\Eそだね。","","\ESure thing.","",""
+"\Eじゃあ報告に帰りましょうか。","","\EShall we go back and report then?","",""
+"\E（お前…もっと人目の付かない森の奥へ行くんだぞ…","","\E (You... go deeper into the forest where no one can see you...)","",""
+"\Eこうして事件？は無事解決した。","","\EAnd so, the incident? was successfully resolved.","",""
+"\E妹には黙っておこう…。","","\ELet's keep it a secret from my little sister...","",""
+"見回り","","","",""
+"cg/training_f2.jpg","","","",""
+"呼び出しイベント","","","",""
+"初めての週末","","","",""
+"ギルド交流戦1","","","",""
+"交流戦2","","","",""
+"初めての討伐依頼","","","",""
+"併合の危機","","","",""
+"実績","","","",""
+"カスミの秘密","","","",""
+"交流戦3","","","",""
+"異形","","","",""
+"経験1","","","",""
+"経験2","","","",""
+"乱数","","","",""
+"交流戦勝利","","","",""
+"勝敗","","","",""
+"予選負け回数","","","",""
+"曜日代入","","","",""
+"スタッフロール処理","","","",""
+"キー操作","","","",""

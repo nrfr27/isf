@@ -1,0 +1,101 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"┣ターン開始処理","","","",""
+"Picture/battle_member01a.png","","","",""
+"カナ","","","",""
+"Picture/battle_member03a.png","","","",""
+"ユイ","","","",""
+"Picture/battle_member02a.png","","","",""
+"カスミ","","","",""
+"Picture/battle_member04a.png","","","",""
+"cg/blackscreen.jpg","","","",""
+"<SQUARE>","","","",""
+"<C>\f[64]\E戦闘終了<L>","","","\E\font[3]\f[64]\-[2]<C>End of Battle<L>",""
+"SE/katana-slash5.mp3","","","",""
+"<C>\f[64]\E\v[349]\f[32]/\cself[31] \f[48]ターン<L>","","","\E\font[3]\-[2]<C>\f[48]Turn \f[64]\v[349]\f[32]/\cself[31]<L>",""
+"SE/sceneswitch2.mp3","","","",""
+"回復タイプ","","","",""
+"\c[3]\f[48]\E\cself[10]","","","\E\font[3]\f[48]\-[2]\c[3]\cself[10]",""
+"SE/[Effect]Healing1_panop.ogg","","","",""
+"美食倶楽部","","","",""
+"1","","","",""
+"投石","","","",""
+"SE/kick-middle1.mp3","","","",""
+"\f[16]心無いファンからの投石！","","","\E\font[3]\f[15]\-[2]Heartless fans are pelting us with rocks!",""
+"\f[16]\cself[13]のダメージを受けた！！","","","\E\font[3]\f[15]\-[2]Received \cself[13] points of damage!",""
+"\c[14]\f[48]\E\cself[13]","","","\E\font[3]\f[48]\-[2]\c[14]\cself[13]",""
+"SE/Knockdown.wav","","","",""
+"BattleEffect/pipo-btleffect002.png","","","",""
+"\f[16]熱狂的ファンの黄色い声援！","","","\E\font[3]\f[15]\-[2]Enthusiastic fans cheering loudly!",""
+"\f[16]「「カズヤー頑張ってー！！」」","","","\E\font[3]\f[15]\-[2]""You've got this, Kazuya!""",""
+"BattleEffect/frameeffects001m.png","","","",""
+"攻撃を戻す","","","",""
+"防御を戻す","","","",""
+"スキル発動チェックと効果付与","","","",""
+"\c[9]\f[12]\v[178]","","","\font[3]\f[12]\c[9]\v[178]",""
+"\c[9]\f[12]\v[176]","","","\font[3]\f[12]\c[9]\v[176]",""
+"\c[9]\f[12]\v[177]\f[6]%","","","\font[3]\f[12]\c[9]\v[177]\f[6]%",""
+"SE/skill_attack01.wav","","","",""
+"BattleEffect/pipo-btleffect045.png","","","",""
+"<C>\c[18]\f[24]\E陣地形成
+\c[0]\f[18]\Eスキル発動率UP
+","","","\font[3]\f[24]\-[2]\c[18]<C>\EBattle Formation
+\c[0]\f[18]\ESkill Activation Rate UP",""
+"SE/status03.mp3","","","",""
+"\c[9]\f[12]\v[194]\f[6]%","","","\font[3]\f[12]\c[9]\v[194]\f[6]%",""
+"<C>\c[18]\f[24]\E反撃の狼煙
+\c[0]\f[18]\E反撃率UP
+","","","\font[3]\f[24]\-[2]\c[18]<C>\ERetaliation
+\c[0]\f[18]\ECounterattack Rate UP",""
+"\c[9]\f[12]\v[179]\f[6]%","","","\font[3]\f[12]\c[9]\v[179]\f[6]%",""
+"<C>\c[18]\f[24]\E超集中
+\c[0]\f[18]\E会心率UP
+","","","\font[3]\f[24]\-[2]\c[18]<C>\EHyperfocus
+\c[0]\f[18]\ECritical Rate UP",""
+"\f[16]アカツキ「畳み掛けるぞ！！」","","","\E\font[3]\f[15]\-[2]Akatsuki: ""I'm not going to hold back!!""",""
+"<C>\c[18]\f[24]\E集中攻撃
+\c[0]\f[18]\E会心率UP
+","","","\font[3]\f[24]\-[2]\c[18]<C>\EFocused Attack
+\c[0]\f[18]\ECritical Rate UP",""
+"<C>\c[18]\f[24]\E自動回復
+\c[3]\f[18]\cself[15]","","","\font[3]\f[24]\-[2]\c[18]<C>\EAuto-recovery
+\c[3]\f[18]\E\cself[15]",""
+"SE/Healing.wav","","","",""
+"\f[12]▼","","","",""
+"\f[16]ノーソン「食ってけれ！」","","","\E\font[3]\f[15]\-[2]Norson: ""Eat this!""",""
+"<C>\c[18]\f[24]\E支援物資
+\c[3]\f[18]\cself[15]","<C>\c[18]\f[24]\E Support Supplies
+\c[3]\f[18]\cself[15]]","","\font[3]\f[24]\-[2]\c[18]<C>\ESupport Supplies
+\c[3]\f[18]\E\cself[15]",""
+"<C>\c[18]\f[24]\E堅固
+\c[0]\f[18]\Eガード率UP
+","","","\font[3]\f[24]\-[2]\c[18]<C>\ESturdy
+\c[0]\f[18]\EGuard Rate UP",""
+"\f[16]マッシブ「はっはっは、守りは任せろ！」","","","\E\font[3]\f[16]\-[2]Massive: ""Hahaha, leave the protection to me!""",""
+"<C>\c[18]\f[24]\E肉壁
+\c[0]\f[18]\Eガード率UP
+","","","\font[3]\f[24]\-[2]\c[18]<C>\EMeatshield
+\c[0]\f[18]\EGuard Rate UP",""
+"<C>\c[18]\f[24]\E機転
+","","","\font[3]\f[24]\-[2]\c[18]<C>\EResourcefulness",""
+"Picture/enemy_039.png","","","",""
+"\c[3]\f[48]\E1000","","","\font[3]\f[48]\-[2]\c[3]\E1000",""
+"Picture/stand_sub_yui02.png","","","",""
+"\f[16]猿たちが…！
+","","","\E\font[3]\f[15]\-[2]The monkeys...!",""
+"Picture/stand_sub_kasumi01.png","","","",""
+"\f[16]潮時ですね…下がりましょう！
+","","","\E\font[3]\f[15]\-[2]Good timing... let's retreat!",""
+"\c[9]\f[16]★","","","",""
+"\f[16]戦闘終了まで\cself[50]ターン
+","","","\E\font[3]\f[15]\-[2]\cself[50] turns until the end of battle.",""
+"防御コマンド","","","",""
+"敵回復量","","","",""
+"投石ダメ","","","",""
+"回数","","","",""
+"回復量","","","",""
+"乱数100","","","",""
+"スキル発動率","","","",""
+"ターン数","","","",""
+"pic番号","","","",""
+"X","","","",""
+"終了まで","","","",""

@@ -1,0 +1,96 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"合宿","","","",""
+"トップ","","","",""
+"cg/bg_26_sea_b.jpg","","","",""
+"BGM/wave1.mp3","","","",""
+"1","","","",""
+"\Eさあ合宿だ！
+どうしようかな…","","","\E\font[3]\f[18]\-[2]Here comes the training camp! 
+What should I do...?",""
+"\E午後はどうしようか…？","","","\E\font[3]\f[18]\-[2]What should I do in the afternoon?",""
+"攻撃の能力を鍛えたい！","","","\font[3]\f[17]Train my offensive abilities!",""
+"防御の能力を鍛えたい！","","","\font[3]\f[17]Train my defensive abilities!",""
+"スキル能力を鍛えたい！","","","\font[3]\f[17]Train my skill abilities!",""
+"リフレッシュする！","","","\font[3]\f[17]Refresh and recharge!",""
+"\Eだいぶ疲れているがいいのか？
+\c[2]特訓効果と調子が下がります。\c[0]","","","\E\font[3]\f[18]\-[2]I feel tired, but is this okay?
+\c[2]Training effectiveness and condition will decrease.\c[0]",""
+"はい","","","\font[3]\f[17]Yes",""
+"いいえ","","","\font[3]\f[17]No",""
+"\Eやるか…。","","","\E\font[3]\f[18]\-[2]Let's do it...",""
+"\Eよし！やるぞ！","","","\E\font[3]\f[18]\-[2]Alright! Let's go!",""
+"\Eうおおお！リフレッシュするぞ！","","","\E\font[3]\f[18]\-[2]Uooohh! I'm going to recharge myself!",""
+"cg/event44_02.jpg","","","",""
+"cg/event44_01.jpg","","","",""
+"\Eやる気があがった！","","","\E\font[3]\f[18]\-[2]I feel more motivated!",""
+"<SQUARE>","","","",""
+"妹","","","\font[3]\f[18]Imouto",""
+"\Eおにーちゃーん！","","","\E\font[3]\f[18]\-[2]Onii-chan!",""
+"\Eおつかれさま。
+そろそろお昼にしよ。","","","\E\font[3]\f[18]\-[2]Great work. 
+It's about time for lunch.",""
+"\Eお、もうそんな時間か。","","","\E\font[3]\f[18]\-[2]Oh, is it already that time of day?",""
+"ユカリ","","","\font[3]\f[18]Yukari",""
+"\Eはいラスト一本～！","","","\E\font[3]\f[18]\-[2]Alright, one last game!",""
+"\Eうおおおお！","","","\E\font[3]\f[18]\-[2]Uooohhh!",""
+"\E……。","","","\E\font[3]\f[18]\-[2]......",""
+"\E…………。","","","\E\font[3]\f[18]\-[2].........",""
+"cg/bg_26_sea_c.jpg","","","",""
+"\Eぜぇ…ぜぇ…。
+こ、この調子で一週間か…。","","","\E\font[3]\f[18]\-[2]Huff... huff... 
+At this rate, it'll take another week...",""
+"\E…大丈夫なのか？","","","\E\font[3]\f[18]\-[2]...Are you okay?",""
+"\Eお、ユカリさんと…妹？
+なんだか珍しい組み合わせだな。","","","\E\font[3]\f[18]\-[2]Oh, Yukari-san and... Imouto? 
+That's quite a rare pairing.",""
+"\E…けど妹ちゃんの場合ちょっと気弱そうに見えるから、
+もう少し砕けたほうがいいのかもねー。","","","\E\font[3]\f[18]\-[2]...But Imouto-chan appears somewhat timid,
+so perhaps it would be better to be a bit more approachable.",""
+"\Eほらぁ、良くも悪くも大雑把な人とか多いでしょ？
+冒険者相手なんかざっくり強気くらいで丁度いいのよ。","","","\E\font[3]\f[18]\-[2]You know, there are many people who are rough around the edges, for better or worse, right?
+When it comes to dealing with adventurers, being confidently assertive is just the right way to go.",""
+"\E何の話だ…？","","","\E\font[3]\f[18]\-[2]What are they talking about...?",""
+"\E減るので止めてください、とか
+はいはいそういうのいいから、このあたりは使えるわね。","","","\E\font[3]\f[18]\-[2]You can say something like, 
+""Please stop, it's annoying."" or ""Okay, you satisfied?""",""
+"\Eお兄ちゃんあたりがヘンな事したらバカじゃねーの？
+くらい言ってやればいいわよ。","","","\E\font[3]\f[18]\-[2]Or if he does something strange, 
+you should be able to just tell him that he's being an idiot.",""
+"\Eば、ばかじゃないの…ですか。","","","\E\font[3]\f[18]\-[2]A-An idiot... huh?",""
+"\Eだから何の話…。","","","\E\font[3]\f[18]\-[2]Seriously, what are they talking about...",""
+"\Eふふ、将来が楽しみねーお兄ちゃん。","","","\E\font[3]\f[18]\-[2]Hehe, I'm looking forward to seeing what your future holds, Onii-chan.",""
+"\E全く話が見えん！","","","\E\font[3]\f[18]\-[2]What in the world were they talking about!",""
+"合宿終わり、帰宅処理（イベント回避して自宅に帰ります）","","","",""
+"\E5日間お疲れさま、お兄ちゃん。
+長いようであっという間だったけど今日で合宿は終わりよ。","","","\E\font[3]\f[18]\-[2]You've worked hard for the past five days, Onii-chan. It felt long, but it went by in a blink
+of an eye. And today marks the end of our training camp.",""
+"\Eそうか、もうそんななのか…。","","","\E\font[3]\f[18]\-[2]I see, it's finally over, huh...",""
+"\E再来週からもう本戦がはじまるから。
+\c[1]できるときに買い物や技の習得は済ませておいてね。\c[0]","","","\E\font[3]\f[18]\-[2]The main tournament will begin again in two weeks, 
+so try to finish any shopping or skill acquisition beforehand.",""
+"\Eこうして今日も日が暮れる…。","","","\E\font[3]\f[18]\-[2]And so, the sun sets once more...",""
+"cg/bg_16_midnight_d.jpg","","","",""
+"\Eお兄ちゃん、今日もお疲れさま。","","","\E\font[3]\f[18]\-[2]Onii-chan, thank you for your hard work today as well.",""
+"将来の話","","","\font[3]\f[17]Talk about the future",""
+"えっちな話","","","\font[3]\f[17]Talk about lewd things",""
+"他愛もない話","","","\font[3]\f[17]Talk about trivial things",""
+"cg/bg_16_midnight_e.jpg","","","",""
+"\E冒険者は無理でも…
+それを支える人になりたいな。","","","\E\font[3]\f[18]\-[2]If becoming an adventurer is not possible for me anymore, 
+I still want to be someone who can provides you with support.",""
+"\Eそしたら、ずっと一緒にいられるしね。","","","\E\font[3]\f[18]\-[2]And then, we can be together forever.",""
+"\E…………","","","\E\font[3]\f[18]\-[2].........",""
+"\E二人でおおいに夢を語った。","","","\E\font[3]\f[18]\-[2]We talked a lot about our dreams together.",""
+"\Eとても盛り上がった。","","\EIt was very exciting.","\E\font[3]\f[18]\-[2]It was very exciting.",""
+"\E…もー、またそんな事言って。","","\E...Geez, you're saying that again.","\E\font[3]\f[18]\-[2]...Geez, you're saying that again.",""
+"\Eほんと、お兄ちゃんえっちだよね。","","\ESeriously, big brother, you're so naughty.","\E\font[3]\f[18]\-[2]Seriously, Onii-chan, you're so perverted.",""
+"\Eえっちな話をした。","","\EWe had a naughty conversation.","\E\font[3]\f[18]\-[2]We talked about lewd things.",""
+"\E興味津々のようだ。","","\ESeems to be very interested.","\E\font[3]\f[18]\-[2]She seems to be very interested.",""
+"cg/bg_16_midnight_f.jpg","","","",""
+"\Eお兄ちゃんお兄ちゃん。","","\EBig brother, big brother.","\E\font[3]\f[18]\-[2]Onii-chan, Onii-chan.",""
+"\Eあたし今日ね……","","\EI have something to tell you today...","\E\font[3]\f[18]\-[2]I have something to tell you about today...",""
+"\E他愛もない話をした。","","\EWe had a pointless conversation.","\E\font[3]\f[18]\-[2]We talked about trivial things.",""
+"\E意外と盛り上がった。","","\EIt unexpectedly got exciting.","\E\font[3]\f[18]\-[2]It turned out to be more engaging than I expected.",""
+"実行回数","","","",""
+"変動値1","","","",""
+"変動値2","","","",""

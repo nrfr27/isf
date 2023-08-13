@@ -1,0 +1,237 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"●┣訪問者","","","",""
+"SE/door-wood-knock2.mp3","","","",""
+"再抽選","","","",""
+"クマヘッドの稽古","","","",""
+"\E（コンコンコン）","","\E(Knock, knock, knock)","\E\font[3]\f[18]\-[2](Knock, knock, knock)",""
+"\Eん、誰だこんな夜に…。","","\EHmm, who could it be on a night like this...?","\E\font[3]\f[18]\-[2]Huh, who could it be at this hour...",""
+"\Eなんとクマヘッドだ！","","\EWhat a bear head!","\E\font[3]\f[18]\-[2]Bear head!",""
+"クマ頭男","","Bear-headed man","\font[3]\f[18]Bear-headed Man",""
+"\Eお前に稽古をつけてやろうヘッド！","","\EI'll teach you a lesson, Head!","\E\font[3]\f[18]\-[2]I'll teach you a head lesson!",""
+"\E………………………………。","","\E..........................................","\E\font[3]\f[18]\-[2]...............",""
+"\E……無理やり稽古をつけられた。
+なんだったんだ。","","\E...I was forced to practice against my will.
+What was that all about.","\E\font[3]\f[18]\-[2]I was forced to train against my will... 
+What was that all about?",""
+"SE/decision4.mp3","","","",""
+"\Eスキル\c[1]攻撃センス\c[0]のヒントを得た！","","\EObtained hints for \c[1]skill \c[0]attack sense!","\E\font[3]\f[18]\-[2]Obtained skill inspiration: \c[1]Attack Sense!\c[0]",""
+"\Eスキル\c[1]防御センス\c[0]のヒントを得た！","","\EObtained a hint\c[1]Skill\c[0]Defense Sense!","\E\font[3]\f[18]\-[2]Obtained skill inspiration: \c[1]Defense Sense!\c[0]",""
+"\Eスキル\c[1]渾身の一撃\c[0]のヒントを得た！","","\EObtained a hint\c[1]for a powerful blow\c[0]skill!","\E\font[3]\f[18]\-[2]Obtained skill inspiration: \c[1]All-out Attack!\c[0]",""
+"伝説の料理人","","","",""
+"O・イズミさん","","O Izumi-san","\font[3]\f[18]O Izumi-san",""
+"ミスター味ボーイ","","Mr. Flavor Boy","\font[3]\f[18]Mr. Flavor Boy",""
+"\E伝説の料理人\cself[5]だ！","","\EI am a legendary chef\cself[5]!","\E\font[3]\f[18]\-[2]\EI am the legendary chef, known as \cself[5]!",""
+"Oイズミ","","O Izumi","\font[3]\f[18]O Izumi",""
+"\Eおい！パイ食わねぇか！？","","\EHey! Wanna eat some pie?!","\E\font[3]\f[18]\-[2]Hey! Wanna eat some pie?!",""
+"食べる","","Eat","\font[3]\f[17]Sure",""
+"食べない","","Not eating","\font[3]\f[17]No thanks",""
+"\E……奇跡的に旨かった。","","\E...It miraculously tasted delicious.","\E\font[3]\f[18]\-[2]...It miraculously tasted delicious.",""
+"\Eめちゃくちゃに辛い！！！！","","\EExtremely painful!!!!","\E\font[3]\f[18]\-[2]It's extremely spicy!!!!",""
+"\Eいやそれは…ちょっと…。","","\ENo, that's... a little...","\E\font[3]\f[18]\-[2]No thanks, because... uh...",""
+"お届け","","","",""
+"味ボーイ","","Taste Boy","\font[3]\f[18]Flavor Boy",""
+"\Eねえ！食べてみてよ！","","\EHey! Give it a try and eat it!","\E\font[3]\f[18]\-[2]Hey! Give it a try and eat it!",""
+"\E正直期待したほどでもなかった…。","","\EI wasn't honestly as excited as I expected...","\E\font[3]\f[18]\-[2]To be honest, it tasted kinda bland...",""
+"\E……こ、これは…！","","\E...Th-this is...!","\E\font[3]\f[18]\-[2]......What the...!",""
+"\Eう・ま…","","\EU-ma...","\E\font[3]\f[18]\-[2]It's... so...",""
+"\Eい……ぞーーーーーーーーーーーーーっ！！！！！","","\EI... heeeeeeeeeeeey!!!","\E\font[3]\f[18]\-[2]Gooooooooooood!!!",""
+"\Eああ…落ちていく…落ちていく……味の海に……
+深い味の深海に………うまいぞ…うまいぞぉ………！","","\EAh... falling... falling... into the sea of flavors...
+Into the deep sea of deep flavors... delicious... so delicious...!","\E\font[3]\f[18]\-[2]Ah... I'm going deeper... and deeper... into the sea of flavors... 
+Into the deep of rich flavors... delicious... so delicious...!",""
+"cg/blackscreen.jpg","","","",""
+"\Eはっ！？自分は一体…！？","","\EHuh?! Who am I...?!","\E\font[3]\f[18]\-[2]Huh?! Who am I...?!",""
+"\E料理人は帰っていった…。","","\EThe cook left...","\E\font[3]\f[18]\-[2]The chef left the scene...",""
+"宗教の勧誘","","","",""
+"怪しい女","","Suspicious woman","\font[3]\f[18]Suspicious Woman",""
+"\Eあなたは今しあわせですか？","","\EAre you happy now?","\E\font[3]\f[18]\-[2]Are you currently happy?",""
+"\E宗教の勧誘だった…。","","\EIt was a religious solicitation...","\E\font[3]\f[18]\-[2]It was a religious solicitation...",""
+"\Eやる気が下がった。","","\EMy motivation dropped.","\E\font[3]\f[18]\-[2]I feel demotivated.",""
+"お腹を空かせた旅人","","","",""
+"\Eお腹を空かせた旅人だ。","","\EA hungry traveler.","\E\font[3]\f[18]\-[2]Looks like a hungry traveler.",""
+"\f[20]丁重にもてなす　　　\f[10]所持金-500","","\f[20]Treat with respect. \f[10]Gold -500","\font[3]\f[17]Treat with respect \f[10]-500G",""
+"\f[20]食べ物を分け与える　\f[10]所持金-100","","\f[20]Give food to others \f[10]Money -100","\font[3]\f[17]Give some food \f[10]-100G",""
+"\f[20]追い返す","","\f[20]Turn away","\font[3]\f[18]Turn away",""
+"食料がない","","","",""
+"旅人ヒデトシ","","Traveler Hidetoshi","\font[3]\f[18]Traveler Hidetoshi",""
+"\Eな、なんて心の優しい人だ…！
+お礼にフットボールを教えましょう！","","\EWhat a kind-hearted person...! 
+As a thank you, let me teach you football!","\E\font[3]\f[18]\-[2]What a kind-hearted person...! 
+As a thank you, let me teach you football!",""
+"\E温かい食事を振る舞い旅人をもてなした。","","\EServed a warm meal and entertained the traveler.","\E\font[3]\f[18]\-[2]I treated the traveler with respect and served a warm meal.",""
+"\Eありがとうございます！このご恩は忘れません…！","","\EThank you very much! I will never forget this kindness...!","\E\font[3]\f[18]\-[2]Thank you very much! I will never forget your kindness...!",""
+"\E旅人に食べ物を分け与えた。","","\EThe traveler shared food with others.","\E\font[3]\f[18]\-[2]I gave some food to the traveler.",""
+"\E残念だが今は余裕がないな…。","","\EI'm sorry, but I don't have any spare time right now...","\E\font[3]\f[18]\-[2]Sorry, but I don't have anything to spare right now...",""
+"\E旅人は帰っていった…。","","\EThe traveler went back home...","\E\font[3]\f[18]\-[2]The traveler left still hungry...",""
+"医者","","","",""
+"\E旅の医者だそうだ。","","\EI heard he's a traveling doctor.","\E\font[3]\f[18]\-[2]Looks like a traveling doctor.",""
+"\f[20]診てもらう　　\f[10]お金-200","","\f[20]Get a check-up \f[10]Money -200","\font[3]\f[17]Get a check-up \f[10]-200G",""
+"\f[20]必要ない","","\f[20]Not necessary","\font[3]\f[17]Not necessary",""
+"BJ","","BJ","\font[3]\f[18]BJ",""
+"\E…その言葉が…聞きたかった……。","","\E...I wanted to hear those words...","\E\font[3]\f[18]\-[2]...I wanted to hear those words...",""
+"SE/decision24.mp3","","","",""
+"\E怪我が治った！","","\EMy injury has healed!","\E\font[3]\f[18]\-[2]I've recovered from my injury!",""
+"\E医者は満足げに帰っていった。","","\EThe doctor left with a satisfied look on his face.","\E\font[3]\f[18]\-[2]The doctor left with a satisfied look on his face.",""
+"\Eなんだったんだ…。","","\EWhat was that...?","\E\font[3]\f[18]\-[2]What was that all about...?",""
+"\Eそんなお金は持っていない…。","","\EI don't have that kind of money...","\E\font[3]\f[18]\-[2]I don't have that kind of money...",""
+"マッドサイエンティスト","","","",""
+"DJ博士","","DJ Professor","\font[3]\f[18]Professor DJ",""
+"\Eアナタ悩ミ、解決シテアゲマース。
+オ代ハイリマセーン。","","\EYou worry, I will solve it for you.
+I won't charge you for it.","\E\font[3]\f[18]\-[2]Your worries, I will solve them for you.
+I won't charge you for it.",""
+"DJ","","","",""
+"元気になりたい","","I want to feel better.","\font[3]\f[17]I want to feel better",""
+"""力""がほしい","","I want ""strength"".","\font[3]\f[17]I want ""strength""",""
+"強くなりたい","","I want to become stronger.","\font[3]\f[17]I want to be stronger",""
+"必要ない","","Not necessary","\font[3]\f[17]Not necessary",""
+"\Eお安いゴヨウデース！","","\ECheap Goyou Death!","\E\font[3]\f[18]\-[2]It's a steal, I assure you!",""
+"\E……………………。","","\E……………………。","\E\font[3]\f[18]\-[2]...............",""
+"\Eオペハセイコウデース！！","","\EOperational efficiency is high!!","\E\font[3]\f[18]\-[2]The operation was completed successfully.",""
+"\Eなんだか元気になった気がする！","","\EI feel like I've become more energetic!","\E\font[3]\f[18]\-[2]I somehow feel much better than before!",""
+"\Eオオット……！
+……デハオダイジニー。","","\EOoott...!
+...It's a big deal.","\E\font[3]\f[18]\-[2]Oh no, I have to go......!
+......Take care of yourself.",""
+"SE/button24.mp3","","","",""
+"\Eアナタノ身体、既ニカイゾ……
+アナタニハ必要アリマセーン、他ノ願イハナイノデスカ。","","\EYour body, already mine...
+I don't need you, so I won't grant your wish.","\E\font[3]\f[18]\-[2]Your body is already strong enough...
+Do you have any other wish?",""
+"声","","Voice","\font[3]\f[18]Voice",""
+"\E待て…っ！","","\EWait...!","\E\font[3]\f[18]\-[2]Hold on a second...!",""
+"\Eまた誰か増えたぞ…。","","\ESomeone else has joined...","\E\font[3]\f[18]\-[2]Some random person has butted into the conversation...",""
+"\Eオ、オマエハ…ドクターX！！！","","\EYou, you are... Doctor X!!!","\E\font[3]\f[18]\-[2]Y, you are... Doctor X!!!",""
+"ドクターX","","Doctor X","\font[3]\f[18]Doctor X",""
+"\E確かに一度失った能力を回復させることは極めて難しい…","","\EIt is extremely difficult to recover a lost ability once.","\E\font[3]\f[18]\-[2]Indeed, it's extremely difficult to recover an ability once lost...",""
+"\Eしかし技術の進んだ今では違う！ギュッ","","\EHowever, now that technology has advanced, it's different! Squeeze!","\E\font[3]\f[18]\-[2]However, now that technology has advanced, it's a different story!",""
+"\E今すぐオペの用意を！！ギラッ","","\EPrepare for the operation right now!! Grrr","\E\font[3]\f[18]\-[2]Prepare for the operation right now!!",""
+"スキル関係が決まったらさらに+補正を付ける","","","",""
+"改造","","Modification","\font[3]\f[18]Modification",""
+"\Eスキル\c[1]自動回復\c[0]のヒントを得た！","","\EObtained the hint of \c[1]skill \c[0]auto recovery!","\E\font[3]\f[18]\-[2]Obtained skill inspiration: \c[1]Auto-recovery!\c[0]",""
+"\E…チカラ……。
+ドンナコトヲシテデモ手ニ入レタイト願ウノデスカ？","","\E...Power...
+What do you want me to do? Should I put my hands on anything?","\E\font[3]\f[18]\-[2]...Strength...
+Do you wish to obtain strength, no matter what it takes?",""
+"はい","","Yes","\font[3]\f[17]Yes",""
+"いいえ","","No","\font[3]\f[17]No",""
+"\Eソウデスカ……ソレハザンネンデース。","","\EIs that so...? That's unfortunate.","\E\font[3]\f[18]\-[2]Is that so...? That's unfortunate.",""
+"\E…デハ、コチラニオイデクダサーイ。","","\E...Now, come over here.","\E\font[3]\f[18]\-[2]...Now, please come over here.",""
+"\Eここは…一体…？","","\EWhat is this place...?","\E\font[3]\f[18]\-[2]What in the world is this place...?",""
+"\E…デハ、治療ヲ始メマショウ………。","","\E...Let's start the treatment...","\E\font[3]\f[18]\-[2]...Alright, let's begin the treatment...",""
+"\E苦労モナシニ強クナルトイウ事ガドウイウ事ナノカ…………
+身ヲモッテ知ルガイイデース……！","","\EIt's said that things that don't make you suffer won't make you stronger... 
+But I think knowing oneself is a good thing...!","\E\font[3]\f[18]\-[2]What does it mean to become strong without any struggles......?
+I want you to experience it firsthand yourself......!",""
+"\Eぬ、ぬわーーーーーーーーっ！！","","\EN-Nuwaaaaaaaaaaaaaah!!","\E\font[3]\f[18]\-[2]U-Uwaaaaaaaaaaaaaah!!",""
+"\E医学ノ発展ニ犠牲ハツキモノデース。","","\ESacrifices are necessary for the advancement of medicine.","\E\font[3]\f[18]\-[2]Sacrifices play an integral role in medical advancements.",""
+"スキル関係が決まったらバットスキルを加える","","","",""
+"\Eコレハ…ナントイウコトダ…奇跡ダ…！
+マタ一歩人類ノ科学ガ前進シタデース！","","\EThis is... something incredible... a miracle! 
+Once again, human science has advanced!","\E\font[3]\f[18]\-[2]This is... unbelievable... it's a miracle...! 
+Once again, human science has advanced another step!",""
+"\Eコノ特別トレーニングマシンヲ試ス時デース！
+ヲ代ハイリマセーン、今スグトラーイ。","","\ETry this special training machine! 
+Don't hesitate, try it now.","\E\font[3]\f[18]\-[2]Now is the time to try this special training machine! 
+It's free, try it right away.",""
+"\E…デハ、トレーニングヲ始メマショウ………。","","\E...Let's start the training...","\E\font[3]\f[18]\-[2]...Then, let's start the training...",""
+"？？？","","???","\font[3]\f[18]???",""
+"\E（ガション！ガション！）","","\E(Gashon! Gashon!)","\E\font[3]\f[18]\-[2](*clank!* *clank!*)",""
+"\E強制トレーニングモード起動、ギアリミッター解除。
+…サア地獄ノ特訓ノ始マリデース！！","","\EActivate Forced Training Mode, release Gear Limiter.
+...Now, let the hellish special training begin!!","\E\font[3]\f[18]\-[2]Activating forced training mode. Limiter released.
+...Now, let the hellish special training begin!!",""
+"\Eオウ……先ニ身体ガ参ッテシマイマシタカ。
+マダ、マシーンノ調整ガ必要ナヨウデスネ…。","","\EOh... my body went ahead of me.
+I still need to adjust the machine...","\E\font[3]\f[18]\-[2]Oh... Your body gave in already? 
+Looks like the machine still needs some adjustments...",""
+"\E…トレーニング終了、コレハ…素晴ラシイ数値デース…！
+人類ハマダマダ強クナレマース！","","\E...Training complete, this...is an amazing result...!
+Humans are still not strong enough!","\E\font[3]\f[18]\-[2]Training complete... This... is an amazing result...! 
+Humanity can still become stronger!",""
+"\Eオウ…ザンネンデース…。","","\EOh... I'm sorry...","\E\font[3]\f[18]\-[2]Oh... that's unfortunate...",""
+"\E医者？は帰っていった。","","\EDoctor? They went home.","\E\font[3]\f[18]\-[2]The doctor(?) left the scene...",""
+"行商人","","","",""
+"\E行商人だ。","","\EI am a traveling merchant.","\E\font[3]\f[18]\-[2]I'm a traveling merchant.",""
+"\Eお安くしておきますのでぜひ。","","\EWe will offer it at a discounted price, so please take advantage of it.","\E\font[3]\f[18]\-[2]I'm offering my products at a discounted price, so please have a look.",""
+"雑貨トップ","","","",""
+"\f[20]緑茶　　　　\f[12]2個100G (\v[90])","","\f[20]Green tea　　　　\f[12]2 pieces 100g (\v[90])","\font[3]\f[17]Green Tea \f[12]have(\v[90])\f[16]",""
+"\f[20]コーヒー　　\f[12]2個100G (\v[91])","","\f[20]Coffee \f[12]2 pieces 100g (\v[91])","\font[3]\f[17]Coffee \f[12]have(\v[91])\f[16]",""
+"\f[20]紅茶　　　　\f[12]2個200G (\v[92])","","\f[20]Black tea　　　　\f[12]2 pieces 200g (\v[92])","\font[3]\f[17]Black Tea \f[12]have(\v[92])\f[16]",""
+"\f[20]お菓子　　　\f[12]2個100G (\v[273])","","\f[20]Sweets\f[12]2 pieces 100g (\v[273])","\font[3]\f[17]Sweets \f[12]have(\v[273])\f[16]",""
+"\f[20]いらない","","\f[20]Not needed","\font[3]\f[17]Not neccessary",""
+"\Eこれ以上買う必要はないみたいだ。","","\EIt seems there is no need to buy any more.","\E\font[3]\f[18]\-[2]",""
+"\E緑茶を買うのか？　所持\v[90] 100G","","\EAre you buying green tea? Possessing\v[90] 100G","\E\font[3]\f[18]\-[2]Are you buying green tea? have(\v[90]) 100G",""
+"\E…よし。
+すいませーん、これ下さい。","","\E...Alright.
+Excuse me, can I have this please.","\E\font[3]\f[18]\-[2]...Alright.
+Excuse me, can I have this please.",""
+"\Eありがとうございます。
+では商品と…これ、試供品です。","","\EThank you very much.
+Now, about the product... this is a sample.","\E\font[3]\f[18]\-[2]Thank you for your patronage.
+So, here's the product... and this is a free sample.",""
+"\Eエナジードリンクを手に入れた！","","\EGot an energy drink!","\E\font[3]\f[18]\-[2]I got an energy drink!",""
+"行商終了","","","",""
+"\Eまた今度にするか…。","","\EShall we do it next time...?","\E\font[3]\f[18]\-[2]I suppose maybe next time...",""
+"\Eそんなお金はないみたいだ…。","","\ELooks like I don't have that kind of money...","\E\font[3]\f[18]\-[2]Looks like I don't have that kind of money...",""
+"\Eコーヒーを買うのか？　所持\v[91] 100G","","\EAre you buying coffee? Possessing\v[91] 100G","\E\font[3]\f[18]\-[2]Are you buying coffee? have(\v[91]) 100G",""
+"\E…じゃあこれを一つください。","","\E...Then, please give me one of these.","\E\font[3]\f[18]\-[2]...Then, please give me one of these.",""
+"\E紅茶を買うのか？　所持\v[92] 200G","","\EAre you buying black tea? Possessing\v[92] 200G","\E\font[3]\f[18]\-[2]Are you buying black tea? have(\v[92]) 200G",""
+"\Eお菓子を買うのか？　所持\v[273] 100G","","\EAre you buying snacks? Possessing\v[273] 100G","\E\font[3]\f[18]\-[2]Are you buying sweets? have(\v[273]) 100G",""
+"\Eありがとうございました。
+ではまたいずれ…。","","\EThank you very much.
+Until we meet again...","\E\font[3]\f[18]\-[2]Thank you very much.
+Until we meet again...",""
+"\E行商人は去っていった。","","\EThe traveling merchant left.","\E\font[3]\f[18]\-[2]The traveling merchant left.",""
+"お届けものです","","","",""
+"\Eん、なんだ？こんな時間に……","","\EHmm, what's this? At this hour...","\E\font[3]\f[18]\-[2]Hmm, what could it be? This late at night...",""
+"宅配員","","Delivery person","\font[3]\f[18]Courier",""
+"\Eお届け物でーす。","","\EDelivery for you.","\E\font[3]\f[18]\-[2]You have a package.",""
+"\E送り主は…親父か…。","","\EThe sender... is it my old man...?","\E\font[3]\f[18]\-[2]The sender is... my old man...",""
+"\E……。","","\E......","\E\font[3]\f[18]\-[2]......",""
+"妹","","Younger sister","\font[3]\f[18]Imouto",""
+"\Eえっと…変なオブジェ。
+植物の種、何かの骨…なにこれ。","","\EUm... a strange object.
+Plant seeds, some kind of bone... what is this.","\E\font[3]\f[18]\-[2]Let's see... a weird object. 
+Plant seeds, some kind of bone... What could this be?",""
+"\Eよくわからないが冒険は順調なようだ…。","","\EI'm not sure, but it seems like the adventure is going smoothly...","\E\font[3]\f[18]\-[2]I'm not entirely sure, but it seems like his adventure is going smoothly...",""
+"手紙","","","",""
+"手紙が届いたぞ！","","","",""
+"\Eはーい。","","\EYes.","\E\font[3]\f[18]\-[2]I'm coming.",""
+"\Eお兄ちゃんお兄ちゃん。
+お父さんから手紙が届いたよ！","","\EBig brother, big brother.
+I received a letter from dad!","\E\font[3]\f[18]\-[2]Onii-chan, Onii-chan.
+We received a letter from dad!",""
+"\Eどれどれ…","","\ELet's see...","\E\font[3]\f[18]\-[2]Let's see...",""
+"\E今は常夏の島で女性の尻を追いかけ回しているらしい…","","\EIt seems that now he is chasing after women's butts on a tropical island...","\E\font[3]\f[18]\-[2]It seems that now he is chasing after women's butts on a tropical island...",""
+"\E南国の女性がいかに情熱的かつ積極的かを長文で綴っている。
+後半はみみずが這ったような文字になっているな…","","\EA long passage describes how passionate and proactive women in the tropics are.
+The second half is written in tiny, crawling characters...","\E\font[3]\f[18]\-[2]A long passage describes how passionate and assertive women from tropical regions are. 
+The second half of the text seems to be written in squiggly, crawling-like characters...",""
+"\Eこ、こいつ…","","\EThis...","\E\font[3]\f[18]\-[2]T-This guy...",""
+"\Eまあ冒険？は順調なようだな…。","","\EWell, the adventure seems to be going smoothly...","\E\font[3]\f[18]\-[2]Well, his adventure(?) seems to be going smoothly...",""
+"\Eつらつらと冒険の日々のことが綴られている…","","\EThe daily adventures are being written down...","\E\font[3]\f[18]\-[2]They are described in great detail...",""
+"\E聞いたこともない国と人々との交流の事が書かれている…","","\EIt is written about the exchange with a country and people that I have never heard of...","\E\font[3]\f[18]\-[2]About the interactions with people from an unknown country...",""
+"\E故郷と家族を懐かしむ内容だ…","","\EIt's a nostalgic content about hometown and family...","\E\font[3]\f[18]\-[2]About the longing for his hometown and family...",""
+"\E冒険は順調なようだ…。","","\EThe adventure seems to be going smoothly...","\E\font[3]\f[18]\-[2]Yeah, it's going smoothly alright...",""
+"\Eやる気が上がった。","","\EI feel motivated.","\E\font[3]\f[18]\-[2]I feel so motivated.",""
+"ユイ","","Yui","\font[3]\f[18]Yui",""
+"\Eこんばんわ。","","\EGood evening.","\E\font[3]\f[18]\-[2]Good evening.",""
+"\Eあ、ユイどうしたん？","","\EAh, Yui, what's wrong?","\E\font[3]\f[18]\-[2]Ah, Yui, what's wrong?",""
+"\Eふふ、あたし一応村のメディックですよ。
+お怪我の具合はどうですか？","","\EHehe, I'm the village medic, for now.
+How are your injuries?","\E\font[3]\f[18]\-[2]Hehe, I'm technically the village medic, you know. 
+Anyway, how are your injuries?",""
+"\Eお兄ちゃんはツバでもつけて放っておけばいいや
+なんて言いかねないですからね。","","\EIt's not like I can say ""just put on a hat and leave it alone"" to my older brother.
+","\E\font[3]\f[18]\-[2]You can't just say things like, 
+'Just spit on it and leave it as it is,' Onii-chan.",""
+"\E……","","\E……","\E\font[3]\f[18]\-[2]......",""
+"\Eはい、これでよし。
+お大事にしてくださいね。","","\EYes, that's it.
+Take care of yourself.","\E\font[3]\f[18]\-[2]Okay, that should do it. 
+Please take care of yourself.",""
+"\E気のせいだった…。","","\EIt was just my imagination...","\E\font[3]\f[18]\-[2]It was just my imagination...",""
+"乱数","","","",""
+"乱数2","","","",""
+"種","","","",""

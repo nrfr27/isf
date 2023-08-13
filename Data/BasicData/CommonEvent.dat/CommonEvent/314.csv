@@ -1,0 +1,340 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"街へ繰り出す","","","",""
+"cg/bg_09_town_a.jpg","","","",""
+"\E村から馬車に揺られて1時間弱。
+ここがクマヘタウンだ、だいたい短くタウンと略されるな。","","\EIt's been just under an hour since we were shaken in a carriage from the village.
+This is Kumaheta Town, which is generally abbreviated as ""Town"" for short.","",""
+"\Eここいらで街と言ったらだいたいここのことを指すぞ。","","\EWhen people say ""town"" around here, they generally mean this place.","",""
+"\Eタウンについたぞ。
+買い物をするならだいたいここになるな。","","\EWe've arrived at the town.
+If you're going shopping, this is usually the place to go.","",""
+"トップへ","","","",""
+"買い物トップへ","","","",""
+"初めての訪問の際にカスミに遭遇します","","","",""
+"SE/down1.mp3","","","",""
+"\Eドッシン！","","\EDossin!","",""
+"1.4.0/v144_cg9_1.jpg","","","",""
+"少女","","Girl","",""
+"\E…あぅ。","","\E...Ow.","",""
+"\Eあっと…ご、ごめん！
+だいじょうぶ？","","\EOops... S-sorry! 
+Are you okay?","",""
+"\Eえーっと…立てる…かな？","","\EUm... Can I... stand up?","",""
+"\E…あ。","","\E...Ah.","",""
+"\E…ん？","","\E...Huh?","",""
+"SE/walk_stone_a.mp3","","","",""
+"SE/walk_stone_b.mp3","","","",""
+"\E……。","","\E......","",""
+"\Eい、行ってしまった…。","","\EI-I went away...","",""
+"\f[20]怪しいお店","","\f[20]Suspicious shop","",""
+"\f[20]食べ歩く","","\f[20]Eating and walking","",""
+"食品店街","","Food store street","",""
+"日用雑貨店","","Daily goods store","",""
+"服屋","","Clothing store","",""
+"ブックストア","","Bookstore","",""
+"\cself[5]","","\cself[5]","",""
+"\cself[6]","","\cself[6]","",""
+"そろそろ帰る","","It's about time to go home.","",""
+"\Eここらは食品を取り扱うお店が並んでいるな。","","\EThere are food stores lined up around here.","",""
+"店員","","Clerk","",""
+"\Eいらっしゃいませー。","","\EWelcome!","",""
+"食品トップ","","","",""
+"食品です","","","",""
+"\f[20]安眠茶　　　\f[12]2個800G (\v[93])","","\f[20]Sleeping tea\f[12]x2 (\v[93])","",""
+"\f[20]緑茶　　　　\f[12]2個200G (\v[90])","","\f[20]Green tea　　　　\f[12]x2 200G (\v[90])","",""
+"\f[20]コーヒー　　\f[12]2個200G (\v[91])","","\f[20]Coffee\f[12]2 pieces 200G (\v[91])","",""
+"\f[20]紅茶　　　　\f[12]2個300G (\v[92])","","\f[20]Black tea　　　　\f[12]x2 300G (\v[92])","",""
+"\f[20]お菓子　　　\f[12]   200G (\v[273])","","\f[20]Sweets\f[12]   200G (\v[273])","",""
+"\Eこれ以上買う必要はないみたいだ。","","\EIt seems there is no need to buy any more.","",""
+"\Eお茶は文化人のたしなみだからな…。
+緑茶を買うのか？　所持\v[90] 200G","","\ETea is a refined pastime for cultured individuals...
+Are you buying green tea? Possessing\v[90] 200G","",""
+"はい","","Yes","",""
+"いいえ","","No","",""
+"\E…よし。
+すいませーん、これ下さい。","","\E...Alright.
+Excuse me, can I have this please.","",""
+"\Eまいどありー。","","\EHello there.","",""
+"\Eまた今度にするか…。","","\EShall we do it next time...?","",""
+"\Eそんなお金はないみたいだ…。","","\EI don't seem to have that kind of money...","",""
+"\E毎日飲むものは切らさないようにしないとな…。
+コーヒーを買うのか？　所持\v[91] 200G","","\EI have to make sure I never run out of things to drink every day...
+Are you going to buy coffee? I have\v[91] 200G.","",""
+"\Eお茶と言ったら妹はだいたい紅茶を飲んでるな。
+紅茶を買うのか？　所持\v[92] 300G","","\EWhen it comes to tea, my sister usually drinks black tea.
+Are you going to buy black tea? Possessing\v[92] 300G","",""
+"\E眠りの質を高めるお茶か…効くのだろうか…。
+安眠茶を買うのか？　所持\v[93] 800G","","\ETea that improves the quality of sleep... I wonder if it works...
+Should I buy some sleep tea? Possessing\v[93] 800G","",""
+"\E妹は甘いお菓子に目がないからな…。
+お菓子を買うのか？　所持\v[273] 200G","","\EMy little sister has a weakness for sweet snacks...
+Are you going to buy snacks? I have\v[273] 200G.","",""
+"\Eありがとうございましたー。","","\EThank you very much.","",""
+"\Eこの辺のお店はよろず的に雑多な商品を取り扱っているぞ。","","\EThe shops around here handle a variety of miscellaneous products.","",""
+"雑貨です","","","",""
+"家具トップ","","","",""
+"\f[20]安眠枕　　　\f[12]   2000G (\v[278])","","\f[20]Sleeping Pillow\f[12]   2000G (\v[278])","",""
+"\f[20]羽毛布団　　\f[12]   4000G (\v[279])","","\f[20]Feather futon\f[12]   4000G (\v[279])","",""
+"\f[20]プレゼント　\f[12]    500G (\v[274])","","\f[20]Present \f[12]    500G (\v[274])","",""
+"\f[20]ダンベル　　\f[12]   1000G (\v[280])","","\f[20]Dumbbell   \f[12]   1000G (\v[280])","",""
+"\f[20]鉄下駄　　　\f[12]   1000G (\v[281])","","\f[20]Iron geta　　　\f[12]   1000G (\v[281])","",""
+"\f[20]コンドーム　\f[12]2個 200G (\v[284])","","\f[20]Condom \f[12]2 pieces 200g (\v[284])","",""
+"\Eプレゼントか…なにかあるかな？
+プレゼントを買うのか？　所持\v[274] 500G","","\EA present... I wonder if there's something? 
+Are you going to buy a present? Possession\v[274] 500G","",""
+"\Eそれはもう持っているな。","","\EI already have it.","",""
+"\E眠りが深くなる枕か…ほんとに効果があるのかな？
+安眠枕を買うのか？　所持\v[278] 2000G","","\EIs there really an effective pillow that makes you sleep deeper?
+Are you going to buy a pillow for better sleep? \v[278]2000G","",""
+"\Eうーん、疲れが取れそうなふかふかの布団だ。
+羽毛布団を買うのか？　所持\v[279] 4000G","","\EHmm, it's a fluffy futon that seems to relieve fatigue.
+Are you going to buy a down comforter? Possessing\v[279] 4000G","",""
+"\E自主トレの効果が上がりそうだ…。
+ダンベルを買うのか？　所持\v[280] 1000G","","\EThe effectiveness of self-training seems to be increasing...
+Are you going to buy dumbbells? Possessing\v[280] 1000G","",""
+"\E自主トレの効果が上がりそうだ…。
+鉄下駄を買うのか？　所持\v[281] 1000G","","\EThe effectiveness of self-training seems to be increasing...
+Are you going to buy iron clogs? Possessing\v[281] 1000G","",""
+"\E備えるにこしたことはないからな…。
+コンドームを買うのか？　所持\v[284] 200G","","\EIt wouldn't hurt to be prepared...
+Are you buying condoms? Possessing\v[284] 200G","",""
+"\Eなぜかはわからんがパジャマしか売っていない服屋だ。
+無駄に店員のテンションが高いぞ。","","\EI don't know why, but it's a clothing store that only sells pajamas.
+The store clerks are unnecessarily energetic.","",""
+"パジャマ","","","",""
+"\Eいらっしゃいませぇぇぇえ！","","\EWelcomeeeee!","",""
+"服屋トップ","","","",""
+"\f[20]半そでパジャマ白　\f[12] 3000G (\v[83])","","\f[20]Short-sleeved pajamas white \f[12] 3000G (\v[83])","",""
+"\f[20]半そでパジャマ黒　\f[12] 3000G (\v[84])","","\f[20]Short-sleeved black pajamas\f[12] 3000G (\v[84])","",""
+"\f[20]長袖パジャマ　　　\f[12] 3000G (\v[85])","","\f[20]Long-sleeved pajamas　　　\f[12]3000G (\v[85])","",""
+"\f[20]セクシーパジャマ　\f[12] 3000G (\v[87])","","\f[20]Sexy Pajamas\f[12] 3000G (\v[87])","",""
+"\f[20]きぐるみパジャマ　\f[12] 3000G (\v[86])","","\f[20]Animal costume pajamas \f[12] 3000G (\v[86])","",""
+"\f[20]セーラーパジャマ　\f[12] 3000G (\v[80])","","\f[20]Sailor pajamas \f[12] 3000G (\v[80])","",""
+"\f[20]スク水パジャマ　　\f[12] 3000G (\v[81])","","\f[20]School swimsuit pajamas\f[12] 3000G (\v[81])","",""
+"\f[20]白ワンピパジャマ　\f[12] 3000G (\v[82])","","\f[20]White one-piece pajamas \f[12] 3000G (\v[82])","",""
+"\cself[9]","","\cself[9]","",""
+"\cself[8]","","\cself[8]","",""
+"\cself[7]","","\cself[7]","",""
+"\Eそれはもう持ってるな…。","","\EI already have that...","",""
+"\Eセーラー服タイプのパジャマか…。
+買おうかな？　所持\v[80] 3000G","","\EA sailor uniform type of pajamas, huh...
+Should I buy it? I have\v[80] 3000G.","",""
+"\E…よし、買おう。
+すいませーん…","","\E...Alright, I'll buy it.
+Excuse me...","",""
+"\Eんありがとうございますぅぅー！！！","","\EThank you so muchhh!!!","",""
+"\Eスク水タイプのパジャマ…ていうかスク水だなこれ。
+買おうかな？　所持\v[81] 3000G","","\EIt's a swimsuit-type pajama... or rather, it's a swimsuit.
+Should I buy it? I have\v[81] 3000G.","",""
+"\E清楚な感じのワンピースパジャマだ。
+買おうかな？　所持\v[82] 3000G","","\EIt's a clear-feeling one-piece pajama.
+Should I buy it? I have\v[82] 3000G.","",""
+"\E比較的スタンダードな半そでパジャマだ。
+買おうかな？　所持\v[83] 3000G","","\EIt's a relatively standard short-sleeved pajama.
+Should I buy it? I have\v[83] 3000G.","",""
+"\E比較的スタンダードな半そでパジャマだ。
+買おうかな？　所持\v[84] 3000G","","\EIt's a relatively standard short-sleeved pajama.
+Should I buy it? I have\v[84] 3000G.","",""
+"\E柔らかい手触りの長袖パジャマだ。
+買おうかな？　所持\v[85] 3000G","","\EIt's a long-sleeved pajama with a soft texture.
+Should I buy it? I have\v[85] 3000G.","",""
+"\Eかわいらしいきぐるみタイプのパジャマだ。
+買おうかな？　所持\v[86] 3000G","","\EIt's a cute onesie type of pajamas.
+Should I buy it? I have\v[86] 3000G.","",""
+"\Eちょっと大人びたパジャマだな。
+買おうかな？　所持\v[87] 3000G","","\EIt's a somewhat mature-looking pajama.
+Should I buy it? Possessing\v[87] 3000G","",""
+"\Eまたお越しくださいませぇぇぇー！","","\EPlease come again!","",""
+"\f[20]反撃の技法書　\f[12]   4000G→3000G","","\f[20]Counterattack Technique Manual \f[12]   4000G→3000G","",""
+"\f[20]集中の技法書　\f[12]   4000G→3000G","","\f[20]Concentration Technique Book \f[12]   4000G→3000G","",""
+"\f[20]堅固の技法書　\f[12]   4000G→3000G","","\f[20]Technique Book of Fortitude\f[12]   4000G→3000G","",""
+"\f[20]渾身の技法書　\f[12]   4000G→3000G","","\f[20]Complete Technique Book\f[12]   4000G→3000G","",""
+"\f[20]初手の技法書　\f[12]   4000G→3000G","","\f[20]First-hand technique book \f[12]   4000G→3000G","",""
+"\f[20]反撃の技法書　\f[12]   4000G","","\f[20]Counterattack Technique Manual \f[12]   4000G","",""
+"\f[20]集中の技法書　\f[12]   4000G","","\f[20]Concentration Technique Book \f[12]   4000G","",""
+"\f[20]堅固の技法書　\f[12]   4000G","","\f[20]Technique Book of Fortitude\f[12]   4000G","",""
+"\f[20]渾身の技法書　\f[12]   4000G","","\f[20]Complete Technique Book\f[12]   4000G","",""
+"\f[20]初手の技法書　\f[12]   4000G","","\f[20]First move technique book \f[12]   4000G","",""
+"cg/bg_31_book.jpg","","","",""
+"\Eケツノアナブックス。
+さまざまな書物を取り扱う本屋さんだ。","","\EKetsuno Anabukkusu.
+It's a bookstore that handles various books.","",""
+"カスミ加入イベント","","","",""
+"妹","","Younger sister","",""
+"\Eあ、カスミちゃんだ。","","\EAh, it's Kasumi-chan.","",""
+"カスミ","","Kasumi","",""
+"\Eあ…。","","\EAh...","",""
+"\Eそ、その説は…お世話になりました…。","","\EUm, that theory... I appreciate your help...","",""
+"\Eあれ？二人は知り合い…？","","\EHuh? Do those two know each other...?","",""
+"\E…………。","","\E………….","",""
+"\E……ということがあったんだ。","","\E...there was something like that.","",""
+"\Eい、妹ちゃんのお兄さんだったんですね…。","","\ESo, you're my little sister's big brother...","",""
+"\E今日はなにか買い物…？
+なんかすごいたくさん本を抱えているみたいだけど…。","","\EWhat should I buy today...?
+It looks like you're carrying a lot of books or something...","",""
+"\Eこここ、これはななな何でも無いです…！","","\EThis, this is just just nothing...!","",""
+"\Eし、失礼します…！","","\EUm, excuse me...!","",""
+"SE/Damage.wav","","","",""
+"\Eはう。","","\EHau.","",""
+"\Eか、カスミちゃん大丈夫…？","","\EKa, Kasumi-chan are you okay...?","",""
+"\Eああ、本が…。","","\EAh, the book...","",""
+"\E買い物の邪魔してごめんな、本拾うの手伝うから…
+…っと…こ、これは…","","\ESorry for interrupting your shopping, let me help you pick up the book... 
+...um...th-this is...","",""
+"\E男性同士が絡み合って……
+うおっ…尻に……まじか……","","\EMen entangled with each other... 
+Whoa... on the butt... seriously...","",""
+"\Eこ、これは…！
+BL（濃厚）本だ！","","\ETh-this is...!
+A BL (intense) book!","",""
+"\Eはぅぅ…。","","\EHauu...","",""
+"　…えっと…なんかごめん。　","","　...Um...sorry about that.","",""
+"\E…見られてしまいました…乙女の秘密…","","\E...I was seen...a maiden's secret...","",""
+"\E…ひ、引きますよね…。","","\E...Y-You're going to pull, right...?","",""
+"　いや、別にいいと思うよ。　","","　No, I think it's fine.","",""
+"\Eえ…。","","\EHuh...","",""
+"\Eオレは…
+人それぞれ好きな物の形が違ってもいいと思う。","","\EI... 
+I think it's okay for everyone to have different preferences in things they like.","",""
+"\E自分だって、まあ似たようなもんだから。","","\EEven I, well, I'm pretty much the same.","",""
+"\Eお兄さんも…同志…？","","\EAre you also... a comrade...?","",""
+"\E…そうですよね…。
+好きなものは好きでいいんですよね…。","","\E... That's right... 
+It's okay to like what you like...","",""
+"\E…あの…ありがとうございます。
+すごく、その嬉しかったです…だから…","","\E...Um... Thank you very much.
+I was really happy... so...","",""
+"\Eこれからは同志としてよろしくおねがいしますっ！","","\EFrom now on, please treat me as your comrade!","",""
+"\E……","","\E……","",""
+"SE/MusMus-JGL-027.mp3","","","",""
+"\E乙女の秘密？を共有した！
+カスミがギルドに加入した！","","\EShared the secret of the maiden?!
+Kasumi joined the guild!","",""
+"SE/decision4.mp3","","","",""
+"\Eスキル\c[1]戦闘の天才\c[0]のヒントを得た！","","\EObtained\c[1]the tips of\c[0]a genius in battle!","",""
+"\Eおにいちゃん！おにいちゃん！
+欲しい本があるからあたし向こう見てくるね！","","\EBig brother! Big brother!
+I have a book I want, so I'll go look over there!","",""
+"\Eおう。","","\EAlright.","",""
+"カスミ出会いイベント","","","",""
+"\Eあれ…この娘は…。","","\EHuh... This girl...","",""
+"\E…あ、あぅ…。","","\E...Ah, au...","",""
+"\Eいらっしゃいませー…。","","\EWelcome...","",""
+"\Eおにいちゃん！おにいちゃん！
+あたしちょっと買うものがあるから見てくるね！","","\EBig brother! Big brother!
+I have something I want to buy, so I'll go take a look!","",""
+"\Eおお、さすがコミマ期間！
+新書が山積みにされているぞ…。","","\EOh, as expected during the Comima period!
+There are piles of new books.","",""
+"\E既刊はセールになってるのか…なるほど…。","","\ESo the previous issues are on sale... I see...","",""
+"本屋トップ","","","",""
+"\f[20]冒険の書　　\f[12]    300G→200G (\v[275])","","\f[20]Adventure Book\f[12]    300G→200G (\v[275])","",""
+"\f[20]えっちな本　\f[12]    500G→300G (\v[276])","","\f[20]Erotic book \f[12]    500G→300G (\v[276])","",""
+"\f[20]薄いブック　\f[12]    800G→500G (\v[277])","","\f[20]Thin book \f[12]    800G→500G (\v[277])","",""
+"\E人気の冒険活劇小説だ…稀に内容が消えてしまう魔法の書だぞ。
+買おうかな？　所持\v[275] 200G","","\EIt's a popular adventure novel... It's a magical book that occasionally makes its contents disappear.
+Should I buy it? I have\v[275] 200G.","",""
+"\Eありがとうございましたー…。","","\EThank you very much...","",""
+"\E言わずと知れたむふふなブックだ。
+買おうかな？　所持\v[276] 300G","","\EIt's a well-known, mischievous book.
+Should I buy it? Possessing\v[276] 300G","",""
+"\Eすいませんさっきので売り切れちゃったんです。","","\EI'm sorry, but the one from earlier is sold out.","",""
+"\Eうーん、案外人気なのかな…？","","\EHmm, I wonder if it's unexpectedly popular...?","",""
+"\Eこの薄さでこのお値段、だがこれはいいものだ…。
+買おうかな？　所持\v[277] 500G","","\EThis thinness at this price, but this is a good thing...
+Should I buy it? Possessing\v[277] 500G","",""
+"\Eスキル、反撃の狼煙のヒントを得ることができる技法書だ。
+（発動時に反撃率25％UP）","","\EThis is a technique book that allows you to obtain hints for the skill ""Wolf's Signal of Counterattack"".
+ (Increases counterattack rate by 25% when activated)","",""
+"\E3000Gだが…買うのか？","","\EIt's 3000G... Are you going to buy it?","",""
+"\Eスキル\c[1]反撃の狼煙\c[0]のヒントを得た！","","\EObtained a hint\c[1]for the skill\c[0]""Wolf's Retaliation!""","",""
+"\Eそうだな、よく考えよう…。","","\EWell, let's think about it carefully...","",""
+"\Eスキル、超集中のヒントを得ることができる技法書だ。
+（発動時に会心率25％UP）","","\EIt is a technique book that allows you to obtain hints for the skill, Super Concentration.
+ (Increases critical hit rate by 25% when activated)","",""
+"\Eスキル\c[1]超集中\c[0]のヒントを得た！","","\EObtained the hint of \c[1]Super Concentration \c[0]Skill!","",""
+"\Eスキル、堅固のヒントを得ることができる技法書だ。
+（発動時にガード率25％UP）","","\EIt is a technique book that allows you to obtain hints for the skill ""Sturdy"".
+ (Increases guard rate by 25% when activated)","",""
+"\Eスキル\c[1]堅固\c[0]のヒントを得た！","","\EObtained the hint of \c[1]Sturdy \c[0]Skill!","",""
+"\Eスキル、渾身のヒントを得ることができる技法書だ。
+（会心ダメージ25％UP）","","\EIt is a technique book that allows you to obtain valuable hints about skills.
+ (Critical damage increased by 25%)","",""
+"\Eスキル\c[1]渾身\c[0]のヒントを得た！","","\EObtained\c[1]a hint\c[0]with all my might!","",""
+"\Eスキル、先手必勝のヒントを得ることができる技法書だ。
+（発動時1ターン目の攻撃力50％UP）","","\EIt is a technique book that allows you to obtain hints for skills and gaining the advantage of going first. 
+(Increases attack power by 50% on the first turn of activation)","",""
+"\Eスキル\c[1]先手必勝\c[0]のヒントを得た！","","\EObtained the hint of \c[1]Skill \c[0]First Move Victory!","",""
+"\f[20]冒険の書　　　\f[12]    300G (\v[275])","","\f[20]Adventure Book\f[12]    300G (\v[275])","",""
+"\f[20]えっちな本　　\f[12]    500G (\v[276])","","\f[20]Erotic book\f[12]    500G (\v[276])","",""
+"\f[20]薄いブック　　\f[12]    800G (\v[277])","","\f[20]Thin book \f[12] 800G (\v[277])","",""
+"\E人気の冒険活劇小説だ…稀に内容が消えてしまう魔法の書だぞ。
+買おうかな？　所持\v[275] 300G","","\EIt's a popular adventure novel... It's a magical book that occasionally makes its contents disappear.
+Should I buy it? I have\v[275] 300G.","",""
+"\E言わずと知れたむふふなブックだ。
+買おうかな？　所持\v[276] 500G","","\EIt's a well-known, mischievous book.
+Should I buy it? I have\v[276] 500G.","",""
+"\Eこの薄さでこのお値段、だがこれはいいものだ…。
+買おうかな？　所持\v[277] 800G","","\EThis thinness at this price, but this is a good thing...
+Should I buy it? Possessing\v[277] 800G","",""
+"\E4000Gだが…買うのか？","","\EIt's 4000G... Are you going to buy it?","",""
+"\Eいらっしゃい。","","\EWelcome.","",""
+"怪しい店トップ","","","",""
+"\f[20]バイブ　　　　\f[12]  4000G (\v[286])","","\f[20]Vibe　　　　　\f[12]  4000G (\v[286])","",""
+"\f[20]媚薬　　　　　\f[12]  2000G (\v[95])","","\f[20]Aphrodisiac\f[12] 2000G (\v[95])","",""
+"\f[20]アナルバイブ　\f[12] 10000G (\v[287])","","\f[20]Anal Vibrator \f[12] 10,000G (\v[287])","",""
+"\f[20]精力剤　　　　\f[12]   400G (\v[94])","","\f[20]Energy drink　　　　\f[12]   400G (\v[94])","",""
+"\f[20]アフターピル　\f[12]  1000G (\v[96])","","\f[20]After Pill\f[12] 1000G (\v[96])","",""
+"\f[20]ローター　　　\f[12]  2000G (\v[285])","","\f[20]Rotor\f[12] 2000G (\v[285])","",""
+"\Eこれ以上は必要ないな…。","","\EI don't need anything more than this...","",""
+"\Eムラムラときてバッキバキになるやつだな。
+精力剤を買うのか？　所持\v[94] 400G","","\EIt's the kind that gets you all excited and pumped up.
+Are you buying stamina supplements? Possessing\v[94] 400G","",""
+"\E…よし、すいませーん。","","\E...Alright, excuse me.","",""
+"\Eへへっまいど。","","\EHehe, hello.","",""
+"\E媚薬か…本当に効果があるのかな…？
+媚薬を買うのか？　所持\v[95] 2000G","","\EA love potion... I wonder if it really works...?
+Are you buying a love potion? Possessing\v[95] 2000G","",""
+"\Eまいどあり。","","\EThank you for your continued support.","",""
+"\E使う予定があるのか…？
+アフターピルを買うのか？　所持\v[96] 1000G","","\EDo you have any plans to use it...? 
+Are you going to buy the morning-after pill? Possessing \v[96]1000G","",""
+"\Eこれはもう持っているな…。","","\EI already have this...","",""
+"\E振動石が埋め込まれたマジカルローターだ。
+マジカルローターを買うのか？　所持\v[285] 2000G","","\EIt's a Magical Rotor embedded with a vibration stone.
+Are you buying the Magical Rotor? Possessing\v[285] 2000G","",""
+"\Eこれはなかなかにエグイ形をしているな…。
+マジカルバイブを買うのか？　所持\v[286] 4000G","","\EThis has quite a unique shape...
+Are you going to buy the Magical Vibe? Possessing\v[286] 4000G","",""
+"\E柔らかな素材で作られたアナル用のバイブだ。
+アナルバイブを買うのか？　所持\v[287] 10000G","","\EIt's a vibrator for anal use made of soft material.
+Are you buying an anal vibrator? Possessing\v[287] 10000G","",""
+"\Eまいど。","","\EHello.","",""
+"\Eお腹も空いたしなにか食べようかな…？","","\EI'm getting hungry, so what should I eat...?","",""
+"\f[20]はい　　\f[12]200G","","\f[20]Yes \f[12]200G","",""
+"\f[20]いいえ","","\f[20]No","",""
+"\Eむむ…そんな余裕はなさそうだな…。","","\EHmm... It doesn't seem like there's any room for relaxation...","",""
+"\Eよーし、なんかそのへんで適当にお昼にしようか。","","\EAlright, let's just have lunch around here casually.","",""
+"\Eうん！","","\EYeah!","",""
+"cg/event43_01.jpg","","","",""
+"\E妹と食べ歩きながら街をぶらぶらしたぞ。","","\EI wandered around the city while eating out with my little sister.","",""
+"\Eいや、先に買い物を済まそうかな。","","\ENo, let's go shopping first.","",""
+"\Eじゃあそろそろ家に帰ろうか。","","\EWell, it's about time to go home.","",""
+"\Eうん！
+今日はありがとう！おにいちゃん。","","\EYes! 
+Thank you for today, big brother.","",""
+"1.4.0/v144_cg4_1.jpg","","","",""
+"\E二人でお出かけを楽しんだ。","","\EWe enjoyed going out together.","",""
+"文字1","","","",""
+"文字2","","","",""
+"文字3","","","",""
+"文字4","","","",""
+"文字5","","","",""
+"食べ歩き","","","",""
+"薄いブックを買った","","","",""
+"乱数","","","",""
+"カスミ初回","","","",""
+"タウン初回","","","",""
+"コミマDAY","","","",""
+"開催回数","","","",""
+"コミマ期間","","","",""

@@ -1,0 +1,518 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"■休日","","","",""
+"1","","","",""
+"cg/bg_36_ryokan3.jpg","","","",""
+"温泉メニュー","","","",""
+"cg/bg_01_home_a.jpg","","","",""
+"怪我しているときなどの追加コマンド","","","",""
+"溜まった家事をする","","Do the accumulated household chores.","",""
+"早朝","","","",""
+"\E今日は休みだな。
+どう過ごそうか？","","\EToday is a day off.
+What should I do?","",""
+"お昼","","","",""
+"\Eさて、午後からはどうしようかな。","","\ENow, what should I do in the afternoon?","",""
+"午後","","","",""
+"\Eこれからどうしようかな？","","\EWhat should I do from now on?","",""
+"行動終了","","","",""
+"妹","","","",""
+"\Eお兄ちゃんお兄ちゃん！
+今日はコミックマーチャントの日だよ！","","\EBig brother, big brother!
+Today is Comic Merchant Day!","",""
+"\Eコミックマーチャント？","","\EComic Merchant?","",""
+"\Eええとね、月に一度の都から新刊が届く日なんだー。
+商人が漫画本を運んでくるからコミックマーチャント。","","\EUm, you know, it's the day when the new releases arrive from the capital once a month.
+The merchants bring manga books, so it's like a Comic Merchant.","",""
+"\Eセールとかもやってるからこの週末は本屋さんが賑わうんだよ！","","\EBecause there are also sales and stuff, bookstores will be bustling this weekend!","",""
+"\Eほー","","\EHo","",""
+"\E（コミックマーチャントか…街まで行ってみようかな…？","","\E (Comic merchant, huh... Should I go to the town and check it out...?","",""
+"\E今日は確かコミックマーチャントの日だな。","","\EToday is definitely Comic Merchant's Day.","",""
+"アルバイトに励む","","Devoting oneself to part-time work","",""
+"自主トレ","","Self-training","",""
+"■画像選択肢処理1.44","","","",""
+"1.4.0/base_bottan.png","","","",""
+"\f[20]お出かけする","","\f[20]Going out","",""
+"\f[20]\cself[7]","","\f[20]\cself[7]","",""
+"\f[20]\cself[5]","","\f[20]\cself[5]","",""
+"\f[20]\cself[6]","","\f[20]\cself[6]","",""
+"\f[20]のんびりする","","\f[20]Take it easy.","",""
+"1.4.0/SD_menu_008.png","","","",""
+"\E妹とお出かけします。","","\EI'm going out with my little sister.","",""
+"SE/ok01.mp3","","","",""
+"処理1","","","",""
+"SE/cancel1.mp3","","","",""
+"<SQUARE>","","","",""
+"1.4.0/SD_menu_005.png","","","",""
+"\E\E自主トレーニングを行い\c[2]各能力\c[0]を鍛えます。","","\E\EI will conduct independent training to \c[2]strengthen each ability\c[0].","",""
+"処理2","","","",""
+"1.4.0/SD_menu_011.png","","","",""
+"\E溜まった家事をして\c[2]パンツ\c[0]を発見します。","","\EI do the accumulated housework and\c[2]find\c[0]my pants.","",""
+"処理3","","","",""
+"1.4.0/SD_menu_009.png","","","",""
+"\Eアルバイトで\c[2]お金\c[0]を稼ぎます。","","\EI earn money\c[2]by working part-time.\c[0]","",""
+"処理4","","","",""
+"1.4.0/SD_menu_012.png","","","",""
+"\Eのんびりと身体を休め\c[2]行動力\c[0]を回復します。","","\ERest your body leisurely and\c[2]restore your action power\c[0].","",""
+"処理5","","","",""
+"お出かけする","","Going out.","",""
+"\cself[7]","","\cself[7]","",""
+"\cself[5]","","\cself[5]","",""
+"\cself[6]","","\cself[6]","",""
+"のんびりする","","Take it easy.","",""
+"\Eせっかくの休みだし出かけようかな？","","\EShould I go out since it's a rare day off?","",""
+"\Eねーねー、どこいくの？","","\EHey, hey, where are we going?","",""
+"\Eさて、どうしよう。","","\ENow, what should I do?","",""
+"診療所","","Clinic","",""
+"\f[20]街へ繰り出す　　\f[12] 100G","","\f[20]Heading out to the streets\f[12] 100G","",""
+"\f[20]泳ぎに行くぞ！　\f[12] 500G","","\f[20]Let's go swimming! \f[12] 500G","",""
+"大冒険だ！","","It's a great adventure!","",""
+"超大冒険だ！","","It's a super big adventure!","",""
+"討伐にいくぞ！","","Let's go on a hunt!","",""
+"海に行くぞ！　  \f[12]1000G","","Let's go to the sea! \f[12]1000G","",""
+"※温泉イベント予定地　温泉イベクリア後に表示する","","","",""
+"\f[20]温泉に行こう！  \f[12]1500G","","\f[20]Let's go to the hot springs!  \f[12]1500G","",""
+"村を散策する","","Exploring the village","",""
+"\cself[8]","","\cself[8]","",""
+"\f[20]\s[7]","","\f[20]\s[7]","",""
+"\cself[9]","","\cself[9]","",""
+"\f[20]\s[4]","","\f[20]\s[4]","",""
+"\f[20]\s[5]","","\f[20]\s[5]","",""
+"\f[20]\s[6]","","\f[20]\s[6]","",""
+"診療所の処理です","","","",""
+"\E身体早く治さないとだもんね…。
+だいじょうぶ？一人で行ける？","","\EI need to heal my body quickly...
+Are you okay? Can you go alone?","",""
+"\Eどこか悪いの…？
+だいじょうぶ？お兄ちゃん。","","\EIs something wrong...? 
+Are you okay, big brother?","",""
+"\E診療所に身体の治療に行くのか？","","\EAre you going to the clinic for physical treatment?","",""
+"はい","","Yes","",""
+"いいえ","","No","",""
+"\E…ちょっと疲れたな。","","\E...I'm a little tired.","",""
+"\E妹と散歩でもするか。","","\EShall we go for a walk with my little sister?","",""
+"\E天気もいいし気分転換にその辺でも歩こうか。","","\EThe weather is nice, so let's take a walk around here for a change of pace.","",""
+"\Eうん。","","\EYeah.","",""
+"1.4.0/v144_cg2_2.jpg","","","",""
+"\Eおにーちゃん、はやくー！","","\EBig brother, hurry up!","",""
+"\Eただいまー。
+今度お弁当もってお散歩したいね！","","\EI'm back.
+Next time, I want to take a walk with a bento box!","",""
+"\Eふぅ…いい気分転換になった気がする。","","\EPhew... I feel like it was a good change of pace.","",""
+"\Eやる気が上がった！","","\EI'm feeling motivated!","",""
+"\E遊びに行くほどお金の余裕はないな…。","","\EI don't have enough money to go out and play...","",""
+"\E今日は街まで行こうか。","","\EShall we go to the town today?","",""
+"\Eわあい、おにいちゃんとお出かけだー！","","\EYay, it's time to go out with big brother!","",""
+"1.4.0/v144_cg3_2.jpg","","","",""
+"\Eただいまー！
+お出かけ楽しかったー、またいこうね！","","\EI'm back! 
+I had a great time going out, let's go again!","",""
+"\Eふう…買い忘れはないよな…？","","\EPhew... I didn't forget to buy anything, right...?","",""
+"泳ぎ","","","",""
+"\Eよーし今日は泳ぎに行こうか！","","\EAlright, shall we go swimming today?","",""
+"\Eえ、ええー？泳ぐの！？
+み、水着出さなきゃ…！","","\EEh, eh? Swimming!? 
+I-I have to get my swimsuit...!","",""
+"cg/bg_25_road_a.jpg","","","",""
+"cg/bg_13_road_a.jpg","","","",""
+"cg/bg_26_sea_a.jpg","","","",""
+"\Eおにーちゃーーん！","","\EOnii-chan!","",""
+"\E…なんでスク水？","","\E...Why a school swimsuit?","",""
+"　えっちしたい！　","","　I want to have sex!","",""
+"　川で遊ぶ！　","","　Playing in the river!","",""
+"お外エッチ","","","",""
+"事前会話","","","",""
+"\Eえ…ここで…するの……？","","\EEh... doing it here...?","",""
+"\E……。","","\E... .","",""
+"\Eお兄ちゃんがそんなにしたいなら…
+…いい…けど……。","","\EIf you really want to, big brother... 
+...fine... but...","",""
+"1.4.0/v144_cg8_1.jpg","","","",""
+"\Eえっと…これでいい、かな？
+大丈夫かな…向こうから見えないよね…？","","\EUm... Is this okay, I wonder? 
+I hope it's alright... They can't see it from the other side, right...?","",""
+"1.4.0/v144_cg8_2.jpg","","","",""
+"\Eあ……えっと…や、優しくしてね…。","","\EAh... um... p-please be gentle...","",""
+"外だし","","","",""
+"1.4.0/v144_cg8_3.jpg","","","",""
+"\E…………あっ♥","","\E...Ah♥","",""
+"\Eもう…そんなにおっきくして…我慢できなかったの？
+…ふふ、仕方のないお兄ちゃん…。","","\EAlready... did it grow that much... couldn't you hold back? 
+...hehe, it can't be helped, big brother...","",""
+"\E妹の水着姿を見たらしたくなっちゃったんだもんね…。
+だったら…いいよ…気持ちいいこと、しよ♥","","\EWhen I saw my sister in a swimsuit, I couldn't help but want to...
+So...let's do something pleasurable ♥","",""
+"1.4.0/v144_cg8_4.jpg","","","",""
+"\Eあっ…♥
+お兄ちゃんのが挿入って……。","","\EAh...♥
+It's your insertion, big brother...","",""
+"お兄ちゃんの行動","","","",""
+"　中に出したい…　","","　I want to go inside...","",""
+"　ぶっかけたい…　","","　I want to bukkake...","",""
+"ルート処理","","","",""
+"\E（今日は絶対に中に出すぞ…。","","\E""I'm definitely going inside today...""","",""
+"1.4.0/v144_cg8_5.jpg","","","",""
+"\E……","","\E……","",""
+"\Eあっ♥おにいちゃっ…っ…だめっ…♥
+はげし…っ…あんっ♥…ぁ…あっ…あーっ！","","\EAh♥ Big brother... no...♥
+Intense... ah♥... ah... ah!","",""
+"\Eあ、お兄ちゃん…んん…あっ…きもちいいっ♥
+…あたし…イっちゃう……っ！お外でイッちゃう…っ…！","","\EAh, big brother... mmm... ah... it feels so good♥
+... I'm going to cum... outside...!","",""
+"1.4.0/v144_cg8_6.jpg","","","",""
+"\Eお兄ちゃん♥あっ♥あっ♥あっ…あーーーっ！！
+イくっイクっ……っ…あ、イクイクイク…イッ………グッ……ぅ…っ♥","","\EBig brother ♥ Ah ♥ Ah ♥ Ah... Ahhhhh!!
+I'm coming, I'm coming... Ah, I'm coming, I'm coming, I'm coming... I'm... Gooood... Ahh ♥","",""
+"1.4.0/v144_cg8_7.jpg","","","",""
+"\Eうっ…！","","\EUgh...!","",""
+"\Eあ…お兄ちゃん…中で…出してる……っ…あ、ぁ……。
+あぁ…きもちぃっ……ぁ…ん……あっ…。","","\EAh... Onii-chan... Inside... You're... releasing... ah... ahh...
+Ahh... It feels good... ah... ngh... ah...","",""
+"1.4.0/v144_cg8_8.jpg","","","",""
+"\E…………","","\E…………","",""
+"\Eお兄ちゃん…中で出してくれたんだね…
+えへへ…嬉しい……ありがと…。","","\EBig brother... You came inside, didn't you...
+Ehehe... I'm happy... Thank you...","",""
+"\E（今日は妹のお尻にぶっかけたい…。","","\EI want to cum on my sister's butt today...","",""
+"\E出るっ！","","\EHere I come!","",""
+"1.4.0/v144_cg8_9.jpg","","","",""
+"\Eあっ…あったかい…お兄ちゃんの…精子……。
+びゅくびゅくってお尻に…ん……っ……ん……。","","\EAh... It's warm... Onii-chan's... semen...
+Squirting into my butt... Mmm... Ah...","",""
+"1.4.0/v144_cg8_10.jpg","","","",""
+"\Eお兄ちゃん…ちゃんと外で出してくれたんだね…
+優しくしてくれてありがとう…えへへ、大好き。","","\EBig brother... You let me go outside properly, didn't you...
+Thank you for being kind to me... Ehehe, I love you.","",""
+"事後会話","","","",""
+"\Eもう…せっかくここまで泳ぎに来たのに…
+…気持ちよかったから…いいけど…♥","","\EI came all the way here to swim... 
+...and it feels so good...♥","",""
+"\Eお兄ちゃんのケダモノ♥","","\EMy Brother's Beast♥","",""
+"青姦終わり","","","",""
+"やんわりお断り","","","",""
+"\Eもう…気持ちはわかるけど…
+お家に帰ってからね…お兄ちゃん♥","","\EI understand how you feel...
+But let's talk about it when we get home, big brother ♥","",""
+"普通にお断り","","","",""
+"\Eもうっ…なに言ってるのお兄ちゃん！
+そんなこと出来るわけ無いでしょ！","","\EUgh... What are you saying, big brother?!
+There's no way I can do something like that!","",""
+"通常処理へ","","","",""
+"cg/event46_01.jpg","","","",""
+"cg/bg_05_river_a.jpg","","","",""
+"\Eただいまー！","","\EI'm back!","",""
+"\Eお兄ちゃん！
+楽しかったね！またいこうね！","","\EBig brother! 
+It was fun, right? Let's go again!","",""
+"\Eふう…楽しんでくれたみたいだぞ。","","\EPhew... It seems like you enjoyed it.","",""
+"海","","","",""
+"\Eよし！みんなを誘って海に行くぞ！","","\EAlright! Let's invite everyone and go to the beach!","",""
+"\Eえっ！う、海に！？
+じゅ、準備するね…！","","\EWhat! I, to the sea!?
+I-I'll get ready...!","",""
+"cg/bg_17_main.jpg","","","",""
+"cg/bg_26_sea_b.jpg","","","",""
+"SE/se_umi.mp3","","","",""
+"\Eわー海だー！","","\EWow, it's the ocean!","",""
+"\E……きゃーっ！","","\E...Kyaa!","",""
+"\Eふぅ…楽しんでいるみたいだな。","","\EPhew... It looks like you're having fun.","",""
+"cg/event44_02.jpg","","","",""
+"cg/event44_01.jpg","","","",""
+"\Eただいまー…ふわ…。
+…えへ、ちょっと疲れちゃったね。","","\EI'm back... Huh...
+Hehe, I'm a little tired.","",""
+"\Eでも楽しかったー。
+ありがとうお兄ちゃん、また行こうね。","","\EBut it was fun. 
+Thank you, big brother. Let's go again.","",""
+"\E休日を満喫したぞ…。","","\EI thoroughly enjoyed my day off...","",""
+"汎用温泉イベント","","","",""
+"\E温泉に行くほどお金の余裕はないな…。","","\EI don't have enough money to go to a hot spring...","",""
+"\Eよし！今日はみんなで温泉に行こうか！","","\EAlright! Shall we all go to the hot springs today?","",""
+"\Eえっ！温泉！？
+わかった…準備するね…！","","\EWhat! A hot spring!?
+Alright... I'll get ready...!","",""
+"cg/bg_01_home_d.jpg","","","",""
+"\Eただいま！お兄ちゃん！","","\EI'm home! Big brother!","",""
+"\Eいつか一緒にもっと遠くまで行けたらいいな…。
+今日はありがとうお兄ちゃん。","","\EI hope we can go even further together someday...
+Thank you for today, big brother.","",""
+"\E温泉を満喫してしまったぞ。","","\EI fully enjoyed the hot springs.","",""
+"\Eやったー！だいぼうけんだ！","","\EYay! It's a great adventure!","",""
+"\E大冒険に出発しますか？","","\EAre you ready to embark on a great adventure?","",""
+"\E…よし。","","\E...Alright.","",""
+"\Eお兄ちゃん！今日はありがとう！
+また大冒険しようね！","","\EBig brother! Thank you for today! 
+Let's go on another great adventure!","",""
+"\Eやめちゃうの…？","","\EAre you quitting...?","",""
+"\E怪我が完治するまでは討伐どころじゃないな…。","","\EUntil my injury is fully healed, I'm in no condition to go on a hunt...","",""
+"討伐","","","",""
+"\Eユカリさんが依頼があるっていってたな…。","","\EYukari said she has a request...","",""
+"\E依頼があったな…。","","\EI received a request...","",""
+"\Eギルドまでいくのか？","","\EAre you going to the guild?","",""
+"\Eお兄ちゃん今日はお仕事なの？","","\EAre you working today, big brother?","",""
+"\E気をつけてね、お兄ちゃん。","","\EBe careful, big brother.","",""
+"\E…よし、そろそろ出るか。","","\E...Alright, I should be heading out soon.","",""
+"cg/bg_07_guild_a.jpg","","","",""
+"初回会話","","","",""
+"ユカリ","","Yukari","",""
+"\Eあら、お兄ちゃん。","","\EOh, big brother.","",""
+"\E依頼があるって聞いたんですけど…。","","\EI heard there was a request...","",""
+"\Eそうねー、色々と厄介なのが揃っているわよー。","","\EWell, there are various troublesome things gathered together, you know.","",""
+"\Eはい、今ある依頼はこのくらいね。","","\EYes, we currently have about this many requests.","",""
+"依頼トップ","","","",""
+"\Eお疲れさま、お兄ちゃん。","","\EGood job, big brother.","",""
+"イカ大王","","Squid King","",""
+"サイコマッチョ","","Psycho Macho","",""
+"メンヘラちゃん","","Mental illness girl","",""
+"サイレントキラー","","Silent Killer","",""
+"アザラ勇者","","Azara Hero","",""
+"今日はやめておく","","I'll refrain from doing it today.","",""
+"\Eイカ大王はもう討伐されてるわね。","","\EThe Great Squid King has already been defeated, hasn't it?","",""
+"ミッション説明","","","",""
+"\E近くの漁村でイカ大王による被害報告が相次いでいるらしいわ。","","\EIt seems that there have been multiple reports of damage caused by the Giant Squid King in the nearby fishing village.","",""
+"\E触手を使った連続攻撃と、
+スミでの目くらましには気をつけてね。","","\EBe careful of the continuous attacks using tentacles and the blinding with smoke.
+","",""
+"引き継ぎチェックなど","","","",""
+"\Eイカ大王の討伐でいい？","","\EIs it okay to defeat the Great Squid King?","",""
+"\Eはーい、みんながんばってね。","","\EAlright, everyone, do your best.","",""
+"\Eよく考えてみてね。","","\EThink about it carefully, okay?","",""
+"\Eイカ大王の討伐の続きからでいい？","","\EIs it okay to continue from the defeat of the Great Squid King?","",""
+"\Eやめるのね。","","\ESo you're quitting, huh.","",""
+"\E前の依頼がまだ途中だけどいいの？","","\EIs it okay even though the previous request is still in progress?","",""
+"\Eわかったわ。
+じゃあ前のはキャンセルしてこっちを受けるわね。","","\EI got it.
+Then, I'll cancel the previous one and accept this one.","",""
+"\Eじゃあ、みんながんばってね。","","\EWell then, everyone, do your best.","",""
+"\Eサイコマッチョはもう討伐されてるわね。","","\EPsycho Macho has already been defeated, hasn't he?","",""
+"\E街の方でサイコマッチョが現れたらしいわ。
+それで腕の立つマッチョもだいぶやられているみたいなの。","","\EIt seems that a psycho macho has appeared in the town.
+And it seems that even skilled machos have been beaten up quite a bit.","",""
+"\E鍛え上げられた肉体から放たれる一撃がかなり厄介そうね。
+やばいと思ったら防御に徹したほうがいいかも知れないわ。","","\EThe blow unleashed from a well-trained body seems quite troublesome.
+If you think it's dangerous, it might be better to focus on defense.","",""
+"\Eサイコマッチョの討伐でいい？","","\EIs it okay to defeat the Psycho Macho?","",""
+"\Eサイコマッチョの討伐の続きからでいい？","","\EIs it okay to continue from the defeat of Psycho Macho?","",""
+"\Eメンヘラちゃんは今はおとなしいみたいね。","","\EIt seems like Menhera-chan is quiet now.","",""
+"\E大変よ、メンヘラちゃんが情緒不安定になったわ。","","\EIt's tough, Menhera-chan has become emotionally unstable.","",""
+"\E理屈の通じない厄介な相手よ。
+追い詰めすぎると捨て身になるから穏便に事を済ませてちょうだい。","","\EAn annoying opponent who doesn't listen to reason.
+If you corner them too much, they'll resort to desperate measures, so please resolve things peacefully.","",""
+"\Eメンヘラちゃんの対応でいい？","","\EIs it okay to handle Menhera-chan?","",""
+"\Eメンヘラちゃん対応の続きからでいい？","","\EIs it okay to continue from the part where we dealt with the ""mentally unstable"" girl?","",""
+"\Eサイレントキラーはもう討伐されてるわね。","","\EThe Silent Killer has already been defeated, hasn't it?","",""
+"\E今年もサイレントキラー収穫の時期がやってきたわよー。","","\EIt's that time of year again for the Silent Killer Harvest.","",""
+"\Eサイレントキラーは破裂される前に勝負をつける必要があるわ。
+火力勝負で一気に押し込みましょ。","","\EYou need to settle the match before the Silent Killer explodes.
+Let's push through with a firepower battle.","",""
+"\Eサイレントキラーの討伐でいい？","","\EIs it okay to defeat the Silent Killer?","",""
+"\Eサイレントキラーの討伐の続きからでいい？","","\ECan we continue from where we left off with the Silent Killer's subjugation?","",""
+"\Eアザラ勇者はもう討伐されてるわね。","","\ESo the Azara Hero has already been defeated, huh?","",""
+"\E大変よ、アザラシの勇者一行が現れたわ。","","\EIt's serious, a group of seal heroes has appeared.","",""
+"\E勇者の名に相応しい実力を持った災害級の強敵よ。
+十分に備えて挑んでちょうだい。","","\EYou are a disaster-level formidable enemy worthy of the title of hero.
+Please come prepared and face me.","",""
+"\Eアザラ勇者の討伐でいい？","","\EIs it okay to defeat the Azara Hero?","",""
+"\Eアザラ勇者の討伐の続きからでいい？","","\EIs it okay to continue from the defeat of the Azara Hero?","",""
+"\Eあら、今日はやめておくの？","","\EOh, should we skip today?","",""
+"依頼キャンセル","","","",""
+"\Eただいまー。","","\EI'm back.","",""
+"\Eおかえり！お兄ちゃん！
+おつかれさま。","","\EWelcome back, big brother!
+Good job.","",""
+"\Eあ、あれ？
+お兄ちゃん今日は早いんだね。","","\EAh, huh? 
+Big brother, you're early today.","",""
+"超大冒険","","","",""
+"\Eやったー！久々のだいぼうけんだ！","","\EYay! It's been a while since our last big adventure!","",""
+"\Eお出かけやめちゃうの…？","","\EAre you giving up on going out...?","",""
+"\E怪我が完治するまでは鍛錬どころじゃないな…。","","\EI can't afford to train until my injury is fully healed...","",""
+"\E…疲れたし少し休もうぜ。","","\E...I'm tired, so let's take a short break.","",""
+"\Eそうだな、日頃から鍛えておかないと。","","\EYeah, you gotta train regularly.","",""
+"\Eさて…","","\EWell...","",""
+"筋トレ","","Muscle training","",""
+"素振り","","Practice swings","",""
+"走り込み","","Running practice","",""
+"勉強","","Study","",""
+"\Eちょっと休みたいな…。","","\EI want to take a little break...","",""
+"\E休日こそ家事をしないとな。","","\EOn holidays, I must not do household chores.","",""
+"\Eよーし、たまった洗濯物を一気に片付けるぞ！","","\EAlright, let's quickly tidy up all the accumulated laundry!","",""
+"\Eうん！","","\EYeah!","",""
+"cg/bg_15_bus_b.jpg","","","",""
+"\E…ふう。","","\E...Phew.","",""
+"\Eすっきり気持ちがいいねー、お兄ちゃんー。","","\EIt feels refreshing, big brother.","",""
+"\Eうむ、だいぶ溜まってたからな！","","\EHmm, it's been piling up for a while!","",""
+"アルバイト","","","",""
+"\Eちょっと疲れたな…。
+少し休まないか？","","\EI'm a little tired...
+Shall we take a short break?","",""
+"\E怪我が完治するまではバイトどころじゃないな…。","","\EI can't afford to work part-time until my injury is fully healed...","",""
+"\E…今日は農場の手伝いにいくのか？","","\E...Are you going to help out at the farm today?","",""
+"\Eがんばってね、お兄ちゃん。","","\EHang in there, big brother.","",""
+"\E…よし、そろそろ行くか。","","\E...Alright, it's about time to go.","",""
+"\Eまだもう少し寝ようかな…。","","\EMaybe I'll sleep a little longer...","",""
+"\Eのんびりと過ごしたぞ。","","\EI spent a relaxing time.","",""
+"\E家で妹とのんびりするか。","","\EDo you want to relax at home with your sister?","",""
+"\Eうん。
+あたしお茶入れてくるね。","","\EYeah. 
+I'll go make some tea.","",""
+"\E疲れたし少し休むか…。","","\EI'm tired, so I'll take a short break...","",""
+"休日専用の処理を入れてもいいか？？","","","",""
+"ここに温泉選択肢を入れる","","","",""
+"カスミ","","Kasumi","",""
+"\Eふぁぁ…。","","\EUgh...","",""
+"\Eあ、カスミちゃんあくび。","","\EAh, Kasumi-chan yawned.","",""
+"\Eご、ごめんなさい。","","\EI-I'm sorry.","",""
+"1.4.0/bg_36_ryokan7.jpg","","","",""
+"\E…あら、いつの間にかもういい時間ね。
+そろそろ明日に備えて休みましょうか。","","\EOh, it's already a good time, isn't it?
+Shall we take a rest soon to prepare for tomorrow?","",""
+"カナ","","Kana","",""
+"\Eえー、もー寝るのー。","","\EUm, I'm going to bed now.","",""
+"\Eあら？夜更かしは美容の大敵なのよー。","","\EOh? Staying up late is the enemy of beauty, you know.","",""
+"\Eん…あたしも寝る。","","\EHmm... I'll go to sleep too.","",""
+"\Eふふ…じゃあみんな寝る準備しましょ。","","\EHehe... Well then, let's all get ready for bed.","",""
+"みんな","","Everyone","",""
+"\E「「はーい。」」","","\E""Yes.""","",""
+"1.4.0/bg_36_ryokan8.jpg","","","",""
+"\Eお兄ちゃんの寝るお部屋は別に
+用意してくれたみたいだからそっちでね。","","\EIt seems like they prepared a separate room for my big brother to sleep in, so go over there. 
+","",""
+"\Eあ、はい。","","\EAh, yes.","",""
+"自室に行く","","Go to my room.","",""
+"\Eさて、これからどうしようか…。","","\ENow, what should I do...?","",""
+"妹と話す","","Talking to my little sister.","",""
+"カナと話す","","Talking to Kana","",""
+"ユイと話す","","Talking to Yui","",""
+"カスミと話す","","Talking to Kasumi","",""
+"ユカリさんと話す","","Talking to Yukari-san","",""
+"1.4.0/bg_36_ryokan4.jpg","","","",""
+"\Eお兄ちゃん、今日はお疲れさま。","","\EBrother, thank you for your hard work today.","",""
+"\Eあんな大勢のお猿さんに
+追いかけられるとは思わなかったよ…。","","\EI never thought I would be chased by so many monkeys like that...
+.","",""
+"\Eうむ、お猿さんと一緒に入浴とか
+そういうレベルの話じゃなかったな。","","\EHmm, it wasn't a story about taking a bath with a monkey
+at that level.","",""
+"\Eあはは、そだね…。","","\EAhaha, yeah...","",""
+"\Eでも普段あんな感じにお仕事してるんだね、すごいなぁ。","","\EBut you work like that on a regular basis, that's amazing.","",""
+"\Eカスミちゃんもみんなに指示を出したりして…
+できる女？って感じ？","","\EKasumi-chan also gives instructions to everyone... 
+Is she capable? That kind of feeling?","",""
+"\Eややや、やめて下さい…っ！","","\ENo, please stop...!","",""
+"\Eえへー、ごめんー。
+学校と違うカスミちゃんもカッコよかったなー。","","\EEheh, sorry.
+Kasumi-chan, who is different from school, was cool too.","",""
+"\Eうぅ…。","","\EUgh...","",""
+"\E…あたしもマスターみたいなかっこいい感じになりたいな。","","\E...I also want to become cool like a master.","",""
+"1.4.0/bg_36_ryokan5.jpg","","","",""
+"\E入りたいよねー。","","\EI want to go in, don't you?","",""
+"\Eん？","","\EHuh?","",""
+"\E温泉、せっかくここまで来たんだし。","","\EHot springs, since we've come all this way.","",""
+"\Eそれはまあ。","","\EWell, that's just how it is.","",""
+"\E広いお風呂に浸かって皆とおしゃべりしたり…
+あ、でも別にお兄ちゃんは一緒に入るってわけじゃないかー。","","\ESoaking in a spacious bath and chatting with everyone...
+Oh, but it's not like I'm going in with my brother or anything.","",""
+"\Eえっ、お兄ちゃんまさか一緒に入るつもりで…！？","","\EHuh, big brother, you don't mean to enter together...!?","",""
+"\E…………。","","\E………….","",""
+"\Eあはは、ごめんごめん。
+その代わりお兄ちゃんは貸し切り風呂ってことで！","","\EAhaha, sorry sorry.
+In exchange, I'll reserve the private bath for you, big brother!","",""
+"\Eあ、一応言っとくけど覗いたら桶投げるからね。","","\EOh, just so you know, if you peek, I'll throw a bucket at you.","",""
+"\Eカナ達はまったり雑談してるっぽいな…邪魔しないでおくか。","","\EIt looks like Kana and the others are having a relaxed chat... I guess I'll leave them alone and not disturb them.","",""
+"\Eユイは部屋を探索しているようだぞ。","","\EIt seems like Yui is exploring the room.","",""
+"1.4.0/bg_36_ryokan6.jpg","","","",""
+"ユイ","","","",""
+"\Eあ、お兄ちゃん。
+なんだか休暇どころじゃなくなってしまいましたね…。","","\EAh, big brother.
+It seems like our vacation has become quite busy...","",""
+"\Eだな。","","\EI see.","",""
+"\Eそうだそうだ、見て下さい。
+このお部屋、仕切りが紙で作られているんですよ。","","\EThat's right, please take a look.
+The partitions in this room are made of paper.","",""
+"\Eほら、こっちの引き戸も。","","\ELook, this sliding door over here too.","",""
+"\Eへぇ、ほんとだ。","","\EWow, it's true.","",""
+"\E引き戸でお部屋の広さを調節できるようになってるんですね。
+床も固くも柔らかくもなくて…なんだろ。","","\ESo you can adjust the size of the room with sliding doors, huh?
+The floor isn't hard or soft... I wonder what it is.","",""
+"\Eでも…火の扱いには気をつけたほうが良さそう…？","","\EBut... it seems like it would be better to be careful with handling fire...?","",""
+"\Eあ、ごめんなさい。
+なんだか一人で喋っちゃって。","","\EOh, I'm sorry.
+I somehow ended up talking to myself.","",""
+"\Eこういった場所には普段来ることがないから
+わたしなんだかちょっとワクワクします。","","\EI don't usually come to places like this, so 
+I'm feeling a little excited for some reason.","",""
+"\Eユイはキョロキョロと部屋を探索しているようだ…。","","\EIt seems like Yui is searching the room, looking around nervously...","",""
+"\Eそうだカスミちゃん。
+罠ってどんな罠を用意するんだ？","","\EHey Kasumi-chan.
+What kind of trap are you preparing?","",""
+"\Eさっき言われて床下の土を掘ったりしたけど…","","\EI was just told to dig under the floor...","",""
+"\Eえと…その土はまた後で使います。
+いずれ必要な材料、くらいに思っておいて下さい。","","\EUm... We will use that soil later.
+Please think of it as a necessary material for the future.","",""
+"\E…今回は分断と足止めさえできちゃえば
+作戦は成功ですので…単純なものです。","","\E...If we can just divide and immobilize them, 
+the mission will be a success... It's a simple plan.","",""
+"\E…こういった作戦の場合キルゾーンまで引き付けてからの
+一網打尽が理想なんですけど…時間が足りないので。","","\E... In the case of this kind of strategy, it would be ideal to lure them to the kill zone and then 
+wipe them all out in one fell swoop... but we don't have enough time.","",""
+"\E逆に時間さえあれば一網打尽にできるってことか…。","","\ESo, if we have enough time, we can completely wipe them out in one fell swoop...","",""
+"\Eはい、なので今は一旦追い払う事ができれば…です。","","\EYes, so for now if we can just drive them away...","",""
+"\E今は…なるほど…。","","\ENow... I see...","",""
+"\Eよ、用意する時間があれば一網打尽も…できます…。","","\EHey, if you have time to prepare, you can also do a clean sweep...","",""
+"\Eお疲れさまです。","","\EThank you for your hard work.","",""
+"\Eおつかれさま、お兄ちゃん。","","\EGood job, big brother.","",""
+"\Eそういえばチームを二つに別けるって話ですけど…。","","\EBy the way, there's talk of splitting the team into two...","",""
+"\Eああ、引き付け役は私とカナちゃんで引き受けるわ。
+お兄ちゃんは猿のリーダーをお願いね。","","\EAh, Kanachan and I will take on the role of attracting.
+Onii-chan, please be the leader of the monkeys.","",""
+"\Eえ、マスターも出るんですか？","","\EWait, Master is going out too?","",""
+"\E今回はこういう状況で現場で一緒に行動しているんだもの、
+お部屋で留守番って訳にもやっぱりいかないでしょ。","","\ESince we are working together in this situation, 
+it's not possible for me to stay home alone.","",""
+"\Eだ、大丈夫なんですか？\f[10]腰とか。","","\EAre you, are you okay? \f[10]Your back and all.","",""
+"\E…あらー？お兄ちゃん？
+腰ってどういうことかしら？","","\E...Oh? Big brother? 
+What do you mean by ""hips""?","",""
+"\Eあ、いえ。
+単純に…えーと、心配して…","","\EAh, no.
+Simply... um, just worried...","",""
+"\Eふぅん…その件についてはこっちでじっくりと
+時間を掛けて話し合いしましょうか、ね。","","\EHmm... Shall we take our time to discuss 
+that matter thoroughly on our end?","",""
+"\Eお兄ちゃんはユイちゃんカスミちゃんと猿のリーダーをお願いね。","","\EBrother, please take care of Yui-chan, Kasumi-chan, and the leader of the monkeys.","",""
+"\Eそりゃ寝る部屋は別だよな…いくか。","","\EWell, of course the sleeping room is separate... Shall we go?","",""
+"1.4.0/bg_36_ryokan9.jpg","","","",""
+"\Eお休み、お兄ちゃん。","","\EGoodnight, big brother.","",""
+"\Eおやすみなさい。","","\EGood night.","",""
+"\Eおう、また明日な。","","\EYeah, see you tomorrow.","",""
+"\Eお兄ちゃん一人でかわいそー。","","\EBig brother, you look so lonely.","",""
+"\Eうるせー。","","\EShut up.","",""
+"\Eお兄ちゃんもお疲れさま、また明日よろしくね。","","\EThank you for your hard work, big brother. See you tomorrow.","",""
+"cg/bg_36_ryokan1.jpg","","","",""
+"就寝時の会話など","","","",""
+"\E…なんだか部屋のクオリティに格差がある気がするぞ。","","\E...I feel like there's a difference in quality between the rooms.","",""
+"\Eまあ明日に備えて寝るか…。","","\EWell, I guess I'll go to sleep and prepare for tomorrow...","",""
+"済み行動回数","","","",""
+"お昼の行動回数","","","",""
+"文字列1","","","",""
+"文字列2","","","",""
+"文字列3","","","",""
+"文字列4","","","",""
+"文字列5","","","",""
+"乱数1","","","",""
+"乱数2","","","",""
+"乱数3","","","",""
+"診療所に行った","","","",""
+"家事実行","","","",""
+"コミマ初回","","","",""
+"温泉会話","","","",""
+"妹話した","","","",""
+"カナ話した","","","",""
+"ユイ話した","","","",""
+"カスミ話した","","","",""
+"ユカリ話した","","","",""
+"追加討伐","","","",""
+"右クリック","","","",""
+"選択オン","","","",""
+"左クリック","","","",""
+"マウス座標","","","",""
